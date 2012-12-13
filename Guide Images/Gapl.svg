@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="800"
+   height="533"
+   id="svg3152"
+   version="1.1"
+   inkscape:version="0.48.3.1 r9886"
+   sodipodi:docname="Gapl.svg">
+  <defs
+     id="defs3154" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="1"
+     inkscape:cx="517.85716"
+     inkscape:cy="286.50002"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0"
+     inkscape:window-width="1317"
+     inkscape:window-height="744"
+     inkscape:window-x="49"
+     inkscape:window-y="24"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata3157">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(142.85716,-245.8622)">
+    <image
+       y="245.8622"
+       x="-142.85716"
+       id="image3219"
+       xlink:href="file:///media/01/Gapl.jpg"
+       height="533"
+       width="800" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 80,112 -12,14 -6,6 -5,18 -3,13 1,15 2,17 10,26 8,22 20,20 15,4 10,3 10,3 11,1 17,-1 17,-8 14,-10 11,-12 5,-7 10,-27 3,-14 3,-16 1,-12 -9,-27 -9,-11 -11,-14 c 0,0 -5,2 -11,-4 -6,-6 -22,-10 -22,-10 l -18,-4 -14,-1 -17,0 -9,3 -9,5 -3,3 z"
+       id="area_1"
+       inkscape:connector-curvature="0"
+       transform="translate(-142.85716,245.8622)"
+       inkscape:label="#path3241" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 367,99 -1,10 -14,-1 -21,1 -19,6 -20,14 -9,9 -11,23 -3,28 2,11 6,18 16,20 13,16 12,8 14,7 24,4 14,-2 17,-6 16,-11 20,-29 7,-23 1,-29 -6,-23 -13,-16 -16,-10 -11,-6 -4,-3 -8,-3 3,-9 0,-3 z"
+       id="area_2"
+       inkscape:connector-curvature="0"
+       transform="translate(-142.85716,245.8622)"
+       inkscape:label="#path3243" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 503,112 -28,14 -12,15 -6,31 3,30 10,19 16,20 27,11 24,4 27,-9 20,-13 18,-24 7,-23 0,-25 -6,-21 -11,-13 -18,-12 -8,-6 -11,-2 -14,-2 -22,3 z"
+       id="area_3"
+       inkscape:connector-curvature="0"
+       transform="translate(-142.85716,245.8622)"
+       inkscape:label="#path3245" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 699,109 -30,11 -17,14 -8,10 -5,15 -4,19 0,15 12,21 14,16 29,11 24,2 25,-13 22,-27 10,-30 -9,-34 -18,-18 -20,-9 z"
+       id="area_4"
+       inkscape:connector-curvature="0"
+       transform="translate(-142.85716,245.8622)"
+       inkscape:label="#path3247" />
+    <text
+       xml:space="preserve"
+       style="font-size:48px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       x="181.14284"
+       y="730.86218"
+       id="navigation"
+       sodipodi:linespacing="125%"
+       inkscape:label="#text3257"><tspan
+         sodipodi:role="line"
+         id="tspan3259"
+         x="181.14284"
+         y="730.86218">1 2 3 4</tspan></text>
+  </g>
+</svg>
