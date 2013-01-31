@@ -1,0 +1,1042 @@
+<?xml version='1.0' encoding='utf-8'?>
+<scran24-as-served-sets>
+
+  <!-- bad -->
+
+  <as-served-set id="milk_shake_1" description="Milk shake 1 FIXME">
+    <as-served-image name="Gmlk04" code="AS10"></as-served-image>
+    <as-served-image name="Gmlk01" code="AS7"></as-served-image>
+    <as-served-image name="Gmlk02" code="AS8"></as-served-image>
+    <as-served-image name="Gmlk03" code="AS9"></as-served-image>
+    <leftovers-image name="Gmlk01" code="L1"></leftovers-image>
+    <leftovers-image name="Gmlk02" code="L2"></leftovers-image>
+    <leftovers-image name="Gmlk03" code="L3"></leftovers-image>
+    <leftovers-image name="Gmlk04" code="L4"></leftovers-image>
+  </as-served-set>
+
+  <as-served-set id="milk_shake_2" description="Milk shake 2 FIXME">
+    <as-served-image name="Gmlk03" code="AS10"></as-served-image>
+    <as-served-image name="Gmlk04" code="AS7"></as-served-image>
+    <as-served-image name="Gmlk01" code="AS8"></as-served-image>
+    <as-served-image name="Gmlk02" code="AS9"></as-served-image>
+    <leftovers-image name="Gmlk04" code="L1"></leftovers-image>
+    <leftovers-image name="Gmlk01" code="L2"></leftovers-image>
+    <leftovers-image name="Gmlk02" code="L3"></leftovers-image>
+    <leftovers-image name="Gmlk03" code="L4"></leftovers-image>
+  </as-served-set>
+
+  <as-served-set id="milk_shake_3" description="Milk shake 3 FIXME">
+    <as-served-image name="Gmlk04" code="AS5"></as-served-image>
+    <as-served-image name="Gmlk01" code="AS6"></as-served-image>
+    <as-served-image name="Gmlk02" code="AS7"></as-served-image>
+    <as-served-image name="Gmlk03" code="AS8"></as-served-image>
+    <leftovers-image name="Gmlk04" code="L1"></leftovers-image>
+    <leftovers-image name="Gmlk01" code="L2"></leftovers-image>
+    <leftovers-image name="Gmlk02" code="L3"></leftovers-image>
+    <leftovers-image name="Gmlk03" code="L4"></leftovers-image>
+  </as-served-set>
+
+  <as-served-set id="squash" description="Squash FIXME">
+    <as-served-image name="Gsquash1" code="AS1"></as-served-image>
+    <as-served-image name="Gsquash2" code="AS2"></as-served-image>
+    <as-served-image name="Gsquash3" code="AS3"></as-served-image>
+    <as-served-image name="Gsquash4" code="AS4"></as-served-image>
+    <leftovers-image name="Gsquash1" code="L1"></leftovers-image>
+    <leftovers-image name="Gsquash2" code="L2"></leftovers-image>
+    <leftovers-image name="Gsquash3" code="L3"></leftovers-image>
+    <leftovers-image name="Gsquash4" code="L4"></leftovers-image>
+  </as-served-set>
+
+  <as-served-set id="apple" description="Apple FIXME">
+    <as-served-image name="Gapl" code="AS1"></as-served-image>
+    <leftovers-image name="1008" code="L1"></leftovers-image>
+    <leftovers-image name="1007" code="L2"></leftovers-image>
+    <leftovers-image name="1006" code="L3"></leftovers-image>
+    <leftovers-image name="1005" code="L4"></leftovers-image>
+    <leftovers-image name="1004" code="L5"></leftovers-image>
+    <leftovers-image name="1003" code="L6"></leftovers-image>
+    <leftovers-image name="1002" code="L7"></leftovers-image>
+    <leftovers-image name="1001" code="L8"></leftovers-image>
+  </as-served-set>
+
+  <!-- duplicated -->
+  <as-served-set id="raisins" description="Raisins">
+    <as-served-image name="m403" code="AS1"></as-served-image>
+    <as-served-image name="m405" code="AS2"></as-served-image>
+    <as-served-image name="m407" code="AS3"></as-served-image>
+    <as-served-image name="m410" code="AS4"></as-served-image>
+    <as-served-image name="m413" code="AS5"></as-served-image>
+    <as-served-image name="m416" code="AS6"></as-served-image>
+    <as-served-image name="m420" code="AS7"></as-served-image>
+    <leftovers-image name="m401" code="L1"></leftovers-image>
+    <leftovers-image name="m402" code="L2"></leftovers-image>
+    <leftovers-image name="m403" code="L3"></leftovers-image>
+    <leftovers-image name="m404" code="L4"></leftovers-image>
+    <leftovers-image name="m405" code="L5"></leftovers-image>
+    <leftovers-image name="m406" code="L6"></leftovers-image>
+    <leftovers-image name="m407" code="L7"></leftovers-image>
+  </as-served-set>
+
+  <as-served-set id="raisins_2" description="Raisins FIXME">
+    <as-served-image name="m403" code="AS1"></as-served-image>
+    <as-served-image name="m405" code="AS2"></as-served-image>
+    <as-served-image name="m407" code="AS3"></as-served-image>
+    <as-served-image name="m410" code="AS4"></as-served-image>
+    <as-served-image name="m413" code="AS5"></as-served-image>
+    <as-served-image name="m416" code="AS6"></as-served-image>
+    <as-served-image name="m420" code="AS7"></as-served-image>
+    <leftovers-image name="m401" code="L1"></leftovers-image>
+    <leftovers-image name="m402" code="L2"></leftovers-image>
+  </as-served-set>
+
+  <as-served-set id="fish_batter_2" description="Fish in batter FIXME">
+    <as-served-image name="Gcod01" code="AS1"></as-served-image>
+    <as-served-image name="Gcod02" code="AS2"></as-served-image>
+    <as-served-image name="Gcod03" code="AS3"></as-served-image>
+    <as-served-image name="Gcod04" code="AS4"></as-served-image>
+    <as-served-image name="Gcod05" code="AS5"></as-served-image>
+    <as-served-image name="Gcod06" code="AS6"></as-served-image>
+  </as-served-set>
+
+  <as-served-set id="fish_batter" description="Fish in batter">
+    <as-served-image name="Gcod01" code="AS1"></as-served-image>
+    <as-served-image name="Gcod02" code="AS2"></as-served-image>
+    <as-served-image name="Gcod03" code="AS3"></as-served-image>
+    <as-served-image name="Gcod04" code="AS4"></as-served-image>
+    <as-served-image name="Gcod05" code="AS5"></as-served-image>
+    <as-served-image name="Gcod06" code="AS6"></as-served-image>
+    <as-served-image name="Gcod07" code="AS7"></as-served-image>
+  </as-served-set>
+
+  <!-- /duplicated -->
+
+  <!-- /bad -->
+
+  <!-- good -->
+
+  <as-served-set id="pasta_sauce" description="Pasta with sauce">
+    <as-served-image name="PstSau1" code="AS1"></as-served-image>
+    <as-served-image name="PstSau2" code="AS2"></as-served-image>
+    <as-served-image name="PstSau3" code="AS3"></as-served-image>
+    <as-served-image name="PstSau4" code="AS4"></as-served-image>
+    <as-served-image name="PstSau5" code="AS5"></as-served-image>
+    <as-served-image name="PstSau6" code="AS6"></as-served-image>
+    <as-served-image name="PstSau7" code="AS7"></as-served-image>
+    <leftovers-image name="PstSau8" code="L1"></leftovers-image>
+    <leftovers-image name="PstSau9" code="L2"></leftovers-image>
+    <leftovers-image name="PstSau10" code="L3"></leftovers-image>
+    <leftovers-image name="PstSau11" code="L4"></leftovers-image>
+    <leftovers-image name="PstSau12" code="L5"></leftovers-image>
+    <leftovers-image name="PstSau13" code="L6"></leftovers-image>
+    <leftovers-image name="PstSau14" code="L7"></leftovers-image>
+  </as-served-set>
+  <as-served-set id="milk_on_cereal" description="Milk on cereal">
+    <as-served-image name="141" code="AS1"></as-served-image>
+    <as-served-image name="142" code="AS2"></as-served-image>
+    <as-served-image name="143" code="AS3"></as-served-image>
+    <as-served-image name="144" code="AS4"></as-served-image>
+    <leftovers-image name="181" code="L1"></leftovers-image>
+    <leftovers-image name="182" code="L2"></leftovers-image>
+    <leftovers-image name="183" code="L3"></leftovers-image>
+    <leftovers-image name="184" code="L4"></leftovers-image>
+    <leftovers-image name="185" code="L5"></leftovers-image>
+    <leftovers-image name="186" code="L6"></leftovers-image>
+    <leftovers-image name="187" code="L7"></leftovers-image>
+  </as-served-set>
+  <as-served-set id="sweetcorn" description="Sweetcorn">
+    <as-served-image name="Sweet1" code="AS1"></as-served-image>
+    <as-served-image name="Sweet2" code="AS2"></as-served-image>
+    <as-served-image name="Sweet3" code="AS3"></as-served-image>
+    <as-served-image name="Sweet4" code="AS4"></as-served-image>
+    <as-served-image name="Sweet5" code="AS5"></as-served-image>
+    <as-served-image name="Sweet6" code="AS6"></as-served-image>
+    <as-served-image name="Sweet7" code="AS7"></as-served-image>
+    <leftovers-image name="Sweet8" code="L1"></leftovers-image>
+    <leftovers-image name="Sweet9" code="L2"></leftovers-image>
+    <leftovers-image name="Sweet10" code="L3"></leftovers-image>
+    <leftovers-image name="Sweet11" code="L4"></leftovers-image>
+    <leftovers-image name="Sweet12" code="L5"></leftovers-image>
+    <leftovers-image name="Sweet13" code="L6"></leftovers-image>
+    <leftovers-image name="Sweet14" code="L7"></leftovers-image>
+  </as-served-set>
+  <as-served-set id="canned_fruit" description="Canned fruit">
+    <as-served-image name="CanFt1" code="AS1"></as-served-image>
+    <as-served-image name="CanFt2" code="AS2"></as-served-image>
+    <as-served-image name="CanFt3" code="AS3"></as-served-image>
+    <as-served-image name="CanFt4" code="AS4"></as-served-image>
+    <as-served-image name="CanFt5" code="AS5"></as-served-image>
+    <as-served-image name="CanFt6" code="AS6"></as-served-image>
+    <as-served-image name="CanFt7" code="AS7"></as-served-image>
+    <leftovers-image name="CanFt8" code="L1"></leftovers-image>
+    <leftovers-image name="CanFt9" code="L2"></leftovers-image>
+    <leftovers-image name="CanFt10" code="L3"></leftovers-image>
+    <leftovers-image name="CanFt11" code="L4"></leftovers-image>
+    <leftovers-image name="CanFt12" code="L5"></leftovers-image>
+    <leftovers-image name="CanFt13" code="L6"></leftovers-image>
+    <leftovers-image name="CanFt14" code="L7"></leftovers-image>
+  </as-served-set>
+  <as-served-set id="gateau" description="Gateau">
+    <as-served-image name="m216" code="AS1"></as-served-image>
+    <as-served-image name="m219" code="AS2"></as-served-image>
+    <as-served-image name="m223" code="AS3"></as-served-image>
+    <as-served-image name="m227" code="AS4"></as-served-image>
+    <as-served-image name="m231" code="AS5"></as-served-image>
+    <as-served-image name="m235" code="AS6"></as-served-image>
+    <as-served-image name="m237" code="AS7"></as-served-image>
+    <leftovers-image name="m201" code="L1"></leftovers-image>
+    <leftovers-image name="m202" code="L2"></leftovers-image>
+    <leftovers-image name="m204" code="L3"></leftovers-image>
+    <leftovers-image name="m206" code="L4"></leftovers-image>
+    <leftovers-image name="m208" code="L5"></leftovers-image>
+    <leftovers-image name="m210" code="L6"></leftovers-image>
+    <leftovers-image name="m213" code="L7"></leftovers-image>
+  </as-served-set>
+  <as-served-set id="mix_veg_boiled" description="Mixed vegetables, boiled">
+    <as-served-image name="m118" code="AS1"></as-served-image>
+    <as-served-image name="m121" code="AS2"></as-served-image>
+    <as-served-image name="m123" code="AS3"></as-served-image>
+    <as-served-image name="m125" code="AS4"></as-served-image>
+    <as-served-image name="m128" code="AS5"></as-served-image>
+    <as-served-image name="m132" code="AS6"></as-served-image>
+    <as-served-image name="m134" code="AS7"></as-served-image>
+    <leftovers-image name="m101" code="L1"></leftovers-image>
+    <leftovers-image name="m102" code="L2"></leftovers-image>
+    <leftovers-image name="m104" code="L3"></leftovers-image>
+    <leftovers-image name="m106" code="L4"></leftovers-image>
+    <leftovers-image name="m109" code="L5"></leftovers-image>
+    <leftovers-image name="m112" code="L6"></leftovers-image>
+    <leftovers-image name="m116" code="L7"></leftovers-image>
+  </as-served-set>
+  <as-served-set id="canned_fish" description="Canned fish">
+    <as-served-image name="Oily1" code="AS1"></as-served-image>
+    <as-served-image name="Oily2" code="AS2"></as-served-image>
+    <as-served-image name="Oily3" code="AS3"></as-served-image>
+    <as-served-image name="Oily4" code="AS4"></as-served-image>
+    <as-served-image name="Oily5" code="AS5"></as-served-image>
+    <as-served-image name="Oily6" code="AS6"></as-served-image>
+    <as-served-image name="Oily7" code="AS7"></as-served-image>
+    <leftovers-image name="Oily8" code="L1"></leftovers-image>
+    <leftovers-image name="Oily9" code="L2"></leftovers-image>
+    <leftovers-image name="Oily10" code="L3"></leftovers-image>
+    <leftovers-image name="Oily11" code="L4"></leftovers-image>
+    <leftovers-image name="Oily12" code="L5"></leftovers-image>
+    <leftovers-image name="Oily13" code="L6"></leftovers-image>
+    <leftovers-image name="Oily14" code="L7"></leftovers-image>
+  </as-served-set>
+  <as-served-set id="chips" description="Chips, fried">
+    <as-served-image name="226" code="AS1"></as-served-image>
+    <as-served-image name="230" code="AS2"></as-served-image>
+    <as-served-image name="234" code="AS3"></as-served-image>
+    <as-served-image name="238" code="AS4"></as-served-image>
+    <as-served-image name="241" code="AS5"></as-served-image>
+    <as-served-image name="245" code="AS6"></as-served-image>
+    <as-served-image name="247" code="AS7"></as-served-image>
+    <leftovers-image name="201" code="L1"></leftovers-image>
+    <leftovers-image name="202" code="L2"></leftovers-image>
+    <leftovers-image name="205" code="L3"></leftovers-image>
+    <leftovers-image name="209" code="L4"></leftovers-image>
+    <leftovers-image name="214" code="L5"></leftovers-image>
+    <leftovers-image name="217" code="L6"></leftovers-image>
+    <leftovers-image name="221" code="L7"></leftovers-image>
+  </as-served-set>
+  <as-served-set id="macaroni_cheese" description="Macaroni cheese">
+    <as-served-image name="PMacChse1" code="AS1"></as-served-image>
+    <as-served-image name="PMacChse2" code="AS2"></as-served-image>
+    <as-served-image name="PMacChse3" code="AS3"></as-served-image>
+    <as-served-image name="PMacChse4" code="AS4"></as-served-image>
+    <as-served-image name="PMacChse5" code="AS5"></as-served-image>
+    <as-served-image name="PMacChse6" code="AS6"></as-served-image>
+    <as-served-image name="PMacChse7" code="AS7"></as-served-image>
+    <leftovers-image name="PMacChse8" code="L1"></leftovers-image>
+    <leftovers-image name="PMacChse9" code="L2"></leftovers-image>
+    <leftovers-image name="PMacChse10" code="L3"></leftovers-image>
+    <leftovers-image name="PMacChse11" code="L4"></leftovers-image>
+    <leftovers-image name="PMacChse12" code="L5"></leftovers-image>
+    <leftovers-image name="PMacChse13" code="L6"></leftovers-image>
+    <leftovers-image name="PMacChse14" code="L7"></leftovers-image>
+  </as-served-set>
+  <as-served-set id="chicken_sauce" description="Chicken or meat in sauce">
+    <as-served-image name="m319" code="AS1"></as-served-image>
+    <as-served-image name="m323" code="AS2"></as-served-image>
+    <as-served-image name="m328" code="AS3"></as-served-image>
+    <as-served-image name="m332" code="AS4"></as-served-image>
+    <as-served-image name="m336" code="AS5"></as-served-image>
+    <as-served-image name="m340" code="AS6"></as-served-image>
+    <as-served-image name="m342" code="AS7"></as-served-image>
+    <leftovers-image name="m301" code="L1"></leftovers-image>
+    <leftovers-image name="m303" code="L2"></leftovers-image>
+    <leftovers-image name="m305" code="L3"></leftovers-image>
+    <leftovers-image name="m308" code="L4"></leftovers-image>
+    <leftovers-image name="m311" code="L5"></leftovers-image>
+    <leftovers-image name="m315" code="L6"></leftovers-image>
+    <leftovers-image name="m317" code="L7"></leftovers-image>
+  </as-served-set>
+  <as-served-set id="choc_bisc" description="Chocolate biscuits">
+    <as-served-image name="Gcbisc1" code="AS1"></as-served-image>
+    <as-served-image name="Gcbisc2" code="AS2"></as-served-image>
+  </as-served-set>
+  <as-served-set id="hoop_cereals" description="Loop/hoop cereals">
+    <as-served-image name="Hoop1" code="AS1"></as-served-image>
+    <as-served-image name="Hoop2" code="AS2"></as-served-image>
+    <as-served-image name="Hoop3" code="AS3"></as-served-image>
+    <as-served-image name="Hoop4" code="AS4"></as-served-image>
+    <as-served-image name="Hoop5" code="AS5"></as-served-image>
+    <as-served-image name="Hoop6" code="AS6"></as-served-image>
+    <as-served-image name="Hoop7" code="AS7"></as-served-image>
+    <leftovers-image name="Hoop8" code="L1"></leftovers-image>
+    <leftovers-image name="Hoop9" code="L2"></leftovers-image>
+    <leftovers-image name="Hoop10" code="L3"></leftovers-image>
+    <leftovers-image name="Hoop11" code="L4"></leftovers-image>
+    <leftovers-image name="Hoop12" code="L5"></leftovers-image>
+    <leftovers-image name="Hoop13" code="L6"></leftovers-image>
+    <leftovers-image name="Hoop14" code="L7"></leftovers-image>
+  </as-served-set>
+  <as-served-set id="lettuce" description="Lettuce">
+    <as-served-image name="Lett1" code="AS1"></as-served-image>
+    <as-served-image name="Lett2" code="AS2"></as-served-image>
+    <as-served-image name="Lett3" code="AS3"></as-served-image>
+    <as-served-image name="Lett4" code="AS4"></as-served-image>
+    <as-served-image name="Lett5" code="AS5"></as-served-image>
+    <as-served-image name="Lett6" code="AS6"></as-served-image>
+    <as-served-image name="Lett7" code="AS7"></as-served-image>
+    <leftovers-image name="Lett8" code="L1"></leftovers-image>
+    <leftovers-image name="Lett9" code="L2"></leftovers-image>
+    <leftovers-image name="Lett10" code="L3"></leftovers-image>
+    <leftovers-image name="Lett11" code="L4"></leftovers-image>
+    <leftovers-image name="Lett12" code="L5"></leftovers-image>
+  </as-served-set>
+  <as-served-set id="potatoes_boiled" description="Potatoes, boiled">
+    <as-served-image name="OldBo1" code="AS1"></as-served-image>
+    <as-served-image name="OldBo2" code="AS2"></as-served-image>
+    <as-served-image name="OldBo3" code="AS3"></as-served-image>
+    <as-served-image name="OldBo4" code="AS4"></as-served-image>
+    <as-served-image name="OldBo5" code="AS5"></as-served-image>
+    <as-served-image name="OldBo6" code="AS6"></as-served-image>
+    <as-served-image name="OldBo7" code="AS7"></as-served-image>
+    <leftovers-image name="OldBo8" code="L1"></leftovers-image>
+    <leftovers-image name="OldBo9" code="L2"></leftovers-image>
+    <leftovers-image name="OldBo10" code="L3"></leftovers-image>
+    <leftovers-image name="OldBo11" code="L4"></leftovers-image>
+    <leftovers-image name="OldBo12" code="L5"></leftovers-image>
+    <leftovers-image name="OldBo13" code="L6"></leftovers-image>
+    <leftovers-image name="OldBo14" code="L7"></leftovers-image>
+  </as-served-set>
+  <as-served-set id="shreddies" description="Shreddies">
+    <as-served-image name="Shred1" code="AS1"></as-served-image>
+    <as-served-image name="Shred2" code="AS2"></as-served-image>
+    <as-served-image name="Shred3" code="AS3"></as-served-image>
+    <as-served-image name="Shred4" code="AS4"></as-served-image>
+    <as-served-image name="Shred5" code="AS5"></as-served-image>
+    <as-served-image name="Shred6" code="AS6"></as-served-image>
+    <as-served-image name="Shred7" code="AS7"></as-served-image>
+    <leftovers-image name="Shred8" code="L1"></leftovers-image>
+    <leftovers-image name="Shred9" code="L2"></leftovers-image>
+    <leftovers-image name="Shred10" code="L3"></leftovers-image>
+    <leftovers-image name="Shred11" code="L4"></leftovers-image>
+    <leftovers-image name="Shred12" code="L5"></leftovers-image>
+    <leftovers-image name="Shred13" code="L6"></leftovers-image>
+    <leftovers-image name="Shred14" code="L7"></leftovers-image>
+  </as-served-set>
+  <as-served-set id="jelly" description="Jelly">
+    <as-served-image name="Jelly1" code="AS1"></as-served-image>
+    <as-served-image name="Jelly2" code="AS2"></as-served-image>
+    <as-served-image name="Jelly3" code="AS3"></as-served-image>
+    <as-served-image name="Jelly4" code="AS4"></as-served-image>
+    <as-served-image name="Jelly5" code="AS5"></as-served-image>
+    <as-served-image name="Jelly6" code="AS6"></as-served-image>
+    <as-served-image name="Jelly7" code="AS7"></as-served-image>
+    <leftovers-image name="Jelly8" code="L1"></leftovers-image>
+    <leftovers-image name="Jelly9" code="L2"></leftovers-image>
+    <leftovers-image name="Jelly10" code="L3"></leftovers-image>
+    <leftovers-image name="Jelly11" code="L4"></leftovers-image>
+    <leftovers-image name="Jelly12" code="L5"></leftovers-image>
+    <leftovers-image name="Jelly13" code="L6"></leftovers-image>
+    <leftovers-image name="Jelly14" code="L7"></leftovers-image>
+  </as-served-set>
+  <as-served-set id="pasta" description="Pasta, boiled">
+    <as-served-image name="PstBo1" code="AS1"></as-served-image>
+    <as-served-image name="PstBo2" code="AS2"></as-served-image>
+    <as-served-image name="PstBo3" code="AS3"></as-served-image>
+    <as-served-image name="PstBo4" code="AS4"></as-served-image>
+    <as-served-image name="PstBo5" code="AS5"></as-served-image>
+    <as-served-image name="PstBo6" code="AS6"></as-served-image>
+    <as-served-image name="PstBo7" code="AS7"></as-served-image>
+    <leftovers-image name="PstBo8" code="L1"></leftovers-image>
+    <leftovers-image name="PstBo9" code="L2"></leftovers-image>
+    <leftovers-image name="PstBo10" code="L3"></leftovers-image>
+    <leftovers-image name="PstBo11" code="L4"></leftovers-image>
+    <leftovers-image name="PstBo12" code="L5"></leftovers-image>
+    <leftovers-image name="PstBo13" code="L6"></leftovers-image>
+    <leftovers-image name="PstBo14" code="L7"></leftovers-image>
+  </as-served-set>
+  <as-served-set id="potato_jacket" description="Jacket potato">
+    <as-served-image name="Gbkd01" code="AS1"></as-served-image>
+    <as-served-image name="Gbkd02" code="AS2"></as-served-image>
+    <as-served-image name="Gbkd03" code="AS3"></as-served-image>
+    <as-served-image name="Gbkd04" code="AS4"></as-served-image>
+    <as-served-image name="Gbkd05" code="AS5"></as-served-image>
+    <as-served-image name="Gbkd06" code="AS6"></as-served-image>
+    <as-served-image name="Gbkd07" code="AS7"></as-served-image>
+  </as-served-set>
+  <as-served-set id="cheese" description="Cheese">
+    <as-served-image name="507" code="AS1"></as-served-image>
+    <as-served-image name="509" code="AS2"></as-served-image>
+    <as-served-image name="513" code="AS3"></as-served-image>
+    <as-served-image name="517" code="AS4"></as-served-image>
+    <as-served-image name="521" code="AS5"></as-served-image>
+    <as-served-image name="525" code="AS6"></as-served-image>
+    <as-served-image name="528" code="AS7"></as-served-image>
+    <leftovers-image name="501" code="L1"></leftovers-image>
+    <leftovers-image name="502" code="L2"></leftovers-image>
+    <leftovers-image name="503" code="L3"></leftovers-image>
+    <leftovers-image name="504" code="L4"></leftovers-image>
+    <leftovers-image name="505" code="L5"></leftovers-image>
+    <leftovers-image name="506" code="L6"></leftovers-image>
+  </as-served-set>
+  <as-served-set id="eggs_scrambled" description="Scrambled eggs">
+    <as-served-image name="PScrEgg1" code="AS1"></as-served-image>
+    <as-served-image name="PScrEgg2" code="AS2"></as-served-image>
+    <as-served-image name="PScrEgg3" code="AS3"></as-served-image>
+    <as-served-image name="PScrEgg4" code="AS4"></as-served-image>
+    <as-served-image name="PScrEgg5" code="AS5"></as-served-image>
+    <as-served-image name="PScrEgg6" code="AS6"></as-served-image>
+    <as-served-image name="PScrEgg7" code="AS7"></as-served-image>
+    <leftovers-image name="PScrEgg8" code="L1"></leftovers-image>
+    <leftovers-image name="PScrEgg9" code="L2"></leftovers-image>
+    <leftovers-image name="PScrEgg10" code="L3"></leftovers-image>
+    <leftovers-image name="PScrEgg11" code="L4"></leftovers-image>
+    <leftovers-image name="PScrEgg12" code="L5"></leftovers-image>
+    <leftovers-image name="PScrEgg13" code="L6"></leftovers-image>
+    <leftovers-image name="PScrEgg14" code="L7"></leftovers-image>
+  </as-served-set>
+  <as-served-set id="pasta_tinned" description="Spaghetti/pasta shapes, tinned">
+    <as-served-image name="PstCan1" code="AS1"></as-served-image>
+    <as-served-image name="PstCan2" code="AS2"></as-served-image>
+    <as-served-image name="PstCan3" code="AS3"></as-served-image>
+    <as-served-image name="PstCan4" code="AS4"></as-served-image>
+    <as-served-image name="PstCan5" code="AS5"></as-served-image>
+    <as-served-image name="PstCan6" code="AS6"></as-served-image>
+    <as-served-image name="PstCan7" code="AS7"></as-served-image>
+    <leftovers-image name="PstCan8" code="L1"></leftovers-image>
+    <leftovers-image name="PstCan9" code="L2"></leftovers-image>
+    <leftovers-image name="PstCan10" code="L3"></leftovers-image>
+    <leftovers-image name="PstCan11" code="L4"></leftovers-image>
+    <leftovers-image name="PstCan12" code="L5"></leftovers-image>
+    <leftovers-image name="PstCan13" code="L6"></leftovers-image>
+    <leftovers-image name="PstCan14" code="L7"></leftovers-image>
+  </as-served-set>
+  <as-served-set id="tomato_sauce" description="Tomato based sauce">
+    <as-served-image name="CkSau1" code="AS1"></as-served-image>
+    <as-served-image name="CkSau2" code="AS2"></as-served-image>
+    <as-served-image name="CkSau3" code="AS3"></as-served-image>
+    <as-served-image name="CkSau4" code="AS4"></as-served-image>
+    <as-served-image name="CkSau5" code="AS5"></as-served-image>
+    <as-served-image name="CkSau6" code="AS6"></as-served-image>
+    <as-served-image name="CkSau7" code="AS7"></as-served-image>
+    <leftovers-image name="CkSau8" code="L1"></leftovers-image>
+    <leftovers-image name="CkSau9" code="L2"></leftovers-image>
+    <leftovers-image name="CkSau10" code="L3"></leftovers-image>
+    <leftovers-image name="CkSau11" code="L4"></leftovers-image>
+    <leftovers-image name="CkSau12" code="L5"></leftovers-image>
+    <leftovers-image name="CkSau13" code="L6"></leftovers-image>
+  </as-served-set>
+  <as-served-set id="lasagne" description="Lasagne">
+    <as-served-image name="Lasag1" code="AS1"></as-served-image>
+    <as-served-image name="Lasag2" code="AS2"></as-served-image>
+    <as-served-image name="Lasag3" code="AS3"></as-served-image>
+    <as-served-image name="Lasag4" code="AS4"></as-served-image>
+    <as-served-image name="Lasag5" code="AS5"></as-served-image>
+    <as-served-image name="Lasag6" code="AS6"></as-served-image>
+    <as-served-image name="Lasag7" code="AS7"></as-served-image>
+    <leftovers-image name="Lasag8" code="L1"></leftovers-image>
+    <leftovers-image name="Lasag9" code="L2"></leftovers-image>
+    <leftovers-image name="Lasag10" code="L3"></leftovers-image>
+    <leftovers-image name="Lasag11" code="L4"></leftovers-image>
+    <leftovers-image name="Lasag12" code="L5"></leftovers-image>
+    <leftovers-image name="Lasag13" code="L6"></leftovers-image>
+    <leftovers-image name="Lasag14" code="L7"></leftovers-image>
+  </as-served-set>
+  <as-served-set id="rice" description="Rice, boiled">
+    <as-served-image name="RiceBo1" code="AS1"></as-served-image>
+    <as-served-image name="RiceBo2" code="AS2"></as-served-image>
+    <as-served-image name="RiceBo3" code="AS3"></as-served-image>
+    <as-served-image name="RiceBo4" code="AS4"></as-served-image>
+    <as-served-image name="RiceBo5" code="AS5"></as-served-image>
+    <as-served-image name="RiceBo6" code="AS6"></as-served-image>
+    <as-served-image name="RiceBo7" code="AS7"></as-served-image>
+    <leftovers-image name="RiceBo8" code="L1"></leftovers-image>
+    <leftovers-image name="RiceBo9" code="L2"></leftovers-image>
+    <leftovers-image name="RiceBo10" code="L3"></leftovers-image>
+    <leftovers-image name="RiceBo11" code="L4"></leftovers-image>
+    <leftovers-image name="RiceBo12" code="L5"></leftovers-image>
+    <leftovers-image name="RiceBo13" code="L6"></leftovers-image>
+    <leftovers-image name="RiceBo14" code="L7"></leftovers-image>
+  </as-served-set>
+  <as-served-set id="grapes" description="Grapes">
+    <as-served-image name="Grap1" code="AS1"></as-served-image>
+    <as-served-image name="Grap2" code="AS2"></as-served-image>
+    <as-served-image name="Grap3" code="AS3"></as-served-image>
+    <as-served-image name="Grap4" code="AS4"></as-served-image>
+    <as-served-image name="Grap5" code="AS5"></as-served-image>
+    <as-served-image name="Grap6" code="AS6"></as-served-image>
+    <as-served-image name="Grap7" code="AS7"></as-served-image>
+    <leftovers-image name="Grap8" code="L1"></leftovers-image>
+    <leftovers-image name="Grap9" code="L2"></leftovers-image>
+    <leftovers-image name="Grap10" code="L3"></leftovers-image>
+    <leftovers-image name="Grap11" code="L4"></leftovers-image>
+    <leftovers-image name="Grap12" code="L5"></leftovers-image>
+    <leftovers-image name="Grap13" code="L6"></leftovers-image>
+  </as-served-set>
+  <as-served-set id="cornflakes" description="Cornflakes">
+    <as-served-image name="115" code="AS1"></as-served-image>
+    <as-served-image name="120" code="AS2"></as-served-image>
+    <as-served-image name="124" code="AS3"></as-served-image>
+    <as-served-image name="128" code="AS4"></as-served-image>
+    <as-served-image name="131" code="AS5"></as-served-image>
+    <leftovers-image name="101" code="L1"></leftovers-image>
+    <leftovers-image name="102" code="L2"></leftovers-image>
+    <leftovers-image name="104" code="L3"></leftovers-image>
+    <leftovers-image name="105" code="L4"></leftovers-image>
+    <leftovers-image name="108" code="L5"></leftovers-image>
+    <leftovers-image name="111" code="L6"></leftovers-image>
+  </as-served-set>
+  <as-served-set id="butter_spread" description="Butter spread on bread">
+    <as-served-image name="701" code="AS1"></as-served-image>
+    <as-served-image name="702" code="AS2"></as-served-image>
+    <as-served-image name="703" code="AS3"></as-served-image>
+    <as-served-image name="704" code="AS4"></as-served-image>
+    <as-served-image name="705" code="AS5"></as-served-image>
+  </as-served-set>
+  <as-served-set id="porridge" description="Porridge">
+    <as-served-image name="m727" code="AS1"></as-served-image>
+    <as-served-image name="m729" code="AS2"></as-served-image>
+    <as-served-image name="m733" code="AS3"></as-served-image>
+    <as-served-image name="m738" code="AS4"></as-served-image>
+    <as-served-image name="m742" code="AS5"></as-served-image>
+    <as-served-image name="m745" code="AS6"></as-served-image>
+    <as-served-image name="m746" code="AS7"></as-served-image>
+    <leftovers-image name="m701" code="L1"></leftovers-image>
+    <leftovers-image name="m704" code="L2"></leftovers-image>
+    <leftovers-image name="m708" code="L3"></leftovers-image>
+    <leftovers-image name="m714" code="L4"></leftovers-image>
+    <leftovers-image name="m718" code="L5"></leftovers-image>
+    <leftovers-image name="m720" code="L6"></leftovers-image>
+    <leftovers-image name="m723" code="L7"></leftovers-image>
+  </as-served-set>
+  <as-served-set id="mince" description="Mince">
+    <as-served-image name="Mince1" code="AS1"></as-served-image>
+    <as-served-image name="Mince2" code="AS2"></as-served-image>
+    <as-served-image name="Mince3" code="AS3"></as-served-image>
+    <as-served-image name="Mince4" code="AS4"></as-served-image>
+    <as-served-image name="Mince5" code="AS5"></as-served-image>
+    <as-served-image name="Mince6" code="AS6"></as-served-image>
+    <as-served-image name="Mince7" code="AS7"></as-served-image>
+    <leftovers-image name="Mince8" code="L1"></leftovers-image>
+    <leftovers-image name="Mince9" code="L2"></leftovers-image>
+    <leftovers-image name="Mince10" code="L3"></leftovers-image>
+    <leftovers-image name="Mince11" code="L4"></leftovers-image>
+    <leftovers-image name="Mince12" code="L5"></leftovers-image>
+    <leftovers-image name="Mince13" code="L6"></leftovers-image>
+    <leftovers-image name="Mince14" code="L7"></leftovers-image>
+  </as-served-set>
+  <as-served-set id="cream_cheese_spread" description="Cream cheese spread">
+    <as-served-image name="Gcsp01" code="AS1"></as-served-image>
+    <as-served-image name="Gcsp02" code="AS2"></as-served-image>
+    <as-served-image name="Gcsp03" code="AS3"></as-served-image>
+    <as-served-image name="Gcsp04" code="AS4"></as-served-image>
+    <as-served-image name="Gcsp05" code="AS5"></as-served-image>
+  </as-served-set>
+
+  <as-served-set id="baked_beans_sausages" description="Baked beans and sausages">
+    <as-served-image name="Pbbsaus1" code="AS1"></as-served-image>
+    <as-served-image name="Pbbsaus2" code="AS2"></as-served-image>
+    <as-served-image name="Pbbsaus3" code="AS3"></as-served-image>
+    <as-served-image name="Pbbsaus4" code="AS4"></as-served-image>
+    <as-served-image name="Pbbsaus5" code="AS5"></as-served-image>
+    <as-served-image name="Pbbsaus6" code="AS6"></as-served-image>
+    <as-served-image name="Pbbsaus7" code="AS7"></as-served-image>
+    <leftovers-image name="Pbbsaus8" code="L1"></leftovers-image>
+    <leftovers-image name="Pbbsaus9" code="L2"></leftovers-image>
+    <leftovers-image name="Pbbsaus10" code="L3"></leftovers-image>
+    <leftovers-image name="Pbbsaus11" code="L4"></leftovers-image>
+    <leftovers-image name="Pbbsaus12" code="L5"></leftovers-image>
+    <leftovers-image name="Pbbsaus13" code="L6"></leftovers-image>
+    <leftovers-image name="Pbbsaus14" code="L7"></leftovers-image>
+  </as-served-set>
+  <as-served-set id="jam" description="Jam">
+    <as-served-image name="Gjam01" code="AS1"></as-served-image>
+    <as-served-image name="Gjam02" code="AS2"></as-served-image>
+    <as-served-image name="Gjam03" code="AS3"></as-served-image>
+    <as-served-image name="Gjam04" code="AS4"></as-served-image>
+    <as-served-image name="Gjam05" code="AS5"></as-served-image>
+  </as-served-set>
+  <as-served-set id="gravy" description="Gravy">
+    <as-served-image name="Grvy1" code="AS1"></as-served-image>
+    <as-served-image name="Grvy2" code="AS2"></as-served-image>
+    <as-served-image name="Grvy3" code="AS3"></as-served-image>
+    <as-served-image name="Grvy4" code="AS4"></as-served-image>
+    <as-served-image name="Grvy5" code="AS5"></as-served-image>
+    <as-served-image name="Grvy6" code="AS6"></as-served-image>
+    <as-served-image name="Grvy7" code="AS7"></as-served-image>
+    <leftovers-image name="Grvy8" code="L1"></leftovers-image>
+    <leftovers-image name="Grvy9" code="L2"></leftovers-image>
+    <leftovers-image name="Grvy10" code="L3"></leftovers-image>
+    <leftovers-image name="Grvy11" code="L4"></leftovers-image>
+    <leftovers-image name="Grvy12" code="L5"></leftovers-image>
+    <leftovers-image name="Grvy13" code="L6"></leftovers-image>
+    <leftovers-image name="Grvy14" code="L7"></leftovers-image>
+  </as-served-set>
+  <as-served-set id="apple_stewed" description="Stewed apple">
+    <as-served-image name="PStApl1" code="AS1"></as-served-image>
+    <as-served-image name="PStApl2" code="AS2"></as-served-image>
+    <as-served-image name="PStApl3" code="AS3"></as-served-image>
+    <as-served-image name="PStApl4" code="AS4"></as-served-image>
+    <as-served-image name="PStApl5" code="AS5"></as-served-image>
+    <as-served-image name="PStApl6" code="AS6"></as-served-image>
+    <as-served-image name="PStApl7" code="AS7"></as-served-image>
+    <leftovers-image name="PStApl8" code="L1"></leftovers-image>
+    <leftovers-image name="PStApl9" code="L2"></leftovers-image>
+    <leftovers-image name="PStApl10" code="L3"></leftovers-image>
+    <leftovers-image name="PStApl11" code="L4"></leftovers-image>
+    <leftovers-image name="PStApl12" code="L5"></leftovers-image>
+    <leftovers-image name="PStApl13" code="L6"></leftovers-image>
+    <leftovers-image name="PStApl14" code="L7"></leftovers-image>
+  </as-served-set>
+  <as-served-set id="salmon_steak" description="Salmon steak">
+    <as-served-image name="GSalm01" code="AS1"></as-served-image>
+    <as-served-image name="GSalm02" code="AS2"></as-served-image>
+    <as-served-image name="GSalm03" code="AS3"></as-served-image>
+    <as-served-image name="GSalm04" code="AS4"></as-served-image>
+    <as-served-image name="GSalm05" code="AS5"></as-served-image>
+  </as-served-set>
+  <as-served-set id="shepherds_pie" description="Shepherd's pie">
+    <as-served-image name="PShepie1" code="AS1"></as-served-image>
+    <as-served-image name="PShepie2" code="AS2"></as-served-image>
+    <as-served-image name="PShepie3" code="AS3"></as-served-image>
+    <as-served-image name="PShepie4" code="AS4"></as-served-image>
+    <as-served-image name="PShepie5" code="AS5"></as-served-image>
+    <as-served-image name="PShepie6" code="AS6"></as-served-image>
+    <as-served-image name="PShepie7" code="AS7"></as-served-image>
+    <leftovers-image name="PShepie8" code="L1"></leftovers-image>
+    <leftovers-image name="PShepie9" code="L2"></leftovers-image>
+    <leftovers-image name="PShepie10" code="L3"></leftovers-image>
+    <leftovers-image name="PShepie11" code="L4"></leftovers-image>
+    <leftovers-image name="PShepie12" code="L5"></leftovers-image>
+    <leftovers-image name="PShepie13" code="L6"></leftovers-image>
+    <leftovers-image name="PShepie14" code="L7"></leftovers-image>
+  </as-served-set>
+  <as-served-set id="chicken_breast_slices" description="Chicken breast slices">
+    <as-served-image name="Ckchic1" code="AS1"></as-served-image>
+    <as-served-image name="Ckchic2" code="AS2"></as-served-image>
+    <as-served-image name="Ckchic3" code="AS3"></as-served-image>
+    <as-served-image name="Ckchic4" code="AS4"></as-served-image>
+    <as-served-image name="Ckchic5" code="AS5"></as-served-image>
+    <as-served-image name="Ckchic6" code="AS6"></as-served-image>
+    <as-served-image name="Ckchic7" code="AS7"></as-served-image>
+    <leftovers-image name="Ckchic8" code="L1"></leftovers-image>
+    <leftovers-image name="Ckchic9" code="L2"></leftovers-image>
+    <leftovers-image name="Ckchic10" code="L3"></leftovers-image>
+    <leftovers-image name="Ckchic11" code="L4"></leftovers-image>
+    <leftovers-image name="Ckchic12" code="L5"></leftovers-image>
+    <leftovers-image name="Ckchic13" code="L6"></leftovers-image>
+    <leftovers-image name="Ckchic14" code="L7"></leftovers-image>
+  </as-served-set>
+  <as-served-set id="potatoes_mashed" description="Mashed potatoes">
+    <as-served-image name="m525" code="AS1"></as-served-image>
+    <as-served-image name="m529" code="AS2"></as-served-image>
+    <as-served-image name="m531" code="AS3"></as-served-image>
+    <as-served-image name="m533" code="AS4"></as-served-image>
+    <as-served-image name="m537" code="AS5"></as-served-image>
+    <as-served-image name="m540" code="AS6"></as-served-image>
+    <as-served-image name="m542" code="AS7"></as-served-image>
+    <leftovers-image name="m501" code="L1"></leftovers-image>
+    <leftovers-image name="m503" code="L2"></leftovers-image>
+    <leftovers-image name="m506" code="L3"></leftovers-image>
+    <leftovers-image name="m510" code="L4"></leftovers-image>
+    <leftovers-image name="m513" code="L5"></leftovers-image>
+    <leftovers-image name="m516" code="L6"></leftovers-image>
+    <leftovers-image name="m521" code="L7"></leftovers-image>
+  </as-served-set>
+  <as-served-set id="meat_roast" description="Roast meat">
+    <as-served-image name="RstMt1" code="AS1"></as-served-image>
+    <as-served-image name="RstMt2" code="AS2"></as-served-image>
+    <as-served-image name="RstMt3" code="AS3"></as-served-image>
+    <as-served-image name="RstMt4" code="AS4"></as-served-image>
+    <as-served-image name="RstMt5" code="AS5"></as-served-image>
+    <as-served-image name="RstMt6" code="AS6"></as-served-image>
+    <as-served-image name="RstMt7" code="AS7"></as-served-image>
+    <leftovers-image name="RstMt8" code="L1"></leftovers-image>
+    <leftovers-image name="RstMt9" code="L2"></leftovers-image>
+    <leftovers-image name="RstMt10" code="L3"></leftovers-image>
+    <leftovers-image name="RstMt11" code="L4"></leftovers-image>
+    <leftovers-image name="RstMt12" code="L5"></leftovers-image>
+    <leftovers-image name="RstMt13" code="L6"></leftovers-image>
+    <leftovers-image name="RstMt14" code="L7"></leftovers-image>
+  </as-served-set>
+  <as-served-set id="carrot_raw" description="Raw carrot">
+    <as-served-image name="CarRw1" code="AS1"></as-served-image>
+    <as-served-image name="CarRw2" code="AS2"></as-served-image>
+    <as-served-image name="CarRw3" code="AS3"></as-served-image>
+    <as-served-image name="CarRw4" code="AS4"></as-served-image>
+    <as-served-image name="CarRw5" code="AS5"></as-served-image>
+    <as-served-image name="CarRw6" code="AS6"></as-served-image>
+    <as-served-image name="CarRw7" code="AS7"></as-served-image>
+    <leftovers-image name="CarRw8" code="L1"></leftovers-image>
+    <leftovers-image name="CarRw9" code="L2"></leftovers-image>
+    <leftovers-image name="CarRw10" code="L3"></leftovers-image>
+    <leftovers-image name="CarRw11" code="L4"></leftovers-image>
+    <leftovers-image name="CarRw12" code="L5"></leftovers-image>
+  </as-served-set>
+  <as-served-set id="sauce_dollop" description="Sauce (dollop)">
+    <as-served-image name="404" code="AS1"></as-served-image>
+    <as-served-image name="406" code="AS2"></as-served-image>
+    <as-served-image name="409" code="AS3"></as-served-image>
+    <as-served-image name="412" code="AS4"></as-served-image>
+    <as-served-image name="416" code="AS5"></as-served-image>
+    <as-served-image name="421" code="AS6"></as-served-image>
+    <as-served-image name="424" code="AS7"></as-served-image>
+    <leftovers-image name="401" code="L1"></leftovers-image>
+    <leftovers-image name="402" code="L2"></leftovers-image>
+    <leftovers-image name="403" code="L3"></leftovers-image>
+  </as-served-set>
+  <as-served-set id="beans_baked" description="Baked beans">
+    <as-served-image name="317" code="AS1"></as-served-image>
+    <as-served-image name="320" code="AS2"></as-served-image>
+    <as-served-image name="323" code="AS3"></as-served-image>
+    <as-served-image name="326" code="AS4"></as-served-image>
+    <as-served-image name="331" code="AS5"></as-served-image>
+    <as-served-image name="336" code="AS6"></as-served-image>
+    <as-served-image name="337" code="AS7"></as-served-image>
+    <leftovers-image name="301" code="L1"></leftovers-image>
+    <leftovers-image name="303" code="L2"></leftovers-image>
+    <leftovers-image name="305" code="L3"></leftovers-image>
+    <leftovers-image name="307" code="L4"></leftovers-image>
+    <leftovers-image name="309" code="L5"></leftovers-image>
+    <leftovers-image name="312" code="L6"></leftovers-image>
+    <leftovers-image name="315" code="L7"></leftovers-image>
+  </as-served-set>
+  <as-served-set id="potatoes_boiled_new" description="Boiled new potatoes">
+    <as-served-image name="NewBo1" code="AS1"></as-served-image>
+    <as-served-image name="NewBo2" code="AS2"></as-served-image>
+    <as-served-image name="NewBo3" code="AS3"></as-served-image>
+    <as-served-image name="NewBo4" code="AS4"></as-served-image>
+    <as-served-image name="NewBo5" code="AS5"></as-served-image>
+    <as-served-image name="NewBo6" code="AS6"></as-served-image>
+    <as-served-image name="NewBo7" code="AS7"></as-served-image>
+    <leftovers-image name="NewBo8" code="L1"></leftovers-image>
+    <leftovers-image name="NewBo9" code="L2"></leftovers-image>
+    <leftovers-image name="NewBo10" code="L3"></leftovers-image>
+    <leftovers-image name="NewBo11" code="L4"></leftovers-image>
+    <leftovers-image name="NewBo12" code="L5"></leftovers-image>
+    <leftovers-image name="NewBo13" code="L6"></leftovers-image>
+    <leftovers-image name="NewBo14" code="L7"></leftovers-image>
+  </as-served-set>
+  <as-served-set id="broccoli" description="Broccoli">
+    <as-served-image name="Broc1" code="AS1"></as-served-image>
+    <as-served-image name="Broc2" code="AS2"></as-served-image>
+    <as-served-image name="Broc3" code="AS3"></as-served-image>
+    <as-served-image name="Broc4" code="AS4"></as-served-image>
+    <as-served-image name="Broc5" code="AS5"></as-served-image>
+    <as-served-image name="Broc6" code="AS6"></as-served-image>
+    <as-served-image name="Broc7" code="AS7"></as-served-image>
+    <leftovers-image name="Broc8" code="L1"></leftovers-image>
+    <leftovers-image name="Broc9" code="L2"></leftovers-image>
+    <leftovers-image name="Broc10" code="L3"></leftovers-image>
+    <leftovers-image name="Broc11" code="L4"></leftovers-image>
+    <leftovers-image name="Broc12" code="L5"></leftovers-image>
+    <leftovers-image name="Broc13" code="L6"></leftovers-image>
+    <leftovers-image name="Broc14" code="L7"></leftovers-image>
+  </as-served-set>
+  <as-served-set id="rice_krispie" description="Rice Krispie cereal">
+    <as-served-image name="Rkris1" code="AS1"></as-served-image>
+    <as-served-image name="Rkris2" code="AS2"></as-served-image>
+    <as-served-image name="Rkris3" code="AS3"></as-served-image>
+    <as-served-image name="Rkris4" code="AS4"></as-served-image>
+    <as-served-image name="Rkris5" code="AS5"></as-served-image>
+    <as-served-image name="Rkris6" code="AS6"></as-served-image>
+    <as-served-image name="Rkris7" code="AS7"></as-served-image>
+    <leftovers-image name="Rkris8" code="L1"></leftovers-image>
+    <leftovers-image name="Rkris9" code="L2"></leftovers-image>
+    <leftovers-image name="Rkris10" code="L3"></leftovers-image>
+    <leftovers-image name="Rkris11" code="L4"></leftovers-image>
+    <leftovers-image name="Rkris12" code="L5"></leftovers-image>
+    <leftovers-image name="Rkris13" code="L6"></leftovers-image>
+    <leftovers-image name="Rkris14" code="L7"></leftovers-image>
+  </as-served-set>
+  <as-served-set id="sponge_pudding" description="Sponge pudding">
+    <as-served-image name="Spng1" code="AS1"></as-served-image>
+    <as-served-image name="Spng2" code="AS2"></as-served-image>
+    <as-served-image name="Spng3" code="AS3"></as-served-image>
+    <as-served-image name="Spng4" code="AS4"></as-served-image>
+    <as-served-image name="Spng5" code="AS5"></as-served-image>
+    <as-served-image name="Spng6" code="AS6"></as-served-image>
+    <as-served-image name="Spng7" code="AS7"></as-served-image>
+    <leftovers-image name="Spng8" code="L1"></leftovers-image>
+    <leftovers-image name="Spng9" code="L2"></leftovers-image>
+    <leftovers-image name="Spng10" code="L3"></leftovers-image>
+    <leftovers-image name="Spng11" code="L4"></leftovers-image>
+    <leftovers-image name="Spng12" code="L5"></leftovers-image>
+    <leftovers-image name="Spng13" code="L6"></leftovers-image>
+    <leftovers-image name="Spng14" code="L7"></leftovers-image>
+  </as-served-set>
+  <as-served-set id="popcorn" description="Popcorn">
+    <as-served-image name="Popcn1" code="AS1"></as-served-image>
+    <as-served-image name="Popcn2" code="AS2"></as-served-image>
+    <as-served-image name="Popcn3" code="AS3"></as-served-image>
+    <as-served-image name="Popcn4" code="AS4"></as-served-image>
+    <as-served-image name="Popcn5" code="AS5"></as-served-image>
+    <as-served-image name="Popcn6" code="AS6"></as-served-image>
+    <as-served-image name="Popcn7" code="AS7"></as-served-image>
+    <leftovers-image name="Popcn8" code="L1"></leftovers-image>
+    <leftovers-image name="Popcn9" code="L2"></leftovers-image>
+    <leftovers-image name="Popcn10" code="L3"></leftovers-image>
+    <leftovers-image name="Popcn11" code="L4"></leftovers-image>
+    <leftovers-image name="Popcn12" code="L5"></leftovers-image>
+    <leftovers-image name="Popcn13" code="L6"></leftovers-image>
+  </as-served-set>
+  <as-served-set id="cucumber" description="Cucumber">
+    <as-served-image name="Cucu1" code="AS1"></as-served-image>
+    <as-served-image name="Cucu2" code="AS2"></as-served-image>
+    <as-served-image name="cucu3" code="AS3"></as-served-image>
+    <as-served-image name="cucu4" code="AS4"></as-served-image>
+    <as-served-image name="cucu5" code="AS5"></as-served-image>
+    <as-served-image name="cucu6" code="AS6"></as-served-image>
+    <as-served-image name="cucu7" code="AS7"></as-served-image>
+    <leftovers-image name="cucu8" code="L1"></leftovers-image>
+    <leftovers-image name="cucu9" code="L2"></leftovers-image>
+    <leftovers-image name="cucu10" code="L3"></leftovers-image>
+    <leftovers-image name="cucu11" code="L4"></leftovers-image>
+    <leftovers-image name="cucu12" code="L5"></leftovers-image>
+    <leftovers-image name="cucu13" code="L6"></leftovers-image>
+  </as-served-set>
+  <as-served-set id="peas" description="Peas">
+    <as-served-image name="Peas1" code="AS1"></as-served-image>
+    <as-served-image name="Peas2" code="AS2"></as-served-image>
+    <as-served-image name="Peas3" code="AS3"></as-served-image>
+    <as-served-image name="Peas4" code="AS4"></as-served-image>
+    <as-served-image name="Peas5" code="AS5"></as-served-image>
+    <as-served-image name="Peas6" code="AS6"></as-served-image>
+    <as-served-image name="Peas7" code="AS7"></as-served-image>
+    <leftovers-image name="Peas8" code="L1"></leftovers-image>
+    <leftovers-image name="Peas9" code="L2"></leftovers-image>
+    <leftovers-image name="Peas10" code="L3"></leftovers-image>
+    <leftovers-image name="Peas11" code="L4"></leftovers-image>
+    <leftovers-image name="Peas12" code="L5"></leftovers-image>
+    <leftovers-image name="Peas13" code="L6"></leftovers-image>
+    <leftovers-image name="Peas14" code="L7"></leftovers-image>
+  </as-served-set>
+  <as-served-set id="noodles" description="Noodles">
+    <as-served-image name="Nood1" code="AS1"></as-served-image>
+    <as-served-image name="Nood2" code="AS2"></as-served-image>
+    <as-served-image name="Nood3" code="AS3"></as-served-image>
+    <as-served-image name="Nood4" code="AS4"></as-served-image>
+    <as-served-image name="Nood5" code="AS5"></as-served-image>
+    <as-served-image name="Nood6" code="AS6"></as-served-image>
+    <as-served-image name="Nood7" code="AS7"></as-served-image>
+    <leftovers-image name="Nood8" code="L1"></leftovers-image>
+    <leftovers-image name="Nood9" code="L2"></leftovers-image>
+    <leftovers-image name="Nood10" code="L3"></leftovers-image>
+    <leftovers-image name="Nood11" code="L4"></leftovers-image>
+    <leftovers-image name="Nood12" code="L5"></leftovers-image>
+    <leftovers-image name="Nood13" code="L6"></leftovers-image>
+    <leftovers-image name="Nood14" code="L7"></leftovers-image>
+  </as-served-set>
+  <as-served-set id="soup" description="Soup">
+    <as-served-image name="Soup1" code="AS1"></as-served-image>
+    <as-served-image name="Soup2" code="AS2"></as-served-image>
+    <as-served-image name="Soup3" code="AS3"></as-served-image>
+    <as-served-image name="Soup4" code="AS4"></as-served-image>
+    <as-served-image name="Soup5" code="AS5"></as-served-image>
+    <as-served-image name="Soup6" code="AS6"></as-served-image>
+    <as-served-image name="Soup7" code="AS7"></as-served-image>
+    <leftovers-image name="Soup8" code="L1"></leftovers-image>
+    <leftovers-image name="Soup9" code="L2"></leftovers-image>
+    <leftovers-image name="Soup10" code="L3"></leftovers-image>
+    <leftovers-image name="Soup11" code="L4"></leftovers-image>
+    <leftovers-image name="Soup12" code="L5"></leftovers-image>
+    <leftovers-image name="Soup13" code="L6"></leftovers-image>
+    <leftovers-image name="Soup14" code="L7"></leftovers-image>
+  </as-served-set>
+  <as-served-set id="carrot_boiled" description="Carrots, boiled">
+    <as-served-image name="CarBo1" code="AS1"></as-served-image>
+    <as-served-image name="CarBo2" code="AS2"></as-served-image>
+    <as-served-image name="CarBo3" code="AS3"></as-served-image>
+    <as-served-image name="CarBo4" code="AS4"></as-served-image>
+    <as-served-image name="CarBo5" code="AS5"></as-served-image>
+    <as-served-image name="CarBo6" code="AS6"></as-served-image>
+    <as-served-image name="CarBo7" code="AS7"></as-served-image>
+    <leftovers-image name="CarBo8" code="L1"></leftovers-image>
+    <leftovers-image name="CarBo9" code="L2"></leftovers-image>
+    <leftovers-image name="CarBo10" code="L3"></leftovers-image>
+    <leftovers-image name="CarBo11" code="L4"></leftovers-image>
+    <leftovers-image name="CarBo12" code="L5"></leftovers-image>
+    <leftovers-image name="CarBo13" code="L6"></leftovers-image>
+    <leftovers-image name="CarBo14" code="L7"></leftovers-image>
+  </as-served-set>
+  <as-served-set id="code_here" description="desc_here">
+    <as-served-image name="Caul1" code="AS1"></as-served-image>
+    <as-served-image name="Caul2" code="AS2"></as-served-image>
+    <as-served-image name="Caul3" code="AS3"></as-served-image>
+    <as-served-image name="Caul4" code="AS4"></as-served-image>
+    <as-served-image name="Caul5" code="AS5"></as-served-image>
+    <as-served-image name="Caul6" code="AS6"></as-served-image>
+    <as-served-image name="Caul7" code="AS7"></as-served-image>
+    <leftovers-image name="Caul8" code="L1"></leftovers-image>
+    <leftovers-image name="Caul9" code="L2"></leftovers-image>
+    <leftovers-image name="Caul10" code="L3"></leftovers-image>
+    <leftovers-image name="Caul11" code="L4"></leftovers-image>
+    <leftovers-image name="Caul12" code="L5"></leftovers-image>
+    <leftovers-image name="Caul13" code="L6"></leftovers-image>
+    <leftovers-image name="Caul14" code="L7"></leftovers-image>
+  </as-served-set>
+  <as-served-set id="cabbage" description="Cabbage">
+    <as-served-image name="Cabb1" code="AS1"></as-served-image>
+    <as-served-image name="Cabb2" code="AS2"></as-served-image>
+    <as-served-image name="Cabb3" code="AS3"></as-served-image>
+    <as-served-image name="Cabb4" code="AS4"></as-served-image>
+    <as-served-image name="Cabb5" code="AS5"></as-served-image>
+    <as-served-image name="Cabb6" code="AS6"></as-served-image>
+    <as-served-image name="Cabb7" code="AS7"></as-served-image>
+    <leftovers-image name="Cabb8" code="L1"></leftovers-image>
+    <leftovers-image name="Cabb9" code="L2"></leftovers-image>
+    <leftovers-image name="Cabb10" code="L3"></leftovers-image>
+    <leftovers-image name="Cabb11" code="L4"></leftovers-image>
+    <leftovers-image name="Cabb12" code="L5"></leftovers-image>
+    <leftovers-image name="Cabb13" code="L6"></leftovers-image>
+    <leftovers-image name="Cabb14" code="L7"></leftovers-image>
+  </as-served-set>
+  <as-served-set id="milk_pudding" description="Milk pudding">
+    <as-served-image name="Mlkpud1" code="AS1"></as-served-image>
+    <as-served-image name="Mlkpud2" code="AS2"></as-served-image>
+    <as-served-image name="Mlkpud3" code="AS3"></as-served-image>
+    <as-served-image name="Mlkpud4" code="AS4"></as-served-image>
+    <as-served-image name="Mlkpud5" code="AS5"></as-served-image>
+    <as-served-image name="Mlkpud6" code="AS6"></as-served-image>
+    <as-served-image name="Mlkpud7" code="AS7"></as-served-image>
+    <leftovers-image name="Mlkpud8" code="L1"></leftovers-image>
+    <leftovers-image name="Mlkpud9" code="L2"></leftovers-image>
+    <leftovers-image name="Mlkpud10" code="L3"></leftovers-image>
+    <leftovers-image name="Mlkpud11" code="L4"></leftovers-image>
+    <leftovers-image name="Mlkpud12" code="L5"></leftovers-image>
+    <leftovers-image name="Mlkpud13" code="L6"></leftovers-image>
+    <leftovers-image name="Mlkpud14" code="L7"></leftovers-image>
+  </as-served-set>
+  <as-served-set id="white_sauce" description="White/cheese sauce">
+    <as-served-image name="m614" code="AS1"></as-served-image>
+    <as-served-image name="m618" code="AS2"></as-served-image>
+    <as-served-image name="m621" code="AS3"></as-served-image>
+    <as-served-image name="m625" code="AS4"></as-served-image>
+    <as-served-image name="m628" code="AS5"></as-served-image>
+    <as-served-image name="m631" code="AS6"></as-served-image>
+    <as-served-image name="m635" code="AS7"></as-served-image>
+    <leftovers-image name="m601" code="L1"></leftovers-image>
+    <leftovers-image name="m602" code="L2"></leftovers-image>
+    <leftovers-image name="m603" code="L3"></leftovers-image>
+    <leftovers-image name="m604" code="L4"></leftovers-image>
+    <leftovers-image name="m606" code="L5"></leftovers-image>
+    <leftovers-image name="m608" code="L6"></leftovers-image>
+    <leftovers-image name="m611" code="L7"></leftovers-image>
+  </as-served-set>
+  <as-served-set id="runner_beans" description="Runner beans">
+    <as-served-image name="Runbn1" code="AS1"></as-served-image>
+    <as-served-image name="Runbn2" code="AS2"></as-served-image>
+    <as-served-image name="Runbn3" code="AS3"></as-served-image>
+    <as-served-image name="Runbn4" code="AS4"></as-served-image>
+    <as-served-image name="Runbn5" code="AS5"></as-served-image>
+    <as-served-image name="Runbn6" code="AS6"></as-served-image>
+    <as-served-image name="Runbn7" code="AS7"></as-served-image>
+    <leftovers-image name="Runbn8" code="L1"></leftovers-image>
+    <leftovers-image name="Runbn9" code="L2"></leftovers-image>
+    <leftovers-image name="Runbn10" code="L3"></leftovers-image>
+    <leftovers-image name="Runbn11" code="L4"></leftovers-image>
+    <leftovers-image name="Runbn12" code="L5"></leftovers-image>
+    <leftovers-image name="Runbn13" code="L6"></leftovers-image>
+    <leftovers-image name="Runbn14" code="L7"></leftovers-image>
+  </as-served-set>
+  <as-served-set id="ice_cream" description="Ice cream">
+    <as-served-image name="Icecrm1" code="AS1"></as-served-image>
+    <as-served-image name="Icecrm2" code="AS2"></as-served-image>
+    <as-served-image name="Icecrm3" code="AS3"></as-served-image>
+    <as-served-image name="Icecrm4" code="AS4"></as-served-image>
+    <as-served-image name="Icecrm5" code="AS5"></as-served-image>
+    <as-served-image name="Icecrm6" code="AS6"></as-served-image>
+    <as-served-image name="Icecrm7" code="AS7"></as-served-image>
+    <leftovers-image name="Icecrm8" code="L1"></leftovers-image>
+    <leftovers-image name="Icecrm9" code="L2"></leftovers-image>
+    <leftovers-image name="Icecrm10" code="L3"></leftovers-image>
+    <leftovers-image name="Icecrm11" code="L4"></leftovers-image>
+    <leftovers-image name="Icecrm12" code="L5"></leftovers-image>
+    <leftovers-image name="Icecrm13" code="L6"></leftovers-image>
+    <leftovers-image name="Icecrm14" code="L7"></leftovers-image>
+  </as-served-set>
+  <as-served-set id="melon" description="Melon">
+    <as-served-image name="Mel1" code="AS1"></as-served-image>
+    <as-served-image name="Mel2" code="AS2"></as-served-image>
+    <as-served-image name="Mel3" code="AS3"></as-served-image>
+    <as-served-image name="Mel4" code="AS4"></as-served-image>
+    <as-served-image name="Mel5" code="AS5"></as-served-image>
+    <as-served-image name="Mel6" code="AS6"></as-served-image>
+    <leftovers-image name="Mel8" code="L1"></leftovers-image>
+    <leftovers-image name="Mel9" code="L2"></leftovers-image>
+    <leftovers-image name="Mel10" code="L3"></leftovers-image>
+    <leftovers-image name="Mel11" code="L4"></leftovers-image>
+    <leftovers-image name="Mel12" code="L5"></leftovers-image>
+    <leftovers-image name="Mel13" code="L6"></leftovers-image>
+    <leftovers-image name="Mel14" code="L7"></leftovers-image>
+  </as-served-set>
+  <as-served-set id="puffed_cereals" description="Puffed cereals">
+    <as-served-image name="Puff1" code="AS1"></as-served-image>
+    <as-served-image name="Puff2" code="AS2"></as-served-image>
+    <as-served-image name="Puff3" code="AS3"></as-served-image>
+    <as-served-image name="Puff4" code="AS4"></as-served-image>
+    <as-served-image name="Puff5" code="AS5"></as-served-image>
+    <as-served-image name="Puff6" code="AS6"></as-served-image>
+    <as-served-image name="Puff7" code="AS7"></as-served-image>
+    <leftovers-image name="Puff8" code="L1"></leftovers-image>
+    <leftovers-image name="Puff9" code="L2"></leftovers-image>
+    <leftovers-image name="Puff10" code="L3"></leftovers-image>
+    <leftovers-image name="Puff11" code="L4"></leftovers-image>
+    <leftovers-image name="Puff12" code="L5"></leftovers-image>
+    <leftovers-image name="Puff13" code="L6"></leftovers-image>
+    <leftovers-image name="Puff14" code="L7"></leftovers-image>
+  </as-served-set>
+  <as-served-set id="ravioli" description="Ravioli">
+    <as-served-image name="PRav1" code="AS1"></as-served-image>
+    <as-served-image name="PRav2" code="AS2"></as-served-image>
+    <as-served-image name="PRav3" code="AS3"></as-served-image>
+    <as-served-image name="PRav4" code="AS4"></as-served-image>
+    <as-served-image name="PRav5" code="AS5"></as-served-image>
+    <as-served-image name="PRav6" code="AS6"></as-served-image>
+    <as-served-image name="PRav7" code="AS7"></as-served-image>
+    <leftovers-image name="PRav8" code="L1"></leftovers-image>
+    <leftovers-image name="PRav9" code="L2"></leftovers-image>
+    <leftovers-image name="PRav10" code="L3"></leftovers-image>
+    <leftovers-image name="PRav11" code="L4"></leftovers-image>
+    <leftovers-image name="PRav12" code="L5"></leftovers-image>
+    <leftovers-image name="PRav13" code="L6"></leftovers-image>
+    <leftovers-image name="PRav14" code="L7"></leftovers-image>
+  </as-served-set>
+  <as-served-set id="peanut_butter_spread" description="Peanut butter spread on bread">
+    <as-served-image name="Gpea01" code="AS1"></as-served-image>
+    <as-served-image name="Gpea02" code="AS2"></as-served-image>
+    <as-served-image name="Gpea03" code="AS3"></as-served-image>
+    <as-served-image name="Gpea04" code="AS4"></as-served-image>
+    <as-served-image name="Gpea05" code="AS5"></as-served-image>
+  </as-served-set>
+  <as-served-set id="potatoes_roast" description="Roast potatoes">
+    <as-served-image name="RstPo1" code="AS1"></as-served-image>
+    <as-served-image name="RstPo2" code="AS2"></as-served-image>
+    <as-served-image name="RstPo3" code="AS3"></as-served-image>
+    <as-served-image name="RstPo4" code="AS4"></as-served-image>
+    <as-served-image name="RstPo5" code="AS5"></as-served-image>
+    <as-served-image name="RstPo6" code="AS6"></as-served-image>
+    <as-served-image name="RstPo7" code="AS7"></as-served-image>
+    <leftovers-image name="RstPo8" code="L1"></leftovers-image>
+    <leftovers-image name="RstPo9" code="L2"></leftovers-image>
+    <leftovers-image name="RstPo10" code="L3"></leftovers-image>
+    <leftovers-image name="RstPo11" code="L4"></leftovers-image>
+    <leftovers-image name="RstPo12" code="L5"></leftovers-image>
+    <leftovers-image name="RstPo13" code="L6"></leftovers-image>
+    <leftovers-image name="RstPo14" code="L7"></leftovers-image>
+  </as-served-set>
+</scran24-as-served-sets>
