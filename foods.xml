@@ -8,92 +8,92 @@
     </category>
     <category description="Bread: Wholemeal, Brown &amp; Granary" code="BBRD">
       <food description="Brown bread" code="BSLC">
-        <guide-image name="Gsli" />
+        <guide portion-size="Gsli" />
       </food>
       <food description="Currant bread" code="CRNT">
-        <guide-image name="Gsli" />
+        <guide portion-size="Gsli" />
       </food>
       <food description="Bread, Best of Both, 50:50" code="FFTY">
-        <guide-image name="Gsli" />
+        <guide portion-size="Gsli" />
       </food>
       <food description="Granary bread (with seeds or bits) sliced" code="GSLC">
-        <guide-image name="Gsli" />
+        <guide portion-size="Gsli" />
       </food>
       <food description="Malt Bread" code="MALT">
-        <guide-image name="Gsli" />
+        <guide portion-size="Gsli" />
       </food>
       <food description="Rye bread" code="RYEB">
-        <guide-image name="Gsli" />
+        <guide portion-size="Gsli" />
       </food>
       <food description="Soda Bread" code="SODA">
-        <guide-image name="Gsli" />
+        <guide portion-size="Gsli" />
       </food>
       <food description="Bread, hovis or wheatgerm" code="WHTG">
-        <guide-image name="Gsli" />
+        <guide portion-size="Gsli" />
       </food>
       <food description="Bread, wholemeal" code="WSLC">
-        <guide-image name="Gsli" />
+        <guide portion-size="Gsli" />
       </food>
     </category>
     <category description="Bread Rolls" code="BRDR">
       <food description="Ciabatta bread" code="CIAB">
-        <guide-image name="Groll" />
+        <guide portion-size="Groll" />
       </food>
       <food description="White crusty bread" code="CRST">
-        <guide-image name="Groll" />
+        <guide portion-size="Groll" />
       </food>
       <food description="???" code="FREN">
-        <guide-image name="Gsli" />
+        <guide portion-size="Gsli" />
       </food>
       <food description="Hamburger bun (Bread bun with sesame seeds, no burger)" code="HAMB">
-        <guide-image name="Groll" />
+        <guide portion-size="Groll" />
       </food>
       <food description="Sandwich" code="SNDW"></food>
       <food description="Bread roll, brown" code="SRLL">
-        <guide-image name="Groll" />
+        <guide portion-size="Groll" />
       </food>
       <food description="Wholemeal bread roll" code="WHRL">
-        <guide-image name="Groll" />
+        <guide portion-size="Groll" />
       </food>
       <food description="White Bread roll" code="WRLL">
-        <guide-image name="Groll" />
+        <guide portion-size="Groll" />
       </food>
     </category>
     <category description="Crumpets/Pikelets/Scotch Pancakes" code="CRUM">
       <food description="Crumpets/ pikelets toasted" code="CRMP">
-        <guide-image name="Gpik" />
+        <guide portion-size="Gpik" />
       </food>
       <food description="English style bread Muffins, white, toasted" code="MUFN">
-        <guide-image name="Gpik" />
+        <guide portion-size="Gpik" />
       </food>
       <food description="Scotch pancakes / Drop scones" code="PANC">
-        <guide-image name="Gpik" />
+        <guide portion-size="Gpik" />
       </food>
       <food description="Sweet or savoury pancakes" code="PASS"></food>
     </category>
     <category description="Fajita" code="FJTA">
       <food description="Chapatis" code="CHPF">
-        <guide-image name="Gfjta" />
+        <guide portion-size="Gfjta" />
       </food>
       <food description="White wrap / Fajita / Tortilla" code="FJWH">
-        <guide-image name="Gfjta" />
+        <guide portion-size="Gfjta" />
       </food>
       <food description="Wholemeal wrap/ Fajita/ Tortilla" code="WLML">
-        <guide-image name="Gfjta" />
+        <guide portion-size="Gfjta" />
       </food>
     </category>
     <category description="Fried bread" code="FRDB">
       <food description="Fried White bread" code="WBFD">
-        <guide-image name="Gsli" />
+        <guide portion-size="Gsli" />
       </food>
     </category>
     <category description="Garlic Bread and Dough Balls" code="GBRD">
       <food description="Dough balls" code="DGHB"></food>
       <food description="Garlic/Herb bread, pizza" code="GPIZ">
-        <guide-image name="Gpiz" />
+        <guide portion-size="Gpiz" />
       </food>
       <food description="Garlic/Herb bread, french stick (baguette)" code="GRLC">
-        <guide-image name="Gsli" />
+        <guide portion-size="Gsli" />
       </food>
     </category>
     <category description="Naan Bread" code="NNBR">
@@ -102,54 +102,54 @@
     </category>
     <category description="Pitta Bread" code="PTBR">
       <food description="Brown / wholemeal pitta bread" code="BPTB">
-        <guide-image name="Gpik" />
+        <guide portion-size="Gpik" />
       </food>
       <food description="White pitta bread" code="WPTB">
-        <guide-image name="Gpik" />
+        <guide portion-size="Gpik" />
       </food>
     </category>
     <category description="Toast, wholemeal / brown / granary" code="TBBR">
       <food description="Toast, brown bread" code="BRWT">
-        <guide-image name="Gsli" />
+        <guide portion-size="Gsli" />
       </food>
       <food description="Currant bread" code="CRNT">
-        <guide-image name="Gsli" />
+        <guide portion-size="Gsli" />
       </food>
       <food description="Bread, Best of Both, 50:50" code="FFTY">
-        <guide-image name="Gsli" />
+        <guide portion-size="Gsli" />
       </food>
       <food description="Toast, Granary Bread (with seeds or bits)" code="GRNT">
-        <guide-image name="Gsli" />
+        <guide portion-size="Gsli" />
       </food>
       <food description="Toast, Wholemeal bread" code="WHLT">
-        <guide-image name="Gsli" />
+        <guide portion-size="Gsli" />
       </food>
       <food description="Toast, Hovis or wheatgerm" code="WHTT">
-        <guide-image name="Gsli" />
+        <guide portion-size="Gsli" />
       </food>
     </category>
     <category description="Toast, white and softgrain" code="TWBR">
       <food description="Toast, soft grain bread, e.g. mighty white" code="STST">
-        <guide-image name="Gsli" />
+        <guide portion-size="Gsli" />
       </food>
       <food description="Toast, white bread" code="WTST">
-        <guide-image name="Gsli" />
+        <guide portion-size="Gsli" />
       </food>
     </category>
     <category description="Bread, White &amp; Softgrain" code="WBRD">
       <food description="Softgrain e.g. mighty white" code="SFTG">
-        <guide-image name="Gsli" />
+        <guide portion-size="Gsli" />
       </food>
       <food description="Bread white sliced" code="SLCD">
-        <guide-image name="Gsli" />
+        <guide portion-size="Gsli" />
       </food>
     </category>
     <category description="???" code="YPUD">
       <food description="Yorkshire pudding, shop bought" code="YPDF">
-        <guide-image name="Gyor" />
+        <guide portion-size="Gyor" />
       </food>
       <food description="Yorkshire Pudding, homemade" code="YPSS">
-        <guide-image name="Gyor" />
+        <guide portion-size="Gyor" />
       </food>
     </category>
   </category>
@@ -160,13 +160,13 @@
     </category>
     <category description="Cheese Flavoured Biscuits" code="CHBB">
       <food description="Cheddars" code="CHDS">
-        <guide-image name="Gcra" />
+        <guide portion-size="Gcra" />
       </food>
       <food description="Crackers, Ritz biscuits" code="RITZ">
-        <guide-image name="Gcra" />
+        <guide portion-size="Gcra" />
       </food>
       <food description="Tuc" code="TUCO">
-        <guide-image name="Gcra" />
+        <guide portion-size="Gcra" />
       </food>
       <food description="Tuc sandwich" code="TUCS"></food>
     </category>
@@ -191,66 +191,66 @@
     </category>
     <category description="Cookies" code="CKES">
       <food description="Chocolate chip cookies" code="CKSC">
-        <guide-image name="Gbisc" />
+        <guide portion-size="Gbisc" />
       </food>
       <food description="Chocolate chip cookies with nuts" code="CKSN">
-        <guide-image name="Gbisc" />
+        <guide portion-size="Gbisc" />
       </food>
       <food description="Cookies, other flavours (not chocolate)" code="CKSO">
-        <guide-image name="Gbisc" />
+        <guide portion-size="Gbisc" />
       </food>
     </category>
     <category description="Crunchy Biscuits" code="CRBS">
       <food description="Crunchy biscuits e.g Foxes crunch biscuits" code="CRBC">
-        <guide-image name="Gbisc" />
+        <guide portion-size="Gbisc" />
       </food>
       <food description="Gingernuts" code="GNGR">
-        <guide-image name="Gbisc" />
+        <guide portion-size="Gbisc" />
       </food>
     </category>
     <category description="Crackers" code="CRKR">
       <food description="Cream crackers" code="CRCR">
-        <guide-image name="Gcra" />
+        <guide portion-size="Gcra" />
       </food>
       <food description="Jacobs crackers" code="JACB">
-        <guide-image name="Gcra" />
+        <guide portion-size="Gcra" />
       </food>
       <food description="Multigrain bread" code="MGRN">
-        <guide-image name="Gcra" />
+        <guide portion-size="Gcra" />
       </food>
       <food description="Rice cakes" code="RCCK"></food>
       <food description="Ryvita multigrain" code="RYVM"></food>
       <food description="Saltines" code="SLTN">
-        <guide-image name="Gcra" />
+        <guide portion-size="Gcra" />
       </food>
       <food description="Salt and pepper cracker" code="SPCR">
-        <guide-image name="Gcra" />
+        <guide portion-size="Gcra" />
       </food>
       <food description="Cornish wafer" code="WAFR">
-        <guide-image name="Gcra" />
+        <guide portion-size="Gcra" />
       </food>
       <food description="Cream crackers, wholemeal" code="WCRC">
-        <guide-image name="Gcra" />
+        <guide portion-size="Gcra" />
       </food>
       <food description="Water biscuits" code="WTRB">
-        <guide-image name="Gcra" />
+        <guide portion-size="Gcra" />
       </food>
     </category>
     <category description="Digestive Type Biscuits" code="DGST">
       <food description="Chocolate digestives with oats, e.g. chocolate Hob nobs" code="CHBN">
-        <guide-image name="Gbisc" />
+        <guide portion-size="Gbisc" />
       </food>
       <food description="Digestives half coated with chocolate" code="DGSC">
-        <guide-image name="Gbisc" />
+        <guide portion-size="Gbisc" />
       </food>
       <food description="Digestive with oats e.g. hob nobs" code="DGSO">
-        <guide-image name="Gbisc" />
+        <guide portion-size="Gbisc" />
       </food>
       <food description="Digestive biscuits, plain" code="DGSP">
-        <guide-image name="Gbisc" />
+        <guide portion-size="Gbisc" />
       </food>
       <food description="Wholemeal biscuit, plain or flavoured" code="WHBP">
-        <guide-image name="Gbisc" />
+        <guide portion-size="Gbisc" />
       </food>
     </category>
     <category description="Flapjacks" code="FLPJ">
@@ -259,7 +259,7 @@
     </category>
     <category description="Fruit Biscuits" code="FRTB">
       <food description="Fruit biscuits e.g. fruit shortcake, garibaldi" code="FBNW">
-        <guide-image name="Gbisc" />
+        <guide portion-size="Gbisc" />
       </food>
       <food description="Fig rolls" code="FIGR"></food>
     </category>
@@ -271,41 +271,41 @@
     </category>
     <category description="Jaffa Cakes" code="JFFA">
       <food description="Jaffa Cakes" code="JFFA">
-        <guide-image name="Gswb" />
+        <guide portion-size="Gswb" />
       </food>
     </category>
     <category description="Sandwich Biscuits" code="SDWB">
       <food description="Biscuit, crunchy with cream filling e.g. Fox's crunch creams" code="CBCF">
-        <guide-image name="Gswb" />
+        <guide portion-size="Gswb" />
       </food>
       <food description="Biscuits with cream filling e.g. Custard creams, bourbons" code="CTCM">
-        <guide-image name="Gswb" />
+        <guide portion-size="Gswb" />
       </food>
       <food description="Biscuits filled with Jam and cream e.g. happy faces" code="SDBB">
-        <guide-image name="Gswb" />
+        <guide portion-size="Gswb" />
       </food>
       <food description="Biscuits filled with Jam e.g. jammy dodgers" code="SDBJ">
-        <guide-image name="Gswb" />
+        <guide portion-size="Gswb" />
       </food>
     </category>
     <category description="Short sweet biscuits, e.g Shortcake biscuit, Lincoln" code="SHRT">
       <food description="Butter biscuits e.g. butter thins" code="BTRB">
-        <guide-image name="Gbisc" />
+        <guide portion-size="Gbisc" />
       </food>
       <food description="Caramel shortcake" code="CRMS"></food>
       <food description="Shortbread" code="SHBR">
-        <guide-image name="Gbisc" />
+        <guide portion-size="Gbisc" />
       </food>
       <food description="Short or sweet biscuits half coated with chocolate, e.g. chocolate Hob nobs" code="SHRC">
-        <guide-image name="Gbisc" />
+        <guide portion-size="Gbisc" />
       </food>
       <food description="Short sweet biscuits, e.g Shortcake biscuit, Lincoln" code="SHRT">
-        <guide-image name="Gbisc" />
+        <guide portion-size="Gbisc" />
       </food>
     </category>
     <category description="Semi Sweet Biscuits" code="SWBC">
       <food description="Semi-sweet biscuit e.g. hovis biscuit" code="SWBH">
-        <guide-image name="Gcra" />
+        <guide portion-size="Gcra" />
       </food>
     </category>
     <category description="Wafer Sandwich Biscuit, e.g.pink wafer biscuits" code="WFRB">
@@ -345,20 +345,20 @@
   <category description="Buns/Cakes/Pastries/Fruit Pies" code="CAKE">
     <category description="Buns and Teacakes" code="BUNS">
       <food description="Currant bun" code="CNTB">
-        <guide-image name="Groll" />
+        <guide portion-size="Groll" />
       </food>
       <food description="Eccles cake" code="ECLE"></food>
       <food description="Hot cross buns" code="HCRB">
-        <guide-image name="Groll" />
+        <guide portion-size="Groll" />
       </food>
       <food description="Rock cakes" code="ROCK"></food>
       <food description="Teacakes, toasted" code="TTCK">
-        <guide-image name="Groll" />
+        <guide portion-size="Groll" />
       </food>
     </category>
     <category description="Chocolate Mini Rolls" code="CHMR">
       <food description="Chocolate Mini Rolls" code="CHMR">
-        <guide-image name="Gcake" />
+        <guide portion-size="Gcake" />
       </food>
     </category>
     <category description="Chocolate Krispie Cakes" code="CKRC">
@@ -369,7 +369,7 @@
         <as-served name="white_sauce" />
       </food>
       <food description="Double cream" code="DBCR">
-        <guide-image name="Gspn" />
+        <guide portion-size="Gspn" />
       </food>
       <food description="Eclairs (cream cake), homemade" code="ECFH"></food>
       <food description="Eclairs (cream cake), shop bought" code="ECFN"></food>
@@ -377,16 +377,16 @@
         <as-served name="white_sauce" />
       </food>
       <food description="Sour cream based Dips" code="SCRM">
-        <guide-image name="Gspns" />
+        <guide portion-size="Gspns" />
       </food>
       <food description="Single cream" code="SNCR">
-        <guide-image name="Gspn" />
+        <guide portion-size="Gspn" />
       </food>
       <food description="Whipped cream canned in an aerosol, e.g anchor" code="WCRA">
-        <guide-image name="Gspn" />
+        <guide portion-size="Gspn" />
       </food>
       <food description="Fresh whipped cream" code="WCRF">
-        <guide-image name="Gspn" />
+        <guide portion-size="Gspn" />
       </food>
     </category>
     <category description="Cheesecake" code="CSCK">
@@ -400,39 +400,39 @@
     </category>
     <category description="Doughnuts" code="DGNT">
       <food description="Doughnut filled with custard" code="CDNT">
-        <guide-image name="Gdou" />
+        <guide portion-size="Gdou" />
       </food>
       <food description="Iced doughnut" code="IDNT">
-        <guide-image name="Gdou" />
+        <guide portion-size="Gdou" />
       </food>
       <food description="Doughnut filled with Jam" code="JDNT">
-        <guide-image name="Gdou" />
+        <guide portion-size="Gdou" />
       </food>
       <food description="Ring doughnut" code="RDNT">
-        <guide-image name="Gdou" />
+        <guide portion-size="Gdou" />
       </food>
     </category>
     <category description="Fruit Pie" code="FRTP">
       <food description="Fruit pie, individual" code="FTPI">
-        <guide-image name="Gcake" />
+        <guide portion-size="Gcake" />
       </food>
       <food description="Fruit pie, slice from large pie" code="FTPS"></food>
     </category>
     <category description="Fairy / Fancy Cakes" code="FRYC">
       <food description="Chocolate fairy cakes with icing" code="CFCI">
-        <guide-image name="Gcake" />
+        <guide portion-size="Gcake" />
       </food>
       <food description="Chocolate fairy cakes no icing" code="CFCN">
-        <guide-image name="Gcake" />
+        <guide portion-size="Gcake" />
       </food>
       <food description="Chocolate Chip Muffins" code="CMUF">
-        <guide-image name="Gcake" />
+        <guide portion-size="Gcake" />
       </food>
       <food description="Fairy cakes with icing" code="FCIC">
-        <guide-image name="Gcake" />
+        <guide portion-size="Gcake" />
       </food>
       <food description="Fairy cakes no icing" code="FCNI">
-        <guide-image name="Gcake" />
+        <guide portion-size="Gcake" />
       </food>
     </category>
     <category description="Gateaux" code="GATX">
@@ -445,7 +445,7 @@
     </category>
     <category description="Iced buns" code="IBUN">
       <food description="Iced buns" code="IBUN">
-        <guide-image name="Groll" />
+        <guide portion-size="Groll" />
       </food>
     </category>
     <category description="Scones" code="SCNS">
@@ -455,25 +455,25 @@
     </category>
     <category description="Slab Cakes and Cake Slices" code="SLBC">
       <food description="Battenberg cake" code="BTNB">
-        <guide-image name="Gcake" />
+        <guide portion-size="Gcake" />
       </food>
       <food description="Chocolate slice" code="CHSL">
-        <guide-image name="Gcake" />
+        <guide portion-size="Gcake" />
       </food>
       <food description="Carrot cake (with icing)" code="CROT">
-        <guide-image name="Gcake" />
+        <guide portion-size="Gcake" />
       </food>
       <food description="Carrot cake" code="CTCK">
-        <guide-image name="Gcake" />
+        <guide portion-size="Gcake" />
       </food>
       <food description="Country slice (cake bar with sultanas)" code="CTSL">
-        <guide-image name="Gcake" />
+        <guide portion-size="Gcake" />
       </food>
       <food description="Fruit cake" code="FTCK"></food>
       <food description="Gingerbread / Gingercake, homemade" code="GNGH"></food>
       <food description="Gingerbread / Gingercake, purchased" code="GNGP"></food>
       <food description="Iced lemon slices" code="ILSL">
-        <guide-image name="Gcake" />
+        <guide portion-size="Gcake" />
       </food>
       <food description="Madeira cake" code="MDCK"></food>
     </category>
@@ -509,14 +509,14 @@
     </category>
     <category description="Tarts" code="TART">
       <food description="Bakewell tart / Frangipane tart" code="BTRT">
-        <guide-image name="Gcake" />
+        <guide portion-size="Gcake" />
       </food>
       <food description="Custard tart, slice of large tart" code="CSTL"></food>
       <food description="Custard tarts, individual" code="CSTS">
-        <guide-image name="Gcake" />
+        <guide portion-size="Gcake" />
       </food>
       <food description="Jam tarts" code="JTRT">
-        <guide-image name="Gcake" />
+        <guide portion-size="Gcake" />
       </food>
       <food description="Treacle" code="TRCL"></food>
     </category>
@@ -633,103 +633,103 @@
     </category>
     <category description="Chocolate Bars" code="BARS">
       <food description="Wispa/Aero, other chocolate bars with bubbles" code="AERO">
-        <guide-image name="Gaero" />
+        <guide portion-size="Gaero" />
       </food>
       <food description="Chocolate - pieces / squares" code="BLOC">
-        <guide-image name="Gcdmc" />
+        <guide portion-size="Gcdmc" />
       </food>
       <food description="Bounty bar" code="BNTI">
-        <guide-image name="Gbonti" />
+        <guide portion-size="Gbonti" />
       </food>
       <food description="Boost bar" code="BOST">
-        <guide-image name="Gdekr" />
+        <guide portion-size="Gdekr" />
       </food>
       <food description="Chocolate bar" code="CBAS">
-        <guide-image name="Gumrs" />
+        <guide portion-size="Gumrs" />
       </food>
       <food description="Cadbury Dairy Milk chocolate, in bars" code="CDMB">
-        <guide-image name="Gcdmb" />
+        <guide portion-size="Gcdmb" />
       </food>
       <food description="Cadbury Dairy Milk chocolate, in squares" code="CDMS">
-        <guide-image name="Gcdmc" />
+        <guide portion-size="Gcdmc" />
       </food>
       <food description="Chomp chocolate bar" code="CHOM">
-        <guide-image name="Gkbar" />
+        <guide portion-size="Gkbar" />
       </food>
       <food description="Crunchie" code="CNCH">
-        <guide-image name="Gcbar" />
+        <guide portion-size="Gcbar" />
       </food>
       <food description="Chocolate bar with nuts" code="CNUT">
-        <guide-image name="Gcdmb" />
+        <guide portion-size="Gcdmb" />
       </food>
       <food description="Plain chocolate / Dark chocolate" code="CPLN">
-        <guide-image name="Gcdmc" />
+        <guide portion-size="Gcdmc" />
       </food>
       <food description="White Chocolate, in bars" code="CWHB">
-        <guide-image name="Gwcho" />
+        <guide portion-size="Gwcho" />
       </food>
       <food description="White Chocolate, in squares" code="CWHS">
-        <guide-image name="Gcdmc" />
+        <guide portion-size="Gcdmc" />
       </food>
       <food description="Curly Wurly bar" code="CWRL">
-        <guide-image name="Gkbar" />
+        <guide portion-size="Gkbar" />
       </food>
       <food description="Double Decker" code="DEKR">
-        <guide-image name="Gdekr" />
+        <guide portion-size="Gdekr" />
       </food>
       <food description="Drifter bar" code="DRFT">
-        <guide-image name="Gcbar" />
+        <guide portion-size="Gcbar" />
       </food>
       <food description="Cadbury Flake chocolate bar" code="FLAK">
-        <guide-image name="Gtwfk" />
+        <guide portion-size="Gtwfk" />
       </food>
       <food description="Freddo" code="FRDO">
-        <guide-image name="Gkbar" />
+        <guide portion-size="Gkbar" />
       </food>
       <food description="Fruit and nut milk chocolate" code="FTNT"></food>
       <food description="Fudge bar" code="FUDG">
-        <guide-image name="Gkbar" />
+        <guide portion-size="Gkbar" />
       </food>
       <food description="Galaxy chocolate bar" code="GALX">
-        <guide-image name="Ggalx" />
+        <guide portion-size="Ggalx" />
       </food>
       <food description="Kinder Bueno" code="KBNO">
-        <guide-image name="Gcbar" />
+        <guide portion-size="Gcbar" />
       </food>
       <food description="Kit kat" code="KTKT"></food>
       <food description="Lion bar" code="LION">
-        <guide-image name="Gcbar" />
+        <guide portion-size="Gcbar" />
       </food>
       <food description="Mars bar" code="MARS">
-        <guide-image name="Gmars" />
+        <guide portion-size="Gmars" />
       </food>
       <food description="Milky bar" code="MKYB">
-        <guide-image name="Gmkyb" />
+        <guide portion-size="Gmkyb" />
       </food>
       <food description="Milky way" code="MWAY">
-        <guide-image name="Gmlky" />
+        <guide portion-size="Gmlky" />
       </food>
       <food description="Picnic Chocolate Bar" code="PCNC"></food>
       <food description="Snickers" code="SNIC">
-        <guide-image name="Gsnck" />
+        <guide portion-size="Gsnck" />
       </food>
       <food description="Toffee Crisp bar" code="TFFE">
-        <guide-image name="Gcbar" />
+        <guide portion-size="Gcbar" />
       </food>
       <food description="Topic" code="TOPC">
-        <guide-image name="Gumrs" />
+        <guide portion-size="Gumrs" />
       </food>
       <food description="Twirl chocolate bar" code="TWRL">
-        <guide-image name="Gtwfk" />
+        <guide portion-size="Gtwfk" />
       </food>
       <food description="White chocolate e.g Milky Bar or Dream" code="WMKY">
-        <guide-image name="Gwcho" />
+        <guide portion-size="Gwcho" />
       </food>
     </category>
     <category description="Chocolate biscuit with caramel, e.g. Caramel Rocky" code="CARM">
       <food description="Munchies" code="MNCH"></food>
       <food description="Twix" code="TWIX">
-        <guide-image name="Gtwix" />
+        <guide portion-size="Gtwix" />
       </food>
     </category>
     <category description="Creme eggs / Mintola" code="CEGG">
@@ -738,34 +738,34 @@
     <category description="Small Sweets covered in Chocolate e.g. poppets" code="CSWT">
       <food description="Nuts covered in Chocolate or Candy" code="CCNT"></food>
       <food description="Chocolates e.g. Roses or Quality Street" code="CFAF">
-        <guide-image name="Gcdmc" />
+        <guide portion-size="Gcdmc" />
       </food>
       <food description="Milk chocolate raisins" code="MCRS">
         <as-served name="raisins_2" />
       </food>
       <food description="M&amp;M`s" code="MNMS">
-        <guide-image name="Gmnms" />
+        <guide portion-size="Gmnms" />
       </food>
       <food description="Smarties" code="SMRT"></food>
     </category>
     <category description="Chocolate Sweets" code="SWTS">
       <food description="Chocolate shapes, milk e.g mice/ coins" code="CSHP">
-        <guide-image name="Gcdmc" />
+        <guide portion-size="Gcdmc" />
       </food>
       <food description="Milk chocolate Buttons" code="MBTN">
-        <guide-image name="Gmbut" />
+        <guide portion-size="Gmbut" />
       </food>
       <food description="Maltesers" code="MLTR">
-        <guide-image name="Gmalt" />
+        <guide portion-size="Gmalt" />
       </food>
       <food description="Minstrels" code="MNST">
-        <guide-image name="Gmnst" />
+        <guide portion-size="Gmnst" />
       </food>
       <food description="White chocolate Buttons" code="WBTN">
-        <guide-image name="Gmkyb" />
+        <guide portion-size="Gmkyb" />
       </food>
       <food description="Chocolate shapes, white e.g. mice/ coins" code="WSHP">
-        <guide-image name="Gcdmc" />
+        <guide portion-size="Gcdmc" />
       </food>
     </category>
   </category>
@@ -789,25 +789,25 @@
         <as-served name="cheese" />
       </food>
       <food description="Cheddar cheese, minis / snack pack" code="CHMP">
-        <guide-image name="Gchse" />
+        <guide portion-size="Gchse" />
       </food>
       <food description="Cheshire cheese, minis / snack pack" code="CSMP">
-        <guide-image name="Gchse" />
+        <guide portion-size="Gchse" />
       </food>
       <food description="Double Gloucester cheese" code="DBGL">
         <as-served name="cheese" />
       </food>
       <food description="Double Gloucester cheese, minis/snack pack" code="DGMP">
-        <guide-image name="Gchse" />
+        <guide portion-size="Gchse" />
       </food>
       <food description="Edam cheese" code="EDAM">
         <as-served name="cheese" />
       </food>
       <food description="Edam chese, minis / snack pack e.g. babybel" code="EDMP">
-        <guide-image name="Gchse" />
+        <guide portion-size="Gchse" />
       </food>
       <food description="Red leicester cheese, minis/ snack pack" code="LCMP">
-        <guide-image name="Gchse" />
+        <guide portion-size="Gchse" />
       </food>
       <food description="Leicestershire cheese" code="LEIC">
         <as-served name="cheese" />
@@ -816,10 +816,10 @@
         <as-served name="cheese" />
       </food>
       <food description="Cheddar/cheshire cheese low fat, minis / snack pack" code="LFMP">
-        <guide-image name="Gchse" />
+        <guide portion-size="Gchse" />
       </food>
       <food description="Parmesan Cheese" code="PARM">
-        <guide-image name="Gspn" />
+        <guide portion-size="Gspn" />
       </food>
       <food description="Stilton cheese" code="STIL">
         <as-served name="cheese" />
@@ -856,7 +856,7 @@
         <as-served name="cream_cheese_spread" />
       </food>
       <food description="Cheese triangles flavoured e.g primula, boursin" code="CTRF">
-        <guide-image name="Gchse" />
+        <guide portion-size="Gchse" />
       </food>
     </category>
   </category>
@@ -886,18 +886,18 @@
         <as-served name="sauce_dollop" />
       </food>
       <food description="Chilli sauce, (in spoonfuls)" code="CSSN">
-        <guide-image name="Gspn" />
+        <guide portion-size="Gspn" />
       </food>
       <food description="Sweet chilli sauce (dollop)" code="SCHS">
         <as-served name="sauce_dollop" />
       </food>
       <food description="Sweet chilli sauce, spooned" code="SCSS">
-        <guide-image name="Gspn" />
+        <guide portion-size="Gspn" />
       </food>
     </category>
     <category description="Cranberry sauce" code="CRNB">
       <food description="Cranberry sauce" code="CRNB">
-        <guide-image name="Gspn" />
+        <guide portion-size="Gspn" />
       </food>
     </category>
     <category description="Gravy and Stock Cubes" code="CUBE">
@@ -927,7 +927,7 @@
     </category>
     <category description="Mint Sauce" code="MNTS">
       <food description="Mint Sauce" code="MNTS">
-        <guide-image name="Gspn" />
+        <guide portion-size="Gspn" />
       </food>
     </category>
     <category description="Mustard" code="MTRD">
@@ -946,10 +946,10 @@
     </category>
     <category description="Relish" code="RELS">
       <food description="Cornetto / king cone" code="CORN">
-        <guide-image name="Gspns" />
+        <guide portion-size="Gspns" />
       </food>
       <food description="???" code="RBRG">
-        <guide-image name="Gspns" />
+        <guide portion-size="Gspns" />
       </food>
     </category>
     <category description="Seafood sauce (dollop)" code="SEAS">
@@ -976,7 +976,7 @@
     </category>
     <category description="Soy sauce" code="SOYS">
       <food description="Soy sauce" code="SOYS">
-        <guide-image name="Gspns" />
+        <guide portion-size="Gspns" />
       </food>
     </category>
     <category description="Tomato ketchup (dollop)" code="TKET">
@@ -989,16 +989,16 @@
     </category>
     <category description="Vinegars" code="VNGR">
       <food description="Balsamic vinegar" code="BVGR">
-        <guide-image name="Gspn" />
+        <guide portion-size="Gspn" />
       </food>
       <food description="Cider vinegar" code="CVGR">
-        <guide-image name="Gspn" />
+        <guide portion-size="Gspn" />
       </food>
       <food description="Malt vinegar e.g. Sarsons" code="MVGR">
-        <guide-image name="Gspn" />
+        <guide portion-size="Gspn" />
       </food>
       <food description="White and red wine vinegar" code="WVGR">
-        <guide-image name="Gspn" />
+        <guide portion-size="Gspn" />
       </food>
     </category>
     <category description="White/ Cheese Sauce" code="WHTE">
@@ -1011,7 +1011,7 @@
     </category>
     <category description="Worcestershire sauce" code="WRCT">
       <food description="Worcestershire sauce" code="WRCT">
-        <guide-image name="Gspn" />
+        <guide portion-size="Gspn" />
       </food>
     </category>
   </category>
@@ -1022,10 +1022,10 @@
     </category>
     <category description="Chew Sweets" code="CHEW">
       <food description="Coated chew sweets e.g skittles / tooty frooties" code="SKIT">
-        <guide-image name="Gskit" />
+        <guide portion-size="Gskit" />
       </food>
       <food description="Starbursts / chewits / chews / pacers" code="STAR">
-        <guide-image name="Gswts" />
+        <guide portion-size="Gswts" />
       </food>
     </category>
     <category description="Chocolate Spread" code="CHOC">
@@ -1036,17 +1036,17 @@
         <as-served name="cream_cheese_spread" />
       </food>
       <food description="Rolos" code="ROLO">
-        <guide-image name="Gswts" />
+        <guide portion-size="Gswts" />
       </food>
     </category>
     <category description="Candy" code="CNDY">
       <food description="Fruit flavoured laces" code="FFLA">
-        <guide-image name="Gswt2" />
+        <guide portion-size="Gswt2" />
       </food>
       <food description="Liquorice allsorts" code="LALS"></food>
       <food description="Peppermint creams / dolly mixtures" code="PCRM"></food>
       <food description="Sherbert sweets e.g Fizzers / love hearts / parma violets" code="SHER">
-        <guide-image name="Gswt2" />
+        <guide portion-size="Gswt2" />
       </food>
     </category>
     <category description="Chewing Gum" code="GUMS">
@@ -1055,13 +1055,13 @@
     </category>
     <category description="Jelly Sweets" code="JLYS">
       <food description="Fruit gums / winegums" code="FGUM">
-        <guide-image name="Gswts" />
+        <guide portion-size="Gswts" />
       </food>
       <food description="Jelly tots / fruit pastilles" code="FPST">
-        <guide-image name="Gswts" />
+        <guide portion-size="Gswts" />
       </food>
       <food description="Jelly babies" code="JBAB">
-        <guide-image name="Gswt2" />
+        <guide portion-size="Gswt2" />
       </food>
       <food description="Liquorice shapes" code="LQRC"></food>
     </category>
@@ -1208,57 +1208,57 @@
   <category description="Crisps/Snacks/Nuts" code="CRPS">
     <category description="Crisps/Snacks/Nuts" code="CRPS">
       <food description="Frazzle Crisps" code="FRAZ">
-        <guide-image name="Gfrazz" />
+        <guide portion-size="Gfrazz" />
       </food>
       <food description="Pringle Crisps, all flavours" code="PRIN">
-        <guide-image name="Gprin" />
+        <guide portion-size="Gprin" />
       </food>
     </category>
     <category description="Crisps, any flavour" code="CRSP">
       <food description="Crinkle cut crisps, any flavour" code="CCSP">
-        <guide-image name="Gcri" />
+        <guide portion-size="Gcri" />
       </food>
       <food description="Chipsticks, other potato and corn sticks" code="CPST">
-        <guide-image name="Gcri" />
+        <guide portion-size="Gcri" />
       </food>
       <food description="Discos Crisps, all flavours" code="DISC">
-        <guide-image name="Gcri" />
+        <guide portion-size="Gcri" />
       </food>
       <food description="Walkers French Fries (crisps)" code="FNFR">
-        <guide-image name="Gcri" />
+        <guide portion-size="Gcri" />
       </food>
       <food description="Low fat Crisps, all flavours" code="LFCP">
-        <guide-image name="Gcri" />
+        <guide portion-size="Gcri" />
       </food>
       <food description="Monster Munch Crisps" code="MCSP">
-        <guide-image name="Gmmcp" />
+        <guide portion-size="Gmmcp" />
       </food>
       <food description="Potato crisps, any flavour" code="PCSP">
-        <guide-image name="Gcri" />
+        <guide portion-size="Gcri" />
       </food>
       <food description="Potato rings e.g. Hula hoops/ Hoop crisps" code="PRNG">
-        <guide-image name="Ghula" />
+        <guide portion-size="Ghula" />
       </food>
       <food description="Potato puffs" code="PTPF">
-        <guide-image name="Gquav" />
+        <guide portion-size="Gquav" />
       </food>
       <food description="Square crisps" code="SCSP">
-        <guide-image name="Gsqrs" />
+        <guide portion-size="Gsqrs" />
       </food>
       <food description="Corn snacks e.g Skips, all flavours" code="SKIP">
-        <guide-image name="Gskps" />
+        <guide portion-size="Gskps" />
       </food>
       <food description="Thick crinkle cut crisps e.g. McCoy's" code="TCCP">
-        <guide-image name="Gmco" />
+        <guide portion-size="Gmco" />
       </food>
       <food description="Walker Sensation Crisps, all flavours" code="WAKS">
-        <guide-image name="Gfrazz" />
+        <guide portion-size="Gfrazz" />
       </food>
       <food description="Walkers Crisps all flavours" code="WALK">
-        <guide-image name="Gwalk" />
+        <guide portion-size="Gwalk" />
       </food>
       <food description="Wheat crunchies" code="WCRN">
-        <guide-image name="Gcri" />
+        <guide portion-size="Gcri" />
       </food>
     </category>
     <category description="Nuts, Fruits and Seeds" code="NUTS">
@@ -1299,10 +1299,10 @@
     </category>
     <category description="Tortilla" code="TTCH">
       <food description="Doritos Crisps, all flavours" code="DCSP">
-        <guide-image name="Gdori" />
+        <guide portion-size="Gdori" />
       </food>
       <food description="Tortilla chips" code="TTCP">
-        <guide-image name="Gdori" />
+        <guide portion-size="Gdori" />
       </food>
     </category>
     <category description="Twiglets" code="TWIG">
@@ -1312,21 +1312,21 @@
   <category description="Drinks" code="DRNK">
     <category description="Coffee" code="CFFS">
       <food description="Black coffee" code="CFFB">
-        <guide-image name="Gmug" />
+        <guide portion-size="Gmug" />
       </food>
       <food description="Coffee made with skimmed milk" code="CFFK">
-        <guide-image name="Gmug" />
+        <guide portion-size="Gmug" />
       </food>
       <food description="Coffee made with semi skimmed milk" code="CFFM">
-        <guide-image name="Gmug" />
+        <guide portion-size="Gmug" />
       </food>
       <food description="Coffee made with whole milk" code="CFFW">
-        <guide-image name="Gmug" />
+        <guide portion-size="Gmug" />
       </food>
     </category>
     <category description="Fruit Juice" code="FJCE">
       <food description="Apple juice - in a carton / bottle / can" code="APJC">
-        <guide-image name="Gdrnk" />
+        <guide portion-size="Gdrnk" />
       </food>
       <food description="Apple juice - in a glass" code="APLJ">
         <as-served name="squash" />
@@ -1335,10 +1335,10 @@
         <as-served name="squash" />
       </food>
       <food description="Cranberry juice - in a carton/ bottle" code="CNJC">
-        <guide-image name="Gdrnk" />
+        <guide portion-size="Gdrnk" />
       </food>
       <food description="Orange juice, not freshly squeezed - in a carton/ bottle" code="OJCB">
-        <guide-image name="Gdrnk" />
+        <guide portion-size="Gdrnk" />
       </food>
       <food description="Orange juice, freshly squeezed - in a glass" code="ORGF">
         <as-served name="squash" />
@@ -1347,16 +1347,16 @@
         <as-served name="squash" />
       </food>
       <food description="Orange juice, freshly squeezed - in a carton/ bottle" code="ORJB">
-        <guide-image name="Gdrnk" />
+        <guide portion-size="Gdrnk" />
       </food>
       <food description="Pineapple juice - in a glass" code="PAPJ">
         <as-served name="squash" />
       </food>
       <food description="Pineapple juice - in a carton/ bottle" code="PNJB">
-        <guide-image name="Gdrnk" />
+        <guide portion-size="Gdrnk" />
       </food>
       <food description="Tomato juice - in a carton/ bottle" code="TOMB">
-        <guide-image name="Gdrnk" />
+        <guide portion-size="Gdrnk" />
       </food>
       <food description="Tomato juice - in a glass" code="TOMT">
         <as-served name="squash" />
@@ -1364,19 +1364,19 @@
     </category>
     <category description="Hot Chocolate and Malted Drinks" code="HCHC">
       <food description="Hot chocolate made up with water" code="DCHR">
-        <guide-image name="Gmug" />
+        <guide portion-size="Gmug" />
       </food>
       <food description="Hot chocolate made up with milk" code="DCHS">
-        <guide-image name="Gmug" />
+        <guide portion-size="Gmug" />
       </food>
       <food description="Hot chocolate made up with water, low calorie" code="DCLR">
-        <guide-image name="Gmug" />
+        <guide portion-size="Gmug" />
       </food>
       <food description="Hot chocolate low calorie made up with milk" code="DCLS">
-        <guide-image name="Gmug" />
+        <guide portion-size="Gmug" />
       </food>
       <food description="Horlicks" code="HRLK">
-        <guide-image name="Gmug" />
+        <guide portion-size="Gmug" />
       </food>
     </category>
     <category description="Smoothies" code="SMTH">
@@ -1384,10 +1384,10 @@
         <as-served name="squash" />
       </food>
       <food description="Fruit smoothie - in a carton/ bottle" code="SMTB">
-        <guide-image name="Gdrnk" />
+        <guide portion-size="Gdrnk" />
       </food>
       <food description="Fruit and yoghurt smoothie - in a carton/ bottle" code="YOGB">
-        <guide-image name="Gdrnk" />
+        <guide portion-size="Gdrnk" />
       </food>
       <food description="Fruit and yoghurt smoothie - in a glass" code="YOGG">
         <as-served name="squash" />
@@ -1398,19 +1398,19 @@
         <as-served name="squash" />
       </food>
       <food description="Apple juice, sparkling - in a carton / bottle / can" code="AJSB">
-        <guide-image name="Gdrnk" />
+        <guide portion-size="Gdrnk" />
       </food>
       <food description="Blackcurrant squash, ready to drink, e.g. Ribena - in a carton / bottle" code="BCJB">
-        <guide-image name="Gdrnk" />
+        <guide portion-size="Gdrnk" />
       </food>
       <food description="Blackcurrant squash, e.g ribena- in a can" code="BCJC">
-        <guide-image name="Gcans" />
+        <guide portion-size="Gcans" />
       </food>
       <food description="Blackcurrant squash, ready to drink, e.g. Ribena - in a glass" code="BCSQ">
         <as-served name="squash" />
       </food>
       <food description="Fizzy energy drink, e.g. Lucozade sport, Relentless, Red bull- in a carton/bottle" code="BLUC">
-        <guide-image name="Gdrnk" />
+        <guide portion-size="Gdrnk" />
       </food>
       <food description="Barley water, ready to drink, diluted" code="BWSQ">
         <as-served name="squash" />
@@ -1422,13 +1422,13 @@
         <as-served name="squash" />
       </food>
       <food description="Cola, not diet, any flavour e.g. cherry cola etc - in a carton / bottle / can" code="COLB">
-        <guide-image name="Gdrnk" />
+        <guide portion-size="Gdrnk" />
       </food>
       <food description="Cola, not diet, any flavour e.g. cherry cola etc - in a can" code="COLC">
-        <guide-image name="Gcans" />
+        <guide portion-size="Gcans" />
       </food>
       <food description="Lemon / Pineapple juice, (squash) Already diltued and ready to drink - in a carton/ bottle" code="CPJB">
-        <guide-image name="Gdrnk" />
+        <guide portion-size="Gdrnk" />
       </food>
       <food description="Lemon / Pineapple juice, (squash) Already diluted and ready to drink - in a glass" code="CPJC">
         <as-served name="squash" />
@@ -1437,40 +1437,40 @@
         <as-served name="squash" />
       </food>
       <food description="Diet lemonade - in a can" code="DCMC">
-        <guide-image name="Gcans" />
+        <guide portion-size="Gcans" />
       </food>
       <food description="Diet cola, any flavour e.g. diet cherry coke - in a carton / bottle / can" code="DCSB">
-        <guide-image name="Gdrnk" />
+        <guide portion-size="Gdrnk" />
       </food>
       <food description="Diet cola, any flavour e.g. diet cherry coke - in a can" code="DCSC">
-        <guide-image name="Gcans" />
+        <guide portion-size="Gcans" />
       </food>
       <food description="Diet irn bru - in a carton / bottle / can" code="DIBB">
-        <guide-image name="Gdrnk" />
+        <guide portion-size="Gdrnk" />
       </food>
       <food description="Diet irn bru - in a can" code="DIBC">
-        <guide-image name="Gcans" />
+        <guide portion-size="Gcans" />
       </food>
       <food description="Diet irn bru - in a glass" code="DINB">
         <as-served name="squash" />
       </food>
       <food description="Diet lemonade - in a carton / bottle / can" code="DLMB">
-        <guide-image name="Gdrnk" />
+        <guide portion-size="Gdrnk" />
       </food>
       <food description="Diet lemonade - in a glass" code="DLMD">
         <as-served name="squash" />
       </food>
       <food description="Dr Pepper - in a carton/ bottle/ can" code="DRPB">
-        <guide-image name="Gdrnk" />
+        <guide portion-size="Gdrnk" />
       </food>
       <food description="Dr Pepper - in a can" code="DRPC">
-        <guide-image name="Gcans" />
+        <guide portion-size="Gcans" />
       </food>
       <food description="Dr Pepper - in a glass" code="DRPR">
         <as-served name="squash" />
       </food>
       <food description="Fruit flavour juice, ready to drink - in a carton / bottle" code="FFJB">
-        <guide-image name="Gdrnk" />
+        <guide portion-size="Gdrnk" />
       </food>
       <food description="Fruit flavour juice, ready to drink - in a glass" code="FFJC">
         <as-served name="squash" />
@@ -1479,28 +1479,28 @@
         <as-served name="squash" />
       </food>
       <food description="Fruit flavour juice, ready to drink - in a can" code="FFJT">
-        <guide-image name="Gcans" />
+        <guide portion-size="Gcans" />
       </food>
       <food description="Fizzy energy drink, e.g. Lucozade sport, Relentless, Red bull- in a can" code="FLUC">
-        <guide-image name="Gcans" />
+        <guide portion-size="Gcans" />
       </food>
       <food description="Fizzy fruit juice drink- in a carton / bottle" code="FZFB">
-        <guide-image name="Gdrnk" />
+        <guide portion-size="Gdrnk" />
       </food>
       <food description="Fizzy fruit juice drink- in a can" code="FZFC">
-        <guide-image name="Gcans" />
+        <guide portion-size="Gcans" />
       </food>
       <food description="High juice drink, ready to drink - in a carton / bottle" code="HJCB">
-        <guide-image name="Gdrnk" />
+        <guide portion-size="Gdrnk" />
       </food>
       <food description="High juice drink, ready to drink- in a glass" code="HJCE">
         <as-served name="squash" />
       </food>
       <food description="Irn bru - in a carton / bottle / can" code="INBB">
-        <guide-image name="Gdrnk" />
+        <guide portion-size="Gdrnk" />
       </food>
       <food description="Irn bru - in a can" code="INBC">
-        <guide-image name="Gcans" />
+        <guide portion-size="Gcans" />
       </food>
       <food description="Irn bru - in a glass" code="IRNB">
         <as-served name="squash" />
@@ -1509,61 +1509,61 @@
         <as-served name="squash" />
       </food>
       <food description="Lime juice cordial, ready to drink already diluted - in a carton / bottle" code="LJSB">
-        <guide-image name="Gdrnk" />
+        <guide portion-size="Gdrnk" />
       </food>
       <food description="Lime juice cordial, ready to drink, already diluted - in a glass" code="LJSQ">
         <as-served name="squash" />
       </food>
       <food description="Lemonade - in a carton / bottle / can" code="LMNB">
-        <guide-image name="Gdrnk" />
+        <guide portion-size="Gdrnk" />
       </food>
       <food description="Lemonade - in a glass" code="LMND">
         <as-served name="squash" />
       </food>
       <food description="Lemonade - in a can" code="LMNT">
-        <guide-image name="Gcans" />
+        <guide portion-size="Gcans" />
       </food>
       <food description="Lucozade - in a carton / bottle" code="LUCB">
-        <guide-image name="Gdrnk" />
+        <guide portion-size="Gdrnk" />
       </food>
       <food description="Lucozade - in a can" code="LUCC">
-        <guide-image name="Gcans" />
+        <guide portion-size="Gcans" />
       </food>
       <food description="Mixed fruit juice, ready to drink - in a glass" code="MFJC">
         <as-served name="squash" />
       </food>
       <food description="Mixed fruit juice- in a can" code="MFJT">
-        <guide-image name="Gcans" />
+        <guide portion-size="Gcans" />
       </food>
       <food description="Mixed fruit juice, ready to drink - in a carton / bottle" code="MFRB">
-        <guide-image name="Gdrnk" />
+        <guide portion-size="Gdrnk" />
       </food>
       <food description="Mixed fruit juice, ready to drink - in a can" code="MFRC">
-        <guide-image name="Gcans" />
+        <guide portion-size="Gcans" />
       </food>
       <food description="Orange juice, from concentrate, e.g. Britvic- in a can" code="OJCC">
-        <guide-image name="Gcans" />
+        <guide portion-size="Gcans" />
       </food>
       <food description="Orange squash, ready to drink, diluted - in a carton / bottle" code="OSQB">
-        <guide-image name="Gdrnk" />
+        <guide portion-size="Gdrnk" />
       </food>
       <food description="Orange squash, ready to drink, diluted - in a glass" code="OSQU">
         <as-served name="squash" />
       </food>
       <food description="Still energy drink, eg Lucozade Hydroactive, Gatorade, Powerade - in a carton/bottle" code="SBLZ">
-        <guide-image name="Gdrnk" />
+        <guide portion-size="Gdrnk" />
       </food>
       <food description="Still energy drink, eg Lucozade Hydroactive, Gatorade, Powerade - in a glass" code="SCLZ">
         <as-served name="squash" />
       </food>
       <food description="Still energy drink, eg Lucozade Hydroactive, Gatorade, Powerade - in a can" code="SLUC">
-        <guide-image name="Gcans" />
+        <guide portion-size="Gcans" />
       </food>
       <food description="Sprite/ 7 up - in a carton / bottle" code="SNUB">
-        <guide-image name="Gdrnk" />
+        <guide portion-size="Gdrnk" />
       </food>
       <food description="Sprite/ 7 up - in a can" code="SNUC">
-        <guide-image name="Gcans" />
+        <guide portion-size="Gcans" />
       </food>
       <food description="Sprite/ 7 up - in a glass" code="SNUP">
         <as-served name="squash" />
@@ -1571,24 +1571,24 @@
     </category>
     <category description="Tea" code="TEAS">
       <food description="Black tea" code="BTEA">
-        <guide-image name="Gmug" />
+        <guide portion-size="Gmug" />
       </food>
       <food description="Herbal tea" code="HTEA">
-        <guide-image name="Gmug" />
+        <guide portion-size="Gmug" />
       </food>
       <food description="Tea made with skimmed milk" code="TEAK">
-        <guide-image name="Gmug" />
+        <guide portion-size="Gmug" />
       </food>
       <food description="Tea made with semi skimmed milk" code="TEAM">
-        <guide-image name="Gmug" />
+        <guide portion-size="Gmug" />
       </food>
       <food description="Tea made with whole milk" code="TEAW">
-        <guide-image name="Gmug" />
+        <guide portion-size="Gmug" />
       </food>
     </category>
     <category description="Water" code="WTRS">
       <food description="Water, still or fizzy - in a carton / bottle" code="FMWB">
-        <guide-image name="Gdrnk" />
+        <guide portion-size="Gdrnk" />
       </food>
       <food description="Water, still or fizzy - in a glass" code="FMWT">
         <as-served name="squash" />
@@ -1597,7 +1597,7 @@
         <as-served name="squash" />
       </food>
       <food description="Mineral water, still or carbonated - in a carton / bottle" code="SMWB">
-        <guide-image name="Gdrnk" />
+        <guide portion-size="Gdrnk" />
       </food>
       <food description="Water (from tap)" code="TWTR">
         <as-served name="squash" />
@@ -1678,7 +1678,7 @@
         <as-served name="salmon_steak" />
       </food>
       <food description="Smoked salmon, not tinned" code="SMSM">
-        <guide-image name="Gham" />
+        <guide portion-size="Gham" />
       </food>
       <food description="Trout" code="TRST">
         <as-served name="salmon_steak" />
@@ -1690,10 +1690,10 @@
     </category>
     <category description="Fish Fingers" code="FFNG">
       <food description="Fish fingers, fried" code="FFFO">
-        <guide-image name="Gtur" />
+        <guide portion-size="Gtur" />
       </food>
       <food description="Fish fingers, grilled" code="FFGR">
-        <guide-image name="Gtur" />
+        <guide portion-size="Gtur" />
       </food>
     </category>
     <category description="Fish curry" code="FHDI">
@@ -1709,21 +1709,21 @@
         <as-served name="fish_batter_2" />
       </food>
       <food description="Scampi, in breadcrumbs" code="SCMP">
-        <guide-image name="Gtur" />
+        <guide portion-size="Gtur" />
       </food>
     </category>
     <category description="Fishcakes and Shapes" code="FSCK">
       <food description="Fishcakes, coated in breadcrumbs, fried" code="FCBD">
-        <guide-image name="Gtur" />
+        <guide portion-size="Gtur" />
       </food>
       <food description="Fishcakes, coated in breadcrumbs, grilled" code="FCBG">
-        <guide-image name="Gtur" />
+        <guide portion-size="Gtur" />
       </food>
       <food description="Fish shapes, white fish in breadcrumbs fried" code="FSBD">
-        <guide-image name="Gtur" />
+        <guide portion-size="Gtur" />
       </food>
       <food description="Fish shapes, white fish in breadcrumbs grilled" code="FSBG">
-        <guide-image name="Gtur" />
+        <guide portion-size="Gtur" />
       </food>
     </category>
     <category description="Mackerel" code="MKRL">
@@ -1784,7 +1784,7 @@
     </category>
     <category description="Bananas" code="BANA">
       <food description="Bananas" code="BANA">
-        <guide-image name="Gban" />
+        <guide portion-size="Gban" />
       </food>
     </category>
     <category description="Berries" code="BERR">
@@ -1831,7 +1831,7 @@
     </category>
     <category description="Grapefruit" code="GPFT">
       <food description="Grapefruit" code="GPFT">
-        <guide-image name="Gorg" />
+        <guide portion-size="Gorg" />
       </food>
     </category>
     <category description="Grapes" code="GRPS">
@@ -1866,32 +1866,32 @@
     </category>
     <category description="Oranges/ Tangerines/ Mandarins/ Clementines/ Satsumas" code="ORNG">
       <food description="Oranges" code="ORGS">
-        <guide-image name="Gorg" />
+        <guide portion-size="Gorg" />
       </food>
       <food description="Tangerines / mandarins / clementines/ satsumas" code="TNGS">
-        <guide-image name="Gorg" />
+        <guide portion-size="Gorg" />
       </food>
     </category>
     <category description="Nectarines/ Peaches" code="PCHS">
       <food description="Nectarines, left skin" code="NCTF">
-        <guide-image name="Gorg" />
+        <guide portion-size="Gorg" />
       </food>
       <food description="Nectarines, ate skin" code="NECT">
-        <guide-image name="Gorg" />
+        <guide portion-size="Gorg" />
       </food>
       <food description="Peaches, skin eaten" code="PCHA">
-        <guide-image name="Gorg" />
+        <guide portion-size="Gorg" />
       </food>
       <food description="Peaches, no skin eaten" code="PCHF">
-        <guide-image name="Gorg" />
+        <guide portion-size="Gorg" />
       </food>
     </category>
     <category description="Pears" code="PEAR">
       <food description="Pears, including eating the skin" code="EPER">
-        <guide-image name="Gprs" />
+        <guide portion-size="Gprs" />
       </food>
       <food description="Pears, no skin eaten" code="EPRF">
-        <guide-image name="Gprs" />
+        <guide portion-size="Gprs" />
       </food>
     </category>
     <category description="Pineapple" code="PINE">
@@ -1901,10 +1901,10 @@
     </category>
     <category description="Plums" code="PLUM">
       <food description="Plums, skin eaten" code="PLMA">
-        <guide-image name="Gtom" />
+        <guide portion-size="Gtom" />
       </food>
       <food description="Plums, skin not eaten" code="PLMF">
-        <guide-image name="Gtom" />
+        <guide portion-size="Gtom" />
       </food>
       <food description="Plums, stewed" code="PLMS">
         <as-served name="apple_stewed" />
@@ -1931,16 +1931,16 @@
     </category>
     <category description="Tomatoes" code="TMTO">
       <food description="Cherry tomatoes" code="CTOM">
-        <guide-image name="Gtom" />
+        <guide portion-size="Gtom" />
       </food>
       <food description="Tomatoes, fried" code="FTOM">
-        <guide-image name="Gtom" />
+        <guide portion-size="Gtom" />
       </food>
       <food description="Tomatoes, grilled" code="GTOM">
-        <guide-image name="Gtom" />
+        <guide portion-size="Gtom" />
       </food>
       <food description="Tomatoes, raw" code="RTOM">
-        <guide-image name="Gtom" />
+        <guide portion-size="Gtom" />
       </food>
       <food description="Tomatoes, tinned" code="TTOM"></food>
     </category>
@@ -1948,7 +1948,7 @@
   <category description="Herbs/Spices" code="HRSP">
     <category description="Chilli Powder" code="CHIL">
       <food description="Chilli Powder" code="CHIL">
-        <guide-image name="Gspn" />
+        <guide portion-size="Gspn" />
       </food>
     </category>
     <category description="Herbs" code="HRBS">
@@ -1972,10 +1972,10 @@
     </category>
     <category description="Choc Ice" code="CHCI">
       <food description="Choc Ice" code="CHCI">
-        <guide-image name="Gice2" />
+        <guide portion-size="Gice2" />
       </food>
       <food description="Choc ices containing caramel" code="LCHC">
-        <guide-image name="Gice2" />
+        <guide portion-size="Gice2" />
       </food>
     </category>
     <category description="Ice Cream" code="ICEC">
@@ -1983,7 +1983,7 @@
         <as-served name="ice_cream" />
       </food>
       <food description="Cornetto / king cone" code="CORN">
-        <guide-image name="Gice2" />
+        <guide portion-size="Gice2" />
       </food>
       <food description="Ice cream desserts e.g. Sonata, Viennetta" code="FICD">
         <as-served name="ice_cream" />
@@ -2000,51 +2000,51 @@
     </category>
     <category description="Ice Lollies" code="ILOL">
       <food description="Fab lolly" code="FABL">
-        <guide-image name="Gice1" />
+        <guide portion-size="Gice1" />
       </food>
       <food description="Ice lolly, fruit flavoured" code="FFIL">
-        <guide-image name="Gice1" />
+        <guide portion-size="Gice1" />
       </food>
       <food description="Fruit pastilles lolly" code="FPIL">
-        <guide-image name="Gice1" />
+        <guide portion-size="Gice1" />
       </food>
       <food description="Ice lollies, made with real fruit juice e.g. Fruit Pastilles, Del Monte" code="ILVC">
-        <guide-image name="Gice1" />
+        <guide portion-size="Gice1" />
       </food>
       <food description="Mini milk" code="MNMK">
-        <guide-image name="Gice1" />
+        <guide portion-size="Gice1" />
       </food>
       <food description="Push pop lolly" code="PSPP">
-        <guide-image name="Gice1" />
+        <guide portion-size="Gice1" />
       </food>
       <food description="Rocket lolly" code="RKTL">
-        <guide-image name="Gice1" />
+        <guide portion-size="Gice1" />
       </food>
       <food description="Solero" code="SLRO">
-        <guide-image name="Gice1" />
+        <guide portion-size="Gice1" />
       </food>
     </category>
     <category description="Ice Cream Lollies" code="LOLS">
       <food description="Bounty ice cream" code="BNTY">
-        <guide-image name="Gice2" />
+        <guide portion-size="Gice2" />
       </food>
       <food description="Feast" code="FEST">
-        <guide-image name="Gice2" />
+        <guide portion-size="Gice2" />
       </food>
       <food description="Fruit lolly with ice cream filling" code="FLLI">
-        <guide-image name="Gice1" />
+        <guide portion-size="Gice1" />
       </food>
       <food description="Mars ice cream" code="IMRS">
-        <guide-image name="Gice2" />
+        <guide portion-size="Gice2" />
       </food>
       <food description="Snickers" code="ISNK">
-        <guide-image name="Gice2" />
+        <guide portion-size="Gice2" />
       </food>
       <food description="Magnum" code="MGNM">
-        <guide-image name="Gice2" />
+        <guide portion-size="Gice2" />
       </food>
       <food description="Twister ice lolly" code="TSTR">
-        <guide-image name="Gice1" />
+        <guide portion-size="Gice1" />
       </food>
     </category>
     <category description="Sorbet" code="SORB">
@@ -2059,61 +2059,61 @@
   <category description="Meat and Meat Products" code="MEAT">
     <category description="Bacon" code="BCNS">
       <food description="Gammon rashers, fried" code="BGRF">
-        <guide-image name="Gbcn" />
+        <guide portion-size="Gbcn" />
       </food>
       <food description="Gammon rashers, grilled" code="BGRG">
-        <guide-image name="Gbcn" />
+        <guide portion-size="Gbcn" />
       </food>
       <food description="Bacon (fat around edge only) fried" code="BNSF">
-        <guide-image name="Gbcn" />
+        <guide portion-size="Gbcn" />
       </food>
       <food description="Bacon (fat around edge only) grilled" code="BNSG">
-        <guide-image name="Gbcn" />
+        <guide portion-size="Gbcn" />
       </food>
       <food description="Streaky bacon (with fat streaks), grilled" code="BRKG">
-        <guide-image name="Gbcn" />
+        <guide portion-size="Gbcn" />
       </food>
     </category>
     <category description="Burger in a Bun" code="BRGB">
       <food description="Big Mac/Whopper" code="BMWH">
-        <guide-image name="Gbur" />
+        <guide portion-size="Gbur" />
       </food>
       <food description="Cheese burger takeaway" code="CBTA">
-        <guide-image name="Gbur" />
+        <guide portion-size="Gbur" />
       </food>
       <food description="Hamburger in a bun, from takeaway" code="HBTA">
-        <guide-image name="Gbur" />
+        <guide portion-size="Gbur" />
       </food>
       <food description="Quarter pounder hamburger with cheese" code="QPHC">
-        <guide-image name="Gbur" />
+        <guide portion-size="Gbur" />
       </food>
       <food description="Quarter pounder, in a bun, from takeaway" code="QPTA">
-        <guide-image name="Gbur" />
+        <guide portion-size="Gbur" />
       </food>
     </category>
     <category description="Chicken / Turkey / Vegetable Burger" code="BRGO">
       <food description="Chicken burger in a bun with lettuce" code="CBBL">
-        <guide-image name="Gbur" />
+        <guide portion-size="Gbur" />
       </food>
       <food description="Chicken burger (no bun) grilled or fried" code="CBGF">
-        <guide-image name="Gbur" />
+        <guide portion-size="Gbur" />
       </food>
       <food description="Turkey burger / turkey steak, grilled or fried" code="TBSF">
-        <guide-image name="Gbur" />
+        <guide portion-size="Gbur" />
       </food>
       <food description="Veggie burger, grilled or fried" code="VBGF">
-        <guide-image name="Gbur" />
+        <guide portion-size="Gbur" />
       </food>
     </category>
     <category description="Burgers" code="BRGR">
       <food description="Beefburger (No bun)" code="BBFG">
-        <guide-image name="Gbur" />
+        <guide portion-size="Gbur" />
       </food>
       <food description="Beef grillsteaks, fried or grilled" code="BGSF">
-        <guide-image name="Gbur" />
+        <guide portion-size="Gbur" />
       </food>
       <food description="Pork burgers, fried or grilled" code="PBLF">
-        <guide-image name="Gbur" />
+        <guide portion-size="Gbur" />
       </food>
     </category>
     <category description="Curry/Sweet and Sour" code="CCRY">
@@ -2144,7 +2144,7 @@
     </category>
     <category description="Pork chops" code="CHOP">
       <food description="Pork chop, grilled" code="PGLF">
-        <guide-image name="Gbur" />
+        <guide portion-size="Gbur" />
       </food>
     </category>
     <category description="Corned Beef" code="CNBF">
@@ -2153,16 +2153,16 @@
     </category>
     <category description="Ham" code="HAMS">
       <food description="Gammon joint, slices" code="GSLI">
-        <guide-image name="Gham" />
+        <guide portion-size="Gham" />
       </food>
       <food description="Ham, tinned" code="HCAN">
-        <guide-image name="Gham" />
+        <guide portion-size="Gham" />
       </food>
       <food description="Ham" code="HUSM">
-        <guide-image name="Gham" />
+        <guide portion-size="Gham" />
       </food>
       <food description="Salami" code="SLMI">
-        <guide-image name="Gsaus" />
+        <guide portion-size="Gsaus" />
       </food>
     </category>
     <category description="Doner kebabs, meat only" code="KBAB">
@@ -2173,7 +2173,7 @@
     <category description="Luncheon Meat" code="LNCH">
       <food description="Chopped pork, canned e.g Spam/ Pek" code="HPCC"></food>
       <food description="Garlic sausage" code="HPCG">
-        <guide-image name="Gsaus" />
+        <guide portion-size="Gsaus" />
       </food>
       <food description="Luncheon Meat, not canned" code="LMNC"></food>
       <food description="Luncheon Meat, pork, canned" code="LMPC"></food>
@@ -2197,25 +2197,25 @@
     </category>
     <category description="Chicken / Turkey Nuggets / Fingers / Goujons" code="MFGR">
       <food description="Chicken fingers / Nuggets, fried" code="CFFO">
-        <guide-image name="Gtur" />
+        <guide portion-size="Gtur" />
       </food>
       <food description="Chicken fingers / Nuggets, grilled" code="CHFG">
-        <guide-image name="Gtur" />
+        <guide portion-size="Gtur" />
       </food>
       <food description="Chicken or Turkey fingers/ pieces / goujons / in breadcrumbs, grilled or oven baked" code="CPBG">
-        <guide-image name="Gtur" />
+        <guide portion-size="Gtur" />
       </food>
       <food description="Chicken pieces, from a takeaway" code="CPTA">
-        <guide-image name="Gtur" />
+        <guide portion-size="Gtur" />
       </food>
       <food description="Chicken kiev" code="KIEV">
-        <guide-image name="Gtur" />
+        <guide portion-size="Gtur" />
       </food>
       <food description="Chicken satay" code="SATY">
-        <guide-image name="Gtur" />
+        <guide portion-size="Gtur" />
       </food>
       <food description="Turkey fingers / nuggets/ pieces/ goujons coated in crumbs, grilled or baked" code="TPBG">
-        <guide-image name="Gtur" />
+        <guide portion-size="Gtur" />
       </food>
     </category>
     <category description="Minced Meat and Bolognaise" code="MNCD">
@@ -2239,26 +2239,26 @@
     </category>
     <category description="Meat Pies" code="MTPS">
       <food description="Cornish pastie" code="CNPT">
-        <guide-image name="Gpiesaus" />
+        <guide portion-size="Gpiesaus" />
       </food>
       <food description="Chicken pie, individual" code="CPFI">
-        <guide-image name="Gpiesaus" />
+        <guide portion-size="Gpiesaus" />
       </food>
       <food description="Chicken pie (slice from large pie)" code="CPLS"></food>
       <food description="Individual steak pie" code="ISTP">
-        <guide-image name="Gpiesaus" />
+        <guide portion-size="Gpiesaus" />
       </food>
       <food description="Minced beef pie" code="MBFP">
-        <guide-image name="Gpiesaus" />
+        <guide portion-size="Gpiesaus" />
       </food>
       <food description="Mini pork pie" code="MPKP">
-        <guide-image name="Gpiesaus" />
+        <guide portion-size="Gpiesaus" />
       </food>
       <food description="Pork pie, slice from large pie" code="SPKP">
-        <guide-image name="Gpiesaus" />
+        <guide portion-size="Gpiesaus" />
       </food>
       <food description="Steak and kidney pie" code="STKK">
-        <guide-image name="Gpiesaus" />
+        <guide portion-size="Gpiesaus" />
       </food>
     </category>
     <category description="Crispy pancakes" code="PANK">
@@ -2273,16 +2273,16 @@
         <as-served name="chicken_breast_slices" />
       </food>
       <food description="Chicken breast fillet" code="CHFT">
-        <guide-image name="Gchckbrst" />
+        <guide portion-size="Gchckbrst" />
       </food>
       <food description="Chicken wings, marinated (soaked in sauce/juice before cooking)" code="CWMD">
-        <guide-image name="Gchckleg" />
+        <guide portion-size="Gchckleg" />
       </food>
       <food description="Chicken/Turkey breast, without skin" code="LMFT">
-        <guide-image name="Gchckbrst" />
+        <guide portion-size="Gchckbrst" />
       </food>
       <food description="Chicken/Turkey wing/drumstick, without skin" code="LMLG">
-        <guide-image name="Gchckleg" />
+        <guide portion-size="Gchckleg" />
       </food>
       <food description="Roast beef" code="RBMF">
         <as-served name="meat_roast" />
@@ -2291,10 +2291,10 @@
         <as-served name="chicken_breast_slices" />
       </food>
       <food description="Chicken/turkey fillets, with skin" code="RCFT">
-        <guide-image name="Gchckbrst" />
+        <guide portion-size="Gchckbrst" />
       </food>
       <food description="Chicken/turkey drumsticks/wings, with skin" code="RCLG">
-        <guide-image name="Gchckleg" />
+        <guide portion-size="Gchckleg" />
       </food>
       <food description="Chicken/Turkey slices, without skin" code="RCLM">
         <as-served name="chicken_breast_slices" />
@@ -2306,23 +2306,23 @@
         <as-served name="chicken_breast_slices" />
       </food>
       <food description="Turkey roast roll, slices" code="TROL">
-        <guide-image name="Gham" />
+        <guide portion-size="Gham" />
       </food>
     </category>
     <category description="Sausage Rolls" code="SGRL">
       <food description="Sausage roll" code="SRFP">
-        <guide-image name="Gpiesaus" />
+        <guide portion-size="Gpiesaus" />
       </food>
     </category>
     <category description="Chicken / Turkey Slices" code="SLCS">
       <food description="Chicken roll, with or without stuffing" code="CRNC">
-        <guide-image name="Gham" />
+        <guide portion-size="Gham" />
       </food>
       <food description="Chicken slices" code="CSLC">
-        <guide-image name="Gham" />
+        <guide portion-size="Gham" />
       </food>
       <food description="Turkey slices" code="TSLC">
-        <guide-image name="Gham" />
+        <guide portion-size="Gham" />
       </food>
     </category>
     <category description="Shepherds Pie" code="SPIE">
@@ -2336,49 +2336,49 @@
     <category description="Sausages" code="SSGS">
       <food description="Black pudding" code="BKPD"></food>
       <food description="Hot Dogs / Frankfurters" code="FRFT">
-        <guide-image name="Gfrk" />
+        <guide portion-size="Gfrk" />
       </food>
       <food description="Lorne Sausage" code="LORN"></food>
       <food description="Pepperami" code="PRMI">
-        <guide-image name="Gfrk" />
+        <guide portion-size="Gfrk" />
       </food>
       <food description="Sausage in batter, fried" code="SBFO">
-        <guide-image name="Gsaus" />
+        <guide portion-size="Gsaus" />
       </food>
       <food description="Beef Sausages, fried" code="SSBF">
-        <guide-image name="Gsaus" />
+        <guide portion-size="Gsaus" />
       </food>
       <food description="Beef Sausages, grilled" code="SSBG">
-        <guide-image name="Gsaus" />
+        <guide portion-size="Gsaus" />
       </food>
       <food description="Pork Sausages, fried" code="SSPF">
-        <guide-image name="Gsaus" />
+        <guide portion-size="Gsaus" />
       </food>
       <food description="Pork Sausages, grilled" code="SSPG">
-        <guide-image name="Gsaus" />
+        <guide portion-size="Gsaus" />
       </food>
       <food description="Pork and Beef Sausages, fried" code="SSTF">
-        <guide-image name="Gsaus" />
+        <guide portion-size="Gsaus" />
       </food>
       <food description="Pork and Beef Sausages, grilled" code="SSTG">
-        <guide-image name="Gsaus" />
+        <guide portion-size="Gsaus" />
       </food>
       <food description="Turkey sausages, fried" code="TSSF">
-        <guide-image name="Gsaus" />
+        <guide portion-size="Gsaus" />
       </food>
       <food description="Turkey sausages, grilled" code="TSSG">
-        <guide-image name="Gsaus" />
+        <guide portion-size="Gsaus" />
       </food>
     </category>
     <category description="Steaks and Chops" code="STEK">
       <food description="Beef steak, fried" code="BEFF">
-        <guide-image name="Gbur" />
+        <guide portion-size="Gbur" />
       </food>
       <food description="Beef steak, grilled" code="BEFG">
-        <guide-image name="Gbur" />
+        <guide portion-size="Gbur" />
       </food>
       <food description="Lamb chops" code="LMMB">
-        <guide-image name="Gbur" />
+        <guide portion-size="Gbur" />
       </food>
     </category>
     <category description="Stew/Casserole" code="STEW">
@@ -2409,7 +2409,7 @@
         <as-served name="white_sauce" />
       </food>
       <food description="Double cream" code="DBCR">
-        <guide-image name="Gspn" />
+        <guide portion-size="Gspn" />
       </food>
       <food description="Eclairs (cream cake), homemade" code="ECFH"></food>
       <food description="Eclairs (cream cake), shop bought" code="ECFN"></food>
@@ -2417,30 +2417,30 @@
         <as-served name="white_sauce" />
       </food>
       <food description="Sour cream based Dips" code="SCRM">
-        <guide-image name="Gspns" />
+        <guide portion-size="Gspns" />
       </food>
       <food description="Single cream" code="SNCR">
-        <guide-image name="Gspn" />
+        <guide portion-size="Gspn" />
       </food>
       <food description="Whipped cream canned in an aerosol, e.g anchor" code="WCRA">
-        <guide-image name="Gspn" />
+        <guide portion-size="Gspn" />
       </food>
       <food description="Fresh whipped cream" code="WCRF">
-        <guide-image name="Gspn" />
+        <guide portion-size="Gspn" />
       </food>
     </category>
     <category description="Hot Drink made with Milk" code="HDRK">
       <food description="Skimmed milk" code="KMLK">
-        <guide-image name="Gmug" />
+        <guide portion-size="Gmug" />
       </food>
       <food description="Semi skimmed milk" code="SMLK">
-        <guide-image name="Gmug" />
+        <guide portion-size="Gmug" />
       </food>
       <food description="Soya milk" code="SOYM">
-        <guide-image name="Gmug" />
+        <guide portion-size="Gmug" />
       </food>
       <food description="Whole milk" code="WMLK">
-        <guide-image name="Gmug" />
+        <guide portion-size="Gmug" />
       </food>
     </category>
     <category description="Milk on Cereal" code="MCRL">
@@ -2476,10 +2476,10 @@
         <as-served name="milk_shake_2" />
       </food>
       <food description="Milk shake, with ice cream (shop bought)" code="SHIC">
-        <guide-image name="Gshk1" />
+        <guide portion-size="Gshk1" />
       </food>
       <food description="Milkshake, with no ice cream (shop bought)" code="SHTH">
-        <guide-image name="Gshk1" />
+        <guide portion-size="Gshk1" />
       </food>
       <food description="Milkshake made with powder and milk" code="SMSH">
         <as-served name="milk_shake_2" />
@@ -2503,31 +2503,31 @@
   <category description="Pickles/Olives/Dressings" code="PCKL">
     <category description="Chutney" code="CHTN">
       <food description="Chilli chutney (in spoonfuls)" code="CCHS">
-        <guide-image name="Gspn" />
+        <guide portion-size="Gspn" />
       </food>
       <food description="Chilli chutney (dollop)" code="CCHT">
         <as-served name="sauce_dollop" />
       </food>
       <food description="Mango chutney, in spoonfuls" code="MCHS">
-        <guide-image name="Gspn" />
+        <guide portion-size="Gspn" />
       </food>
       <food description="Mango chutney (dollop)" code="MCHT">
         <as-served name="sauce_dollop" />
       </food>
       <food description="Onion chutney, in spoonfuls" code="OCHS">
-        <guide-image name="Gspn" />
+        <guide portion-size="Gspn" />
       </food>
       <food description="Onion chutney" code="OCHT">
         <as-served name="sauce_dollop" />
       </food>
       <food description="Tomato chutney, in spoonfuls" code="TCHS">
-        <guide-image name="Gspn" />
+        <guide portion-size="Gspn" />
       </food>
       <food description="Tomato chutney (dollop)" code="TCHT">
         <as-served name="sauce_dollop" />
       </food>
       <food description="Vegetable chutney, in spoonfuls" code="VCHS">
-        <guide-image name="Gspn" />
+        <guide portion-size="Gspn" />
       </food>
       <food description="Vegetable chutney (dollop)" code="VCHT">
         <as-served name="sauce_dollop" />
@@ -2535,42 +2535,42 @@
     </category>
     <category description="Dips" code="DIPS">
       <food description="Blueberries" code="BLUE">
-        <guide-image name="Gspns" />
+        <guide portion-size="Gspns" />
       </food>
       <food description="French stick (baguette)" code="FRCH">
-        <guide-image name="Gspns" />
+        <guide portion-size="Gspns" />
       </food>
       <food description="Guacamole" code="GUAC">
-        <guide-image name="Gspns" />
+        <guide portion-size="Gspns" />
       </food>
       <food description="Hummus" code="HUMS">
-        <guide-image name="Gspns" />
+        <guide portion-size="Gspns" />
       </food>
       <food description="French Dressing, fat free" code="LFRC">
-        <guide-image name="Gspns" />
+        <guide portion-size="Gspns" />
       </food>
       <food description="Sour cream based Dips" code="SCRM">
-        <guide-image name="Gspns" />
+        <guide portion-size="Gspns" />
       </food>
       <food description="Taramasalata" code="TARA">
-        <guide-image name="Gspns" />
+        <guide portion-size="Gspns" />
       </food>
       <food description="Thousand Island Dressing, reduced calorie" code="THIS">
-        <guide-image name="Gspns" />
+        <guide portion-size="Gspns" />
       </food>
       <food description="Thousand Island Dressing" code="THOU">
-        <guide-image name="Gspns" />
+        <guide portion-size="Gspns" />
       </food>
       <food description="Tzatziki" code="TZKI">
-        <guide-image name="Gspns" />
+        <guide portion-size="Gspns" />
       </food>
       <food description="Yoghurt based dressing" code="YOGH">
-        <guide-image name="Gspns" />
+        <guide portion-size="Gspns" />
       </food>
     </category>
     <category description="Salad dressing" code="DRSS">
       <food description="Salad dressing" code="DRSS">
-        <guide-image name="Gspn" />
+        <guide portion-size="Gspn" />
       </food>
     </category>
     <category description="Gherkins and Capers" code="GHRK">
@@ -2606,19 +2606,19 @@
         <as-served name="sauce_dollop" />
       </food>
       <food description="Chilli and jalapeno relish/ Salsa, (in spoonfuls)" code="SCJR">
-        <guide-image name="Gspn" />
+        <guide portion-size="Gspn" />
       </food>
       <food description="Onion relish, in spoonfuls" code="SORL">
-        <guide-image name="Gspn" />
+        <guide portion-size="Gspn" />
       </food>
       <food description="Gherkin relish, in spoonfuls" code="SPGR">
-        <guide-image name="Gspn" />
+        <guide portion-size="Gspn" />
       </food>
       <food description="Hamburger relish, in spoonfuls" code="SPHB">
-        <guide-image name="Gspn" />
+        <guide portion-size="Gspn" />
       </food>
       <food description="Tomato relish, in spoonfuls" code="STRL">
-        <guide-image name="Gspn" />
+        <guide portion-size="Gspn" />
       </food>
       <food description="Tomato relish (dollop)" code="TRLS">
         <as-served name="sauce_dollop" />
@@ -2629,13 +2629,13 @@
         <as-served name="sauce_dollop" />
       </food>
       <food description="Piccalilli, in spoonfuls" code="SPCL">
-        <guide-image name="Gspn" />
+        <guide portion-size="Gspn" />
       </food>
       <food description="Sweet pickle (dollop)" code="SPKL">
         <as-served name="sauce_dollop" />
       </food>
       <food description="Sweet pickle, spooned" code="SSPK">
-        <guide-image name="Gspn" />
+        <guide portion-size="Gspn" />
       </food>
     </category>
   </category>
@@ -2705,7 +2705,7 @@
     </category>
     <category description="Trifle" code="TRFL">
       <food description="Trifle" code="TRFL">
-        <guide-image name="Gdes" />
+        <guide portion-size="Gdes" />
       </food>
     </category>
   </category>
@@ -2715,29 +2715,29 @@
     </category>
     <category description="Pizza" code="PZZA">
       <food description="Cheese and Tomato Pizza, thin base" code="CHSN">
-        <guide-image name="Gpiz" />
+        <guide portion-size="Gpiz" />
       </food>
       <food description="Cheese and Tomato Pizza, thick base" code="CTTB">
-        <guide-image name="Gpiz" />
+        <guide portion-size="Gpiz" />
       </food>
       <food description="Meat Pizza, thick base" code="MTTK">
-        <guide-image name="Gpiz" />
+        <guide portion-size="Gpiz" />
       </food>
       <food description="Meat Pizza, thin base" code="MTTN">
-        <guide-image name="Gpiz" />
+        <guide portion-size="Gpiz" />
       </food>
       <food description="Cheese and Tomato Pizza with vegetables and/or fruit, thick base" code="VEGK">
-        <guide-image name="Gpiz" />
+        <guide portion-size="Gpiz" />
       </food>
       <food description="Cheese and Tomato Pizza with vegetables and/or fruit, thin base" code="VEGN">
-        <guide-image name="Gpiz" />
+        <guide portion-size="Gpiz" />
       </food>
     </category>
   </category>
   <category description="Cooking Sauces" code="SAUC">
     <category description="Cook In / Pasta Sauces" code="CIPS">
       <food description="Black bean sauce" code="BLKB">
-        <guide-image name="Gspns" />
+        <guide portion-size="Gspns" />
       </food>
       <food description="Creamy sauce" code="CBPS">
         <as-served name="tomato_sauce" />
@@ -2749,13 +2749,13 @@
         <as-served name="tomato_sauce" />
       </food>
       <food description="Green Pesto" code="GPTO">
-        <guide-image name="Gspn" />
+        <guide portion-size="Gspn" />
       </food>
       <food description="Ratatouille" code="RATA">
         <as-served name="tomato_sauce" />
       </food>
       <food description="Red pesto" code="RPTO">
-        <guide-image name="Gspn" />
+        <guide portion-size="Gspn" />
       </food>
       <food description="Sweet and sour sauce" code="SSCS">
         <as-served name="tomato_sauce" />
@@ -2766,13 +2766,13 @@
     </category>
     <category description="Oils" code="OILS">
       <food description="Olive oil" code="OLVE">
-        <guide-image name="Gspns" />
+        <guide portion-size="Gspns" />
       </food>
       <food description="Sunflower oil" code="SNFL">
-        <guide-image name="Gspns" />
+        <guide portion-size="Gspns" />
       </food>
       <food description="Vegetable oil" code="VEGO">
-        <guide-image name="Gspns" />
+        <guide portion-size="Gspns" />
       </food>
     </category>
   </category>
@@ -2834,7 +2834,7 @@
         <as-served name="cream_cheese_spread" />
       </food>
       <food description="Rolos" code="ROLO">
-        <guide-image name="Gswts" />
+        <guide portion-size="Gswts" />
       </food>
     </category>
     <category description="Honey" code="HNEY">
@@ -2842,12 +2842,12 @@
         <as-served name="butter_spread" />
       </food>
       <food description="Honey, in spoonfuls" code="HONY">
-        <guide-image name="Gspn" />
+        <guide portion-size="Gspn" />
       </food>
     </category>
     <category description="Ice Cream Topping Sauce" code="ICRM">
       <food description="Ice Cream Topping Sauce" code="ICRM">
-        <guide-image name="Gspn" />
+        <guide portion-size="Gspn" />
       </food>
     </category>
     <category description="Jam/ Marmalade/ Preserves" code="JAMS">
@@ -2911,23 +2911,23 @@
     </category>
     <category description="Sugar" code="SUGA">
       <food description="Brown sugar" code="BSGR">
-        <guide-image name="Gspn" />
+        <guide portion-size="Gspn" />
       </food>
       <food description="White sugar" code="WSGR">
-        <guide-image name="Gspn" />
+        <guide portion-size="Gspn" />
       </food>
     </category>
     <category description="Syrup" code="SYRP">
       <food description="Golden syrup" code="GSYP">
-        <guide-image name="Gspn" />
+        <guide portion-size="Gspn" />
       </food>
       <food description="Maple syrup" code="MSYP">
-        <guide-image name="Gspn" />
+        <guide portion-size="Gspn" />
       </food>
     </category>
     <category description="Treacle" code="TRCL">
       <food description="Treacle" code="TRCL">
-        <guide-image name="Gspns" />
+        <guide portion-size="Gspns" />
       </food>
     </category>
     <category description="water icing" code="WICE">
@@ -3241,18 +3241,18 @@
       <food description="Lentil and nut roast" code="LNRT"></food>
       <food description="Nut roast" code="NRST"></food>
       <food description="Onion pakora/bhajia" code="ONBJ">
-        <guide-image name="Gtur" />
+        <guide portion-size="Gtur" />
       </food>
       <food description="Vegetable Samosas" code="SAMS">
-        <guide-image name="Gtur" />
+        <guide portion-size="Gtur" />
       </food>
       <food description="Vegetarian sausages" code="SAUS">
-        <guide-image name="Gsaus" />
+        <guide portion-size="Gsaus" />
       </food>
       <food description="Aubergine/ Eggplant, stuffed with rice" code="STAU"></food>
       <food description="Stir fried vegetables" code="STFR"></food>
       <food description="Vegetable pakora/bhajia" code="VGBJ">
-        <guide-image name="Gtur" />
+        <guide portion-size="Gtur" />
       </food>
       <food description="???" code="VLSG">
         <as-served name="lasagne" />
@@ -3266,113 +3266,113 @@
     </category>
     <category description="Potato waffles/ Fritters/ Hash Browns/ Croquettes" code="WFFL">
       <food description="Potato fritters, fried" code="FRTF">
-        <guide-image name="Gwaf" />
+        <guide portion-size="Gwaf" />
       </food>
       <food description="Potato fritters, grilled / baked" code="FRTG">
-        <guide-image name="Gwaf" />
+        <guide portion-size="Gwaf" />
       </food>
       <food description="Hash browns, fried" code="HSBF">
-        <guide-image name="Gwaf" />
+        <guide portion-size="Gwaf" />
       </food>
       <food description="Hash browns, grilled / baked" code="HSBG">
-        <guide-image name="Gwaf" />
+        <guide portion-size="Gwaf" />
       </food>
       <food description="Potato croquettes" code="PCRQ">
-        <guide-image name="Gwaf" />
+        <guide portion-size="Gwaf" />
       </food>
       <food description="Potato waffles/ Smilies, fried" code="WFLF">
-        <guide-image name="Gwaf" />
+        <guide portion-size="Gwaf" />
       </food>
       <food description="Potato waffles/ Smilies, grilled / baked" code="WFLG">
-        <guide-image name="Gwaf" />
+        <guide portion-size="Gwaf" />
       </food>
     </category>
   </category>
   <category description="Yoghurt/Fromage Frais/Dairy Desserts" code="YGRT">
     <category description="Fromage Frais" code="FFRS">
       <food description="Fromage frais flavoured or with fruit, in a pot" code="FRFP">
-        <guide-image name="Gyog" />
+        <guide portion-size="Gyog" />
       </food>
       <food description="Fromage frais flavoured or with fruit, in a tube" code="FRTT">
-        <guide-image name="Gyog2" />
+        <guide portion-size="Gyog2" />
       </food>
       <food description="Fromage frais, low fat, in a pot" code="LFFP">
-        <guide-image name="Gyog" />
+        <guide portion-size="Gyog" />
       </food>
       <food description="Fromage frais, low fat, in a tube" code="LFFT">
-        <guide-image name="Gyog2" />
+        <guide portion-size="Gyog2" />
       </food>
     </category>
     <category description="Dairy Desserts" code="MOUS">
       <food description="Chocolate dairy desserts e.g. rolo dessert" code="CDDC">
-        <guide-image name="Gdes" />
+        <guide portion-size="Gdes" />
       </food>
       <food description="Chocolate mousse" code="CHMS">
-        <guide-image name="Gdes" />
+        <guide portion-size="Gdes" />
       </food>
       <food description="Cream desserts choc / caramel / fruit flavoured e.g creme caramel" code="CRDS">
-        <guide-image name="Gdes" />
+        <guide portion-size="Gdes" />
       </food>
       <food description="Fruit flavoured mousse" code="FMSE">
-        <guide-image name="Gdes" />
+        <guide portion-size="Gdes" />
       </food>
       <food description="Frozen mousse" code="FRMS">
-        <guide-image name="Gdes" />
+        <guide portion-size="Gdes" />
       </food>
       <food description="Rich chocolate mousse" code="RMSE">
-        <guide-image name="Gdes" />
+        <guide portion-size="Gdes" />
       </food>
     </category>
     <category description="Twin Pot Yoghurt" code="TWIN">
       <food description="Yoghurt, Twin pot with crumble e.g.Muller corner" code="TWCR">
-        <guide-image name="Gyog" />
+        <guide portion-size="Gyog" />
       </food>
       <food description="Yoghurt, Twin pot with fruit e.g.Muller corner" code="TWFT">
-        <guide-image name="Gyog" />
+        <guide portion-size="Gyog" />
       </food>
     </category>
     <category description="Yoghurt" code="YGHT">
       <food description="Fruit yoghurt, in a tube" code="FFFP">
-        <guide-image name="Gyog2" />
+        <guide portion-size="Gyog2" />
       </food>
       <food description="Fruit yoghurt, in a pot" code="FFFT">
-        <guide-image name="Gyog" />
+        <guide portion-size="Gyog" />
       </food>
       <food description="Natural yoghurt, in a tube" code="FFNP">
-        <guide-image name="Gyog2" />
+        <guide portion-size="Gyog2" />
       </food>
       <food description="Natural yoghurt, in a pot" code="FFNT">
-        <guide-image name="Gyog" />
+        <guide portion-size="Gyog" />
       </food>
       <food description="Fruit yoghurt with fruit and nuts, in a pot" code="FYFP">
-        <guide-image name="Gyog" />
+        <guide portion-size="Gyog" />
       </food>
       <food description="Fruit yoghurt with fruit and nuts, in a tube" code="FYFT">
-        <guide-image name="Gyog2" />
+        <guide portion-size="Gyog2" />
       </food>
       <food description="Fruit yoghurt, low fat with fruit and nuts, in a pot" code="FYLP">
-        <guide-image name="Gyog" />
+        <guide portion-size="Gyog" />
       </food>
       <food description="Fruit yoghurt, low fat with fruit and nuts, in a tube" code="FYLT">
-        <guide-image name="Gyog2" />
+        <guide portion-size="Gyog2" />
       </food>
       <food description="Natural yoghurt, low fat, in a pot" code="LFNP">
-        <guide-image name="Gyog" />
+        <guide portion-size="Gyog" />
       </food>
       <food description="Natural yoghurt, low fat, in a tube" code="LFNT">
-        <guide-image name="Gyog2" />
+        <guide portion-size="Gyog2" />
       </food>
       <food description="Fruit yoghurt, low fat, in a pot" code="LFYP">
-        <guide-image name="Gyog" />
+        <guide portion-size="Gyog" />
       </food>
       <food description="Fruit yoghurt, low fat, in a tube" code="LFYT">
-        <guide-image name="Gyog2" />
+        <guide portion-size="Gyog2" />
       </food>
       <food description="Very low fat yoghurt, in a pot" code="VLFP">
-        <guide-image name="Gyog" />
+        <guide portion-size="Gyog" />
       </food>
       <food description="Very low fat yoghurt, in a tube" code="VLFT">
-        <guide-image name="Gyog2" />
+        <guide portion-size="Gyog2" />
       </food>
     </category>
   </category>
