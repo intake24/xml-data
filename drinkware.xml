@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+
+<scran24-drinkware>
+
+  <drinkware id="cups" description="Tea mugs">
+    <choice guide-id="Gcup"/>
+    <scale choice-id="1">
+      <dimensions width="409" height="643" emptyLevel="0" fullLevel="643"/>
+      <baseImage>qwe.jpg</baseImage>
+      <overlayImage>xru.jpg</overlayImage>
+    </scale>
+  </drinkware>
+
+</scran24-drinkware>
