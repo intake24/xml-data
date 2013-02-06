@@ -2,12 +2,12 @@
 
 <scran24-drinkware>
 
-  <drinkware id="cups" description="Tea mugs">
-    <choice guide-id="Gcup"/>
+  <drinkware id="mugs" description="Tea mugs and cups">
+    <choice guide-id="Gmug"/>
     <scale choice-id="1">
-      <dimensions width="409" height="643" emptyLevel="0" fullLevel="643"/>
-      <baseImage>qwe.jpg</baseImage>
-      <overlayImage>xru.jpg</overlayImage>
+      <dimensions width="470" height="420" emptyLevel="52" fullLevel="375"/>
+      <baseImage>mugs/mug_a_v2.jpg</baseImage>
+      <overlayImage>mugs/mug_a_fill_v2.png</overlayImage>
     </scale>
   </drinkware>
 

@@ -1571,7 +1571,7 @@
     </category>
     <category description="Tea" code="TEAS">
       <food description="Black tea" code="BTEA">
-        <guide portion-size="Gmug" />
+	<drink-scale drinkware-id="mugs"/>
       </food>
       <food description="Herbal tea" code="HTEA">
         <guide portion-size="Gmug" />
