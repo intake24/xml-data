@@ -1,7 +1,6 @@
 <?xml version="1.0"?>
 
 <scran24-drinkware>
-
   <drinkware id="mugs" description="Tea mugs and cups">
     <choice guide-id="Gmug"/>
     <scale choice-id="1">
@@ -9,6 +8,30 @@
       <baseImage>mugs/mug_a_v2.jpg</baseImage>
       <overlayImage>mugs/mug_a_fill_v2.png</overlayImage>
     </scale>
+    <scale choice-id="2">
+      <dimensions width="470" height="420" emptyLevel="39" fullLevel="367"/>
+      <baseImage>mugs/mug_b_v2.jpg</baseImage>
+      <overlayImage>mugs/mug_b_fill_v2.png</overlayImage>
+    </scale>
+    <scale choice-id="3">
+      <dimensions width="470" height="420" emptyLevel="52" fullLevel="341"/>
+      <baseImage>mugs/mug_c_v2.jpg</baseImage>
+      <overlayImage>mugs/mug_c_fill_v2.png</overlayImage>
+    </scale>
+    <scale choice-id="4">
+      <dimensions width="470" height="420" emptyLevel="112" fullLevel="291"/>
+      <baseImage>mugs/mug_d_v2.jpg</baseImage>
+      <overlayImage>mugs/mug_d_fill_v2.png</overlayImage>
+    </scale>
+    <scale choice-id="5">
+      <dimensions width="470" height="420" emptyLevel="53" fullLevel="283"/>
+      <baseImage>mugs/mug_e_v2.jpg</baseImage>
+      <overlayImage>mugs/mug_e_fill_v2.png</overlayImage>
+    </scale>
+    <scale choice-id="6">
+      <dimensions width="470" height="420" emptyLevel="76" fullLevel="354"/>
+      <baseImage>mugs/mug_f_v2.jpg</baseImage>
+      <overlayImage>mugs/mug_f_fill_v2.png</overlayImage>
+    </scale>
   </drinkware>
-
 </scran24-drinkware>
