@@ -741,7 +741,7 @@
         <guide portion-size="Gcdmc" />
       </food>
       <food isDrink="false" description="Milk chocolate raisins" code="MCRS">
-        <as-served name="raisins_2" />
+        <as-served name="raisins" />
       </food>
       <food isDrink="false" description="M&amp;M`s" code="MNMS">
         <guide portion-size="Gmnms" />
@@ -1920,10 +1920,10 @@
         <as-served name="raisins" />
       </food>
       <food isDrink="false" description="Raisins" code="RASN">
-        <as-served name="raisins_2" />
+        <as-served name="raisins" />
       </food>
       <food isDrink="false" description="Sultanas" code="SULT">
-        <as-served name="raisins_2" />
+        <as-served name="raisins" />
       </food>
     </category>
     <category description="Strawberries" code="STBR">

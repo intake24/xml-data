@@ -59,7 +59,6 @@
     <leftovers-image name="1001" code="L8"></leftovers-image>
   </as-served-set>
 
-  <!-- duplicated -->
   <as-served-set id="raisins" description="Raisins">
     <as-served-image name="m403" code="AS1"></as-served-image>
     <as-served-image name="m405" code="AS2"></as-served-image>
@@ -77,18 +76,6 @@
     <leftovers-image name="m407" code="L7"></leftovers-image>
   </as-served-set>
 
-  <as-served-set id="raisins_2" description="Raisins FIXME">
-    <as-served-image name="m403" code="AS1"></as-served-image>
-    <as-served-image name="m405" code="AS2"></as-served-image>
-    <as-served-image name="m407" code="AS3"></as-served-image>
-    <as-served-image name="m410" code="AS4"></as-served-image>
-    <as-served-image name="m413" code="AS5"></as-served-image>
-    <as-served-image name="m416" code="AS6"></as-served-image>
-    <as-served-image name="m420" code="AS7"></as-served-image>
-    <leftovers-image name="m401" code="L1"></leftovers-image>
-    <leftovers-image name="m402" code="L2"></leftovers-image>
-  </as-served-set>
-
   <as-served-set id="fish_batter" description="Fish in batter">
     <as-served-image name="Gcod01" code="AS1"></as-served-image>
     <as-served-image name="Gcod02" code="AS2"></as-served-image>
@@ -99,7 +86,6 @@
     <as-served-image name="Gcod07" code="AS7"></as-served-image>
   </as-served-set>
 
-  <!-- /duplicated -->
 
   <!-- /bad -->
 
