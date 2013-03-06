@@ -42,9 +42,6 @@
       <food isDrink="false" description="White crusty bread" code="CRST">
         <guide portion-size="Groll" />
       </food>
-      <food isDrink="false" description="???" code="FREN">
-        <guide portion-size="Gsli" />
-      </food>
       <food isDrink="false" description="Hamburger bun (Bread bun with sesame seeds, no burger)" code="HAMB">
         <guide portion-size="Groll" />
       </food>
@@ -142,14 +139,6 @@
       </food>
       <food isDrink="false" description="Bread white sliced" code="SLCD">
         <guide portion-size="Gsli" />
-      </food>
-    </category>
-    <category description="???" code="YPUD">
-      <food isDrink="false" description="Yorkshire pudding, shop bought" code="YPDF">
-        <guide portion-size="Gyor" />
-      </food>
-      <food isDrink="false" description="Yorkshire Pudding, homemade" code="YPSS">
-        <guide portion-size="Gyor" />
       </food>
     </category>
   </category>
@@ -948,9 +937,6 @@
       <food isDrink="false" description="Cornetto / king cone" code="CORN">
         <guide portion-size="Gspns" />
       </food>
-      <food isDrink="false" description="???" code="RBRG">
-        <guide portion-size="Gspns" />
-      </food>
     </category>
     <category description="Seafood sauce (dollop)" code="SEAS">
       <food isDrink="false" description="Seafood sauce (dollop)" code="SEAS">
@@ -1164,14 +1150,6 @@
       </food>
       <food isDrink="false" description="Ricicles" code="RICI">
         <as-served name="rice_krispie" />
-      </food>
-    </category>
-    <category description="???" code="RDBR">
-      <food isDrink="false" description="Ready brek, made up with water" code="RDBW">
-        <as-served name="porridge" />
-      </food>
-      <food isDrink="false" description="Ready brek, made up with milk" code="RDSS">
-        <as-served name="porridge" />
       </food>
     </category>
     <category description="Sugar Puffed Cereals" code="SGPC">
@@ -1591,9 +1569,6 @@
         <guide portion-size="Gdrnk" />
       </food>
       <food isDrink="true" description="Water, still or fizzy - in a glass" code="FMWT">
-        <as-served name="squash" />
-      </food>
-      <food isDrink="false" description="???" code="MWTR">
         <as-served name="squash" />
       </food>
       <food isDrink="true" description="Mineral water, still or carbonated - in a carton / bottle" code="SMWB">
@@ -2179,12 +2154,6 @@
       <food isDrink="false" description="Luncheon Meat, pork, canned" code="LMPC"></food>
     </category>
     <category description="Lasagne" code="LSGN">
-      <food isDrink="false" description="???" code="LASF">
-        <as-served name="lasagne" />
-      </food>
-      <food isDrink="false" description="???" code="LASH">
-        <as-served name="lasagne" />
-      </food>
       <food isDrink="false" description="Meat lasagne" code="MLAS">
         <as-served name="lasagne" />
       </food>
@@ -3253,9 +3222,6 @@
       <food isDrink="false" description="Stir fried vegetables" code="STFR"></food>
       <food isDrink="false" description="Vegetable pakora/bhajia" code="VGBJ">
         <guide portion-size="Gtur" />
-      </food>
-      <food isDrink="false" description="???" code="VLSG">
-        <as-served name="lasagne" />
       </food>
       <food isDrink="false" description="Vegemince lasagne e.g. made with quorn" code="VMLS">
         <as-served name="lasagne" />
