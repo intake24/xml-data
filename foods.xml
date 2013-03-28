@@ -366,7 +366,7 @@
         <as-served name="white_sauce" />
       </food>
       <food isDrink="false" description="Sour cream based Dips" code="SCRM">
-        <guide portion-size="Gspns" />
+        <guide portion-size="Gspn" />
       </food>
       <food isDrink="false" description="Single cream" code="SNCR">
         <guide portion-size="Gspn" />
@@ -935,7 +935,7 @@
     </category>
     <category description="Relish" code="RELS">
       <food isDrink="false" description="Cornetto / king cone" code="CORN">
-        <guide portion-size="Gspns" />
+        <guide portion-size="Gspn" />
       </food>
     </category>
     <category description="Seafood sauce (dollop)" code="SEAS">
@@ -962,7 +962,7 @@
     </category>
     <category description="Soy sauce" code="SOYS">
       <food isDrink="false" description="Soy sauce" code="SOYS">
-        <guide portion-size="Gspns" />
+        <guide portion-size="Gspn" />
       </food>
     </category>
     <category description="Tomato ketchup (dollop)" code="TKET">
@@ -2386,7 +2386,7 @@
         <as-served name="white_sauce" />
       </food>
       <food isDrink="false" description="Sour cream based Dips" code="SCRM">
-        <guide portion-size="Gspns" />
+        <guide portion-size="Gspn" />
       </food>
       <food isDrink="false" description="Single cream" code="SNCR">
         <guide portion-size="Gspn" />
@@ -2504,37 +2504,37 @@
     </category>
     <category description="Dips" code="DIPS">
       <food isDrink="false" description="Blueberries" code="BLUE">
-        <guide portion-size="Gspns" />
+        <guide portion-size="Gspn" />
       </food>
       <food isDrink="false" description="French stick (baguette)" code="FRCH">
-        <guide portion-size="Gspns" />
+        <guide portion-size="Gsli" />
       </food>
       <food isDrink="false" description="Guacamole" code="GUAC">
-        <guide portion-size="Gspns" />
+        <guide portion-size="Gspn" />
       </food>
       <food isDrink="false" description="Hummus" code="HUMS">
-        <guide portion-size="Gspns" />
+        <guide portion-size="Gspn" />
       </food>
       <food isDrink="false" description="French Dressing, fat free" code="LFRC">
-        <guide portion-size="Gspns" />
+        <guide portion-size="Gspn" />
       </food>
       <food isDrink="false" description="Sour cream based Dips" code="SCRM">
-        <guide portion-size="Gspns" />
+        <guide portion-size="Gspn" />
       </food>
       <food isDrink="false" description="Taramasalata" code="TARA">
-        <guide portion-size="Gspns" />
+        <guide portion-size="Gspn" />
       </food>
       <food isDrink="false" description="Thousand Island Dressing, reduced calorie" code="THIS">
-        <guide portion-size="Gspns" />
+        <guide portion-size="Gspn" />
       </food>
       <food isDrink="false" description="Thousand Island Dressing" code="THOU">
-        <guide portion-size="Gspns" />
+        <guide portion-size="Gspn" />
       </food>
       <food isDrink="false" description="Tzatziki" code="TZKI">
-        <guide portion-size="Gspns" />
+        <guide portion-size="Gspn" />
       </food>
       <food isDrink="false" description="Yoghurt based dressing" code="YOGH">
-        <guide portion-size="Gspns" />
+        <guide portion-size="Gspn" />
       </food>
     </category>
     <category description="Salad dressing" code="DRSS">
@@ -2706,7 +2706,7 @@
   <category description="Cooking Sauces" code="SAUC">
     <category description="Cook In / Pasta Sauces" code="CIPS">
       <food isDrink="false" description="Black bean sauce" code="BLKB">
-        <guide portion-size="Gspns" />
+        <guide portion-size="Gspn" />
       </food>
       <food isDrink="false" description="Creamy sauce" code="CBPS">
         <as-served name="tomato_sauce" />
@@ -2735,13 +2735,13 @@
     </category>
     <category description="Oils" code="OILS">
       <food isDrink="false" description="Olive oil" code="OLVE">
-        <guide portion-size="Gspns" />
+        <guide portion-size="Gspn" />
       </food>
       <food isDrink="false" description="Sunflower oil" code="SNFL">
-        <guide portion-size="Gspns" />
+        <guide portion-size="Gspn" />
       </food>
       <food isDrink="false" description="Vegetable oil" code="VEGO">
-        <guide portion-size="Gspns" />
+        <guide portion-size="Gspn" />
       </food>
     </category>
   </category>
@@ -2896,7 +2896,7 @@
     </category>
     <category description="Treacle" code="TRCL">
       <food isDrink="false" description="Treacle" code="TRCL">
-        <guide portion-size="Gspns" />
+        <guide portion-size="Gspn" />
       </food>
     </category>
     <category description="water icing" code="WICE">
