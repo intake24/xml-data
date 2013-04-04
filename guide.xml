@@ -687,6 +687,7 @@
     <weight description="Tomato 5" value="90.0" id="5" />
     <weight description="Tomato 6" value="116.0" id="6" />
     <weight description="Tomato 7" value="132.0" id="7" />
+    <weight description="Tomato 8 (largest)" value="228.0" id="8" />
   </guide-image>
   <guide-image id="Gtur">
     <weight description="Chicken/ Fish shapes" value="49.0" id="1" />
