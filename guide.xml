@@ -257,8 +257,6 @@
     <weight description="Crisps" value="25.0" id="27" />
     <weight description="Crisps" value="50.0" id="28" />
     <weight description="Crisps" value="35.0" id="29" />
-    <weight description="Crisps" value="43.0" id="110" />
-    <weight description="Crisps" value="32.0" id="210" />
   </guide-image>
   <guide-image id="Gcri1">
     <weight description="Crisps" value="20.0" id="1" />

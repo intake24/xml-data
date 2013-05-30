@@ -2,14 +2,16 @@
 <scran24-as-served-sets>
   <as-served-set description="Apple FIXME" id="apple">
     <as-served-image weight="0.0" url="Gapl.jpg" />
-    <leftovers-image weight="8.0" url="1008.jpg" />
-    <leftovers-image weight="16.0" url="1007.jpg" />
-    <leftovers-image weight="24.0" url="1006.jpg" />
-    <leftovers-image weight="32.0" url="1005.jpg" />
-    <leftovers-image weight="40.0" url="1004.jpg" />
-    <leftovers-image weight="48.0" url="1003.jpg" />
-    <leftovers-image weight="56.0" url="1002.jpg" />
-    <leftovers-image weight="64.0" url="1001.jpg" />
+  </as-served-set>
+  <as-served-set description="Apple FIXME (leftovers)" id="apple_leftovers">
+    <as-served-image weight="8.0" url="1008.jpg" />
+    <as-served-image weight="16.0" url="1007.jpg" />
+    <as-served-image weight="24.0" url="1006.jpg" />
+    <as-served-image weight="32.0" url="1005.jpg" />
+    <as-served-image weight="40.0" url="1004.jpg" />
+    <as-served-image weight="48.0" url="1003.jpg" />
+    <as-served-image weight="56.0" url="1002.jpg" />
+    <as-served-image weight="64.0" url="1001.jpg" />
   </as-served-set>
   <as-served-set description="Stewed apple" id="apple_stewed">
     <as-served-image weight="51.3" url="PStApl1.jpg" />
@@ -19,13 +21,15 @@
     <as-served-image weight="148.89" url="PStApl5.jpg" />
     <as-served-image weight="194.33" url="PStApl6.jpg" />
     <as-served-image weight="253.65" url="PStApl7.jpg" />
-    <leftovers-image weight="5.0" url="PStApl8.jpg" />
-    <leftovers-image weight="7.37" url="PStApl9.jpg" />
-    <leftovers-image weight="10.86" url="PStApl10.jpg" />
-    <leftovers-image weight="16.02" url="PStApl11.jpg" />
-    <leftovers-image weight="23.61" url="PStApl12.jpg" />
-    <leftovers-image weight="34.8" url="PStApl13.jpg" />
-    <leftovers-image weight="51.3" url="PStApl14.jpg" />
+  </as-served-set>
+  <as-served-set description="Stewed apple (leftovers)" id="apple_stewed_leftovers">
+    <as-served-image weight="5.0" url="PStApl8.jpg" />
+    <as-served-image weight="7.37" url="PStApl9.jpg" />
+    <as-served-image weight="10.86" url="PStApl10.jpg" />
+    <as-served-image weight="16.02" url="PStApl11.jpg" />
+    <as-served-image weight="23.61" url="PStApl12.jpg" />
+    <as-served-image weight="34.8" url="PStApl13.jpg" />
+    <as-served-image weight="51.3" url="PStApl14.jpg" />
   </as-served-set>
   <as-served-set description="Baked beans and sausages" id="baked_beans_sausages">
     <as-served-image weight="42.9" url="Pbbsaus1.jpg" />
@@ -35,13 +39,15 @@
     <as-served-image weight="141.51" url="Pbbsaus5.jpg" />
     <as-served-image weight="190.7" url="Pbbsaus6.jpg" />
     <as-served-image weight="257.0" url="Pbbsaus7.jpg" />
-    <leftovers-image weight="5.0" url="Pbbsaus8.jpg" />
-    <leftovers-image weight="7.15" url="Pbbsaus9.jpg" />
-    <leftovers-image weight="10.24" url="Pbbsaus10.jpg" />
-    <leftovers-image weight="14.65" url="Pbbsaus11.jpg" />
-    <leftovers-image weight="20.96" url="Pbbsaus12.jpg" />
-    <leftovers-image weight="29.98" url="Pbbsaus13.jpg" />
-    <leftovers-image weight="42.9" url="Pbbsaus14.jpg" />
+  </as-served-set>
+  <as-served-set description="Baked beans and sausages (leftovers)" id="baked_beans_sausages_leftovers">
+    <as-served-image weight="5.0" url="Pbbsaus8.jpg" />
+    <as-served-image weight="7.15" url="Pbbsaus9.jpg" />
+    <as-served-image weight="10.24" url="Pbbsaus10.jpg" />
+    <as-served-image weight="14.65" url="Pbbsaus11.jpg" />
+    <as-served-image weight="20.96" url="Pbbsaus12.jpg" />
+    <as-served-image weight="29.98" url="Pbbsaus13.jpg" />
+    <as-served-image weight="42.9" url="Pbbsaus14.jpg" />
   </as-served-set>
   <as-served-set description="Baked beans" id="beans_baked">
     <as-served-image weight="40.0" url="317.jpg" />
@@ -51,13 +57,15 @@
     <as-served-image weight="166.0" url="331.jpg" />
     <as-served-image weight="236.0" url="336.jpg" />
     <as-served-image weight="337.0" url="337.jpg" />
-    <leftovers-image weight="5.0" url="301.jpg" />
-    <leftovers-image weight="7.0" url="303.jpg" />
-    <leftovers-image weight="9.0" url="305.jpg" />
-    <leftovers-image weight="12.0" url="307.jpg" />
-    <leftovers-image weight="16.0" url="309.jpg" />
-    <leftovers-image weight="22.0" url="312.jpg" />
-    <leftovers-image weight="30.0" url="315.jpg" />
+  </as-served-set>
+  <as-served-set description="Baked beans (leftovers)" id="beans_baked_leftovers">
+    <as-served-image weight="5.0" url="301.jpg" />
+    <as-served-image weight="7.0" url="303.jpg" />
+    <as-served-image weight="9.0" url="305.jpg" />
+    <as-served-image weight="12.0" url="307.jpg" />
+    <as-served-image weight="16.0" url="309.jpg" />
+    <as-served-image weight="22.0" url="312.jpg" />
+    <as-served-image weight="30.0" url="315.jpg" />
   </as-served-set>
   <as-served-set description="Broccoli" id="broccoli">
     <as-served-image weight="16.8" url="Broc1.jpg" />
@@ -67,13 +75,15 @@
     <as-served-image weight="66.46" url="Broc5.jpg" />
     <as-served-image weight="93.74" url="Broc6.jpg" />
     <as-served-image weight="132.2" url="Broc7.jpg" />
-    <leftovers-image weight="2.0" url="Broc8.jpg" />
-    <leftovers-image weight="2.85" url="Broc9.jpg" />
-    <leftovers-image weight="4.07" url="Broc10.jpg" />
-    <leftovers-image weight="5.8" url="Broc11.jpg" />
-    <leftovers-image weight="8.26" url="Broc12.jpg" />
-    <leftovers-image weight="11.78" url="Broc13.jpg" />
-    <leftovers-image weight="16.8" url="Broc14.jpg" />
+  </as-served-set>
+  <as-served-set description="Broccoli (leftovers)" id="broccoli_leftovers">
+    <as-served-image weight="2.0" url="Broc8.jpg" />
+    <as-served-image weight="2.85" url="Broc9.jpg" />
+    <as-served-image weight="4.07" url="Broc10.jpg" />
+    <as-served-image weight="5.8" url="Broc11.jpg" />
+    <as-served-image weight="8.26" url="Broc12.jpg" />
+    <as-served-image weight="11.78" url="Broc13.jpg" />
+    <as-served-image weight="16.8" url="Broc14.jpg" />
   </as-served-set>
   <as-served-set description="Butter spread on bread" id="butter_spread">
     <as-served-image weight="2.2" url="701.jpg" />
@@ -82,6 +92,7 @@
     <as-served-image weight="8.7" url="704.jpg" />
     <as-served-image weight="12.4" url="705.jpg" />
   </as-served-set>
+  <as-served-set description="Butter spread on bread (leftovers)" id="butter_spread_leftovers"></as-served-set>
   <as-served-set description="Cabbage" id="cabbage">
     <as-served-image weight="13.6" url="Cabb1.jpg" />
     <as-served-image weight="20.29" url="Cabb2.jpg" />
@@ -90,13 +101,15 @@
     <as-served-image weight="67.42" url="Cabb5.jpg" />
     <as-served-image weight="100.59" url="Cabb6.jpg" />
     <as-served-image weight="150.1" url="Cabb7.jpg" />
-    <leftovers-image weight="2.0" url="Cabb8.jpg" />
-    <leftovers-image weight="2.75" url="Cabb9.jpg" />
-    <leftovers-image weight="3.79" url="Cabb10.jpg" />
-    <leftovers-image weight="5.22" url="Cabb11.jpg" />
-    <leftovers-image weight="7.18" url="Cabb12.jpg" />
-    <leftovers-image weight="9.88" url="Cabb13.jpg" />
-    <leftovers-image weight="13.6" url="Cabb14.jpg" />
+  </as-served-set>
+  <as-served-set description="Cabbage (leftovers)" id="cabbage_leftovers">
+    <as-served-image weight="2.0" url="Cabb8.jpg" />
+    <as-served-image weight="2.75" url="Cabb9.jpg" />
+    <as-served-image weight="3.79" url="Cabb10.jpg" />
+    <as-served-image weight="5.22" url="Cabb11.jpg" />
+    <as-served-image weight="7.18" url="Cabb12.jpg" />
+    <as-served-image weight="9.88" url="Cabb13.jpg" />
+    <as-served-image weight="13.6" url="Cabb14.jpg" />
   </as-served-set>
   <as-served-set description="Canned fish" id="canned_fish">
     <as-served-image weight="17.8" url="Oily1.jpg" />
@@ -106,13 +119,15 @@
     <as-served-image weight="70.46" url="Oily5.jpg" />
     <as-served-image weight="99.39" url="Oily6.jpg" />
     <as-served-image weight="140.2" url="Oily7.jpg" />
-    <leftovers-image weight="5.0" url="Oily8.jpg" />
-    <leftovers-image weight="6.18" url="Oily9.jpg" />
-    <leftovers-image weight="7.63" url="Oily10.jpg" />
-    <leftovers-image weight="9.43" url="Oily11.jpg" />
-    <leftovers-image weight="11.66" url="Oily12.jpg" />
-    <leftovers-image weight="14.4" url="Oily13.jpg" />
-    <leftovers-image weight="17.8" url="Oily14.jpg" />
+  </as-served-set>
+  <as-served-set description="Canned fish (leftovers)" id="canned_fish_leftovers">
+    <as-served-image weight="5.0" url="Oily8.jpg" />
+    <as-served-image weight="6.18" url="Oily9.jpg" />
+    <as-served-image weight="7.63" url="Oily10.jpg" />
+    <as-served-image weight="9.43" url="Oily11.jpg" />
+    <as-served-image weight="11.66" url="Oily12.jpg" />
+    <as-served-image weight="14.4" url="Oily13.jpg" />
+    <as-served-image weight="17.8" url="Oily14.jpg" />
   </as-served-set>
   <as-served-set description="Canned fruit" id="canned_fruit">
     <as-served-image weight="22.8" url="CanFt1.jpg" />
@@ -122,13 +137,15 @@
     <as-served-image weight="138.08" url="CanFt5.jpg" />
     <as-served-image weight="216.61" url="CanFt6.jpg" />
     <as-served-image weight="339.8" url="CanFt7.jpg" />
-    <leftovers-image weight="5.0" url="CanFt8.jpg" />
-    <leftovers-image weight="6.44" url="CanFt9.jpg" />
-    <leftovers-image weight="8.29" url="CanFt10.jpg" />
-    <leftovers-image weight="10.68" url="CanFt11.jpg" />
-    <leftovers-image weight="13.75" url="CanFt12.jpg" />
-    <leftovers-image weight="17.71" url="CanFt13.jpg" />
-    <leftovers-image weight="22.8" url="CanFt14.jpg" />
+  </as-served-set>
+  <as-served-set description="Canned fruit (leftovers)" id="canned_fruit_leftovers">
+    <as-served-image weight="5.0" url="CanFt8.jpg" />
+    <as-served-image weight="6.44" url="CanFt9.jpg" />
+    <as-served-image weight="8.29" url="CanFt10.jpg" />
+    <as-served-image weight="10.68" url="CanFt11.jpg" />
+    <as-served-image weight="13.75" url="CanFt12.jpg" />
+    <as-served-image weight="17.71" url="CanFt13.jpg" />
+    <as-served-image weight="22.8" url="CanFt14.jpg" />
   </as-served-set>
   <as-served-set description="Carrots, boiled" id="carrot_boiled">
     <as-served-image weight="20.0" url="CarBo1.jpg" />
@@ -138,13 +155,15 @@
     <as-served-image weight="66.77" url="CarBo5.jpg" />
     <as-served-image weight="90.26" url="CarBo6.jpg" />
     <as-served-image weight="122.0" url="CarBo7.jpg" />
-    <leftovers-image weight="2.0" url="CarBo8.jpg" />
-    <leftovers-image weight="2.94" url="CarBo9.jpg" />
-    <leftovers-image weight="4.31" url="CarBo10.jpg" />
-    <leftovers-image weight="6.32" url="CarBo11.jpg" />
-    <leftovers-image weight="9.28" url="CarBo12.jpg" />
-    <leftovers-image weight="13.63" url="CarBo13.jpg" />
-    <leftovers-image weight="20.0" url="CarBo14.jpg" />
+  </as-served-set>
+  <as-served-set description="Carrots, boiled (leftovers)" id="carrot_boiled_leftovers">
+    <as-served-image weight="2.0" url="CarBo8.jpg" />
+    <as-served-image weight="2.94" url="CarBo9.jpg" />
+    <as-served-image weight="4.31" url="CarBo10.jpg" />
+    <as-served-image weight="6.32" url="CarBo11.jpg" />
+    <as-served-image weight="9.28" url="CarBo12.jpg" />
+    <as-served-image weight="13.63" url="CarBo13.jpg" />
+    <as-served-image weight="20.0" url="CarBo14.jpg" />
   </as-served-set>
   <as-served-set description="Raw carrot" id="carrot_raw">
     <as-served-image weight="5.45" url="CarRw1.jpg" />
@@ -154,11 +173,31 @@
     <as-served-image weight="41.42" url="CarRw5.jpg" />
     <as-served-image weight="68.78" url="CarRw6.jpg" />
     <as-served-image weight="114.2" url="CarRw7.jpg" />
-    <leftovers-image weight="1.0" url="CarRw8.jpg" />
-    <leftovers-image weight="1.76" url="CarRw9.jpg" />
-    <leftovers-image weight="3.1" url="CarRw10.jpg" />
-    <leftovers-image weight="4.11" url="CarRw11.jpg" />
-    <leftovers-image weight="5.45" url="CarRw12.jpg" />
+  </as-served-set>
+  <as-served-set description="Raw carrot (leftovers)" id="carrot_raw_leftovers">
+    <as-served-image weight="1.0" url="CarRw8.jpg" />
+    <as-served-image weight="1.76" url="CarRw9.jpg" />
+    <as-served-image weight="3.1" url="CarRw10.jpg" />
+    <as-served-image weight="4.11" url="CarRw11.jpg" />
+    <as-served-image weight="5.45" url="CarRw12.jpg" />
+  </as-served-set>
+  <as-served-set description="Cauliflower" id="cauliflower">
+    <as-served-image weight="21.65" url="Caul1.jpg" />
+    <as-served-image weight="30.13" url="Caul2.jpg" />
+    <as-served-image weight="41.94" url="Caul3.jpg" />
+    <as-served-image weight="58.38" url="Caul4.jpg" />
+    <as-served-image weight="81.25" url="Caul5.jpg" />
+    <as-served-image weight="113.09" url="Caul6.jpg" />
+    <as-served-image weight="123.0" url="Caul7.jpg" />
+  </as-served-set>
+  <as-served-set description="Cauliflower (leftovers)" id="cauliflower_leftovers">
+    <as-served-image weight="2.0" url="Caul8.jpg" />
+    <as-served-image weight="2.97" url="Caul9.jpg" />
+    <as-served-image weight="4.42" url="Caul10.jpg" />
+    <as-served-image weight="6.58" url="Caul11.jpg" />
+    <as-served-image weight="9.79" url="Caul12.jpg" />
+    <as-served-image weight="14.56" url="Caul13.jpg" />
+    <as-served-image weight="21.65" url="Caul14.jpg" />
   </as-served-set>
   <as-served-set description="Cheese" id="cheese">
     <as-served-image weight="10.0" url="507.jpg" />
@@ -168,28 +207,32 @@
     <as-served-image weight="44.0" url="521.jpg" />
     <as-served-image weight="63.0" url="525.jpg" />
     <as-served-image weight="91.0" url="528.jpg" />
-    <leftovers-image weight="1.0" url="501.jpg" />
-    <leftovers-image weight="2.0" url="502.jpg" />
-    <leftovers-image weight="3.0" url="503.jpg" />
-    <leftovers-image weight="4.0" url="504.jpg" />
-    <leftovers-image weight="5.0" url="505.jpg" />
-    <leftovers-image weight="7.0" url="506.jpg" />
+  </as-served-set>
+  <as-served-set description="Cheese (leftovers)" id="cheese_leftovers">
+    <as-served-image weight="1.0" url="501.jpg" />
+    <as-served-image weight="2.0" url="502.jpg" />
+    <as-served-image weight="3.0" url="503.jpg" />
+    <as-served-image weight="4.0" url="504.jpg" />
+    <as-served-image weight="5.0" url="505.jpg" />
+    <as-served-image weight="7.0" url="506.jpg" />
   </as-served-set>
   <as-served-set description="Chicken breast slices" id="chicken_breast_slices">
     <as-served-image weight="25.0" url="Ckchic1.jpg" />
     <as-served-image weight="35.48" url="Ckchic2.jpg" />
     <as-served-image weight="50.35" url="Ckchic3.jpg" />
     <as-served-image weight="71.45" url="Ckchic4.jpg" />
-    <as-served-image weight="101.40" url="Ckchic5.jpg" />
+    <as-served-image weight="101.4" url="Ckchic5.jpg" />
     <as-served-image weight="143.89" url="Ckchic6.jpg" />
-    <as-served-image weight="204.20" url="Ckchic7.jpg" />
-    <leftovers-image weight="5.00" url="Ckchic8.jpg" />
-    <leftovers-image weight="6.54" url="Ckchic9.jpg" />
-    <leftovers-image weight="8.55" url="Ckchic10.jpg" />
-    <leftovers-image weight="11.18" url="Ckchic11.jpg" />
-    <leftovers-image weight="14.62" url="Ckchic12.jpg" />
-    <leftovers-image weight="19.12" url="Ckchic13.jpg" />
-    <leftovers-image weight="25.00" url="Ckchic14.jpg" />
+    <as-served-image weight="204.2" url="Ckchic7.jpg" />
+  </as-served-set>
+  <as-served-set description="Chicken breast slices (leftovers)" id="chicken_breast_slices_leftovers">
+    <as-served-image weight="5.0" url="Ckchic8.jpg" />
+    <as-served-image weight="6.54" url="Ckchic9.jpg" />
+    <as-served-image weight="8.55" url="Ckchic10.jpg" />
+    <as-served-image weight="11.18" url="Ckchic11.jpg" />
+    <as-served-image weight="14.62" url="Ckchic12.jpg" />
+    <as-served-image weight="19.12" url="Ckchic13.jpg" />
+    <as-served-image weight="25.0" url="Ckchic14.jpg" />
   </as-served-set>
   <as-served-set description="Chicken or meat in sauce" id="chicken_sauce">
     <as-served-image weight="48.0" url="m319.jpg" />
@@ -199,13 +242,15 @@
     <as-served-image weight="233.0" url="m336.jpg" />
     <as-served-image weight="346.0" url="m340.jpg" />
     <as-served-image weight="513.0" url="m342.jpg" />
-    <leftovers-image weight="10.0" url="m301.jpg" />
-    <leftovers-image weight="13.0" url="m303.jpg" />
-    <leftovers-image weight="16.0" url="m305.jpg" />
-    <leftovers-image weight="20.0" url="m308.jpg" />
-    <leftovers-image weight="25.0" url="m311.jpg" />
-    <leftovers-image weight="32.0" url="m315.jpg" />
-    <leftovers-image weight="39.0" url="m317.jpg" />
+  </as-served-set>
+  <as-served-set description="Chicken or meat in sauce (leftovers)" id="chicken_sauce_leftovers">
+    <as-served-image weight="10.0" url="m301.jpg" />
+    <as-served-image weight="13.0" url="m303.jpg" />
+    <as-served-image weight="16.0" url="m305.jpg" />
+    <as-served-image weight="20.0" url="m308.jpg" />
+    <as-served-image weight="25.0" url="m311.jpg" />
+    <as-served-image weight="32.0" url="m315.jpg" />
+    <as-served-image weight="39.0" url="m317.jpg" />
   </as-served-set>
   <as-served-set description="Chips, fried" id="chips">
     <as-served-image weight="70.0" url="226.jpg" />
@@ -215,46 +260,35 @@
     <as-served-image weight="198.0" url="241.jpg" />
     <as-served-image weight="257.0" url="245.jpg" />
     <as-served-image weight="334.0" url="247.jpg" />
-    <leftovers-image weight="5.0" url="201.jpg" />
-    <leftovers-image weight="7.0" url="202.jpg" />
-    <leftovers-image weight="11.0" url="205.jpg" />
-    <leftovers-image weight="15.0" url="209.jpg" />
-    <leftovers-image weight="23.0" url="214.jpg" />
-    <leftovers-image weight="33.0" url="217.jpg" />
-    <leftovers-image weight="48.0" url="221.jpg" />
+  </as-served-set>
+  <as-served-set description="Chips, fried (leftovers)" id="chips_leftovers">
+    <as-served-image weight="5.0" url="201.jpg" />
+    <as-served-image weight="7.0" url="202.jpg" />
+    <as-served-image weight="11.0" url="205.jpg" />
+    <as-served-image weight="15.0" url="209.jpg" />
+    <as-served-image weight="23.0" url="214.jpg" />
+    <as-served-image weight="33.0" url="217.jpg" />
+    <as-served-image weight="48.0" url="221.jpg" />
   </as-served-set>
   <as-served-set description="Chocolate biscuits" id="choc_bisc">
     <as-served-image weight="0.0" url="Gcbisc1.jpg" />
     <as-served-image weight="0.0" url="Gcbisc2.jpg" />
   </as-served-set>
-  <as-served-set description="desc_here" id="code_here">
-    <as-served-image weight="21.65" url="Caul1.jpg" />
-    <as-served-image weight="30.13" url="Caul2.jpg" />
-    <as-served-image weight="41.94" url="Caul3.jpg" />
-    <as-served-image weight="58.38" url="Caul4.jpg" />
-    <as-served-image weight="81.25" url="Caul5.jpg" />
-    <as-served-image weight="113.09" url="Caul6.jpg" />
-    <as-served-image weight="123.0" url="Caul7.jpg" />
-    <leftovers-image weight="2.0" url="Caul8.jpg" />
-    <leftovers-image weight="2.97" url="Caul9.jpg" />
-    <leftovers-image weight="4.42" url="Caul10.jpg" />
-    <leftovers-image weight="6.58" url="Caul11.jpg" />
-    <leftovers-image weight="9.79" url="Caul12.jpg" />
-    <leftovers-image weight="14.56" url="Caul13.jpg" />
-    <leftovers-image weight="21.65" url="Caul14.jpg" />
-  </as-served-set>
+  <as-served-set description="Chocolate biscuits (leftovers)" id="choc_bisc_leftovers"></as-served-set>
   <as-served-set description="Cornflakes" id="cornflakes">
     <as-served-image weight="24.0" url="115.jpg" />
     <as-served-image weight="32.0" url="120.jpg" />
     <as-served-image weight="41.0" url="124.jpg" />
     <as-served-image weight="55.0" url="128.jpg" />
     <as-served-image weight="72.0" url="131.jpg" />
-    <leftovers-image weight="1.0" url="101.jpg" />
-    <leftovers-image weight="2.0" url="102.jpg" />
-    <leftovers-image weight="4.0" url="104.jpg" />
-    <leftovers-image weight="6.0" url="105.jpg" />
-    <leftovers-image weight="10.0" url="108.jpg" />
-    <leftovers-image weight="15.0" url="111.jpg" />
+  </as-served-set>
+  <as-served-set description="Cornflakes (leftovers)" id="cornflakes_leftovers">
+    <as-served-image weight="1.0" url="101.jpg" />
+    <as-served-image weight="2.0" url="102.jpg" />
+    <as-served-image weight="4.0" url="104.jpg" />
+    <as-served-image weight="6.0" url="105.jpg" />
+    <as-served-image weight="10.0" url="108.jpg" />
+    <as-served-image weight="15.0" url="111.jpg" />
   </as-served-set>
   <as-served-set description="Cream cheese spread" id="cream_cheese_spread">
     <as-served-image weight="5.0" url="Gcsp01.jpg" />
@@ -263,6 +297,7 @@
     <as-served-image weight="25.0" url="Gcsp04.jpg" />
     <as-served-image weight="30.0" url="Gcsp05.jpg" />
   </as-served-set>
+  <as-served-set description="Cream cheese spread (leftovers)" id="cream_cheese_spread_leftovers"></as-served-set>
   <as-served-set description="Cucumber" id="cucumber">
     <as-served-image weight="7.0" url="Cucu1.jpg" />
     <as-served-image weight="10.12" url="Cucu2.jpg" />
@@ -271,12 +306,14 @@
     <as-served-image weight="30.61" url="cucu5.jpg" />
     <as-served-image weight="44.26" url="cucu6.jpg" />
     <as-served-image weight="64.0" url="cucu7.jpg" />
-    <leftovers-image weight="1.0" url="cucu8.jpg" />
-    <leftovers-image weight="1.91" url="cucu9.jpg" />
-    <leftovers-image weight="2.65" url="cucu10.jpg" />
-    <leftovers-image weight="3.66" url="cucu11.jpg" />
-    <leftovers-image weight="5.06" url="cucu12.jpg" />
-    <leftovers-image weight="7.0" url="cucu13.jpg" />
+  </as-served-set>
+  <as-served-set description="Cucumber (leftovers)" id="cucumber_leftovers">
+    <as-served-image weight="1.0" url="cucu8.jpg" />
+    <as-served-image weight="1.91" url="cucu9.jpg" />
+    <as-served-image weight="2.65" url="cucu10.jpg" />
+    <as-served-image weight="3.66" url="cucu11.jpg" />
+    <as-served-image weight="5.06" url="cucu12.jpg" />
+    <as-served-image weight="7.0" url="cucu13.jpg" />
   </as-served-set>
   <as-served-set description="Scrambled eggs" id="eggs_scrambled">
     <as-served-image weight="30.0" url="PScrEgg1.jpg" />
@@ -286,13 +323,15 @@
     <as-served-image weight="86.98" url="PScrEgg5.jpg" />
     <as-served-image weight="113.5" url="PScrEgg6.jpg" />
     <as-served-image weight="148.1" url="PScrEgg7.jpg" />
-    <leftovers-image weight="10.0" url="PScrEgg8.jpg" />
-    <leftovers-image weight="12.01" url="PScrEgg9.jpg" />
-    <leftovers-image weight="14.42" url="PScrEgg10.jpg" />
-    <leftovers-image weight="17.32" url="PScrEgg11.jpg" />
-    <leftovers-image weight="20.8" url="PScrEgg12.jpg" />
-    <leftovers-image weight="24.98" url="PScrEgg13.jpg" />
-    <leftovers-image weight="30.0" url="PScrEgg14.jpg" />
+  </as-served-set>
+  <as-served-set description="Scrambled eggs (leftovers)" id="eggs_scrambled_leftovers">
+    <as-served-image weight="10.0" url="PScrEgg8.jpg" />
+    <as-served-image weight="12.01" url="PScrEgg9.jpg" />
+    <as-served-image weight="14.42" url="PScrEgg10.jpg" />
+    <as-served-image weight="17.32" url="PScrEgg11.jpg" />
+    <as-served-image weight="20.8" url="PScrEgg12.jpg" />
+    <as-served-image weight="24.98" url="PScrEgg13.jpg" />
+    <as-served-image weight="30.0" url="PScrEgg14.jpg" />
   </as-served-set>
   <as-served-set description="Fish in batter" id="fish_batter">
     <as-served-image weight="106.0" url="Gcod01.jpg" />
@@ -303,6 +342,7 @@
     <as-served-image weight="149.0" url="Gcod06.jpg" />
     <as-served-image weight="169.0" url="Gcod07.jpg" />
   </as-served-set>
+  <as-served-set description="Fish in batter (leftovers)" id="fish_batter_leftovers"></as-served-set>
   <as-served-set description="Gateau" id="gateau">
     <as-served-image weight="27.0" url="m216.jpg" />
     <as-served-image weight="36.0" url="m219.jpg" />
@@ -311,13 +351,15 @@
     <as-served-image weight="89.0" url="m231.jpg" />
     <as-served-image weight="120.0" url="m235.jpg" />
     <as-served-image weight="161.0" url="m237.jpg" />
-    <leftovers-image weight="5.0" url="m201.jpg" />
-    <leftovers-image weight="6.0" url="m202.jpg" />
-    <leftovers-image weight="8.0" url="m204.jpg" />
-    <leftovers-image weight="10.0" url="m206.jpg" />
-    <leftovers-image weight="13.0" url="m208.jpg" />
-    <leftovers-image weight="17.0" url="m210.jpg" />
-    <leftovers-image weight="21.0" url="m213.jpg" />
+  </as-served-set>
+  <as-served-set description="Gateau (leftovers)" id="gateau_leftovers">
+    <as-served-image weight="5.0" url="m201.jpg" />
+    <as-served-image weight="6.0" url="m202.jpg" />
+    <as-served-image weight="8.0" url="m204.jpg" />
+    <as-served-image weight="10.0" url="m206.jpg" />
+    <as-served-image weight="13.0" url="m208.jpg" />
+    <as-served-image weight="17.0" url="m210.jpg" />
+    <as-served-image weight="21.0" url="m213.jpg" />
   </as-served-set>
   <as-served-set description="Grapes" id="grapes">
     <as-served-image weight="7.05" url="Grap1.jpg" />
@@ -327,12 +369,14 @@
     <as-served-image weight="63.48" url="Grap5.jpg" />
     <as-served-image weight="109.97" url="Grap6.jpg" />
     <as-served-image weight="190.5" url="Grap7.jpg" />
-    <leftovers-image weight="2.0" url="Grap8.jpg" />
-    <leftovers-image weight="3.04" url="Grap9.jpg" />
-    <leftovers-image weight="3.75" url="Grap10.jpg" />
-    <leftovers-image weight="4.63" url="Grap11.jpg" />
-    <leftovers-image weight="5.71" url="Grap12.jpg" />
-    <leftovers-image weight="7.05" url="Grap13.jpg" />
+  </as-served-set>
+  <as-served-set description="Grapes (leftovers)" id="grapes_leftovers">
+    <as-served-image weight="2.0" url="Grap8.jpg" />
+    <as-served-image weight="3.04" url="Grap9.jpg" />
+    <as-served-image weight="3.75" url="Grap10.jpg" />
+    <as-served-image weight="4.63" url="Grap11.jpg" />
+    <as-served-image weight="5.71" url="Grap12.jpg" />
+    <as-served-image weight="7.05" url="Grap13.jpg" />
   </as-served-set>
   <as-served-set description="Gravy" id="gravy">
     <as-served-image weight="20.0" url="Grvy1.jpg" />
@@ -342,13 +386,15 @@
     <as-served-image weight="84.91" url="Grvy5.jpg" />
     <as-served-image weight="121.88" url="Grvy6.jpg" />
     <as-served-image weight="174.95" url="Grvy7.jpg" />
-    <leftovers-image weight="1.0" url="Grvy8.jpg" />
-    <leftovers-image weight="1.65" url="Grvy9.jpg" />
-    <leftovers-image weight="2.71" url="Grvy10.jpg" />
-    <leftovers-image weight="4.47" url="Grvy11.jpg" />
-    <leftovers-image weight="7.37" url="Grvy12.jpg" />
-    <leftovers-image weight="12.14" url="Grvy13.jpg" />
-    <leftovers-image weight="20.0" url="Grvy14.jpg" />
+  </as-served-set>
+  <as-served-set description="Gravy (leftovers)" id="gravy_leftovers">
+    <as-served-image weight="1.0" url="Grvy8.jpg" />
+    <as-served-image weight="1.65" url="Grvy9.jpg" />
+    <as-served-image weight="2.71" url="Grvy10.jpg" />
+    <as-served-image weight="4.47" url="Grvy11.jpg" />
+    <as-served-image weight="7.37" url="Grvy12.jpg" />
+    <as-served-image weight="12.14" url="Grvy13.jpg" />
+    <as-served-image weight="20.0" url="Grvy14.jpg" />
   </as-served-set>
   <as-served-set description="Loop/hoop cereals" id="hoop_cereals">
     <as-served-image weight="22.75" url="Hoop1.jpg" />
@@ -358,13 +404,15 @@
     <as-served-image weight="56.59" url="Hoop5.jpg" />
     <as-served-image weight="71.07" url="Hoop6.jpg" />
     <as-served-image weight="89.25" url="Hoop7.jpg" />
-    <leftovers-image weight="2.0" url="Hoop8.jpg" />
-    <leftovers-image weight="3.0" url="Hoop9.jpg" />
-    <leftovers-image weight="4.5" url="Hoop10.jpg" />
-    <leftovers-image weight="6.75" url="Hoop11.jpg" />
-    <leftovers-image weight="10.12" url="Hoop12.jpg" />
-    <leftovers-image weight="15.17" url="Hoop13.jpg" />
-    <leftovers-image weight="22.75" url="Hoop14.jpg" />
+  </as-served-set>
+  <as-served-set description="Loop/hoop cereals (leftovers)" id="hoop_cereals_leftovers">
+    <as-served-image weight="2.0" url="Hoop8.jpg" />
+    <as-served-image weight="3.0" url="Hoop9.jpg" />
+    <as-served-image weight="4.5" url="Hoop10.jpg" />
+    <as-served-image weight="6.75" url="Hoop11.jpg" />
+    <as-served-image weight="10.12" url="Hoop12.jpg" />
+    <as-served-image weight="15.17" url="Hoop13.jpg" />
+    <as-served-image weight="22.75" url="Hoop14.jpg" />
   </as-served-set>
   <as-served-set description="Ice cream" id="ice_cream">
     <as-served-image weight="30.0" url="Icecrm1.jpg" />
@@ -374,13 +422,15 @@
     <as-served-image weight="98.84" url="Icecrm5.jpg" />
     <as-served-image weight="133.38" url="Icecrm6.jpg" />
     <as-served-image weight="180.0" url="Icecrm7.jpg" />
-    <leftovers-image weight="5.0" url="Icecrm8.jpg" />
-    <leftovers-image weight="6.73" url="Icecrm9.jpg" />
-    <leftovers-image weight="9.07" url="Icecrm10.jpg" />
-    <leftovers-image weight="12.21" url="Icecrm11.jpg" />
-    <leftovers-image weight="16.44" url="Icecrm12.jpg" />
-    <leftovers-image weight="22.13" url="Icecrm13.jpg" />
-    <leftovers-image weight="29.8" url="Icecrm14.jpg" />
+  </as-served-set>
+  <as-served-set description="Ice cream (leftovers)" id="ice_cream_leftovers">
+    <as-served-image weight="5.0" url="Icecrm8.jpg" />
+    <as-served-image weight="6.73" url="Icecrm9.jpg" />
+    <as-served-image weight="9.07" url="Icecrm10.jpg" />
+    <as-served-image weight="12.21" url="Icecrm11.jpg" />
+    <as-served-image weight="16.44" url="Icecrm12.jpg" />
+    <as-served-image weight="22.13" url="Icecrm13.jpg" />
+    <as-served-image weight="29.8" url="Icecrm14.jpg" />
   </as-served-set>
   <as-served-set description="Jam" id="jam">
     <as-served-image weight="6.0" url="Gjam01.jpg" />
@@ -389,6 +439,7 @@
     <as-served-image weight="25.0" url="Gjam04.jpg" />
     <as-served-image weight="35.0" url="Gjam05.jpg" />
   </as-served-set>
+  <as-served-set description="Jam (leftovers)" id="jam_leftovers"></as-served-set>
   <as-served-set description="Jelly" id="jelly">
     <as-served-image weight="43.0" url="Jelly1.jpg" />
     <as-served-image weight="57.37" url="Jelly2.jpg" />
@@ -397,13 +448,15 @@
     <as-served-image weight="140.11" url="Jelly5.jpg" />
     <as-served-image weight="188.69" url="Jelly6.jpg" />
     <as-served-image weight="254.1" url="Jelly7.jpg" />
-    <leftovers-image weight="5.0" url="Jelly8.jpg" />
-    <leftovers-image weight="7.15" url="Jelly9.jpg" />
-    <leftovers-image weight="10.21" url="Jelly10.jpg" />
-    <leftovers-image weight="14.59" url="Jelly11.jpg" />
-    <leftovers-image weight="20.86" url="Jelly12.jpg" />
-    <leftovers-image weight="29.81" url="Jelly13.jpg" />
-    <leftovers-image weight="42.6" url="Jelly14.jpg" />
+  </as-served-set>
+  <as-served-set description="Jelly (leftovers)" id="jelly_leftovers">
+    <as-served-image weight="5.0" url="Jelly8.jpg" />
+    <as-served-image weight="7.15" url="Jelly9.jpg" />
+    <as-served-image weight="10.21" url="Jelly10.jpg" />
+    <as-served-image weight="14.59" url="Jelly11.jpg" />
+    <as-served-image weight="20.86" url="Jelly12.jpg" />
+    <as-served-image weight="29.81" url="Jelly13.jpg" />
+    <as-served-image weight="42.6" url="Jelly14.jpg" />
   </as-served-set>
   <as-served-set description="Lasagne" id="lasagne">
     <as-served-image weight="65.0" url="Lasag1.jpg" />
@@ -413,13 +466,15 @@
     <as-served-image weight="228.0" url="Lasag5.jpg" />
     <as-served-image weight="312.2" url="Lasag6.jpg" />
     <as-served-image weight="427.5" url="Lasag7.jpg" />
-    <leftovers-image weight="5.0" url="Lasag8.jpg" />
-    <leftovers-image weight="7.66" url="Lasag9.jpg" />
-    <leftovers-image weight="11.75" url="Lasag10.jpg" />
-    <leftovers-image weight="18.01" url="Lasag11.jpg" />
-    <leftovers-image weight="27.6" url="Lasag12.jpg" />
-    <leftovers-image weight="42.31" url="Lasag13.jpg" />
-    <leftovers-image weight="64.85" url="Lasag14.jpg" />
+  </as-served-set>
+  <as-served-set description="Lasagne (leftovers)" id="lasagne_leftovers">
+    <as-served-image weight="5.0" url="Lasag8.jpg" />
+    <as-served-image weight="7.66" url="Lasag9.jpg" />
+    <as-served-image weight="11.75" url="Lasag10.jpg" />
+    <as-served-image weight="18.01" url="Lasag11.jpg" />
+    <as-served-image weight="27.6" url="Lasag12.jpg" />
+    <as-served-image weight="42.31" url="Lasag13.jpg" />
+    <as-served-image weight="64.85" url="Lasag14.jpg" />
   </as-served-set>
   <as-served-set description="Lettuce" id="lettuce">
     <as-served-image weight="6.0" url="Lett1.jpg" />
@@ -429,11 +484,13 @@
     <as-served-image weight="27.85" url="Lett5.jpg" />
     <as-served-image weight="40.88" url="Lett6.jpg" />
     <as-served-image weight="60.0" url="Lett7.jpg" />
-    <leftovers-image weight="1.0" url="Lett8.jpg" />
-    <leftovers-image weight="1.82" url="Lett9.jpg" />
-    <leftovers-image weight="3.3" url="Lett10.jpg" />
-    <leftovers-image weight="4.45" url="Lett11.jpg" />
-    <leftovers-image weight="6.0" url="Lett12.jpg" />
+  </as-served-set>
+  <as-served-set description="Lettuce (leftovers)" id="lettuce_leftovers">
+    <as-served-image weight="1.0" url="Lett8.jpg" />
+    <as-served-image weight="1.82" url="Lett9.jpg" />
+    <as-served-image weight="3.3" url="Lett10.jpg" />
+    <as-served-image weight="4.45" url="Lett11.jpg" />
+    <as-served-image weight="6.0" url="Lett12.jpg" />
   </as-served-set>
   <as-served-set description="Macaroni cheese" id="macaroni_cheese">
     <as-served-image weight="24.2" url="PMacChse1.jpg" />
@@ -443,13 +500,15 @@
     <as-served-image weight="112.7" url="PMacChse5.jpg" />
     <as-served-image weight="165.55" url="PMacChse6.jpg" />
     <as-served-image weight="243.2" url="PMacChse7.jpg" />
-    <leftovers-image weight="5.0" url="PMacChse8.jpg" />
-    <leftovers-image weight="6.5" url="PMacChse9.jpg" />
-    <leftovers-image weight="8.46" url="PMacChse10.jpg" />
-    <leftovers-image weight="11.0" url="PMacChse11.jpg" />
-    <leftovers-image weight="14.31" url="PMacChse12.jpg" />
-    <leftovers-image weight="18.61" url="PMacChse13.jpg" />
-    <leftovers-image weight="24.2" url="PMacChse14.jpg" />
+  </as-served-set>
+  <as-served-set description="Macaroni cheese (leftovers)" id="macaroni_cheese_leftovers">
+    <as-served-image weight="5.0" url="PMacChse8.jpg" />
+    <as-served-image weight="6.5" url="PMacChse9.jpg" />
+    <as-served-image weight="8.46" url="PMacChse10.jpg" />
+    <as-served-image weight="11.0" url="PMacChse11.jpg" />
+    <as-served-image weight="14.31" url="PMacChse12.jpg" />
+    <as-served-image weight="18.61" url="PMacChse13.jpg" />
+    <as-served-image weight="24.2" url="PMacChse14.jpg" />
   </as-served-set>
   <as-served-set description="Roast meat" id="meat_roast">
     <as-served-image weight="29.7" url="RstMt1.jpg" />
@@ -459,13 +518,15 @@
     <as-served-image weight="87.43" url="RstMt5.jpg" />
     <as-served-image weight="114.52" url="RstMt6.jpg" />
     <as-served-image weight="150.0" url="RstMt7.jpg" />
-    <leftovers-image weight="5.0" url="RstMt8.jpg" />
-    <leftovers-image weight="6.73" url="RstMt9.jpg" />
-    <leftovers-image weight="9.06" url="RstMt10.jpg" />
-    <leftovers-image weight="12.19" url="RstMt11.jpg" />
-    <leftovers-image weight="16.4" url="RstMt12.jpg" />
-    <leftovers-image weight="22.07" url="RstMt13.jpg" />
-    <leftovers-image weight="29.7" url="RstMt14.jpg" />
+  </as-served-set>
+  <as-served-set description="Roast meat (leftovers)" id="meat_roast_leftovers">
+    <as-served-image weight="5.0" url="RstMt8.jpg" />
+    <as-served-image weight="6.73" url="RstMt9.jpg" />
+    <as-served-image weight="9.06" url="RstMt10.jpg" />
+    <as-served-image weight="12.19" url="RstMt11.jpg" />
+    <as-served-image weight="16.4" url="RstMt12.jpg" />
+    <as-served-image weight="22.07" url="RstMt13.jpg" />
+    <as-served-image weight="29.7" url="RstMt14.jpg" />
   </as-served-set>
   <as-served-set description="Melon" id="melon">
     <as-served-image weight="58.05" url="Mel1.jpg" />
@@ -474,26 +535,30 @@
     <as-served-image weight="172.44" url="Mel4.jpg" />
     <as-served-image weight="247.89" url="Mel5.jpg" />
     <as-served-image weight="356.34" url="Mel6.jpg" />
-    <leftovers-image weight="5.0" url="Mel8.jpg" />
-    <leftovers-image weight="7.52" url="Mel9.jpg" />
-    <leftovers-image weight="11.32" url="Mel10.jpg" />
-    <leftovers-image weight="17.04" url="Mel11.jpg" />
-    <leftovers-image weight="25.64" url="Mel12.jpg" />
-    <leftovers-image weight="38.58" url="Mel13.jpg" />
-    <leftovers-image weight="58.05" url="Mel14.jpg" />
+  </as-served-set>
+  <as-served-set description="Melon (leftovers)" id="melon_leftovers">
+    <as-served-image weight="5.0" url="Mel8.jpg" />
+    <as-served-image weight="7.52" url="Mel9.jpg" />
+    <as-served-image weight="11.32" url="Mel10.jpg" />
+    <as-served-image weight="17.04" url="Mel11.jpg" />
+    <as-served-image weight="25.64" url="Mel12.jpg" />
+    <as-served-image weight="38.58" url="Mel13.jpg" />
+    <as-served-image weight="58.05" url="Mel14.jpg" />
   </as-served-set>
   <as-served-set description="Milk on cereal" id="milk_on_cereal">
     <as-served-image weight="1.56" url="141.jpg" />
     <as-served-image weight="3.44" url="142.jpg" />
     <as-served-image weight="5.94" url="143.jpg" />
     <as-served-image weight="12.81" url="144.jpg" />
-    <leftovers-image weight="10.0" url="181.jpg" />
-    <leftovers-image weight="20.0" url="182.jpg" />
-    <leftovers-image weight="30.0" url="183.jpg" />
-    <leftovers-image weight="40.0" url="184.jpg" />
-    <leftovers-image weight="50.0" url="185.jpg" />
-    <leftovers-image weight="60.0" url="186.jpg" />
-    <leftovers-image weight="70.0" url="187.jpg" />
+  </as-served-set>
+  <as-served-set description="Milk on cereal (leftovers)" id="milk_on_cereal_leftovers">
+    <as-served-image weight="10.0" url="181.jpg" />
+    <as-served-image weight="20.0" url="182.jpg" />
+    <as-served-image weight="30.0" url="183.jpg" />
+    <as-served-image weight="40.0" url="184.jpg" />
+    <as-served-image weight="50.0" url="185.jpg" />
+    <as-served-image weight="60.0" url="186.jpg" />
+    <as-served-image weight="70.0" url="187.jpg" />
   </as-served-set>
   <as-served-set description="Milk pudding" id="milk_pudding">
     <as-served-image weight="127.25" url="Mlkpud1.jpg" />
@@ -503,43 +568,51 @@
     <as-served-image weight="284.43" url="Mlkpud5.jpg" />
     <as-served-image weight="347.79" url="Mlkpud6.jpg" />
     <as-served-image weight="425.25" url="Mlkpud7.jpg" />
-    <leftovers-image weight="5.0" url="Mlkpud8.jpg" />
-    <leftovers-image weight="8.58" url="Mlkpud9.jpg" />
-    <leftovers-image weight="14.71" url="Mlkpud10.jpg" />
-    <leftovers-image weight="25.22" url="Mlkpud11.jpg" />
-    <leftovers-image weight="43.26" url="Mlkpud12.jpg" />
-    <leftovers-image weight="74.2" url="Mlkpud13.jpg" />
-    <leftovers-image weight="127.25" url="Mlkpud14.jpg" />
+  </as-served-set>
+  <as-served-set description="Milk pudding (leftovers)" id="milk_pudding_leftovers">
+    <as-served-image weight="5.0" url="Mlkpud8.jpg" />
+    <as-served-image weight="8.58" url="Mlkpud9.jpg" />
+    <as-served-image weight="14.71" url="Mlkpud10.jpg" />
+    <as-served-image weight="25.22" url="Mlkpud11.jpg" />
+    <as-served-image weight="43.26" url="Mlkpud12.jpg" />
+    <as-served-image weight="74.2" url="Mlkpud13.jpg" />
+    <as-served-image weight="127.25" url="Mlkpud14.jpg" />
   </as-served-set>
   <as-served-set description="Milk shake 1 FIXME" id="milk_shake_1">
     <as-served-image weight="53.0" url="Gmlk04.jpg" />
     <as-served-image weight="300.0" url="Gmlk01.jpg" />
     <as-served-image weight="217.0" url="Gmlk02.jpg" />
     <as-served-image weight="134.0" url="Gmlk03.jpg" />
-    <leftovers-image weight="300.0" url="Gmlk01.jpg" />
-    <leftovers-image weight="217.0" url="Gmlk02.jpg" />
-    <leftovers-image weight="134.0" url="Gmlk03.jpg" />
-    <leftovers-image weight="53.0" url="Gmlk04.jpg" />
+  </as-served-set>
+  <as-served-set description="Milk shake 1 FIXME (leftovers)" id="milk_shake_1_leftovers">
+    <as-served-image weight="300.0" url="Gmlk01.jpg" />
+    <as-served-image weight="217.0" url="Gmlk02.jpg" />
+    <as-served-image weight="134.0" url="Gmlk03.jpg" />
+    <as-served-image weight="53.0" url="Gmlk04.jpg" />
   </as-served-set>
   <as-served-set description="Milk shake 2 FIXME" id="milk_shake_2">
     <as-served-image weight="134.0" url="Gmlk03.jpg" />
     <as-served-image weight="53.0" url="Gmlk04.jpg" />
     <as-served-image weight="300.0" url="Gmlk01.jpg" />
     <as-served-image weight="217.0" url="Gmlk02.jpg" />
-    <leftovers-image weight="53.0" url="Gmlk04.jpg" />
-    <leftovers-image weight="300.0" url="Gmlk01.jpg" />
-    <leftovers-image weight="217.0" url="Gmlk02.jpg" />
-    <leftovers-image weight="134.0" url="Gmlk03.jpg" />
+  </as-served-set>
+  <as-served-set description="Milk shake 2 FIXME (leftovers)" id="milk_shake_2_leftovers">
+    <as-served-image weight="53.0" url="Gmlk04.jpg" />
+    <as-served-image weight="300.0" url="Gmlk01.jpg" />
+    <as-served-image weight="217.0" url="Gmlk02.jpg" />
+    <as-served-image weight="134.0" url="Gmlk03.jpg" />
   </as-served-set>
   <as-served-set description="Milk shake 3 FIXME" id="milk_shake_3">
     <as-served-image weight="53.0" url="Gmlk04.jpg" />
     <as-served-image weight="300.0" url="Gmlk01.jpg" />
     <as-served-image weight="217.0" url="Gmlk02.jpg" />
     <as-served-image weight="134.0" url="Gmlk03.jpg" />
-    <leftovers-image weight="53.0" url="Gmlk04.jpg" />
-    <leftovers-image weight="300.0" url="Gmlk01.jpg" />
-    <leftovers-image weight="217.0" url="Gmlk02.jpg" />
-    <leftovers-image weight="134.0" url="Gmlk03.jpg" />
+  </as-served-set>
+  <as-served-set description="Milk shake 3 FIXME (leftovers)" id="milk_shake_3_leftovers">
+    <as-served-image weight="53.0" url="Gmlk04.jpg" />
+    <as-served-image weight="300.0" url="Gmlk01.jpg" />
+    <as-served-image weight="217.0" url="Gmlk02.jpg" />
+    <as-served-image weight="134.0" url="Gmlk03.jpg" />
   </as-served-set>
   <as-served-set description="Mince" id="mince">
     <as-served-image weight="70.5" url="Mince1.jpg" />
@@ -549,13 +622,15 @@
     <as-served-image weight="190.85" url="Mince5.jpg" />
     <as-served-image weight="244.8" url="Mince6.jpg" />
     <as-served-image weight="314.0" url="Mince7.jpg" />
-    <leftovers-image weight="5.0" url="Mince8.jpg" />
-    <leftovers-image weight="7.77" url="Mince9.jpg" />
-    <leftovers-image weight="12.08" url="Mince10.jpg" />
-    <leftovers-image weight="18.77" url="Mince11.jpg" />
-    <leftovers-image weight="29.18" url="Mince12.jpg" />
-    <leftovers-image weight="45.36" url="Mince13.jpg" />
-    <leftovers-image weight="70.5" url="Mince14.jpg" />
+  </as-served-set>
+  <as-served-set description="Mince (leftovers)" id="mince_leftovers">
+    <as-served-image weight="5.0" url="Mince8.jpg" />
+    <as-served-image weight="7.77" url="Mince9.jpg" />
+    <as-served-image weight="12.08" url="Mince10.jpg" />
+    <as-served-image weight="18.77" url="Mince11.jpg" />
+    <as-served-image weight="29.18" url="Mince12.jpg" />
+    <as-served-image weight="45.36" url="Mince13.jpg" />
+    <as-served-image weight="70.5" url="Mince14.jpg" />
   </as-served-set>
   <as-served-set description="Mixed vegetables, boiled" id="mix_veg_boiled">
     <as-served-image weight="28.0" url="m118.jpg" />
@@ -565,13 +640,15 @@
     <as-served-image weight="69.0" url="m128.jpg" />
     <as-served-image weight="87.0" url="m132.jpg" />
     <as-served-image weight="109.0" url="m134.jpg" />
-    <leftovers-image weight="5.0" url="m101.jpg" />
-    <leftovers-image weight="6.0" url="m102.jpg" />
-    <leftovers-image weight="8.0" url="m104.jpg" />
-    <leftovers-image weight="10.0" url="m106.jpg" />
-    <leftovers-image weight="14.0" url="m109.jpg" />
-    <leftovers-image weight="17.0" url="m112.jpg" />
-    <leftovers-image weight="23.0" url="m116.jpg" />
+  </as-served-set>
+  <as-served-set description="Mixed vegetables, boiled (leftovers)" id="mix_veg_boiled_leftovers">
+    <as-served-image weight="5.0" url="m101.jpg" />
+    <as-served-image weight="6.0" url="m102.jpg" />
+    <as-served-image weight="8.0" url="m104.jpg" />
+    <as-served-image weight="10.0" url="m106.jpg" />
+    <as-served-image weight="14.0" url="m109.jpg" />
+    <as-served-image weight="17.0" url="m112.jpg" />
+    <as-served-image weight="23.0" url="m116.jpg" />
   </as-served-set>
   <as-served-set description="Noodles" id="noodles">
     <as-served-image weight="91.9" url="Nood1.jpg" />
@@ -581,13 +658,15 @@
     <as-served-image weight="246.0" url="Nood5.jpg" />
     <as-served-image weight="304.67" url="Nood6.jpg" />
     <as-served-image weight="387.2" url="Nood7.jpg" />
-    <leftovers-image weight="5.0" url="Nood8.jpg" />
-    <leftovers-image weight="8.12" url="Nood9.jpg" />
-    <leftovers-image weight="13.2" url="Nood10.jpg" />
-    <leftovers-image weight="21.44" url="Nood11.jpg" />
-    <leftovers-image weight="34.82" url="Nood12.jpg" />
-    <leftovers-image weight="56.57" url="Nood13.jpg" />
-    <leftovers-image weight="91.9" url="Nood14.jpg" />
+  </as-served-set>
+  <as-served-set description="Noodles (leftovers)" id="noodles_leftovers">
+    <as-served-image weight="5.0" url="Nood8.jpg" />
+    <as-served-image weight="8.12" url="Nood9.jpg" />
+    <as-served-image weight="13.2" url="Nood10.jpg" />
+    <as-served-image weight="21.44" url="Nood11.jpg" />
+    <as-served-image weight="34.82" url="Nood12.jpg" />
+    <as-served-image weight="56.57" url="Nood13.jpg" />
+    <as-served-image weight="91.9" url="Nood14.jpg" />
   </as-served-set>
   <as-served-set description="Pasta, boiled" id="pasta">
     <as-served-image weight="54.5" url="PstBo1.jpg" />
@@ -597,13 +676,15 @@
     <as-served-image weight="188.3" url="PstBo5.jpg" />
     <as-served-image weight="256.72" url="PstBo6.jpg" />
     <as-served-image weight="350.0" url="PstBo7.jpg" />
-    <leftovers-image weight="5.0" url="PstBo8.jpg" />
-    <leftovers-image weight="7.45" url="PstBo9.jpg" />
-    <leftovers-image weight="11.09" url="PstBo10.jpg" />
-    <leftovers-image weight="16.51" url="PstBo11.jpg" />
-    <leftovers-image weight="24.58" url="PstBo12.jpg" />
-    <leftovers-image weight="36.6" url="PstBo13.jpg" />
-    <leftovers-image weight="54.5" url="PstBo14.jpg" />
+  </as-served-set>
+  <as-served-set description="Pasta, boiled (leftovers)" id="pasta_leftovers">
+    <as-served-image weight="5.0" url="PstBo8.jpg" />
+    <as-served-image weight="7.45" url="PstBo9.jpg" />
+    <as-served-image weight="11.09" url="PstBo10.jpg" />
+    <as-served-image weight="16.51" url="PstBo11.jpg" />
+    <as-served-image weight="24.58" url="PstBo12.jpg" />
+    <as-served-image weight="36.6" url="PstBo13.jpg" />
+    <as-served-image weight="54.5" url="PstBo14.jpg" />
   </as-served-set>
   <as-served-set description="Pasta with sauce" id="pasta_sauce">
     <as-served-image weight="18.0" url="PstSau1.jpg" />
@@ -613,13 +694,15 @@
     <as-served-image weight="113.0" url="PstSau5.jpg" />
     <as-served-image weight="180.0" url="PstSau6.jpg" />
     <as-served-image weight="287.0" url="PstSau7.jpg" />
-    <leftovers-image weight="1.0" url="PstSau8.jpg" />
-    <leftovers-image weight="2.0" url="PstSau9.jpg" />
-    <leftovers-image weight="3.0" url="PstSau10.jpg" />
-    <leftovers-image weight="4.0" url="PstSau11.jpg" />
-    <leftovers-image weight="7.0" url="PstSau12.jpg" />
-    <leftovers-image weight="11.0" url="PstSau13.jpg" />
-    <leftovers-image weight="18.0" url="PstSau14.jpg" />
+  </as-served-set>
+  <as-served-set description="Pasta with sauce (leftovers)" id="pasta_sauce_leftovers">
+    <as-served-image weight="1.0" url="PstSau8.jpg" />
+    <as-served-image weight="2.0" url="PstSau9.jpg" />
+    <as-served-image weight="3.0" url="PstSau10.jpg" />
+    <as-served-image weight="4.0" url="PstSau11.jpg" />
+    <as-served-image weight="7.0" url="PstSau12.jpg" />
+    <as-served-image weight="11.0" url="PstSau13.jpg" />
+    <as-served-image weight="18.0" url="PstSau14.jpg" />
   </as-served-set>
   <as-served-set description="Spaghetti/pasta shapes, tinned" id="pasta_tinned">
     <as-served-image weight="56.9" url="PstCan1.jpg" />
@@ -629,13 +712,15 @@
     <as-served-image weight="210.54" url="PstCan5.jpg" />
     <as-served-image weight="292.01" url="PstCan6.jpg" />
     <as-served-image weight="405.0" url="PstCan7.jpg" />
-    <leftovers-image weight="5.0" url="PstCan8.jpg" />
-    <leftovers-image weight="7.5" url="PstCan9.jpg" />
-    <leftovers-image weight="11.25" url="PstCan10.jpg" />
-    <leftovers-image weight="16.87" url="PstCan11.jpg" />
-    <leftovers-image weight="25.3" url="PstCan12.jpg" />
-    <leftovers-image weight="37.94" url="PstCan13.jpg" />
-    <leftovers-image weight="56.9" url="PstCan14.jpg" />
+  </as-served-set>
+  <as-served-set description="Spaghetti/pasta shapes, tinned (leftovers)" id="pasta_tinned_leftovers">
+    <as-served-image weight="5.0" url="PstCan8.jpg" />
+    <as-served-image weight="7.5" url="PstCan9.jpg" />
+    <as-served-image weight="11.25" url="PstCan10.jpg" />
+    <as-served-image weight="16.87" url="PstCan11.jpg" />
+    <as-served-image weight="25.3" url="PstCan12.jpg" />
+    <as-served-image weight="37.94" url="PstCan13.jpg" />
+    <as-served-image weight="56.9" url="PstCan14.jpg" />
   </as-served-set>
   <as-served-set description="Peanut butter spread on bread" id="peanut_butter_spread">
     <as-served-image weight="6.0" url="Gpea01.jpg" />
@@ -644,6 +729,7 @@
     <as-served-image weight="16.0" url="Gpea04.jpg" />
     <as-served-image weight="30.0" url="Gpea05.jpg" />
   </as-served-set>
+  <as-served-set description="Peanut butter spread on bread (leftovers)" id="peanut_butter_spread_leftovers"></as-served-set>
   <as-served-set description="Peas" id="peas">
     <as-served-image weight="16.1" url="Peas1.jpg" />
     <as-served-image weight="22.24" url="Peas2.jpg" />
@@ -652,13 +738,15 @@
     <as-served-image weight="58.64" url="Peas5.jpg" />
     <as-served-image weight="81.0" url="Peas6.jpg" />
     <as-served-image weight="111.9" url="Peas7.jpg" />
-    <leftovers-image weight="2.0" url="Peas8.jpg" />
-    <leftovers-image weight="2.83" url="Peas9.jpg" />
-    <leftovers-image weight="4.01" url="Peas10.jpg" />
-    <leftovers-image weight="5.67" url="Peas11.jpg" />
-    <leftovers-image weight="8.03" url="Peas12.jpg" />
-    <leftovers-image weight="11.37" url="Peas13.jpg" />
-    <leftovers-image weight="16.1" url="Peas14.jpg" />
+  </as-served-set>
+  <as-served-set description="Peas (leftovers)" id="peas_leftovers">
+    <as-served-image weight="2.0" url="Peas8.jpg" />
+    <as-served-image weight="2.83" url="Peas9.jpg" />
+    <as-served-image weight="4.01" url="Peas10.jpg" />
+    <as-served-image weight="5.67" url="Peas11.jpg" />
+    <as-served-image weight="8.03" url="Peas12.jpg" />
+    <as-served-image weight="11.37" url="Peas13.jpg" />
+    <as-served-image weight="16.1" url="Peas14.jpg" />
   </as-served-set>
   <as-served-set description="Popcorn" id="popcorn">
     <as-served-image weight="13.6" url="Popcn1.jpg" />
@@ -668,12 +756,14 @@
     <as-served-image weight="94.0" url="Popcn5.jpg" />
     <as-served-image weight="138.0" url="Popcn6.jpg" />
     <as-served-image weight="146.0" url="Popcn7.jpg" />
-    <leftovers-image weight="1.0" url="Popcn8.jpg" />
-    <leftovers-image weight="1.54" url="Popcn9.jpg" />
-    <leftovers-image weight="3.69" url="Popcn10.jpg" />
-    <leftovers-image weight="5.7" url="Popcn11.jpg" />
-    <leftovers-image weight="8.8" url="Popcn12.jpg" />
-    <leftovers-image weight="13.6" url="Popcn13.jpg" />
+  </as-served-set>
+  <as-served-set description="Popcorn (leftovers)" id="popcorn_leftovers">
+    <as-served-image weight="1.0" url="Popcn8.jpg" />
+    <as-served-image weight="1.54" url="Popcn9.jpg" />
+    <as-served-image weight="3.69" url="Popcn10.jpg" />
+    <as-served-image weight="5.7" url="Popcn11.jpg" />
+    <as-served-image weight="8.8" url="Popcn12.jpg" />
+    <as-served-image weight="13.6" url="Popcn13.jpg" />
   </as-served-set>
   <as-served-set description="Porridge" id="porridge">
     <as-served-image weight="111.0" url="m727.jpg" />
@@ -683,13 +773,15 @@
     <as-served-image weight="278.0" url="m742.jpg" />
     <as-served-image weight="328.0" url="m745.jpg" />
     <as-served-image weight="418.0" url="m746.jpg" />
-    <leftovers-image weight="10.0" url="m701.jpg" />
-    <leftovers-image weight="13.0" url="m704.jpg" />
-    <leftovers-image weight="19.0" url="m708.jpg" />
-    <leftovers-image weight="28.0" url="m714.jpg" />
-    <leftovers-image weight="38.0" url="m718.jpg" />
-    <leftovers-image weight="56.0" url="m720.jpg" />
-    <leftovers-image weight="74.0" url="m723.jpg" />
+  </as-served-set>
+  <as-served-set description="Porridge (leftovers)" id="porridge_leftovers">
+    <as-served-image weight="10.0" url="m701.jpg" />
+    <as-served-image weight="13.0" url="m704.jpg" />
+    <as-served-image weight="19.0" url="m708.jpg" />
+    <as-served-image weight="28.0" url="m714.jpg" />
+    <as-served-image weight="38.0" url="m718.jpg" />
+    <as-served-image weight="56.0" url="m720.jpg" />
+    <as-served-image weight="74.0" url="m723.jpg" />
   </as-served-set>
   <as-served-set description="Jacket potato" id="potato_jacket">
     <as-served-image weight="71.0" url="Gbkd01.jpg" />
@@ -700,6 +792,7 @@
     <as-served-image weight="283.0" url="Gbkd06.jpg" />
     <as-served-image weight="406.0" url="Gbkd07.jpg" />
   </as-served-set>
+  <as-served-set description="Jacket potato (leftovers)" id="potato_jacket_leftovers"></as-served-set>
   <as-served-set description="Potatoes, boiled" id="potatoes_boiled">
     <as-served-image weight="45.45" url="OldBo1.jpg" />
     <as-served-image weight="62.24" url="OldBo2.jpg" />
@@ -708,13 +801,15 @@
     <as-served-image weight="159.8" url="OldBo5.jpg" />
     <as-served-image weight="218.83" url="OldBo6.jpg" />
     <as-served-image weight="299.65" url="OldBo7.jpg" />
-    <leftovers-image weight="5.0" url="OldBo8.jpg" />
-    <leftovers-image weight="7.22" url="OldBo9.jpg" />
-    <leftovers-image weight="10.43" url="OldBo10.jpg" />
-    <leftovers-image weight="15.07" url="OldBo11.jpg" />
-    <leftovers-image weight="21.78" url="OldBo12.jpg" />
-    <leftovers-image weight="31.46" url="OldBo13.jpg" />
-    <leftovers-image weight="45.45" url="OldBo14.jpg" />
+  </as-served-set>
+  <as-served-set description="Potatoes, boiled (leftovers)" id="potatoes_boiled_leftovers">
+    <as-served-image weight="5.0" url="OldBo8.jpg" />
+    <as-served-image weight="7.22" url="OldBo9.jpg" />
+    <as-served-image weight="10.43" url="OldBo10.jpg" />
+    <as-served-image weight="15.07" url="OldBo11.jpg" />
+    <as-served-image weight="21.78" url="OldBo12.jpg" />
+    <as-served-image weight="31.46" url="OldBo13.jpg" />
+    <as-served-image weight="45.45" url="OldBo14.jpg" />
   </as-served-set>
   <as-served-set description="Boiled new potatoes" id="potatoes_boiled_new">
     <as-served-image weight="51.0" url="NewBo1.jpg" />
@@ -724,13 +819,15 @@
     <as-served-image weight="157.6" url="NewBo5.jpg" />
     <as-served-image weight="208.9" url="NewBo6.jpg" />
     <as-served-image weight="276.9" url="NewBo7.jpg" />
-    <leftovers-image weight="5.0" url="NewBo8.jpg" />
-    <leftovers-image weight="7.36" url="NewBo9.jpg" />
-    <leftovers-image weight="10.85" url="NewBo10.jpg" />
-    <leftovers-image weight="15.98" url="NewBo11.jpg" />
-    <leftovers-image weight="23.53" url="NewBo12.jpg" />
-    <leftovers-image weight="34.66" url="NewBo13.jpg" />
-    <leftovers-image weight="51.05" url="NewBo14.jpg" />
+  </as-served-set>
+  <as-served-set description="Boiled new potatoes (leftovers)" id="potatoes_boiled_new_leftovers">
+    <as-served-image weight="5.0" url="NewBo8.jpg" />
+    <as-served-image weight="7.36" url="NewBo9.jpg" />
+    <as-served-image weight="10.85" url="NewBo10.jpg" />
+    <as-served-image weight="15.98" url="NewBo11.jpg" />
+    <as-served-image weight="23.53" url="NewBo12.jpg" />
+    <as-served-image weight="34.66" url="NewBo13.jpg" />
+    <as-served-image weight="51.05" url="NewBo14.jpg" />
   </as-served-set>
   <as-served-set description="Mashed potatoes" id="potatoes_mashed">
     <as-served-image weight="102.0" url="m525.jpg" />
@@ -740,13 +837,15 @@
     <as-served-image weight="223.0" url="m537.jpg" />
     <as-served-image weight="271.0" url="m540.jpg" />
     <as-served-image weight="330.0" url="m542.jpg" />
-    <leftovers-image weight="5.0" url="m501.jpg" />
-    <leftovers-image weight="8.0" url="m503.jpg" />
-    <leftovers-image weight="12.0" url="m506.jpg" />
-    <leftovers-image weight="18.0" url="m510.jpg" />
-    <leftovers-image weight="28.0" url="m513.jpg" />
-    <leftovers-image weight="42.0" url="m516.jpg" />
-    <leftovers-image weight="65.0" url="m521.jpg" />
+  </as-served-set>
+  <as-served-set description="Mashed potatoes (leftovers)" id="potatoes_mashed_leftovers">
+    <as-served-image weight="5.0" url="m501.jpg" />
+    <as-served-image weight="8.0" url="m503.jpg" />
+    <as-served-image weight="12.0" url="m506.jpg" />
+    <as-served-image weight="18.0" url="m510.jpg" />
+    <as-served-image weight="28.0" url="m513.jpg" />
+    <as-served-image weight="42.0" url="m516.jpg" />
+    <as-served-image weight="65.0" url="m521.jpg" />
   </as-served-set>
   <as-served-set description="Roast potatoes" id="potatoes_roast">
     <as-served-image weight="43.65" url="RstPo1.jpg" />
@@ -756,13 +855,15 @@
     <as-served-image weight="139.0" url="RstPo5.jpg" />
     <as-served-image weight="185.69" url="RstPo6.jpg" />
     <as-served-image weight="248.05" url="RstPo7.jpg" />
-    <leftovers-image weight="5.0" url="RstPo8.jpg" />
-    <leftovers-image weight="7.17" url="RstPo9.jpg" />
-    <leftovers-image weight="10.3" url="RstPo10.jpg" />
-    <leftovers-image weight="14.77" url="RstPo11.jpg" />
-    <leftovers-image weight="21.2" url="RstPo12.jpg" />
-    <leftovers-image weight="30.42" url="RstPo13.jpg" />
-    <leftovers-image weight="43.65" url="RstPo14.jpg" />
+  </as-served-set>
+  <as-served-set description="Roast potatoes (leftovers)" id="potatoes_roast_leftovers">
+    <as-served-image weight="5.0" url="RstPo8.jpg" />
+    <as-served-image weight="7.17" url="RstPo9.jpg" />
+    <as-served-image weight="10.3" url="RstPo10.jpg" />
+    <as-served-image weight="14.77" url="RstPo11.jpg" />
+    <as-served-image weight="21.2" url="RstPo12.jpg" />
+    <as-served-image weight="30.42" url="RstPo13.jpg" />
+    <as-served-image weight="43.65" url="RstPo14.jpg" />
   </as-served-set>
   <as-served-set description="Puffed cereals" id="puffed_cereals">
     <as-served-image weight="19.0" url="Puff1.jpg" />
@@ -772,13 +873,15 @@
     <as-served-image weight="57.11" url="Puff5.jpg" />
     <as-served-image weight="68.0" url="Puff6.jpg" />
     <as-served-image weight="75.0" url="Puff7.jpg" />
-    <leftovers-image weight="2.0" url="Puff8.jpg" />
-    <leftovers-image weight="2.91" url="Puff9.jpg" />
-    <leftovers-image weight="4.24" url="Puff10.jpg" />
-    <leftovers-image weight="6.16" url="Puff11.jpg" />
-    <leftovers-image weight="8.97" url="Puff12.jpg" />
-    <leftovers-image weight="13.06" url="Puff13.jpg" />
-    <leftovers-image weight="19.0" url="Puff14.jpg" />
+  </as-served-set>
+  <as-served-set description="Puffed cereals (leftovers)" id="puffed_cereals_leftovers">
+    <as-served-image weight="2.0" url="Puff8.jpg" />
+    <as-served-image weight="2.91" url="Puff9.jpg" />
+    <as-served-image weight="4.24" url="Puff10.jpg" />
+    <as-served-image weight="6.16" url="Puff11.jpg" />
+    <as-served-image weight="8.97" url="Puff12.jpg" />
+    <as-served-image weight="13.06" url="Puff13.jpg" />
+    <as-served-image weight="19.0" url="Puff14.jpg" />
   </as-served-set>
   <as-served-set description="Raisins" id="raisins">
     <as-served-image weight="3.0" url="m403.jpg" />
@@ -788,13 +891,15 @@
     <as-served-image weight="17.0" url="m413.jpg" />
     <as-served-image weight="27.0" url="m416.jpg" />
     <as-served-image weight="41.0" url="m420.jpg" />
-    <leftovers-image weight="1.0" url="m401.jpg" />
-    <leftovers-image weight="2.0" url="m402.jpg" />
-    <leftovers-image weight="3.0" url="m403.jpg" />
-    <leftovers-image weight="4.0" url="m404.jpg" />
-    <leftovers-image weight="5.0" url="m405.jpg" />
-    <leftovers-image weight="6.0" url="m406.jpg" />
-    <leftovers-image weight="7.0" url="m407.jpg" />
+  </as-served-set>
+  <as-served-set description="Raisins (leftovers)" id="raisins_leftovers">
+    <as-served-image weight="1.0" url="m401.jpg" />
+    <as-served-image weight="2.0" url="m402.jpg" />
+    <as-served-image weight="3.0" url="m403.jpg" />
+    <as-served-image weight="4.0" url="m404.jpg" />
+    <as-served-image weight="5.0" url="m405.jpg" />
+    <as-served-image weight="6.0" url="m406.jpg" />
+    <as-served-image weight="7.0" url="m407.jpg" />
   </as-served-set>
   <as-served-set description="Ravioli" id="ravioli">
     <as-served-image weight="30.4" url="PRav1.jpg" />
@@ -804,13 +909,15 @@
     <as-served-image weight="117.11" url="PRav5.jpg" />
     <as-served-image weight="164.07" url="PRav6.jpg" />
     <as-served-image weight="229.85" url="PRav7.jpg" />
-    <leftovers-image weight="5.0" url="PRav8.jpg" />
-    <leftovers-image weight="6.75" url="PRav9.jpg" />
-    <leftovers-image weight="9.13" url="PRav10.jpg" />
-    <leftovers-image weight="12.33" url="PRav11.jpg" />
-    <leftovers-image weight="16.66" url="PRav12.jpg" />
-    <leftovers-image weight="22.5" url="PRav13.jpg" />
-    <leftovers-image weight="30.4" url="PRav14.jpg" />
+  </as-served-set>
+  <as-served-set description="Ravioli (leftovers)" id="ravioli_leftovers">
+    <as-served-image weight="5.0" url="PRav8.jpg" />
+    <as-served-image weight="6.75" url="PRav9.jpg" />
+    <as-served-image weight="9.13" url="PRav10.jpg" />
+    <as-served-image weight="12.33" url="PRav11.jpg" />
+    <as-served-image weight="16.66" url="PRav12.jpg" />
+    <as-served-image weight="22.5" url="PRav13.jpg" />
+    <as-served-image weight="30.4" url="PRav14.jpg" />
   </as-served-set>
   <as-served-set description="Rice, boiled" id="rice">
     <as-served-image weight="53.8" url="RiceBo1.jpg" />
@@ -820,13 +927,6 @@
     <as-served-image weight="190.83" url="RiceBo5.jpg" />
     <as-served-image weight="261.89" url="RiceBo6.jpg" />
     <as-served-image weight="359.4" url="RiceBo7.jpg" />
-    <leftovers-image weight="5.0" url="RiceBo8.jpg" />
-    <leftovers-image weight="7.43" url="RiceBo9.jpg" />
-    <leftovers-image weight="11.04" url="RiceBo10.jpg" />
-    <leftovers-image weight="16.4" url="RiceBo11.jpg" />
-    <leftovers-image weight="24.37" url="RiceBo12.jpg" />
-    <leftovers-image weight="36.21" url="RiceBo13.jpg" />
-    <leftovers-image weight="53.8" url="RiceBo14.jpg" />
   </as-served-set>
   <as-served-set description="Rice Krispie cereal" id="rice_krispie">
     <as-served-image weight="18.0" url="Rkris1.jpg" />
@@ -836,13 +936,24 @@
     <as-served-image weight="48.25" url="Rkris5.jpg" />
     <as-served-image weight="61.74" url="Rkris6.jpg" />
     <as-served-image weight="79.0" url="Rkris7.jpg" />
-    <leftovers-image weight="2.0" url="Rkris8.jpg" />
-    <leftovers-image weight="2.88" url="Rkris9.jpg" />
-    <leftovers-image weight="4.16" url="Rkris10.jpg" />
-    <leftovers-image weight="6.0" url="Rkris11.jpg" />
-    <leftovers-image weight="8.65" url="Rkris12.jpg" />
-    <leftovers-image weight="12.48" url="Rkris13.jpg" />
-    <leftovers-image weight="18.0" url="Rkris14.jpg" />
+  </as-served-set>
+  <as-served-set description="Rice Krispie cereal (leftovers)" id="rice_krispie_leftovers">
+    <as-served-image weight="2.0" url="Rkris8.jpg" />
+    <as-served-image weight="2.88" url="Rkris9.jpg" />
+    <as-served-image weight="4.16" url="Rkris10.jpg" />
+    <as-served-image weight="6.0" url="Rkris11.jpg" />
+    <as-served-image weight="8.65" url="Rkris12.jpg" />
+    <as-served-image weight="12.48" url="Rkris13.jpg" />
+    <as-served-image weight="18.0" url="Rkris14.jpg" />
+  </as-served-set>
+  <as-served-set description="Rice, boiled (leftovers)" id="rice_leftovers">
+    <as-served-image weight="5.0" url="RiceBo8.jpg" />
+    <as-served-image weight="7.43" url="RiceBo9.jpg" />
+    <as-served-image weight="11.04" url="RiceBo10.jpg" />
+    <as-served-image weight="16.4" url="RiceBo11.jpg" />
+    <as-served-image weight="24.37" url="RiceBo12.jpg" />
+    <as-served-image weight="36.21" url="RiceBo13.jpg" />
+    <as-served-image weight="53.8" url="RiceBo14.jpg" />
   </as-served-set>
   <as-served-set description="Runner beans" id="runner_beans">
     <as-served-image weight="20.0" url="Runbn1.jpg" />
@@ -852,13 +963,15 @@
     <as-served-image weight="68.62" url="Runbn5.jpg" />
     <as-served-image weight="93.39" url="Runbn6.jpg" />
     <as-served-image weight="127.1" url="Runbn7.jpg" />
-    <leftovers-image weight="2.0" url="Runbn8.jpg" />
-    <leftovers-image weight="2.94" url="Runbn9.jpg" />
-    <leftovers-image weight="4.31" url="Runbn10.jpg" />
-    <leftovers-image weight="6.32" url="Runbn11.jpg" />
-    <leftovers-image weight="9.28" url="Runbn12.jpg" />
-    <leftovers-image weight="13.63" url="Runbn13.jpg" />
-    <leftovers-image weight="20.0" url="Runbn14.jpg" />
+  </as-served-set>
+  <as-served-set description="Runner beans (leftovers)" id="runner_beans_leftovers">
+    <as-served-image weight="2.0" url="Runbn8.jpg" />
+    <as-served-image weight="2.94" url="Runbn9.jpg" />
+    <as-served-image weight="4.31" url="Runbn10.jpg" />
+    <as-served-image weight="6.32" url="Runbn11.jpg" />
+    <as-served-image weight="9.28" url="Runbn12.jpg" />
+    <as-served-image weight="13.63" url="Runbn13.jpg" />
+    <as-served-image weight="20.0" url="Runbn14.jpg" />
   </as-served-set>
   <as-served-set description="Salmon steak" id="salmon_steak">
     <as-served-image weight="28.0" url="GSalm01.jpg" />
@@ -867,6 +980,7 @@
     <as-served-image weight="153.0" url="GSalm04.jpg" />
     <as-served-image weight="188.0" url="GSalm05.jpg" />
   </as-served-set>
+  <as-served-set description="Salmon steak (leftovers)" id="salmon_steak_leftovers"></as-served-set>
   <as-served-set description="Sauce (dollop)" id="sauce_dollop">
     <as-served-image weight="4.0" url="404.jpg" />
     <as-served-image weight="6.0" url="406.jpg" />
@@ -875,9 +989,11 @@
     <as-served-image weight="20.0" url="416.jpg" />
     <as-served-image weight="31.0" url="421.jpg" />
     <as-served-image weight="46.0" url="424.jpg" />
-    <leftovers-image weight="1.0" url="401.jpg" />
-    <leftovers-image weight="2.0" url="402.jpg" />
-    <leftovers-image weight="3.0" url="403.jpg" />
+  </as-served-set>
+  <as-served-set description="Sauce (dollop) (leftovers)" id="sauce_dollop_leftovers">
+    <as-served-image weight="1.0" url="401.jpg" />
+    <as-served-image weight="2.0" url="402.jpg" />
+    <as-served-image weight="3.0" url="403.jpg" />
   </as-served-set>
   <as-served-set description="Shepherd's pie" id="shepherds_pie">
     <as-served-image weight="43.0" url="PShepie1.jpg" />
@@ -887,13 +1003,15 @@
     <as-served-image weight="167.98" url="PShepie5.jpg" />
     <as-served-image weight="236.15" url="PShepie6.jpg" />
     <as-served-image weight="332.0" url="PShepie7.jpg" />
-    <leftovers-image weight="5.0" url="PShepie8.jpg" />
-    <leftovers-image weight="7.16" url="PShepie9.jpg" />
-    <leftovers-image weight="10.24" url="PShepie10.jpg" />
-    <leftovers-image weight="14.66" url="PShepie11.jpg" />
-    <leftovers-image weight="20.99" url="PShepie12.jpg" />
-    <leftovers-image weight="30.04" url="PShepie13.jpg" />
-    <leftovers-image weight="43.0" url="PShepie14.jpg" />
+  </as-served-set>
+  <as-served-set description="Shepherd's pie (leftovers)" id="shepherds_pie_leftovers">
+    <as-served-image weight="5.0" url="PShepie8.jpg" />
+    <as-served-image weight="7.16" url="PShepie9.jpg" />
+    <as-served-image weight="10.24" url="PShepie10.jpg" />
+    <as-served-image weight="14.66" url="PShepie11.jpg" />
+    <as-served-image weight="20.99" url="PShepie12.jpg" />
+    <as-served-image weight="30.04" url="PShepie13.jpg" />
+    <as-served-image weight="43.0" url="PShepie14.jpg" />
   </as-served-set>
   <as-served-set description="Shreddies" id="shreddies">
     <as-served-image weight="22.6" url="Shred1.jpg" />
@@ -903,13 +1021,15 @@
     <as-served-image weight="60.1" url="Shred5.jpg" />
     <as-served-image weight="76.74" url="Shred6.jpg" />
     <as-served-image weight="98.0" url="Shred7.jpg" />
-    <leftovers-image weight="2.0" url="Shred8.jpg" />
-    <leftovers-image weight="3.0" url="Shred9.jpg" />
-    <leftovers-image weight="4.49" url="Shred10.jpg" />
-    <leftovers-image weight="6.72" url="Shred11.jpg" />
-    <leftovers-image weight="10.07" url="Shred12.jpg" />
-    <leftovers-image weight="15.09" url="Shred13.jpg" />
-    <leftovers-image weight="22.6" url="Shred14.jpg" />
+  </as-served-set>
+  <as-served-set description="Shreddies (leftovers)" id="shreddies_leftovers">
+    <as-served-image weight="2.0" url="Shred8.jpg" />
+    <as-served-image weight="3.0" url="Shred9.jpg" />
+    <as-served-image weight="4.49" url="Shred10.jpg" />
+    <as-served-image weight="6.72" url="Shred11.jpg" />
+    <as-served-image weight="10.07" url="Shred12.jpg" />
+    <as-served-image weight="15.09" url="Shred13.jpg" />
+    <as-served-image weight="22.6" url="Shred14.jpg" />
   </as-served-set>
   <as-served-set description="Soup" id="soup">
     <as-served-image weight="76.5" url="Soup1.jpg" />
@@ -919,13 +1039,15 @@
     <as-served-image weight="246.17" url="Soup5.jpg" />
     <as-served-image weight="329.71" url="Soup6.jpg" />
     <as-served-image weight="405.0" url="Soup7.jpg" />
-    <leftovers-image weight="10.0" url="Soup8.jpg" />
-    <leftovers-image weight="14.04" url="Soup9.jpg" />
-    <leftovers-image weight="19.7" url="Soup10.jpg" />
-    <leftovers-image weight="27.66" url="Soup11.jpg" />
-    <leftovers-image weight="38.82" url="Soup12.jpg" />
-    <leftovers-image weight="54.5" url="Soup13.jpg" />
-    <leftovers-image weight="76.5" url="Soup14.jpg" />
+  </as-served-set>
+  <as-served-set description="Soup (leftovers)" id="soup_leftovers">
+    <as-served-image weight="10.0" url="Soup8.jpg" />
+    <as-served-image weight="14.04" url="Soup9.jpg" />
+    <as-served-image weight="19.7" url="Soup10.jpg" />
+    <as-served-image weight="27.66" url="Soup11.jpg" />
+    <as-served-image weight="38.82" url="Soup12.jpg" />
+    <as-served-image weight="54.5" url="Soup13.jpg" />
+    <as-served-image weight="76.5" url="Soup14.jpg" />
   </as-served-set>
   <as-served-set description="Sponge pudding" id="sponge_pudding">
     <as-served-image weight="42.0" url="Spng1.jpg" />
@@ -935,23 +1057,27 @@
     <as-served-image weight="119.67" url="Spng5.jpg" />
     <as-served-image weight="155.48" url="Spng6.jpg" />
     <as-served-image weight="202.0" url="Spng7.jpg" />
-    <leftovers-image weight="5.0" url="Spng8.jpg" />
-    <leftovers-image weight="7.13" url="Spng9.jpg" />
-    <leftovers-image weight="10.16" url="Spng10.jpg" />
-    <leftovers-image weight="14.49" url="Spng11.jpg" />
-    <leftovers-image weight="20.66" url="Spng12.jpg" />
-    <leftovers-image weight="29.46" url="Spng13.jpg" />
-    <leftovers-image weight="42.0" url="Spng14.jpg" />
+  </as-served-set>
+  <as-served-set description="Sponge pudding (leftovers)" id="sponge_pudding_leftovers">
+    <as-served-image weight="5.0" url="Spng8.jpg" />
+    <as-served-image weight="7.13" url="Spng9.jpg" />
+    <as-served-image weight="10.16" url="Spng10.jpg" />
+    <as-served-image weight="14.49" url="Spng11.jpg" />
+    <as-served-image weight="20.66" url="Spng12.jpg" />
+    <as-served-image weight="29.46" url="Spng13.jpg" />
+    <as-served-image weight="42.0" url="Spng14.jpg" />
   </as-served-set>
   <as-served-set description="Squash FIXME" id="squash">
     <as-served-image weight="0.0" url="Gsquash1.jpg" />
     <as-served-image weight="0.0" url="Gsquash2.jpg" />
     <as-served-image weight="0.0" url="Gsquash3.jpg" />
     <as-served-image weight="0.0" url="Gsquash4.jpg" />
-    <leftovers-image weight="0.0" url="Gsquash1.jpg" />
-    <leftovers-image weight="0.0" url="Gsquash2.jpg" />
-    <leftovers-image weight="0.0" url="Gsquash3.jpg" />
-    <leftovers-image weight="0.0" url="Gsquash4.jpg" />
+  </as-served-set>
+  <as-served-set description="Squash FIXME (leftovers)" id="squash_leftovers">
+    <as-served-image weight="0.0" url="Gsquash1.jpg" />
+    <as-served-image weight="0.0" url="Gsquash2.jpg" />
+    <as-served-image weight="0.0" url="Gsquash3.jpg" />
+    <as-served-image weight="0.0" url="Gsquash4.jpg" />
   </as-served-set>
   <as-served-set description="Sweetcorn" id="sweetcorn">
     <as-served-image weight="16.8" url="Sweet1.jpg" />
@@ -961,13 +1087,15 @@
     <as-served-image weight="98.42" url="Sweet5.jpg" />
     <as-served-image weight="153.11" url="Sweet6.jpg" />
     <as-served-image weight="238.2" url="Sweet7.jpg" />
-    <leftovers-image weight="2.0" url="Sweet8.jpg" />
-    <leftovers-image weight="2.85" url="Sweet9.jpg" />
-    <leftovers-image weight="4.07" url="Sweet10.jpg" />
-    <leftovers-image weight="5.8" url="Sweet11.jpg" />
-    <leftovers-image weight="8.26" url="Sweet12.jpg" />
-    <leftovers-image weight="11.78" url="Sweet13.jpg" />
-    <leftovers-image weight="16.8" url="Sweet14.jpg" />
+  </as-served-set>
+  <as-served-set description="Sweetcorn (leftovers)" id="sweetcorn_leftovers">
+    <as-served-image weight="2.0" url="Sweet8.jpg" />
+    <as-served-image weight="2.85" url="Sweet9.jpg" />
+    <as-served-image weight="4.07" url="Sweet10.jpg" />
+    <as-served-image weight="5.8" url="Sweet11.jpg" />
+    <as-served-image weight="8.26" url="Sweet12.jpg" />
+    <as-served-image weight="11.78" url="Sweet13.jpg" />
+    <as-served-image weight="16.8" url="Sweet14.jpg" />
   </as-served-set>
   <as-served-set description="Tomato based sauce" id="tomato_sauce">
     <as-served-image weight="8.8" url="CkSau1.jpg" />
@@ -977,12 +1105,14 @@
     <as-served-image weight="74.51" url="CkSau5.jpg" />
     <as-served-image weight="127.1" url="CkSau6.jpg" />
     <as-served-image weight="216.8" url="CkSau7.jpg" />
-    <leftovers-image weight="1.0" url="CkSau8.jpg" />
-    <leftovers-image weight="2.06" url="CkSau9.jpg" />
-    <leftovers-image weight="2.97" url="CkSau10.jpg" />
-    <leftovers-image weight="4.26" url="CkSau11.jpg" />
-    <leftovers-image weight="6.12" url="CkSau12.jpg" />
-    <leftovers-image weight="8.8" url="CkSau13.jpg" />
+  </as-served-set>
+  <as-served-set description="Tomato based sauce (leftovers)" id="tomato_sauce_leftovers">
+    <as-served-image weight="1.0" url="CkSau8.jpg" />
+    <as-served-image weight="2.06" url="CkSau9.jpg" />
+    <as-served-image weight="2.97" url="CkSau10.jpg" />
+    <as-served-image weight="4.26" url="CkSau11.jpg" />
+    <as-served-image weight="6.12" url="CkSau12.jpg" />
+    <as-served-image weight="8.8" url="CkSau13.jpg" />
   </as-served-set>
   <as-served-set description="White/cheese sauce" id="white_sauce">
     <as-served-image weight="43.0" url="m614.jpg" />
@@ -992,12 +1122,14 @@
     <as-served-image weight="120.0" url="m628.jpg" />
     <as-served-image weight="155.0" url="m631.jpg" />
     <as-served-image weight="200.0" url="m635.jpg" />
-    <leftovers-image weight="5.0" url="m601.jpg" />
-    <leftovers-image weight="7.0" url="m602.jpg" />
-    <leftovers-image weight="10.0" url="m603.jpg" />
-    <leftovers-image weight="14.0" url="m604.jpg" />
-    <leftovers-image weight="19.0" url="m606.jpg" />
-    <leftovers-image weight="21.0" url="m608.jpg" />
-    <leftovers-image weight="30.0" url="m611.jpg" />
+  </as-served-set>
+  <as-served-set description="White/cheese sauce (leftovers)" id="white_sauce_leftovers">
+    <as-served-image weight="5.0" url="m601.jpg" />
+    <as-served-image weight="7.0" url="m602.jpg" />
+    <as-served-image weight="10.0" url="m603.jpg" />
+    <as-served-image weight="14.0" url="m604.jpg" />
+    <as-served-image weight="19.0" url="m606.jpg" />
+    <as-served-image weight="21.0" url="m608.jpg" />
+    <as-served-image weight="30.0" url="m611.jpg" />
   </as-served-set>
 </scran24-as-served-sets>
