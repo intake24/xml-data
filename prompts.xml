@@ -1,0 +1,5 @@
+﻿<scran24-food-prompts>
+	<food code="FRON">
+		<prompt category="BRED" text="Did you have any bread with your soup?"/>
+	</food>
+</scran24-food-prompts>

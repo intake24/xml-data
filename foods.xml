@@ -2062,16 +2062,31 @@
   <category description="Drinks" code="DRNK">
     <category description="Coffee" code="CFFS">
       <food description="Black coffee" isDrink="true" code="CFFB" ndnsCode="2307">
-        <drink-scale drinkware-id="mugs" />
+        <portion-size method="drink-scale">
+          <param name="drinkware-id" value="mugs" />
+          <param name="initial-fill-level" value="0.85" />
+        </portion-size>
+        <portion-size method="guide-image">
+          <param name="guide-image-id" value="Gdori" />
+        </portion-size>
       </food>
       <food description="Coffee made with skimmed milk" isDrink="true" code="CFFK" ndnsCode="-1">
-        <drink-scale drinkware-id="mugs" />
+        <portion-size method="drink-scale">
+          <param name="drinkware-id" value="mugs" />
+          <param name="initial-fill-level" value="0.85" />
+        </portion-size>
       </food>
       <food description="Coffee made with semi skimmed milk" isDrink="true" code="CFFM" ndnsCode="-1">
-        <drink-scale drinkware-id="mugs" />
+        <portion-size method="drink-scale">
+          <param name="drinkware-id" value="mugs" />
+          <param name="initial-fill-level" value="0.85" />
+        </portion-size>
       </food>
       <food description="Coffee made with whole milk" isDrink="true" code="CFFW" ndnsCode="-1">
-        <drink-scale drinkware-id="mugs" />
+        <portion-size method="drink-scale">
+          <param name="drinkware-id" value="mugs" />
+          <param name="initial-fill-level" value="0.85" />
+        </portion-size>
       </food>
     </category>
     <category description="Fruit Juice" code="FJCE">
@@ -2144,19 +2159,34 @@
     </category>
     <category description="Hot Chocolate and Malted Drinks" code="HCHC">
       <food description="Hot chocolate made with water" isDrink="true" code="DCHR" ndnsCode="-1">
-        <drink-scale drinkware-id="mugs" />
+        <portion-size method="drink-scale">
+          <param name="drinkware-id" value="mugs" />
+          <param name="initial-fill-level" value="0.85" />
+        </portion-size>
       </food>
       <food description="Hot chocolate made with milk" isDrink="true" code="DCHS" ndnsCode="10724">
-        <drink-scale drinkware-id="mugs" />
+        <portion-size method="drink-scale">
+          <param name="drinkware-id" value="mugs" />
+          <param name="initial-fill-level" value="0.85" />
+        </portion-size>
       </food>
       <food description="Hot chocolate made with water, low calorie" isDrink="true" code="DCLR" ndnsCode="-1">
-        <drink-scale drinkware-id="mugs" />
+        <portion-size method="drink-scale">
+          <param name="drinkware-id" value="mugs" />
+          <param name="initial-fill-level" value="0.85" />
+        </portion-size>
       </food>
       <food description="Hot chocolate low calorie made up with milk" isDrink="true" code="DCLS" ndnsCode="-1">
-        <drink-scale drinkware-id="mugs" />
+        <portion-size method="drink-scale">
+          <param name="drinkware-id" value="mugs" />
+          <param name="initial-fill-level" value="0.85" />
+        </portion-size>
       </food>
       <food description="Horlicks" isDrink="true" code="HRLK" ndnsCode="2310">
-        <drink-scale drinkware-id="mugs" />
+        <portion-size method="drink-scale">
+          <param name="drinkware-id" value="mugs" />
+          <param name="initial-fill-level" value="0.85" />
+        </portion-size>
       </food>
     </category>
     <category description="Smoothies" code="SMTH">
@@ -2498,19 +2528,34 @@
     </category>
     <category description="Tea" code="TEAS">
       <food description="Black tea" isDrink="true" code="BTEA" ndnsCode="2314">
-        <drink-scale drinkware-id="mugs" />
+        <portion-size method="drink-scale">
+          <param name="drinkware-id" value="mugs" />
+          <param name="initial-fill-level" value="0.85" />
+        </portion-size>
       </food>
       <food description="Herbal tea" isDrink="true" code="HTEA" ndnsCode="7000">
-        <drink-scale drinkware-id="mugs" />
+        <portion-size method="drink-scale">
+          <param name="drinkware-id" value="mugs" />
+          <param name="initial-fill-level" value="0.85" />
+        </portion-size>
       </food>
       <food description="Tea made with skimmed milk" isDrink="true" code="TEAK" ndnsCode="2315">
-        <drink-scale drinkware-id="mugs" />
+        <portion-size method="drink-scale">
+          <param name="drinkware-id" value="mugs" />
+          <param name="initial-fill-level" value="0.85" />
+        </portion-size>
       </food>
       <food description="Tea made with semi skimmed milk" isDrink="true" code="TEAM" ndnsCode="2315">
-        <drink-scale drinkware-id="mugs" />
+        <portion-size method="drink-scale">
+          <param name="drinkware-id" value="mugs" />
+          <param name="initial-fill-level" value="0.85" />
+        </portion-size>
       </food>
       <food description="Tea made with whole milk" isDrink="true" code="TEAW" ndnsCode="2315">
-        <drink-scale drinkware-id="mugs" />
+        <portion-size method="drink-scale">
+          <param name="drinkware-id" value="mugs" />
+          <param name="initial-fill-level" value="0.85" />
+        </portion-size>
       </food>
     </category>
     <category description="Water" code="WTRS">
@@ -3843,16 +3888,28 @@
     </category>
     <category description="Hot Drink made with Milk" code="HDRK">
       <food description="Skimmed milk" isDrink="true" code="KMLK" ndnsCode="613">
-        <drink-scale drinkware-id="mugs" />
+        <portion-size method="drink-scale">
+          <param name="drinkware-id" value="mugs" />
+          <param name="initial-fill-level" value="0.85" />
+        </portion-size>
       </food>
       <food description="Semi skimmed milk" isDrink="true" code="SMLK" ndnsCode="608">
-        <drink-scale drinkware-id="mugs" />
+        <portion-size method="drink-scale">
+          <param name="drinkware-id" value="mugs" />
+          <param name="initial-fill-level" value="0.85" />
+        </portion-size>
       </food>
       <food description="Soya milk" isDrink="true" code="SOYM" ndnsCode="3769">
-        <drink-scale drinkware-id="mugs" />
+        <portion-size method="drink-scale">
+          <param name="drinkware-id" value="mugs" />
+          <param name="initial-fill-level" value="0.85" />
+        </portion-size>
       </food>
       <food description="Whole milk" isDrink="true" code="WMLK" ndnsCode="602">
-        <drink-scale drinkware-id="mugs" />
+        <portion-size method="drink-scale">
+          <param name="drinkware-id" value="mugs" />
+          <param name="initial-fill-level" value="0.85" />
+        </portion-size>
       </food>
     </category>
     <category description="Milk on Cereal" code="MCRL">
@@ -4824,9 +4881,25 @@
     </category>
     <category description="Chips" code="CHIP">
       <food description="Chips, Fried" isDrink="false" code="FCFO" ndnsCode="1849">
-        <portion-size method="as-served">
-          <param name="serving-image-set" value="chips" />
-          <param name="leftovers-image-set" value="chips_leftovers" />
+        <portion-size method="as-served" description="Straight cut" imageUrl="portion/chipst2.jpg">
+          <param name="serving-image-set" value="chips_straight" />
+          <param name="leftovers-image-set" value="chips_straight_leftovers" />
+        </portion-size>
+        <portion-size method="as-served" description="Thick cut" imageUrl="portion/chipth2.jpg">
+          <param name="serving-image-set" value="chips_thick" />
+          <param name="leftovers-image-set" value="chips_thick_leftovers" />
+        </portion-size>
+        <portion-size method="as-served" description="Crinkle cut" imageUrl="portion/chipcr2.jpg">
+          <param name="serving-image-set" value="chips_crinkle" />
+          <param name="leftovers-image-set" value="chips_crinkle_leftovers" />
+        </portion-size>
+        <portion-size method="as-served" description="Curly fries" imageUrl="portion/curf2.jpg">
+          <param name="serving-image-set" value="chips_curly" />
+          <param name="leftovers-image-set" value="chips_curly_leftovers" />
+        </portion-size>
+        <portion-size method="as-served" description="French fries" imageUrl="portion/fren2.jpg">
+          <param name="serving-image-set" value="chips_french" />
+          <param name="leftovers-image-set" value="chips_french_leftovers" />
         </portion-size>
       </food>
       <food description="Oven chips" isDrink="false" code="FCOB" ndnsCode="10561">

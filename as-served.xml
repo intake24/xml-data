@@ -165,6 +165,108 @@
     <as-served-image weight="13.63" url="CarBo13.jpg" />
     <as-served-image weight="20.0" url="CarBo14.jpg" />
   </as-served-set>
+
+  <as-served-set description="Chips, straight cut" id="chips_straight"> 
+    <as-served-image weight="70.0" url="chips/chipst1.jpg"/>
+    <as-served-image weight="91.0" url="chips/chipst2.jpg"/>
+    <as-served-image weight="118.0" url="chips/chipst3.jpg"/>
+    <as-served-image weight="153.0" url="chips/chipst4.jpg"/>
+    <as-served-image weight="198.0" url="chips/chipst5.jpg"/>
+    <as-served-image weight="257.0" url="chips/chipst6.jpg"/>
+    <as-served-image weight="334.0" url="chips/chipst7.jpg"/>
+  </as-served-set>
+
+  <as-served-set description="Chips, straight cut (leftovers)" id="chips_straight_leftovers"> 
+    <as-served-image weight="5.0" url="chips/chipst8.jpg"/>
+    <as-served-image weight="7.0" url="chips/chipst9.jpg"/>
+    <as-served-image weight="10.0" url="chips/chipst10.jpg"/>
+    <as-served-image weight="15.0" url="chips/chipst11.jpg"/>
+    <as-served-image weight="23.0" url="chips/chipst12.jpg"/>
+    <as-served-image weight="33.0" url="chips/chipst13.jpg"/>
+    <as-served-image weight="48.0" url="chips/chipst14.jpg"/>
+  </as-served-set>
+
+  <as-served-set description="Chips, crinkle cut" id="chips_crinkle">
+    <as-served-image weight="70.0" url="chips/chipcr1.jpg"/>
+    <as-served-image weight="91.0" url="chips/chipcr2.jpg"/>
+    <as-served-image weight="118.0" url="chips/chipcr3.jpg"/>
+    <as-served-image weight="153.0" url="chips/chipcr4.jpg"/>
+    <as-served-image weight="198.0" url="chips/chipcr5.jpg"/>
+    <as-served-image weight="257.0" url="chips/chipcr6.jpg"/>
+    <as-served-image weight="334.0" url="chips/chipcr7.jpg"/>
+  </as-served-set>
+
+  <as-served-set description="Chips, crinkle cut (leftovers)" id="chips_crinkle_leftovers"> 
+    <as-served-image weight="5.0" url="chips/chipcr8.jpg"/>
+    <as-served-image weight="7.0" url="chips/chipcr9.jpg"/>
+    <as-served-image weight="10.0" url="chips/chipcr10.jpg"/>
+    <as-served-image weight="15.0" url="chips/chipcr11.jpg"/>
+    <as-served-image weight="23.0" url="chips/chipcr12.jpg"/>
+    <as-served-image weight="33.0" url="chips/chipcr13.jpg"/>
+    <as-served-image weight="48.0" url="chips/chipcr14.jpg"/>
+  </as-served-set>
+
+  <as-served-set description="Chips, thick cut" id="chips_thick">
+    <as-served-image weight="70.0" url="chips/chipth1.jpg"/>
+    <as-served-image weight="91.0" url="chips/chipth2.jpg"/>
+    <as-served-image weight="118.0" url="chips/chipth3.jpg"/>
+    <as-served-image weight="153.0" url="chips/chipth4.jpg"/>
+    <as-served-image weight="198.0" url="chips/chipth5.jpg"/>
+    <as-served-image weight="257.0" url="chips/chipth6.jpg"/>
+    <as-served-image weight="334.0" url="chips/chipth7.jpg"/>
+  </as-served-set>
+
+  <as-served-set description="Chips, thick cut (leftovers)" id="chips_thick_leftovers"> 
+    <as-served-image weight="5.0" url="chips/chipth8.jpg"/>
+    <as-served-image weight="7.0" url="chips/chipth9.jpg"/>
+    <as-served-image weight="10.0" url="chips/chipth10.jpg"/>
+    <as-served-image weight="15.0" url="chips/chipth11.jpg"/>
+    <as-served-image weight="23.0" url="chips/chipth12.jpg"/>
+    <as-served-image weight="33.0" url="chips/chipth13.jpg"/>
+    <as-served-image weight="48.0" url="chips/chipth14.jpg"/>
+  </as-served-set>
+
+
+  <as-served-set description="Chips, french fries" id="chips_french">
+    <as-served-image weight="70.0" url="chips/fren1.jpg"/>
+    <as-served-image weight="91.0" url="chips/fren2.jpg"/>
+    <as-served-image weight="118.0" url="chips/fren3.jpg"/>
+    <as-served-image weight="153.0" url="chips/fren4.jpg"/>
+    <as-served-image weight="198.0" url="chips/fren5.jpg"/>
+    <as-served-image weight="257.0" url="chips/fren6.jpg"/>
+    <as-served-image weight="334.0" url="chips/fren7.jpg"/>
+  </as-served-set>
+
+  <as-served-set description="Chips, french fries (leftovers)" id="chips_french_leftovers"> 
+    <as-served-image weight="5.0" url="chips/fren8.jpg"/>
+    <as-served-image weight="7.0" url="chips/fren9.jpg"/>
+    <as-served-image weight="10.0" url="chips/fren10.jpg"/>
+    <as-served-image weight="15.0" url="chips/fren11.jpg"/>
+    <as-served-image weight="23.0" url="chips/fren12.jpg"/>
+    <as-served-image weight="33.0" url="chips/fren13.jpg"/>
+    <as-served-image weight="48.0" url="chips/fren14.jpg"/>
+  </as-served-set>
+
+  <as-served-set description="Chips, curly fries" id="chips_curly">
+    <as-served-image weight="70.0" url="chips/curf1.jpg"/>
+    <as-served-image weight="91.0" url="chips/curf2.jpg"/>
+    <as-served-image weight="118.0" url="chips/curf3.jpg"/>
+    <as-served-image weight="153.0" url="chips/curf4.jpg"/>
+    <as-served-image weight="198.0" url="chips/curf5.jpg"/>
+    <as-served-image weight="257.0" url="chips/curf6.jpg"/>
+    <as-served-image weight="334.0" url="chips/curf7.jpg"/>
+  </as-served-set>
+
+  <as-served-set description="Chips, curly fries (leftovers)" id="chips_curly_leftovers"> 
+    <as-served-image weight="5.0" url="chips/curf8.jpg"/>
+    <as-served-image weight="7.0" url="chips/curf9.jpg"/>
+    <as-served-image weight="10.0" url="chips/curf10.jpg"/>
+    <as-served-image weight="15.0" url="chips/curf11.jpg"/>
+    <as-served-image weight="23.0" url="chips/curf12.jpg"/>
+    <as-served-image weight="33.0" url="chips/curf13.jpg"/>
+    <as-served-image weight="48.0" url="chips/curf14.jpg"/>
+  </as-served-set>
+
   <as-served-set description="Raw carrot" id="carrot_raw">
     <as-served-image weight="5.45" url="CarRw1.jpg" />
     <as-served-image weight="9.05" url="CarRw2.jpg" />
