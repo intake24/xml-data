@@ -1,5 +1,842 @@
-﻿<scran24-food-prompts>
-	<food code="FRON">
-		<prompt category="BRED" text="Did you have any bread with your soup?"/>
-	</food>
+<scran24-food-prompts>
+  <food code="PGLF">
+    <prompt category="FRTS:APSE:APSE" text="Did you have apple sauce with your pork chop?"/>
+  </food>
+  <food code="CKNP">
+    <prompt category="BRED" text="Did you have bread with your soup?"/>
+  </food>
+  <food code="CCSH">
+    <prompt category="BRED" text="Did you have bread with your soup?"/>
+  </food>
+  <food code="CMSH">
+    <prompt category="BRED" text="Did you have bread with your soup?"/>
+  </food>
+  <food code="BRTH">
+    <prompt category="BRED" text="Did you have bread with your soup?"/>
+  </food>
+  <food code="CROR">
+    <prompt category="BRED" text="Did you have bread with your soup?"/>
+  </food>
+  <food code="CSPC">
+    <prompt category="BRED" text="Did you have bread with your soup?"/>
+  </food>
+  <food code="WHLE">
+    <prompt category="BRED" text="Did you have bread with your soup?"/>
+  </food>
+  <food code="FRON">
+    <prompt category="BRED" text="Did you have bread with your soup?"/>
+  </food>
+  <food code="LENT">
+    <prompt category="BRED" text="Did you have bread with your soup?"/>
+  </food>
+  <food code="MSTN">
+    <prompt category="BRED" text="Did you have bread with your soup?"/>
+  </food>
+  <food code="CMSC">
+    <prompt category="BRED" text="Did you have bread with your soup?"/>
+  </food>
+  <food code="PHAM">
+    <prompt category="BRED" text="Did you have bread with your soup?"/>
+  </food>
+  <food code="PTLK">
+    <prompt category="BRED" text="Did you have bread with your soup?"/>
+  </food>
+  <food code="CTSH">
+    <prompt category="BRED" text="Did you have bread with your soup?"/>
+  </food>
+  <food code="TSPC">
+    <prompt category="BRED" text="Did you have bread with your soup?"/>
+  </food>
+  <food code="VSPC">
+    <prompt category="BRED" text="Did you have bread with your soup?"/>
+  </food>
+  <food code="MFCC">
+    <prompt category="BRED" text="Did you have bread or a roll with your cheese?"/>
+    <prompt category="BSCT:CRKR" text="Did you have any crackers with your cheese?"/>
+  </food>
+  <food code="LFCC">
+    <prompt category="BRED" text="Did you have bread or a roll with your cheese?"/>
+    <prompt category="BSCT:CRKR" text="Did you have any crackers with your cheese?"/>
+  </food>
+  <food code="CHOC">
+    <prompt category="BRED" text="Did you have your chocolate spread on some bread?"/>
+    <prompt category="BRED:TWBR" text="Did you have your chocolate spread on some toast (white bread)?"/>
+    <prompt category="BRED:TBBR" text="Did you have your chocolate spread on some toast (brown bread)?"/>
+  </food>
+  <food code="JAMF">
+    <prompt category="BRED" text="Did you have your jam on some bread?"/>
+    <prompt category="BRED:TWBR" text="Did you have your jam on some toast (white bread)?"/>
+    <prompt category="BRED:TBBR" text="Did you have your jam on some toast (brown bread)?"/>
+  </food>
+  <food code="JAMN">
+    <prompt category="BRED" text="Did you have your jam on some bread?"/>
+    <prompt category="BRED:TWBR" text="Did you have your jam on some toast (white bread)?"/>
+    <prompt category="BRED:TBBR" text="Did you have your jam on some toast (brown bread)?"/>
+  </food>
+  <food code="JAME">
+    <prompt category="BRED" text="Did you have your jam on some bread?"/>
+    <prompt category="BRED:TWBR" text="Did you have your jam on some toast (white bread)?"/>
+    <prompt category="BRED:TBBR" text="Did you have your jam on some toast (brown bread)?"/>
+  </food>
+  <food code="CURD">
+    <prompt category="BRED" text="Did you have your lemon curd on some bread?"/>
+    <prompt category="BRED:TWBR" text="Did you have your lemon curd on some toast (white bread)?"/>
+    <prompt category="BRED:TBBR" text="Did you have your lemon curd on some toast (brown bread)?"/>
+  </food>
+  <food code="PNBC">
+    <prompt category="BRED" text="Did you have your peanut butter on some bread?"/>
+    <prompt category="BRED:TWBR" text="Did you have your peanut butter on some toast (white bread)?"/>
+    <prompt category="BRED:TBBR" text="Did you have your peanut butter on some toast (brown bread)?"/>
+  </food>
+  <food code="PNBS">
+    <prompt category="BRED" text="Did you have your peanut butter on some bread?"/>
+    <prompt category="BRED:TWBR" text="Did you have your peanut butter on some toast (white bread)?"/>
+    <prompt category="BRED:TBBR" text="Did you have your peanut butter on some toast (brown bread)?"/>
+  </food>
+  <food code="TUNA">
+    <prompt category="BRED" text="Did you have your tuna pate/paste on some bread?"/>
+    <prompt category="BRED:TWBR" text="Did you have your tuna pate/paste on some toast (white bread)?"/>
+    <prompt category="BRED:TBBR" text="Did you have your tuna pate/paste on some toast (brown bread)?"/>
+  </food>
+  <food code="LIVR">
+    <prompt category="BRED" text="Did you have your pate on some bread?"/>
+    <prompt category="BRED:TWBR" text="Did you have your pate on some toast (white bread)?"/>
+    <prompt category="BRED:TBBR" text="Did you have your pate on some toast (brown bread)?"/>
+  </food>
+  <food code="BFPS">
+    <prompt category="BRED" text="Did you have your beef paste on some bread?"/>
+    <prompt category="BRED:TWBR" text="Did you have your beef paste on some toast (white bread)?"/>
+    <prompt category="BRED:TBBR" text="Did you have your beef paste on some toast (brown bread)?"/>
+  </food>
+  <food code="HAMB">
+    <prompt category="MEAT:BRGR" text="Did you have a beefburger with your bun?"/>
+    <prompt category="MEAT:BRGO" text="Did you have a chicken/turkey or veggie burger with your bun?"/>
+  </food>
+  <food code="OPSK">
+    <prompt category="BTTR" text="Did you have any butter or margarine on your potato?"/>
+    <prompt category="VGTB:BBNS:BBCT" text="Did you have baked beans on your potato?"/>
+    <prompt category="CHSE" text="Did you have cheese on your potato?"/>
+  </food>
+  <food code="OPFS">
+    <prompt category="BTTR" text="Did you have any butter or margarine on your potato?"/>
+    <prompt category="VGTB:BBNS:BBCT" text="Did you have baked beans on your potato?"/>
+    <prompt category="CHSE" text="Did you have cheese on your potato?"/>
+  </food>
+  <food code="SRLL">
+    <prompt category="BTTR" text="Did you have any butter or margarine on your bread?"/>
+  </food>
+  <food code="SLCD">
+    <prompt category="BTTR" text="Did you have any butter or margarine on your bread?"/>
+  </food>
+  <food code="FFTY">
+    <prompt category="BTTR" text="Did you have any butter or margarine on your bread?"/>
+  </food>
+  <food code="WHTG">
+    <prompt category="BTTR" text="Did you have any butter or margarine on your bread?"/>
+  </food>
+  <food code="WSLC">
+    <prompt category="BTTR" text="Did you have any butter or margarine on your bread?"/>
+  </food>
+  <food code="BSLC">
+    <prompt category="BTTR" text="Did you have any butter or margarine on your bread?"/>
+  </food>
+  <food code="CIAB">
+    <prompt category="BTTR" text="Did you have any butter or margarine on your bread?"/>
+  </food>
+  <food code="COBB">
+    <prompt category="BTTR" text="Did you have any butter or margarine on your corn?"/>
+  </food>
+  <food code="CRNT">
+    <prompt category="BTTR" text="Did you have any butter or margarine on your currant bread?"/>
+  </food>
+  <food code="MUFN">
+    <prompt category="BTTR" text="Did you have any butter or margarine on your bread muffin?"/>
+  </food>
+  <food code="FRCH">
+    <prompt category="BTTR" text="Did you have any butter or margarine on your baguette?"/>
+  </food>
+  <food code="FRUT">
+    <prompt category="BTTR" text="Did you have any butter or margarine on your bagel?"/>
+  </food>
+  <food code="GSLC">
+    <prompt category="BTTR" text="Did you have any butter or margarine on your bread?"/>
+  </food>
+  <food code="HCRB">
+    <prompt category="BTTR" text="Did you have any butter or margarine on your hot cross bun?"/>
+  </food>
+  <food code="MALT">
+    <prompt category="BTTR" text="Did you have any butter or margarine on your malt bread?"/>
+  </food>
+  <food code="MGRN">
+    <prompt category="BTTR" text="Did you have any butter or margarine on your bread?"/>
+  </food>
+  <food code="NPTC">
+    <prompt category="BTTR" text="Did you have any butter or margarine on your potatoes?"/>
+  </food>
+  <food code="NPTB">
+    <prompt category="BTTR" text="Did you have any butter or margarine on your potatoes?"/>
+  </food>
+  <food code="NPBS">
+    <prompt category="BTTR" text="Did you have any butter or margarine on your potatoes?"/>
+  </food>
+  <food code="OPTB">
+    <prompt category="BTTR" text="Did you have any butter or margarine on your potatoes?"/>
+  </food>
+  <food code="RYEB">
+    <prompt category="BTTR" text="Did you have any butter or margarine on your bread?"/>
+  </food>
+  <food code="CHSC">
+    <prompt category="BTTR" text="Did you have any butter or margarine on your scone?"/>
+  </food>
+  <food code="SODA">
+    <prompt category="BTTR" text="Did you have any butter or margarine on your bread?"/>
+  </food>
+  <food code="SFTG">
+    <prompt category="BTTR" text="Did you have any butter or margarine on your bread?"/>
+  </food>
+  <food code="WRLL">
+    <prompt category="BTTR" text="Did you have any butter or margarine on your bread?"/>
+  </food>
+  <food code="CRST">
+    <prompt category="BTTR" text="Did you have any butter or margarine on your bread?"/>
+  </food>
+  <food code="WHRL">
+    <prompt category="BTTR" text="Did you have any butter or margarine on your bread?"/>
+  </food>
+  <food code="WAFR">
+    <prompt category="BTTR" text="Did you have any butter or margarine on your Cornish wafer?"/>
+    <prompt category="CHSE" text="Did you have any cheese on your crackers?"/>
+  </food>
+  <food code="JACB">
+    <prompt category="BTTR" text="Did you have any butter or margarine on your crackers?"/>
+    <prompt category="CHSE" text="Did you have any cheese on your crackers?"/>
+  </food>
+  <food code="CRCR">
+    <prompt category="BTTR" text="Did you have any butter or margarine on your crackers?"/>
+    <prompt category="CHSE" text="Did you have any cheese on your crackers?"/>
+  </food>
+  <food code="WCRC">
+    <prompt category="BTTR" text="Did you have any butter or margarine on your crackers?"/>
+    <prompt category="CHSE" text="Did you have any cheese on your crackers?"/>
+  </food>
+  <food code="PLAI">
+    <prompt category="BTTR" text="Did you have any butter or margarine on your bagel?"/>
+    <prompt category="CHSE:CRMC" text="Did you have any cream cheese on your bagel?"/>
+  </food>
+  <food code="SAVY">
+    <prompt category="BTTR" text="Did you have any butter or margarine on your bagel?"/>
+    <prompt category="CHSE:CRMC" text="Did you have any cream cheese on your bagel?"/>
+  </food>
+  <food code="CRMP">
+    <prompt category="BTTR" text="Did you have any butter or margarine on your crumpet/pikelet?"/>
+    <prompt category="SUGR:JAMS" text="Did you have any jam/preserve on your crumpet?"/>
+  </food>
+  <food code="TTCK">
+    <prompt category="BTTR" text="Did you have any butter or margarine on your teacake?"/>
+    <prompt category="SUGR:JAMS" text="Did you have any jam/preserve on your teacake?"/>
+  </food>
+  <food code="PTSC">
+    <prompt category="BTTR" text="Did you have any butter or margarine on your scone?"/>
+    <prompt category="SUGR:JAMS" text="Did you have any jam/preserve on your scone?"/>
+    <prompt category="MILK:CREM" text="Did you have any cream with your scone?"/>
+  </food>
+  <food code="PLSC">
+    <prompt category="BTTR" text="Did you have any butter or margarine on your scone?"/>
+    <prompt category="SUGR:JAMS" text="Did you have any jam/preserve on your scone?"/>
+    <prompt category="MILK:CREM" text="Did you have any cream with your scone?"/>
+  </food>
+  <food code="BRWT">
+    <prompt category="BTTR" text="Did you have any butter or margarine on your toast?"/>
+    <prompt category="SUGR:JAMS" text="Did you have any jam/preserve on your toast?"/>
+  </food>
+  <food code="GRNT">
+    <prompt category="BTTR" text="Did you have any butter or margarine on your toast?"/>
+    <prompt category="SUGR:JAMS" text="Did you have any jam/preserve on your toast?"/>
+  </food>
+  <food code="WHTT">
+    <prompt category="BTTR" text="Did you have any butter or margarine on your toast?"/>
+    <prompt category="SUGR:JAMS" text="Did you have any jam/preserve on your toast?"/>
+  </food>
+  <food code="STST">
+    <prompt category="BTTR" text="Did you have any butter or margarine on your toast?"/>
+    <prompt category="SUGR:JAMS" text="Did you have any jam/preserve on your toast?"/>
+  </food>
+  <food code="WTST">
+    <prompt category="BTTR" text="Did you have any butter or margarine on your toast?"/>
+    <prompt category="SUGR:JAMS" text="Did you have any jam/preserve on your toast?"/>
+  </food>
+  <food code="WHLT">
+    <prompt category="BTTR" text="Did you have any butter or margarine on your toast?"/>
+    <prompt category="SUGR:JAMS" text="Did you have any jam/preserve on your toast?"/>
+  </food>
+  <food code="SAUS">
+    <prompt category="COND" text="Did you have any sauce with your sausages?"/>
+  </food>
+  <food code="YPSS">
+    <prompt category="COND:CUBE" text="Did you have any gravy with your roast beef?"/>
+  </food>
+  <food code="YPDF">
+    <prompt category="COND:CUBE" text="Did you have any gravy with your roast beef?"/>
+  </food>
+  <food code="BTRT">
+    <prompt category="MILK:CREM" text="Did you have any cream with your tart?"/>
+    <prompt category="ICEL:ICEC" text="Did you have any ice cream with your tart?"/>
+  </food>
+  <food code="BANF">
+    <prompt category="MILK:CREM" text="Did you have any cream with your banoffee pie?"/>
+    <prompt category="ICEL:ICEC" text="Did you have any ice cream with your banoffee pie?"/>
+  </food>
+  <food code="CHCK">
+    <prompt category="MILK:CREM" text="Did you have any cream with your chocolate cake?"/>
+    <prompt category="ICEL:ICEC" text="Did you have any ice cream with your chocolate cake?"/>
+  </food>
+  <food code="FTGT">
+    <prompt category="MILK:CREM" text="Did you have any cream with your gateaux?"/>
+    <prompt category="ICEL:ICEC" text="Did you have any ice cream with your gateaux?"/>
+  </food>
+  <food code="ACNW">
+    <prompt category="MILK:CREM" text="Did you have any cream with your apple crumble?"/>
+    <prompt category="ICEL:ICEC" text="Did you have any ice cream with your apple crumble?"/>
+    <prompt category="PUDS:CSTD" text="Did you have any custard with your apple crumble?"/>
+  </food>
+  <food code="BBPD">
+    <prompt category="MILK:CREM" text="Did you have any cream with your pudding?"/>
+    <prompt category="ICEL:ICEC" text="Did you have any ice cream with your pudding?"/>
+    <prompt category="PUDS:CSTD" text="Did you have any custard with your pudding?"/>
+  </food>
+  <food code="CFDG">
+    <prompt category="MILK:CREM" text="Did you have any cream with your fudge cake?"/>
+    <prompt category="ICEL:ICEC" text="Did you have any ice cream with your fudge cake?"/>
+    <prompt category="PUDS:CSTD" text="Did you have any custard with your fudge cake?"/>
+  </food>
+  <food code="CHGT">
+    <prompt category="MILK:CREM" text="Did you have any cream with your gateau?"/>
+    <prompt category="ICEL:ICEC" text="Did you have any ice cream with your gateau?"/>
+    <prompt category="PUDS:CSTD" text="Did you have any custard with your gateau?"/>
+  </food>
+  <food code="CSCB">
+    <prompt category="MILK:CREM" text="Did you have any cream with your chocolate cake?"/>
+    <prompt category="ICEL:ICEC" text="Did you have any ice cream with your chocolate cake?"/>
+    <prompt category="PUDS:CSTD" text="Did you have any custard with your chocolate cake?"/>
+  </food>
+  <food code="CSCN">
+    <prompt category="MILK:CREM" text="Did you have any cream with your chocolate cake?"/>
+    <prompt category="ICEL:ICEC" text="Did you have any ice cream with your chocolate cake?"/>
+    <prompt category="PUDS:CSTD" text="Did you have any custard with your chocolate cake?"/>
+  </food>
+  <food code="FCNW">
+    <prompt category="MILK:CREM" text="Did you have any cream with your fruit crumble?"/>
+    <prompt category="ICEL:ICEC" text="Did you have any ice cream with your fruit crumble?"/>
+    <prompt category="PUDS:CSTD" text="Did you have any custard with your fruit crumble?"/>
+  </food>
+  <food code="FTPI">
+    <prompt category="MILK:CREM" text="Did you have any cream with your fruit pie?"/>
+    <prompt category="ICEL:ICEC" text="Did you have any ice cream with your fruit pie?"/>
+    <prompt category="PUDS:CSTD" text="Did you have any custard with your fruit pie?"/>
+  </food>
+  <food code="FTPS">
+    <prompt category="MILK:CREM" text="Did you have any cream with your fruit pie?"/>
+    <prompt category="ICEL:ICEC" text="Did you have any ice cream with your fruit pie?"/>
+    <prompt category="PUDS:CSTD" text="Did you have any custard with your fruit pie?"/>
+  </food>
+  <food code="STSP">
+    <prompt category="MILK:CREM" text="Did you have any cream with your sponge pudding?"/>
+    <prompt category="ICEL:ICEC" text="Did you have any ice cream with your sponge pudding?"/>
+    <prompt category="PUDS:CSTD" text="Did you have any custard with your sponge pudding?"/>
+  </food>
+  <food code="SSPJ">
+    <prompt category="MILK:CREM" text="Did you have any cream with your sponge pudding?"/>
+    <prompt category="ICEL:ICEC" text="Did you have any ice cream with your sponge pudding?"/>
+    <prompt category="PUDS:CSTD" text="Did you have any custard with your sponge pudding?"/>
+  </food>
+  <food code="SPTD">
+    <prompt category="MILK:CREM" text="Did you have any cream with your spotted dick?"/>
+    <prompt category="ICEL:ICEC" text="Did you have any ice cream with your spotted dick?"/>
+    <prompt category="PUDS:CSTD" text="Did you have any custard with your spotted dick?"/>
+  </food>
+  <food code="CHRI">
+    <prompt category="MILK:CREM" text="Did you have any cream with your pudding?"/>
+    <prompt category="ICEL:ICEC" text="Did you have any ice cream with your pudding?"/>
+    <prompt category="PUDS:CSTD" text="Did you have any custard with your pudding?"/>
+  </food>
+  <food code="STBR">
+    <prompt category="MILK:CREM" text="Did you have any cream with your strawberries?"/>
+    <prompt category="SUGR:SUGA" text="Did you have any sugar on your strawberries?"/>
+  </food>
+  <food code="TTCP">
+    <prompt category="PCKL:RLSH" text="Did you have any salsa dip with your tortilla chips?"/>
+    <prompt category="PCKL:DIPS" text="Did you have any other dips with your tortilla chips?"/>
+  </food>
+  <food code="ILTC">
+    <prompt category="PCKL:DIPS:LFRC" text="Did you have any French dressing on your lettuce?"/>
+    <prompt category="PCKL:DIPS:THOU" text="Did you have any thousand island dressing on your lettuce?"/>
+    <prompt category="COND:SLDC" text="Did you have any salad cream on your lettuce?"/>
+  </food>
+  <food code="LTTC">
+    <prompt category="PCKL:DIPS:LFRC" text="Did you have any French dressing on your lettuce?"/>
+    <prompt category="PCKL:DIPS:THOU" text="Did you have any thousand island dressing on your lettuce?"/>
+    <prompt category="COND:SLDC" text="Did you have any salad cream on your lettuce?"/>
+  </food>
+  <food code="BMWH">
+    <prompt category="VGTB:CHIP:TAFF" text="Did you have any fries with your hamburger?"/>
+    <prompt category="DRNK" text="Did you have a drink with your hamburger?"/>
+  </food>
+  <food code="RBMF">
+    <prompt category="COND:CUBE" text="Did you have any gravy with your roast beef?"/>
+  </food>
+  <food code="ISTP">
+    <prompt category="COND:CUBE" text="Did you have any gravy with your steak pie?"/>
+  </food>
+  <food code="MBFP">
+    <prompt category="COND:CUBE" text="Did you have any gravy with your minced beef pie?"/>
+  </food>
+  <food code="RPMF">
+    <prompt category="COND:CUBE" text="Did you have any gravy with your roast pork?"/>
+    <prompt category="FRTS:APSE:APSE" text="Did you have apple sauce with your roast pork?"/>
+  </food>
+  <food code="RLMF">
+    <prompt category="COND:CUBE" text="Did you have any gravy with your roast lamb?"/>
+    <prompt category="COND:MNTS:MNTS" text="Did you have any mint sauce with your roast lamb?"/>
+  </food>
+  <food code="LMMB">
+    <prompt category="COND:CUBE" text="Did you have any gravy with your lamb chop?"/>
+    <prompt category="COND:MNTS:MNTS" text="Did you have any mint sauce with your lamb chop?"/>
+  </food>
+  <food code="PICW">
+    <prompt category="ICEL:ICEC" text="Did you have any ice cream with your wafer?"/>
+  </food>
+  <food code="CSSP">
+    <prompt category="SUGR:JAMS" text="Did you have any jam/preserve with your croissant?"/>
+  </food>
+  <food code="RPSS">
+    <prompt category="SUGR:JAMS" text="Did you have any jam/preserve with your rice pudding?"/>
+    <prompt category="SUGR:SYRP" text="Did you have any syrup with your rice pudding?"/>
+  </food>
+  <food code="MPDO">
+    <prompt category="SUGR:JAMS" text="Did you have any jam/preserve with your pudding?"/>
+    <prompt category="SUGR:SYRP" text="Did you have any syrup with your pudding?"/>
+  </food>
+  <food code="SSBF">
+    <prompt category="COND" text="Did you have any sauce with your sausages?"/>
+  </food>
+  <food code="SSBG">
+    <prompt category="COND" text="Did you have any sauce with your sausages?"/>
+  </food>
+  <food code="SSTF">
+    <prompt category="COND" text="Did you have any sauce with your sausages?"/>
+  </food>
+  <food code="SSTG">
+    <prompt category="COND" text="Did you have any sauce with your sausages?"/>
+  </food>
+  <food code="SSPF">
+    <prompt category="COND" text="Did you have any sauce with your sausages?"/>
+  </food>
+  <food code="SSPG">
+    <prompt category="COND" text="Did you have any sauce with your sausages?"/>
+  </food>
+  <food code="WFLF">
+    <prompt category="COND" text="Did you have any sauce with your waffles/smilies?"/>
+  </food>
+  <food code="WFLG">
+    <prompt category="COND" text="Did you have any sauce with your waffles/smilies?"/>
+  </food>
+  <food code="BBFG">
+    <prompt category="COND" text="Did you have any sauce with your beefburger?"/>
+  </food>
+  <food code="CBTA">
+    <prompt category="COND" text="Did you have any sauce on your cheeseburger?"/>
+  </food>
+  <food code="HBTA">
+    <prompt category="COND" text="Did you have any sauce on your hamburger?"/>
+  </food>
+  <food code="QPHC">
+    <prompt category="COND" text="Did you have any sauce on your quarter pounder?"/>
+  </food>
+  <food code="QPTA">
+    <prompt category="COND" text="Did you have any sauce on your quarter pounder?"/>
+  </food>
+  <food code="TAFF">
+    <prompt category="COND" text="Did you have any sauce on your chips?"/>
+  </food>
+  <food code="VBGF">
+    <prompt category="COND" text="Did you have any sauce on your veggie burger?"/>
+  </food>
+  <food code="MWCH">
+    <prompt category="COND" text="Did you have any sauce on your chips?"/>
+  </food>
+  <food code="BNSF">
+    <prompt category="COND" text="Did you have any sauce with your bacon?"/>
+  </food>
+  <food code="BNSG">
+    <prompt category="COND" text="Did you have any sauce with your bacon?"/>
+  </food>
+  <food code="BRKF">
+    <prompt category="COND" text="Did you have any sauce with your bacon?"/>
+  </food>
+  <food code="BRKG">
+    <prompt category="COND" text="Did you have any sauce with your bacon?"/>
+  </food>
+  <food code="TACC">
+    <prompt category="COND" text="Did you have any sauce on your chips?"/>
+  </food>
+  <food code="FCFO">
+    <prompt category="COND" text="Did you have any sauce on your chips?"/>
+  </food>
+  <food code="FCOB">
+    <prompt category="COND" text="Did you have any sauce on your chips?"/>
+  </food>
+  <food code="FRFT">
+    <prompt category="COND" text="Did you have any sauce with your hot dog?"/>
+  </food>
+  <food code="CBGF">
+    <prompt category="COND" text="Did you have any sauce on your chicken burger?"/>
+  </food>
+  <food code="CBBL">
+    <prompt category="COND" text="Did you have any sauce on your chicken burger?"/>
+  </food>
+  <food code="CFFO">
+    <prompt category="COND" text="Did you have any sauce on your chicken nuggets?"/>
+  </food>
+  <food code="CHFG">
+    <prompt category="COND" text="Did you have any sauce on your chicken nuggets?"/>
+  </food>
+  <food code="CPBG">
+    <prompt category="COND" text="Did you have any sauce on your fingers/goujons?"/>
+  </food>
+  <food code="CBFO">
+    <prompt category="COND" text="Did you have any sauce on your fish?"/>
+  </food>
+  <food code="CBFB">
+    <prompt category="COND" text="Did you have any sauce on your fish?"/>
+  </food>
+  <food code="CBCG">
+    <prompt category="COND" text="Did you have any sauce on your fish?"/>
+  </food>
+  <food code="FFFO">
+    <prompt category="COND" text="Did you have any sauce on your veggie burger?"/>
+  </food>
+  <food code="FFGR">
+    <prompt category="COND" text="Did you have any sauce on your veggie burger?"/>
+  </food>
+  <food code="BCTA">
+    <prompt category="COND" text="Did you have any sauce on your fish?"/>
+  </food>
+  <food code="FSBD">
+    <prompt category="COND" text="Did you have any sauce on your fish?"/>
+  </food>
+  <food code="FSBG">
+    <prompt category="COND" text="Did you have any sauce on your fish?"/>
+  </food>
+  <food code="FCBD">
+    <prompt category="COND" text="Did you have any sauce on your fishcake?"/>
+  </food>
+  <food code="FCBG">
+    <prompt category="COND" text="Did you have any sauce on your fishcake?"/>
+  </food>
+  <food code="HBCG">
+    <prompt category="COND" text="Did you have any sauce on your fish?"/>
+  </food>
+  <food code="PPDM">
+    <prompt category="COND" text="Did you have any sauce with your poppadums?"/>
+  </food>
+  <food code="TNAB">
+    <prompt category="COND:MAYO" text="Did you have any mayonnaise with your tuna?"/>
+  </food>
+  <food code="TNAO">
+    <prompt category="COND:MAYO" text="Did you have any mayonnaise with your tuna?"/>
+  </food>
+  <food code="COCO">
+    <prompt category="MILK:MCRL" text="Did you have milk on your cereal?"/>
+    <prompt category="SUGR:SUGA" text="Did you add any sugar on your cereal?"/>
+  </food>
+  <food code="CNTC">
+    <prompt category="MILK:MCRL" text="Did you have milk on your cereal?"/>
+    <prompt category="SUGR:SUGA" text="Did you add any sugar on your cereal?"/>
+  </food>
+  <food code="NESQ">
+    <prompt category="MILK:MCRL" text="Did you have milk on your cereal?"/>
+    <prompt category="SUGR:SUGA" text="Did you add any sugar on your cereal?"/>
+  </food>
+  <food code="SPCK">
+    <prompt category="MILK:MCRL" text="Did you have milk on your cereal?"/>
+    <prompt category="SUGR:SUGA" text="Did you add any sugar on your cereal?"/>
+  </food>
+  <food code="SGPF">
+    <prompt category="MILK:MCRL" text="Did you have milk on your cereal?"/>
+    <prompt category="SUGR:SUGA" text="Did you add any sugar on your cereal?"/>
+  </food>
+  <food code="WETO">
+    <prompt category="MILK:MCRL" text="Did you have milk on your cereal?"/>
+    <prompt category="SUGR:SUGA" text="Did you add any sugar on your cereal?"/>
+  </food>
+  <food code="BRNF">
+    <prompt category="MILK:MCRL" text="Did you have milk on your cereal?"/>
+    <prompt category="SUGR:SUGA" text="Did you add any sugar on your cereal?"/>
+  </food>
+  <food code="BRNS">
+    <prompt category="MILK:MCRL" text="Did you have milk on your cereal?"/>
+    <prompt category="SUGR:SUGA" text="Did you add any sugar on your cereal?"/>
+  </food>
+  <food code="CHRO">
+    <prompt category="MILK:MCRL" text="Did you have milk on your cereal?"/>
+    <prompt category="SUGR:SUGA" text="Did you add any sugar on your cereal?"/>
+  </food>
+  <food code="CHCF">
+    <prompt category="MILK:MCRL" text="Did you have milk on your cereal?"/>
+    <prompt category="SUGR:SUGA" text="Did you add any sugar on your cereal?"/>
+  </food>
+  <food code="CRNP">
+    <prompt category="MILK:MCRL" text="Did you have milk on your cereal?"/>
+    <prompt category="SUGR:SUGA" text="Did you add any sugar on your cereal?"/>
+  </food>
+  <food code="CRNF">
+    <prompt category="MILK:MCRL" text="Did you have milk on your cereal?"/>
+    <prompt category="SUGR:SUGA" text="Did you add any sugar on your cereal?"/>
+  </food>
+  <food code="OATC">
+    <prompt category="MILK:MCRL" text="Did you have milk on your cereal?"/>
+    <prompt category="SUGR:SUGA" text="Did you add any sugar on your cereal?"/>
+  </food>
+  <food code="FSHR">
+    <prompt category="MILK:MCRL" text="Did you have milk on your cereal?"/>
+    <prompt category="SUGR:SUGA" text="Did you add any sugar on your cereal?"/>
+  </food>
+  <food code="FRST">
+    <prompt category="MILK:MCRL" text="Did you have milk on your cereal?"/>
+    <prompt category="SUGR:SUGA" text="Did you add any sugar on your cereal?"/>
+  </food>
+  <food code="FRFB">
+    <prompt category="MILK:MCRL" text="Did you have milk on your cereal?"/>
+    <prompt category="SUGR:SUGA" text="Did you add any sugar on your cereal?"/>
+  </food>
+  <food code="HNUT">
+    <prompt category="MILK:MCRL" text="Did you have milk on your cereal?"/>
+    <prompt category="SUGR:SUGA" text="Did you add any sugar on your cereal?"/>
+  </food>
+  <food code="LCYC">
+    <prompt category="MILK:MCRL" text="Did you have milk on your cereal?"/>
+    <prompt category="SUGR:SUGA" text="Did you add any sugar on your cereal?"/>
+  </food>
+  <food code="MSLI">
+    <prompt category="MILK:MCRL" text="Did you have milk on your cereal?"/>
+    <prompt category="SUGR:SUGA" text="Did you add any sugar on your cereal?"/>
+  </food>
+  <food code="OTBX">
+    <prompt category="MILK:MCRL" text="Did you have milk on your cereal?"/>
+    <prompt category="SUGR:SUGA" text="Did you add any sugar on your cereal?"/>
+  </food>
+  <food code="OTBM">
+    <prompt category="MILK:MCRL" text="Did you have milk on your cereal?"/>
+    <prompt category="SUGR:SUGA" text="Did you add any sugar on your cereal?"/>
+  </food>
+  <food code="RCKP">
+    <prompt category="MILK:MCRL" text="Did you have milk on your cereal?"/>
+    <prompt category="SUGR:SUGA" text="Did you add any sugar on your cereal?"/>
+  </food>
+  <food code="RICI">
+    <prompt category="MILK:MCRL" text="Did you have milk on your cereal?"/>
+    <prompt category="SUGR:SUGA" text="Did you add any sugar on your cereal?"/>
+  </food>
+  <food code="SHWH">
+    <prompt category="MILK:MCRL" text="Did you have milk on your cereal?"/>
+    <prompt category="SUGR:SUGA" text="Did you add any sugar on your cereal?"/>
+  </food>
+  <food code="SHWB">
+    <prompt category="MILK:MCRL" text="Did you have milk on your cereal?"/>
+    <prompt category="SUGR:SUGA" text="Did you add any sugar on your cereal?"/>
+  </food>
+  <food code="SHRD">
+    <prompt category="MILK:MCRL" text="Did you have milk on your cereal?"/>
+    <prompt category="SUGR:SUGA" text="Did you add any sugar on your cereal?"/>
+  </food>
+  <food code="SLTB">
+    <prompt category="MILK:MCRL" text="Did you have milk on your cereal?"/>
+    <prompt category="SUGR:SUGA" text="Did you add any sugar on your cereal?"/>
+  </food>
+  <food code="WTBX">
+    <prompt category="MILK:MCRL" text="Did you have milk on your cereal?"/>
+    <prompt category="SUGR:SUGA" text="Did you add any sugar on your cereal?"/>
+  </food>
+  <food code="WTBM">
+    <prompt category="MILK:MCRL" text="Did you have milk on your cereal?"/>
+    <prompt category="SUGR:SUGA" text="Did you add any sugar on your cereal?"/>
+  </food>
+  <food code="WTAF">
+    <prompt category="MILK:MCRL" text="Did you have milk on your cereal?"/>
+    <prompt category="SUGR:SUGA" text="Did you add any sugar on your cereal?"/>
+  </food>
+  <food code="WTFR">
+    <prompt category="MILK:MCRL" text="Did you have milk on your cereal?"/>
+    <prompt category="SUGR:SUGA" text="Did you add any sugar on your cereal?"/>
+  </food>
+  <food code="STFR">
+    <prompt category="CARB:NDLS" text="Did you have any noodles with your stir fried vegetables?"/>
+    <prompt category="CARB:RICE" text="Did you have any rice with your stir fried vegetables?"/>
+  </food>
+  <food code="BSPS">
+    <prompt category="CARB:PSTA" text="Did you have any pasta with your bolognese sauce?"/>
+  </food>
+  <food code="BSLM">
+    <prompt category="CARB:PSTA" text="Did you have any pasta with your bolognese sauce?"/>
+  </food>
+  <food code="GPTO">
+    <prompt category="CARB:PSTA" text="Did you have any pasta with your pesto sauce?"/>
+  </food>
+  <food code="GSLI">
+    <prompt category="FRTS:PINE:PINE" text="Did you have any pineapple with your gammon?"/>
+    <prompt category="EGGD:EGGS:EOIL" text="Did you have an egg with your gammon?"/>
+    <prompt category="COND" text="Did you have any sauce with your gammon?"/>
+  </food>
+  <food code="BGRF">
+    <prompt category="FRTS:PINE:PINE" text="Did you have any pineapple with your gammon?"/>
+    <prompt category="EGGD:EGGS:EOIL" text="Did you have an egg with your gammon?"/>
+    <prompt category="COND" text="Did you have any sauce with your gammon?"/>
+  </food>
+  <food code="BGRG">
+    <prompt category="FRTS:PINE:PINE" text="Did you have any pineapple with your gammon?"/>
+    <prompt category="EGGD:EGGS:EOIL" text="Did you have an egg with your gammon?"/>
+    <prompt category="COND" text="Did you have any sauce with your gammon?"/>
+  </food>
+  <food code="BFCY">
+    <prompt category="CARB:RICE" text="Did you have any rice with your curry?"/>
+    <prompt category="BRED:NNBR" text="Did you have any naan bread with your curry?"/>
+  </food>
+  <food code="CCHM">
+    <prompt category="CARB:RICE" text="Did you have any rice with your curry?"/>
+    <prompt category="BRED:NNBR" text="Did you have any naan bread with your curry?"/>
+  </food>
+  <food code="CTCY">
+    <prompt category="CARB:RICE" text="Did you have any rice with your curry?"/>
+    <prompt category="BRED:NNBR" text="Did you have any naan bread with your curry?"/>
+  </food>
+  <food code="CCFT">
+    <prompt category="CARB:RICE" text="Did you have any rice with your curry?"/>
+    <prompt category="BRED:NNBR" text="Did you have any naan bread with your curry?"/>
+  </food>
+  <food code="FCRY">
+    <prompt category="CARB:RICE" text="Did you have any rice with your curry?"/>
+    <prompt category="BRED:NNBR" text="Did you have any naan bread with your curry?"/>
+  </food>
+  <food code="LAMB">
+    <prompt category="CARB:RICE" text="Did you have any rice with your curry?"/>
+    <prompt category="BRED:NNBR" text="Did you have any naan bread with your curry?"/>
+  </food>
+  <food code="CYVT">
+    <prompt category="CARB:RICE" text="Did you have any rice with your curry?"/>
+    <prompt category="BRED:NNBR" text="Did you have any naan bread with your curry?"/>
+  </food>
+  <food code="SSCK">
+    <prompt category="CARB:RICE" text="Did you have any rice with your sweet &amp; sour chicken?"/>
+    <prompt category="CARB:NDLS" text="Did you have any noodles with your sweet &amp; sour chicken?"/>
+  </food>
+  <food code="SWSP">
+    <prompt category="CARB:RICE" text="Did you have any rice with your sweet &amp; sour pork?"/>
+    <prompt category="CARB:NDLS" text="Did you have any noodles with your sweet &amp; sour pork?"/>
+  </food>
+  <food code="SBPK">
+    <prompt category="CARB:RICE" text="Did you have any rice with your sweet &amp; sour pork?"/>
+    <prompt category="CARB:NDLS" text="Did you have any noodles with your sweet &amp; sour pork?"/>
+  </food>
+  <food code="CHLI">
+    <prompt category="CARB:RICE" text="Did you have any rice with your chilli?"/>
+    <prompt category="MILK:CREM:SCRM" text="Did you have any sour cream with your chilli?"/>
+  </food>
+  <food code="CHLQ">
+    <prompt category="CARB:RICE" text="Did you have any rice with your chilli?"/>
+    <prompt category="MILK:CREM:SCRM" text="Did you have any sour cream with your chilli?"/>
+  </food>
+  <food code="FRSF">
+    <prompt category="SAUC:CIPS" text="Did you have any sauce with your filled pasta?"/>
+  </food>
+  <food code="MRWH">
+    <prompt category="SUGR:ICRM" text="Did you have any sauce on your ice cream?"/>
+    <prompt category="CBAR:BARS:FLAK" text="Did you have a flake in your ice cream?"/>
+    <prompt category="ICEL:WFRS:WFRS" text="Did you have a wafer with your ice cream?"/>
+  </food>
+  <food code="FSSI">
+    <prompt category="SUGR:ICRM" text="Did you have any sauce on your ice cream?"/>
+    <prompt category="ICEL:WFRS:WFRS" text="Did you have a wafer with your ice cream?"/>
+  </food>
+  <food code="VSSI">
+    <prompt category="SUGR:ICRM" text="Did you have any sauce on your ice cream?"/>
+    <prompt category="ICEL:WFRS:WFRS" text="Did you have a wafer with your ice cream?"/>
+  </food>
+  <food code="BEFF">
+    <prompt category="COND" text="Did you have any sauce with your steak?"/>
+  </food>
+  <food code="BEFG">
+    <prompt category="COND" text="Did you have any sauce with your steak?"/>
+  </food>
+  <food code="DUMP">
+    <prompt category="MEAT:STEW" text="Did you have your dumplings with a stew?"/>
+  </food>
+  <food code="GPFT">
+    <prompt category="SUGR:SUGA" text="Did you have any sugar on your grapefruit?"/>
+  </food>
+  <food code="CFFB">
+    <prompt category="SUGR:SUGA" text="Did you have any sugar in your coffee?"/>
+  </food>
+  <food code="BTEA">
+    <prompt category="SUGR:SUGA" text="Did you have any sugar in your tea?"/>
+  </food>
+  <food code="CFFM">
+    <prompt category="SUGR:SUGA" text="Did you have any sugar in your coffee?"/>
+  </food>
+  <food code="CFFK">
+    <prompt category="SUGR:SUGA" text="Did you have any sugar in your coffee?"/>
+  </food>
+  <food code="CFFW">
+    <prompt category="SUGR:SUGA" text="Did you have any sugar in your coffee?"/>
+  </food>
+  <food code="TEAM">
+    <prompt category="SUGR:SUGA" text="Did you have any sugar in your tea?"/>
+  </food>
+  <food code="TEAK">
+    <prompt category="SUGR:SUGA" text="Did you have any sugar in your tea?"/>
+  </food>
+  <food code="TEAW">
+    <prompt category="SUGR:SUGA" text="Did you have any sugar in your tea?"/>
+  </food>
+  <food code="PASS">
+    <prompt category="SUGR" text="Did you have any sugar or syrup on your pancakes?"/>
+  </food>
+  <food code="PANC">
+    <prompt category="SUGR" text="Did you have any sugar or syrup on your pancakes?"/>
+  </food>
+  <food code="PRSS">
+    <prompt category="SUGR:SUGA" text="Did you have any sugar on your porridge?"/>
+    <prompt category="SUGR:SYRP" text="Did you have any syrup on your porridge?"/>
+  </food>
+  <food code="PRDW">
+    <prompt category="SUGR:SUGA" text="Did you have any sugar on your porridge?"/>
+    <prompt category="SUGR:SYRP" text="Did you have any syrup on your porridge?"/>
+  </food>
+  <food code="RDSS">
+    <prompt category="SUGR:SUGA" text="Did you have any sugar on your Ready Brek?"/>
+    <prompt category="SUGR:SYRP" text="Did you have any syrup on your Ready Brek?"/>
+  </food>
+  <food code="RDBW">
+    <prompt category="SUGR:SUGA" text="Did you have any sugar on your Ready Brek?"/>
+    <prompt category="SUGR:SYRP" text="Did you have any syrup on your Ready Brek?"/>
+  </food>
+  <food code="BEGG">
+    <prompt category="BRED:TWBR" text="Did you have any toast (white bread) with your boiled egg?"/>
+    <prompt category="BRED:TBBR" text="Did you have any toast (brown bread) with your boiled egg?"/>
+  </food>
+  <food code="MARM">
+    <prompt category="BRED:TWBR" text="Did you have your marmalade on some toast (white bread)?"/>
+    <prompt category="BRED:TBBR" text="Did you have your marmalade on some toast (brown bread)?"/>
+  </food>
+  <food code="MRMT">
+    <prompt category="BRED:TWBR" text="Did you have your marmite on some toast (white bread)?"/>
+    <prompt category="BRED:TBBR" text="Did you have your marmite on some toast (brown bread)?"/>
+  </food>
+  <food code="SEGS">
+    <prompt category="BRED:TWBR" text="Did you have toast (white bread) with your scrambled egg?"/>
+    <prompt category="BRED:TBBR" text="Did you have toast (brown bread) with your scrambled egg?"/>
+  </food>
+  <food code="PEGG">
+    <prompt category="BRED:TWBR" text="Did you have toast (white bread) with your poached egg?"/>
+    <prompt category="BRED:TBBR" text="Did you have toast (brown bread) with your poached egg?"/>
+  </food>
 </scran24-food-prompts>

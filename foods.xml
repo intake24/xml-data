@@ -2066,9 +2066,6 @@
           <param name="drinkware-id" value="mugs" />
           <param name="initial-fill-level" value="0.85" />
         </portion-size>
-        <portion-size method="guide-image">
-          <param name="guide-image-id" value="Gdori" />
-        </portion-size>
       </food>
       <food description="Coffee made with skimmed milk" isDrink="true" code="CFFK" ndnsCode="-1">
         <portion-size method="drink-scale">
