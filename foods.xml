@@ -241,7 +241,6 @@
       <food description="Chocolate biscuit e.g. chocolate fingers, rocky bar" isDrink="false" code="CSBF" ndnsCode="253">
         <portion-size method="as-served">
           <param name="serving-image-set" value="choc_bisc" />
-          <param name="leftovers-image-set" value="choc_bisc_leftovers" />
         </portion-size>
       </food>
     </category>
@@ -249,7 +248,6 @@
       <food description="Chocolate biscuit with marshmallow e.g. Wagon wheels" isDrink="false" code="CHMH" ndnsCode="8195">
         <portion-size method="as-served">
           <param name="serving-image-set" value="choc_bisc" />
-          <param name="leftovers-image-set" value="choc_bisc_leftovers" />
         </portion-size>
       </food>
       <food description="Chocolate teacake e.g Tunnock's" isDrink="false" code="CHTC" ndnsCode="8195"></food>
@@ -258,13 +256,11 @@
       <food description="Chocolate biscuit with cream filling, coated in chocolate e.g penguin" isDrink="false" code="CSBC" ndnsCode="8193">
         <portion-size method="as-served">
           <param name="serving-image-set" value="choc_bisc" />
-          <param name="leftovers-image-set" value="choc_bisc_leftovers" />
         </portion-size>
       </food>
       <food description="Chocolate biscuit with wafer and cream e.g blue ribband / taxi" isDrink="false" code="CSBW" ndnsCode="8194">
         <portion-size method="as-served">
           <param name="serving-image-set" value="choc_bisc" />
-          <param name="leftovers-image-set" value="choc_bisc_leftovers" />
         </portion-size>
       </food>
     </category>
@@ -454,13 +450,11 @@
       <food description="Butter, Salted" isDrink="false" code="BTST" ndnsCode="851">
         <portion-size method="as-served">
           <param name="serving-image-set" value="butter_spread" />
-          <param name="leftovers-image-set" value="butter_spread_leftovers" />
         </portion-size>
       </food>
       <food description="Butter, Unsalted" isDrink="false" code="BTUS" ndnsCode="852">
         <portion-size method="as-served">
           <param name="serving-image-set" value="butter_spread" />
-          <param name="leftovers-image-set" value="butter_spread_leftovers" />
         </portion-size>
       </food>
     </category>
@@ -468,37 +462,31 @@
       <food description="Dairy free margarine e.g. Pure" isDrink="false" code="DFSP" ndnsCode="10980">
         <portion-size method="as-served">
           <param name="serving-image-set" value="butter_spread" />
-          <param name="leftovers-image-set" value="butter_spread_leftovers" />
         </portion-size>
       </food>
       <food description="Low fat Spread" isDrink="false" code="LFSD" ndnsCode="10049">
         <portion-size method="as-served">
           <param name="serving-image-set" value="butter_spread" />
-          <param name="leftovers-image-set" value="butter_spread_leftovers" />
         </portion-size>
       </food>
       <food description="Olive spread e.g. Olivio" isDrink="false" code="OLVS" ndnsCode="3364">
         <portion-size method="as-served">
           <param name="serving-image-set" value="butter_spread" />
-          <param name="leftovers-image-set" value="butter_spread_leftovers" />
         </portion-size>
       </food>
       <food description="Reduced fat Spread" isDrink="false" code="RFSD" ndnsCode="10043">
         <portion-size method="as-served">
           <param name="serving-image-set" value="butter_spread" />
-          <param name="leftovers-image-set" value="butter_spread_leftovers" />
         </portion-size>
       </food>
       <food description="Soft margarine e.g stork" isDrink="false" code="SMAR" ndnsCode="10040">
         <portion-size method="as-served">
           <param name="serving-image-set" value="butter_spread" />
-          <param name="leftovers-image-set" value="butter_spread_leftovers" />
         </portion-size>
       </food>
       <food description="Very low fat Spread" isDrink="false" code="VLFS" ndnsCode="3892">
         <portion-size method="as-served">
           <param name="serving-image-set" value="butter_spread" />
-          <param name="leftovers-image-set" value="butter_spread_leftovers" />
         </portion-size>
       </food>
     </category>
@@ -1203,19 +1191,16 @@
       <food description="Full fat cream cheese" isDrink="false" code="FFCC" ndnsCode="688">
         <portion-size method="as-served">
           <param name="serving-image-set" value="cream_cheese_spread" />
-          <param name="leftovers-image-set" value="cream_cheese_spread_leftovers" />
         </portion-size>
       </food>
       <food description="Cream cheese, low fat" isDrink="false" code="LFCC" ndnsCode="6979">
         <portion-size method="as-served">
           <param name="serving-image-set" value="cream_cheese_spread" />
-          <param name="leftovers-image-set" value="cream_cheese_spread_leftovers" />
         </portion-size>
       </food>
       <food description="Cream cheese" isDrink="false" code="MFCC" ndnsCode="2703">
         <portion-size method="as-served">
           <param name="serving-image-set" value="cream_cheese_spread" />
-          <param name="leftovers-image-set" value="cream_cheese_spread_leftovers" />
         </portion-size>
       </food>
     </category>
@@ -1336,20 +1321,17 @@
       <food description="Cheese spread e.g dairylea, laughing cow" isDrink="false" code="CHSP" ndnsCode="10413">
         <portion-size method="as-served">
           <param name="serving-image-set" value="cream_cheese_spread" />
-          <param name="leftovers-image-set" value="cream_cheese_spread_leftovers" />
         </portion-size>
       </food>
       <food description="Cheese spreads low fat e.g dairylea light, philadelphia light" isDrink="false" code="CSLF" ndnsCode="6979">
         <portion-size method="as-served">
           <param name="serving-image-set" value="cream_cheese_spread" />
-          <param name="leftovers-image-set" value="cream_cheese_spread_leftovers" />
         </portion-size>
       </food>
       <food description="Cheese slices or blocks e.g. kraft singles" isDrink="false" code="CSLI" ndnsCode="10507"></food>
       <food description="Cheese spreads flavoured e.g primula, boursin" isDrink="false" code="CSPL" ndnsCode="684">
         <portion-size method="as-served">
           <param name="serving-image-set" value="cream_cheese_spread" />
-          <param name="leftovers-image-set" value="cream_cheese_spread_leftovers" />
         </portion-size>
       </food>
       <food description="Cheese triangles flavoured e.g primula, boursin" isDrink="false" code="CTRF" ndnsCode="684">
@@ -1364,7 +1346,6 @@
       <food description="BBQ sauce, on bread" isDrink="false" code="BBQB" ndnsCode="2409">
         <portion-size method="as-served">
           <param name="serving-image-set" value="cream_cheese_spread" />
-          <param name="leftovers-image-set" value="cream_cheese_spread_leftovers" />
         </portion-size>
       </food>
       <food description="BBQ sauce" isDrink="false" code="BBQS" ndnsCode="2409">
@@ -1376,7 +1357,6 @@
       <food description="Brown sauce, on bread" isDrink="false" code="BWNB" ndnsCode="2412">
         <portion-size method="as-served">
           <param name="serving-image-set" value="cream_cheese_spread" />
-          <param name="leftovers-image-set" value="cream_cheese_spread_leftovers" />
         </portion-size>
       </food>
       <food description="Brown sauce" isDrink="false" code="BWNS" ndnsCode="2412">
@@ -1388,7 +1368,6 @@
       <food description="Brown sauce e.g. HP, on bread" isDrink="false" code="FTSB" ndnsCode="2412">
         <portion-size method="as-served">
           <param name="serving-image-set" value="cream_cheese_spread" />
-          <param name="leftovers-image-set" value="cream_cheese_spread_leftovers" />
         </portion-size>
       </food>
       <food description="Brown sauce e.g. HP fruity" isDrink="false" code="FTSC" ndnsCode="2412">
@@ -1453,7 +1432,6 @@
       <food description="Mayonnaise on bread" isDrink="false" code="MAYB" ndnsCode="2432">
         <portion-size method="as-served">
           <param name="serving-image-set" value="cream_cheese_spread" />
-          <param name="leftovers-image-set" value="cream_cheese_spread_leftovers" />
         </portion-size>
       </food>
       <food description="Mayonnaise (dollop)" isDrink="false" code="MAYO" ndnsCode="2432">
@@ -1465,7 +1443,6 @@
       <food description="Light Mayonnaise, on bread" isDrink="false" code="MYLB" ndnsCode="2433">
         <portion-size method="as-served">
           <param name="serving-image-set" value="cream_cheese_spread" />
-          <param name="leftovers-image-set" value="cream_cheese_spread_leftovers" />
         </portion-size>
       </food>
       <food description="Light Mayonnaise (dollop)" isDrink="false" code="MYOL" ndnsCode="2433">
@@ -1492,13 +1469,11 @@
       <food description="Mustard with grains on bread" isDrink="false" code="MGOB" ndnsCode="2454">
         <portion-size method="as-served">
           <param name="serving-image-set" value="cream_cheese_spread" />
-          <param name="leftovers-image-set" value="cream_cheese_spread_leftovers" />
         </portion-size>
       </food>
       <food description="Smooth mustard on bread" isDrink="false" code="SMOB" ndnsCode="2454">
         <portion-size method="as-served">
           <param name="serving-image-set" value="cream_cheese_spread" />
-          <param name="leftovers-image-set" value="cream_cheese_spread_leftovers" />
         </portion-size>
       </food>
       <food description="Smooth mustard e.g. Dijon, Colemans" isDrink="false" code="SMST" ndnsCode="2454">
@@ -1525,7 +1500,6 @@
       <food description="Seafood sauce on bread" isDrink="false" code="SFSB" ndnsCode="-1">
         <portion-size method="as-served">
           <param name="serving-image-set" value="cream_cheese_spread" />
-          <param name="leftovers-image-set" value="cream_cheese_spread_leftovers" />
         </portion-size>
       </food>
     </category>
@@ -1533,13 +1507,11 @@
       <food description="Light Salad cream, on bread" isDrink="false" code="SCLB" ndnsCode="2442">
         <portion-size method="as-served">
           <param name="serving-image-set" value="cream_cheese_spread" />
-          <param name="leftovers-image-set" value="cream_cheese_spread_leftovers" />
         </portion-size>
       </food>
       <food description="Salad cream, on bread" isDrink="false" code="SCOB" ndnsCode="2441">
         <portion-size method="as-served">
           <param name="serving-image-set" value="cream_cheese_spread" />
-          <param name="leftovers-image-set" value="cream_cheese_spread_leftovers" />
         </portion-size>
       </food>
       <food description="Light Salad cream" isDrink="false" code="SDCL" ndnsCode="2442">
@@ -1572,7 +1544,6 @@
       <food description="Tomato ketchup, on bread" isDrink="false" code="TKSB" ndnsCode="2448">
         <portion-size method="as-served">
           <param name="serving-image-set" value="cream_cheese_spread" />
-          <param name="leftovers-image-set" value="cream_cheese_spread_leftovers" />
         </portion-size>
       </food>
     </category>
@@ -1641,13 +1612,11 @@
       <food description="Chocolate and nut spread e.g Nutella" isDrink="false" code="CHNT" ndnsCode="2212">
         <portion-size method="as-served">
           <param name="serving-image-set" value="cream_cheese_spread" />
-          <param name="leftovers-image-set" value="cream_cheese_spread_leftovers" />
         </portion-size>
       </food>
       <food description="Chocolate Spread" isDrink="false" code="CHOC" ndnsCode="2211">
         <portion-size method="as-served">
           <param name="serving-image-set" value="cream_cheese_spread" />
-          <param name="leftovers-image-set" value="cream_cheese_spread_leftovers" />
         </portion-size>
       </food>
       <food description="Rolos" isDrink="false" code="ROLO" ndnsCode="2256">
@@ -2619,19 +2588,16 @@
       <food description="Fish in batter, from takeaway" isDrink="false" code="BCTA" ndnsCode="7808">
         <portion-size method="as-served">
           <param name="serving-image-set" value="fish_batter" />
-          <param name="leftovers-image-set" value="fish_batter_leftovers" />
         </portion-size>
       </food>
       <food description="Cod in batter, oven baked" isDrink="false" code="CBFB" ndnsCode="1637">
         <portion-size method="as-served">
           <param name="serving-image-set" value="fish_batter" />
-          <param name="leftovers-image-set" value="fish_batter_leftovers" />
         </portion-size>
       </food>
       <food description="Cod in batter, fried" isDrink="false" code="CBFO" ndnsCode="1411">
         <portion-size method="as-served">
           <param name="serving-image-set" value="fish_batter" />
-          <param name="leftovers-image-set" value="fish_batter_leftovers" />
         </portion-size>
       </food>
     </category>
@@ -2650,13 +2616,11 @@
       <food description="Cod fillet (fish only no batter or crumbs)" isDrink="false" code="CDFB" ndnsCode="1420">
         <portion-size method="as-served">
           <param name="serving-image-set" value="salmon_steak" />
-          <param name="leftovers-image-set" value="salmon_steak_leftovers" />
         </portion-size>
       </food>
       <food description="Cod fillet, poached" isDrink="false" code="CDFP" ndnsCode="1422">
         <portion-size method="as-served">
           <param name="serving-image-set" value="salmon_steak" />
-          <param name="leftovers-image-set" value="salmon_steak_leftovers" />
         </portion-size>
       </food>
       <food description="Cod steaks grilled" isDrink="false" code="CDSG" ndnsCode="7798"></food>
@@ -2664,19 +2628,16 @@
       <food description="Halibut, steamed" isDrink="false" code="HBST" ndnsCode="1448">
         <portion-size method="as-served">
           <param name="serving-image-set" value="salmon_steak" />
-          <param name="leftovers-image-set" value="salmon_steak_leftovers" />
         </portion-size>
       </food>
       <food description="Haddock, smoked" isDrink="false" code="HDSM" ndnsCode="7819">
         <portion-size method="as-served">
           <param name="serving-image-set" value="salmon_steak" />
-          <param name="leftovers-image-set" value="salmon_steak_leftovers" />
         </portion-size>
       </food>
       <food description="Haddock,steamed" isDrink="false" code="HDST" ndnsCode="7817">
         <portion-size method="as-served">
           <param name="serving-image-set" value="salmon_steak" />
-          <param name="leftovers-image-set" value="salmon_steak_leftovers" />
         </portion-size>
       </food>
       <food description="Herring, fried" isDrink="false" code="HRFR" ndnsCode="1491"></food>
@@ -2689,7 +2650,6 @@
       <food description="Salmon, steamed" isDrink="false" code="SMSD" ndnsCode="1520">
         <portion-size method="as-served">
           <param name="serving-image-set" value="salmon_steak" />
-          <param name="leftovers-image-set" value="salmon_steak_leftovers" />
         </portion-size>
       </food>
       <food description="Smoked salmon, not tinned" isDrink="false" code="SMSM" ndnsCode="1522">
@@ -2700,14 +2660,12 @@
       <food description="Trout" isDrink="false" code="TRST" ndnsCode="1530">
         <portion-size method="as-served">
           <param name="serving-image-set" value="salmon_steak" />
-          <param name="leftovers-image-set" value="salmon_steak_leftovers" />
         </portion-size>
       </food>
       <food description="Whitebait" isDrink="false" code="WBFR" ndnsCode="1535"></food>
       <food description="Whiting" isDrink="false" code="WHST" ndnsCode="1473">
         <portion-size method="as-served">
           <param name="serving-image-set" value="salmon_steak" />
-          <param name="leftovers-image-set" value="salmon_steak_leftovers" />
         </portion-size>
       </food>
     </category>
@@ -2735,13 +2693,11 @@
       <food description="Cod in breadcrumbs, grilled / ovenbaked" isDrink="false" code="CBCG" ndnsCode="9574">
         <portion-size method="as-served">
           <param name="serving-image-set" value="fish_batter" />
-          <param name="leftovers-image-set" value="fish_batter_leftovers" />
         </portion-size>
       </food>
       <food description="Haddock in breadcrumbs, grilled / ovenbaked" isDrink="false" code="HBCG" ndnsCode="9524">
         <portion-size method="as-served">
           <param name="serving-image-set" value="fish_batter" />
-          <param name="leftovers-image-set" value="fish_batter_leftovers" />
         </portion-size>
       </food>
       <food description="Scampi, in breadcrumbs" isDrink="false" code="SCMP" ndnsCode="9693">
@@ -2776,13 +2732,11 @@
       <food description="Mackerel, grilled" isDrink="false" code="GRIL" ndnsCode="1644">
         <portion-size method="as-served">
           <param name="serving-image-set" value="salmon_steak" />
-          <param name="leftovers-image-set" value="salmon_steak_leftovers" />
         </portion-size>
       </food>
       <food description="Mackerel, smoked" isDrink="false" code="SMKD" ndnsCode="8745">
         <portion-size method="as-served">
           <param name="serving-image-set" value="salmon_steak" />
-          <param name="leftovers-image-set" value="salmon_steak_leftovers" />
         </portion-size>
       </food>
     </category>
@@ -4560,13 +4514,11 @@
       <food description="Chocolate and nut spread e.g Nutella" isDrink="false" code="CHNT" ndnsCode="2212">
         <portion-size method="as-served">
           <param name="serving-image-set" value="cream_cheese_spread" />
-          <param name="leftovers-image-set" value="cream_cheese_spread_leftovers" />
         </portion-size>
       </food>
       <food description="Chocolate Spread" isDrink="false" code="CHOC" ndnsCode="2211">
         <portion-size method="as-served">
           <param name="serving-image-set" value="cream_cheese_spread" />
-          <param name="leftovers-image-set" value="cream_cheese_spread_leftovers" />
         </portion-size>
       </food>
       <food description="Rolos" isDrink="false" code="ROLO" ndnsCode="2256">
@@ -4579,7 +4531,6 @@
       <food description="Honey" isDrink="false" code="HNEY" ndnsCode="2214">
         <portion-size method="as-served">
           <param name="serving-image-set" value="butter_spread" />
-          <param name="leftovers-image-set" value="butter_spread_leftovers" />
         </portion-size>
       </food>
       <food description="Honey, in spoonfuls" isDrink="false" code="HONY" ndnsCode="2214">
@@ -4599,31 +4550,26 @@
       <food description="Lemon Curd" isDrink="false" code="CURD" ndnsCode="2219">
         <portion-size method="as-served">
           <param name="serving-image-set" value="jam" />
-          <param name="leftovers-image-set" value="jam_leftovers" />
         </portion-size>
       </food>
       <food description="Jam, raspberry/ strawberry/ blackberry" isDrink="false" code="JAME" ndnsCode="2215">
         <portion-size method="as-served">
           <param name="serving-image-set" value="jam" />
-          <param name="leftovers-image-set" value="jam_leftovers" />
         </portion-size>
       </food>
       <food description="Jam made from Apricot/ Plum" isDrink="false" code="JAMF" ndnsCode="2217">
         <portion-size method="as-served">
           <param name="serving-image-set" value="jam" />
-          <param name="leftovers-image-set" value="jam_leftovers" />
         </portion-size>
       </food>
       <food description="Jam reduced sugar" isDrink="false" code="JAMN" ndnsCode="2216">
         <portion-size method="as-served">
           <param name="serving-image-set" value="jam" />
-          <param name="leftovers-image-set" value="jam_leftovers" />
         </portion-size>
       </food>
       <food description="Marmalade" isDrink="false" code="MARM" ndnsCode="8559">
         <portion-size method="as-served">
           <param name="serving-image-set" value="jam" />
-          <param name="leftovers-image-set" value="jam_leftovers" />
         </portion-size>
       </food>
     </category>
@@ -4631,55 +4577,46 @@
       <food description="Beef paste" isDrink="false" code="BFPS" ndnsCode="1262">
         <portion-size method="as-served">
           <param name="serving-image-set" value="cream_cheese_spread" />
-          <param name="leftovers-image-set" value="cream_cheese_spread_leftovers" />
         </portion-size>
       </food>
       <food description="Bovril" isDrink="false" code="BVRL" ndnsCode="2410">
         <portion-size method="as-served">
           <param name="serving-image-set" value="butter_spread" />
-          <param name="leftovers-image-set" value="butter_spread_leftovers" />
         </portion-size>
       </food>
       <food description="Chicken paste" isDrink="false" code="CKNP" ndnsCode="1168">
         <portion-size method="as-served">
           <param name="serving-image-set" value="cream_cheese_spread" />
-          <param name="leftovers-image-set" value="cream_cheese_spread_leftovers" />
         </portion-size>
       </food>
       <food description="Liver pate" isDrink="false" code="LIVR" ndnsCode="1257">
         <portion-size method="as-served">
           <param name="serving-image-set" value="cream_cheese_spread" />
-          <param name="leftovers-image-set" value="cream_cheese_spread_leftovers" />
         </portion-size>
       </food>
       <food description="Marmite" isDrink="false" code="MRMT" ndnsCode="2431">
         <portion-size method="as-served">
           <param name="serving-image-set" value="butter_spread" />
-          <param name="leftovers-image-set" value="butter_spread_leftovers" />
         </portion-size>
       </food>
       <food description="Sandwich spread and filler" isDrink="false" code="SDSP" ndnsCode="2443">
         <portion-size method="as-served">
           <param name="serving-image-set" value="cream_cheese_spread" />
-          <param name="leftovers-image-set" value="cream_cheese_spread_leftovers" />
         </portion-size>
       </food>
       <food description="Salmon pate and paste" isDrink="false" code="SMNP" ndnsCode="10141">
         <portion-size method="as-served">
           <param name="serving-image-set" value="cream_cheese_spread" />
-          <param name="leftovers-image-set" value="cream_cheese_spread_leftovers" />
         </portion-size>
       </food>
       <food description="Tuna pate and paste" isDrink="false" code="TUNA" ndnsCode="9271">
         <portion-size method="as-served">
           <param name="serving-image-set" value="cream_cheese_spread" />
-          <param name="leftovers-image-set" value="cream_cheese_spread_leftovers" />
         </portion-size>
       </food>
       <food description="Vegemite" isDrink="false" code="VGMT" ndnsCode="10967">
         <portion-size method="as-served">
           <param name="serving-image-set" value="butter_spread" />
-          <param name="leftovers-image-set" value="butter_spread_leftovers" />
         </portion-size>
       </food>
     </category>
