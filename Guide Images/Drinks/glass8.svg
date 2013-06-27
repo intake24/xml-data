@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="2000"
+   height="3000"
+   id="svg3042"
+   version="1.1"
+   inkscape:version="0.48.4 r9939"
+   sodipodi:docname="New document 7">
+  <defs
+     id="defs3044" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.35"
+     inkscape:cx="950"
+     inkscape:cy="1728.5714"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0"
+     inkscape:window-width="1280"
+     inkscape:window-height="962"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata3047">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(625,967.63782)">
+    <image
+       y="-967.63782"
+       x="-625"
+       id="outline"
+       xlink:href="file:///T:/SCRAN24/NEW%20PHOTOS%20FOR%20SCRAN/glasses%20&amp;%20takeaway%20cups/glasses/glass8.jpg"
+       height="3000"
+       width="2000"
+       inkscape:label="#image3058" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M 574.28571,385.71429 z"
+       id="path3061"
+       inkscape:connector-curvature="0"
+       transform="translate(-625,-967.63782)" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 565.71429,374.28571 160,-40 320.00001,-5.71428 314.2857,17.14286 60,51.42857 60,305.71428 -11.4286,299.99996 L 1380,1265.7143 1211.4286,1480 l -28.5715,28.5714 -385.71424,0 -34.28572,-31.4285 L 631.42857,1291.4286 540,1042.8571 505.71429,780 z"
+       id="path3063"
+       inkscape:connector-curvature="0"
+       transform="translate(-625,-967.63782)"
+       sodipodi:nodetypes="cccccccccccccccc" />
+  </g>
+</svg>

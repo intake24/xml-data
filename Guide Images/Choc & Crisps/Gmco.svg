@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="3000"
+   height="2000"
+   id="svg3045"
+   version="1.1"
+   inkscape:version="0.48.4 r9939"
+   sodipodi:docname="New document 5">
+  <defs
+     id="defs3047" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.35"
+     inkscape:cx="1545.3156"
+     inkscape:cy="1417.1429"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0"
+     inkscape:window-width="1280"
+     inkscape:window-height="962"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata3050">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(2665.7144,50.494961)">
+    <image
+       y="-50.494961"
+       x="-2665.7144"
+       id="image3061"
+       xlink:href="file:///T:/SCRAN24/NEW%20PHOTOS%20FOR%20SCRAN/crisps/crisps/Gmco.jpg"
+       height="2000"
+       width="3000" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 785.71429,442.85714 c 20,0 165.71428,-5.71428 165.71428,-5.71428 L 1091.4286,420 l 100,5.71429 80,-17.14286 131.4285,0 68.5715,0 2.8571,42.85714 L 1440,477.14286 1454.2857,540 l -8.5714,62.85714 -25.7143,74.28572 20,105.71428 0,62.85715 2.8571,34.28571 8.5715,45.71429 -5.7143,100.00001 31.4286,51.4286 25.7142,117.1428 -131.4285,14.2857 L 1082.8571,1220 842.85714,1231.4286 705.71429,1240 700,1191.4286 l 62.85714,-188.5715 0,-74.28567 L 800,660 805.71429,551.42857 z"
+       id="area_1"
+       inkscape:connector-curvature="0"
+       transform="translate(-2665.7144,-50.494961)"
+       inkscape:label="#path3064" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M 1540,480 1831.4286,491.42857 2100,494.28571 2228.5714,500 2240,545.71429 l -14.2857,62.85714 -20,51.42857 5.7143,65.71429 0,91.42857 2.8571,108.57143 42.8571,74.28571 51.4286,125.7143 -11.4285,25.7143 -105.7143,-5.7143 -245.7143,0 L 1720,1140 l -120,-2.8571 -68.5714,0 -28.5715,-40 57.1429,-94.2858 2.8571,-97.14281 2.8572,-197.14286 0,-28.57143 -22.8572,-100 -11.4285,-57.14286 z"
+       id="area_2"
+       inkscape:connector-curvature="0"
+       transform="translate(-2665.7144,-50.494961)"
+       sodipodi:nodetypes="cccccccccccccccccccccccccc"
+       inkscape:label="#path3066" />
+    <flowRoot
+       xml:space="preserve"
+       id="navigation"
+       style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       transform="translate(-2665.7144,-50.494961)"
+       inkscape:label="#flowRoot3068"><flowRegion
+         id="flowRegion3070"><rect
+           id="rect3072"
+           width="320"
+           height="88.571426"
+           x="262.85715"
+           y="154.28572" /></flowRegion><flowPara
+         id="flowPara3074">1 2</flowPara></flowRoot>  </g>
+</svg>

@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="3000"
+   height="2000"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.48.4 r9939"
+   sodipodi:docname="New document 1">
+  <defs
+     id="defs4" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.35"
+     inkscape:cx="1602.99"
+     inkscape:cy="940.00002"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0"
+     inkscape:window-width="1280"
+     inkscape:window-height="962"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(1765.7142,756.20923)">
+    <image
+       y="-756.20923"
+       x="-1765.7142"
+       id="image2993"
+       xlink:href="file:///T:/SCRAN24/NEW%20PHOTOS%20FOR%20SCRAN/chocolate%20&amp;%20sweets/Gmkyb.jpg"
+       height="2000"
+       width="3000" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M 728.57143,437.14286 842.85714,428.57143 968.57143,440 1120,414.28572 l 211.4286,-20.00001 5.7143,122.85715 -17.1429,71.42857 -11.4286,202.85714 -2.8571,182.85714 11.4286,174.28569 5.7142,77.1429 -174.2857,0 -511.42854,-22.8572 2.85714,-77.1428 28.57143,-20 L 737.14286,640 714.28571,554.28571 z"
+       id="area_1"
+       inkscape:connector-curvature="0"
+       transform="translate(-1765.7142,-756.20923)"
+       sodipodi:nodetypes="cccccccccccccccccc"
+       inkscape:label="#path2996" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 1445.7143,554.28571 62.8571,17.14286 77.1429,14.28572 60,-2.85715 80,20 182.8571,-11.42857 5.7143,62.85714 0,74.28572 2.8572,77.14286 5.7142,97.14285 -5.7142,77.14286 2.8571,40 0,25.7143 14.2857,14.2857 -5.7143,42.8571 -82.8571,2.8572 -88.5714,0 -34.2858,-5.7143 -291.4285,14.2857 -2.8572,-60 17.1429,-97.14284 -8.5715,-188.57143 z"
+       id="area_2"
+       inkscape:connector-curvature="0"
+       transform="translate(-1765.7142,-756.20923)"
+       sodipodi:nodetypes="ccccccccccccccccccccccc"
+       inkscape:label="#path2998" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 2017.1429,637.14286 160,2.85714 114.2857,14.28571 100,-11.42857 8.5714,122.85715 11.4286,68.57142 8.5714,60 14.2857,28.57143 0,42.85715 2.8572,28.57142 28.5714,34.28569 -8.5714,57.1429 -260,8.5714 -125.7143,-8.5714 -14.2857,-37.1429 5.7142,-28.5714 -11.4285,-180 z"
+       id="area_3"
+       inkscape:connector-curvature="0"
+       transform="translate(-1765.7142,-756.20923)"
+       inkscape:label="#path3000" />
+    <flowRoot
+       xml:space="preserve"
+       id="navigation"
+       style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       transform="translate(-1765.7142,-756.20923)"
+       inkscape:label="#flowRoot3002"><flowRegion
+         id="flowRegion3004"><rect
+           id="rect3006"
+           width="268.57144"
+           height="82.85714"
+           x="177.14285"
+           y="145.71428" /></flowRegion><flowPara
+         id="flowPara3008">1 2 3</flowPara></flowRoot>  </g>
+</svg>

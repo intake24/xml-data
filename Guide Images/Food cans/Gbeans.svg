@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="1223"
+   height="815"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.48.4 r9939"
+   sodipodi:docname="New document 1">
+  <defs
+     id="defs4" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="1.4"
+     inkscape:cx="717.33466"
+     inkscape:cy="479.36052"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0"
+     inkscape:window-width="1280"
+     inkscape:window-height="962"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-5.6428571,-353.43362)">
+    <image
+       y="353.43362"
+       x="5.6428571"
+       id="area_4"
+       xlink:href="file:///T:/SCRAN24/NEW%20PHOTOS%20FOR%20SCRAN/Food%20cans/Gbeans.jpg"
+       height="815"
+       width="1223"
+       inkscape:label="#image2993" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 176.42857,265.71429 10,242.85714 35,9.28571 69.28572,0.71429 38.57142,-6.42857 L 355,500.71429 l -9.28571,-242.14286 -42.85715,-6.42857 -60,0 L 190,259.28571 z"
+       id="path2996"
+       inkscape:connector-curvature="0"
+       transform="translate(5.6428571,353.43362)" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 420,376.42857 c 0,4.28572 2.85714,130 2.85714,130 l 32.14286,15 77.14286,1.42857 35,-7.85714 19.28571,-10 -1.42856,-132.14285 -35.7143,-8.57144 -60,-2.14285 -50.71428,5 z"
+       id="path2998"
+       inkscape:connector-curvature="0"
+       transform="translate(5.6428571,353.43362)"
+       sodipodi:nodetypes="ccccccccccc" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 650.71429,388.57143 1.42857,120 31.42857,13.57143 60,1.42857 45,-5.71429 12.14286,-9.99999 0,-119.28572 L 767.85715,380 l -50.71429,-2.85714 -42.85714,2.14285 z"
+       id="path3000"
+       inkscape:connector-curvature="0"
+       transform="translate(5.6428571,353.43362)"
+       sodipodi:nodetypes="ccccccccccc" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 860.71428,364.28571 c 0,0 60.71429,-2.85714 63.57144,-2.85714 2.85714,0 99.28568,0 99.28568,0 l 42.8572,6.42857 20.7143,21.42857 -7.8572,9.28572 -23.5714,0 -10,107.85714 -15,16.42857 L 901.42857,525 l -15.71428,-21.42857 -7.85715,-106.42857 -15,-1.42857 L 850,372.14286 z"
+       id="path3002"
+       inkscape:connector-curvature="0"
+       transform="translate(5.6428571,353.43362)"
+       sodipodi:nodetypes="csccccccccccccc" />
+    <text
+       xml:space="preserve"
+       style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       x="613.57141"
+       y="112.85714"
+       id="navigation"
+       sodipodi:linespacing="125%"
+       transform="translate(5.6428571,353.43362)"
+       inkscape:label="#text3004"><tspan
+         sodipodi:role="line"
+         id="tspan3006"
+         x="613.57141"
+         y="112.85714">1 2 3 4</tspan></text>
+  </g>
+</svg>
