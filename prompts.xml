@@ -1,6 +1,6 @@
 <scran24-food-prompts>
   <food code="PGLF">
-    <prompt category="FRTS:APSE:APSE" text="Did you have apple sauce with your pork chop?"/>
+    <prompt category="FRTS:APSE" text="Did you have apple sauce with your pork chop?"/>
   </food>
   <food code="CKNP">
     <prompt category="BRED" text="Did you have bread with your soup?"/>
@@ -114,12 +114,12 @@
   </food>
   <food code="OPSK">
     <prompt category="BTTR" text="Did you have any butter or margarine on your potato?"/>
-    <prompt category="VGTB:BBNS:BBCT" text="Did you have baked beans on your potato?"/>
+    <prompt category="VGTB:BBNS" text="Did you have baked beans on your potato?"/>
     <prompt category="CHSE" text="Did you have cheese on your potato?"/>
   </food>
   <food code="OPFS">
     <prompt category="BTTR" text="Did you have any butter or margarine on your potato?"/>
-    <prompt category="VGTB:BBNS:BBCT" text="Did you have baked beans on your potato?"/>
+    <prompt category="VGTB:BBNS" text="Did you have baked beans on your potato?"/>
     <prompt category="CHSE" text="Did you have cheese on your potato?"/>
   </food>
   <food code="SRLL">
@@ -368,17 +368,15 @@
     <prompt category="PCKL:DIPS" text="Did you have any other dips with your tortilla chips?"/>
   </food>
   <food code="ILTC">
-    <prompt category="PCKL:DIPS:LFRC" text="Did you have any French dressing on your lettuce?"/>
-    <prompt category="PCKL:DIPS:THOU" text="Did you have any thousand island dressing on your lettuce?"/>
+    <prompt category="PCKL:DIPS" text="Did you have any dressing on your lettuce?"/>
     <prompt category="COND:SLDC" text="Did you have any salad cream on your lettuce?"/>
   </food>
   <food code="LTTC">
-    <prompt category="PCKL:DIPS:LFRC" text="Did you have any French dressing on your lettuce?"/>
-    <prompt category="PCKL:DIPS:THOU" text="Did you have any thousand island dressing on your lettuce?"/>
+    <prompt category="PCKL:DIPS" text="Did you have any dressing on your lettuce?"/>
     <prompt category="COND:SLDC" text="Did you have any salad cream on your lettuce?"/>
   </food>
   <food code="BMWH">
-    <prompt category="VGTB:CHIP:TAFF" text="Did you have any fries with your hamburger?"/>
+    <prompt category="VGTB:CHIP" text="Did you have any fries with your hamburger?"/>
     <prompt category="DRNK" text="Did you have a drink with your hamburger?"/>
   </food>
   <food code="RBMF">
@@ -392,15 +390,15 @@
   </food>
   <food code="RPMF">
     <prompt category="COND:CUBE" text="Did you have any gravy with your roast pork?"/>
-    <prompt category="FRTS:APSE:APSE" text="Did you have apple sauce with your roast pork?"/>
+    <prompt category="FRTS:APSE" text="Did you have apple sauce with your roast pork?"/>
   </food>
   <food code="RLMF">
     <prompt category="COND:CUBE" text="Did you have any gravy with your roast lamb?"/>
-    <prompt category="COND:MNTS:MNTS" text="Did you have any mint sauce with your roast lamb?"/>
+    <prompt category="COND:MNTS" text="Did you have any mint sauce with your roast lamb?"/>
   </food>
   <food code="LMMB">
     <prompt category="COND:CUBE" text="Did you have any gravy with your lamb chop?"/>
-    <prompt category="COND:MNTS:MNTS" text="Did you have any mint sauce with your lamb chop?"/>
+    <prompt category="COND:MNTS" text="Did you have any mint sauce with your lamb chop?"/>
   </food>
   <food code="PICW">
     <prompt category="ICEL:ICEC" text="Did you have any ice cream with your wafer?"/>
@@ -683,18 +681,18 @@
     <prompt category="CARB:PSTA" text="Did you have any pasta with your pesto sauce?"/>
   </food>
   <food code="GSLI">
-    <prompt category="FRTS:PINE:PINE" text="Did you have any pineapple with your gammon?"/>
-    <prompt category="EGGD:EGGS:EOIL" text="Did you have an egg with your gammon?"/>
+    <prompt category="FRTS:PINE" text="Did you have any pineapple with your gammon?"/>
+    <prompt category="EGGD:EGGS" text="Did you have an egg with your gammon?"/>
     <prompt category="COND" text="Did you have any sauce with your gammon?"/>
   </food>
   <food code="BGRF">
-    <prompt category="FRTS:PINE:PINE" text="Did you have any pineapple with your gammon?"/>
-    <prompt category="EGGD:EGGS:EOIL" text="Did you have an egg with your gammon?"/>
+    <prompt category="FRTS:PINE" text="Did you have any pineapple with your gammon?"/>
+    <prompt category="EGGD:EGGS" text="Did you have an egg with your gammon?"/>
     <prompt category="COND" text="Did you have any sauce with your gammon?"/>
   </food>
   <food code="BGRG">
-    <prompt category="FRTS:PINE:PINE" text="Did you have any pineapple with your gammon?"/>
-    <prompt category="EGGD:EGGS:EOIL" text="Did you have an egg with your gammon?"/>
+    <prompt category="FRTS:PINE" text="Did you have any pineapple with your gammon?"/>
+    <prompt category="EGGD:EGGS" text="Did you have an egg with your gammon?"/>
     <prompt category="COND" text="Did you have any sauce with your gammon?"/>
   </food>
   <food code="BFCY">
@@ -739,27 +737,27 @@
   </food>
   <food code="CHLI">
     <prompt category="CARB:RICE" text="Did you have any rice with your chilli?"/>
-    <prompt category="MILK:CREM:SCRM" text="Did you have any sour cream with your chilli?"/>
+    <prompt category="MILK:CREM" text="Did you have any sour cream with your chilli?"/>
   </food>
   <food code="CHLQ">
     <prompt category="CARB:RICE" text="Did you have any rice with your chilli?"/>
-    <prompt category="MILK:CREM:SCRM" text="Did you have any sour cream with your chilli?"/>
+    <prompt category="MILK:CREM" text="Did you have any sour cream with your chilli?"/>
   </food>
   <food code="FRSF">
     <prompt category="SAUC:CIPS" text="Did you have any sauce with your filled pasta?"/>
   </food>
   <food code="MRWH">
     <prompt category="SUGR:ICRM" text="Did you have any sauce on your ice cream?"/>
-    <prompt category="CBAR:BARS:FLAK" text="Did you have a flake in your ice cream?"/>
-    <prompt category="ICEL:WFRS:WFRS" text="Did you have a wafer with your ice cream?"/>
+    <prompt category="CBAR:BARS" text="Did you have a flake in your ice cream?"/>
+    <prompt category="ICEL:WFRS" text="Did you have a wafer with your ice cream?"/>
   </food>
   <food code="FSSI">
     <prompt category="SUGR:ICRM" text="Did you have any sauce on your ice cream?"/>
-    <prompt category="ICEL:WFRS:WFRS" text="Did you have a wafer with your ice cream?"/>
+    <prompt category="ICEL:WFRS" text="Did you have a wafer with your ice cream?"/>
   </food>
   <food code="VSSI">
     <prompt category="SUGR:ICRM" text="Did you have any sauce on your ice cream?"/>
-    <prompt category="ICEL:WFRS:WFRS" text="Did you have a wafer with your ice cream?"/>
+    <prompt category="ICEL:WFRS" text="Did you have a wafer with your ice cream?"/>
   </food>
   <food code="BEFF">
     <prompt category="COND" text="Did you have any sauce with your steak?"/>

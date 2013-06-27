@@ -1,109 +1,361 @@
 <?xml version="1.0"?>
-
 <scran24-drinkware>
-  <drinkware id="mugs" description="Tea mugs and cups">
-    <choice guide-id="Gmug"/>
-    <scale choice-id="1">
-      <dimensions width="470" height="420" emptyLevel="52" fullLevel="375"/>
-      <volume-function>
-	<value fill="0.1" volume="9"/>
-	<value fill="0.2" volume="42"/>
-	<value fill="0.3" volume="78.2"/>
-	<value fill="0.4" volume="115.8"/>
-	<value fill="0.5" volume="158"/>
-	<value fill="0.6" volume="196.4"/>
-	<value fill="0.7" volume="242.4"/>
-	<value fill="0.8" volume="289.8"/>
-	<value fill="0.9" volume="346"/>
-	<value fill="1.0" volume="403.4"/>
-      </volume-function>
-      <baseImage>mugs/mug_a_v2.jpg</baseImage>
-      <overlayImage>mugs/mug_a_fill_v2.png</overlayImage>
-    </scale>
-    <scale choice-id="2">
-      <dimensions width="470" height="420" emptyLevel="39" fullLevel="367"/>
-      <volume-function>
-	<value fill="0.1" volume="33.2"/>
-	<value fill="0.2" volume="69.4"/>
-	<value fill="0.3" volume="100.4"/>
-	<value fill="0.4" volume="135.2"/>
-	<value fill="0.5" volume="165.2"/>
-	<value fill="0.6" volume="195.8"/>
-	<value fill="0.7" volume="224.8"/>
-	<value fill="0.8" volume="255.2"/>
-	<value fill="0.9" volume="285.6"/>
-	<value fill="1.0" volume="314.6"/>
-      </volume-function>
-      <baseImage>mugs/mug_b_v2.jpg</baseImage>
-      <overlayImage>mugs/mug_b_fill_v2.png</overlayImage>
-    </scale>
-    <scale choice-id="3">
-      <dimensions width="470" height="420" emptyLevel="52" fullLevel="341"/>
-      <volume-function>
-	<value fill="0.1" volume="13.4"/>
-	<value fill="0.2" volume="45"/>
-	<value fill="0.3" volume="81.6"/>
-	<value fill="0.4" volume="115"/>
-	<value fill="0.5" volume="149.8"/>
-	<value fill="0.6" volume="182"/>
-	<value fill="0.7" volume="217.2"/>
-	<value fill="0.8" volume="248.6"/>
-	<value fill="0.9" volume="284.4"/>
-	<value fill="1.0" volume="314.6"/>
-      </volume-function>
-      <baseImage>mugs/mug_c_v2.jpg</baseImage>
-      <overlayImage>mugs/mug_c_fill_v2.png</overlayImage>
-    </scale>
-    <scale choice-id="4">
-      <dimensions width="470" height="420" emptyLevel="112" fullLevel="291"/>
-      <volume-function>
-	<value fill="0.1" volume="0"/>
-	<value fill="0.2" volume="8.6"/>
-	<value fill="0.3" volume="31.2"/>
-	<value fill="0.4" volume="54.2"/>
-	<value fill="0.5" volume="81.6"/>
-	<value fill="0.6" volume="107"/>
-	<value fill="0.7" volume="130.4"/>
-	<value fill="0.8" volume="152.4"/>
-	<value fill="0.9" volume="180.2"/>
-	<value fill="1.0" volume="215.4"/>
-      </volume-function>
-      <baseImage>mugs/mug_d_v2.jpg</baseImage>
-      <overlayImage>mugs/mug_d_fill_v2.png</overlayImage>
-    </scale>
-    <scale choice-id="5">
-      <dimensions width="470" height="420" emptyLevel="53" fullLevel="283"/>
-      <volume-function>
-	<value fill="0.1" volume="0"/>
-	<value fill="0.2" volume="31.6"/>
-	<value fill="0.3" volume="52.2"/>
-	<value fill="0.4" volume="78.6"/>
-	<value fill="0.5" volume="112.6"/>
-	<value fill="0.6" volume="137.6"/>
-	<value fill="0.7" volume="168"/>
-	<value fill="0.8" volume="196.8"/>
-	<value fill="0.9" volume="225.8"/>
-	<value fill="1.0" volume="253"/>
-      </volume-function>
-      <baseImage>mugs/mug_e_v2.jpg</baseImage>
-      <overlayImage>mugs/mug_e_fill_v2.png</overlayImage>
-    </scale>
-    <scale choice-id="6">
-      <dimensions width="470" height="420" emptyLevel="76" fullLevel="354"/>
-      <volume-function>
-	<value fill="0.1" volume="1"/>
-	<value fill="0.2" volume="20.6"/>
-	<value fill="0.3" volume="58.6"/>
-	<value fill="0.4" volume="103.4"/>
-	<value fill="0.5" volume="148.2"/>
-	<value fill="0.6" volume="202"/>
-	<value fill="0.7" volume="249.2"/>
-	<value fill="0.8" volume="301"/>
-	<value fill="0.9" volume="348.8"/>
-	<value fill="1.0" volume="399.8"/>
-      </volume-function>
-      <baseImage>mugs/mug_f_v2.jpg</baseImage>
-      <overlayImage>mugs/mug_f_fill_v2.png</overlayImage>
-    </scale>
-  </drinkware>
+	<drinkware id="mugs" description="Mugs">
+		<choice guide-id="Gmug"/>
+		<scale choice-id="1">
+			<dimensions width="470" height="420" emptyLevel="52" fullLevel="375"/>
+			<volume-function>
+				<value fill="0.1" volume="9"/>
+				<value fill="0.2" volume="42"/>
+				<value fill="0.3" volume="78.2"/>
+				<value fill="0.4" volume="115.8"/>
+				<value fill="0.5" volume="158"/>
+				<value fill="0.6" volume="196.4"/>
+				<value fill="0.7" volume="242.4"/>
+				<value fill="0.8" volume="289.8"/>
+				<value fill="0.9" volume="346"/>
+				<value fill="1.0" volume="403.4"/>
+			</volume-function>
+			<baseImage>mugs/mug_a_v2.jpg</baseImage>
+			<overlayImage>mugs/mug_a_fill_v2.png</overlayImage>
+		</scale>
+		<scale choice-id="2">
+			<dimensions width="470" height="420" emptyLevel="39" fullLevel="367"/>
+			<volume-function>
+				<value fill="0.1" volume="33.2"/>
+				<value fill="0.2" volume="69.4"/>
+				<value fill="0.3" volume="100.4"/>
+				<value fill="0.4" volume="135.2"/>
+				<value fill="0.5" volume="165.2"/>
+				<value fill="0.6" volume="195.8"/>
+				<value fill="0.7" volume="224.8"/>
+				<value fill="0.8" volume="255.2"/>
+				<value fill="0.9" volume="285.6"/>
+				<value fill="1.0" volume="314.6"/>
+			</volume-function>
+			<baseImage>mugs/mug_b_v2.jpg</baseImage>
+			<overlayImage>mugs/mug_b_fill_v2.png</overlayImage>
+		</scale>
+		<scale choice-id="3">
+			<dimensions width="470" height="420" emptyLevel="52" fullLevel="341"/>
+			<volume-function>
+				<value fill="0.1" volume="13.4"/>
+				<value fill="0.2" volume="45"/>
+				<value fill="0.3" volume="81.6"/>
+				<value fill="0.4" volume="115"/>
+				<value fill="0.5" volume="149.8"/>
+				<value fill="0.6" volume="182"/>
+				<value fill="0.7" volume="217.2"/>
+				<value fill="0.8" volume="248.6"/>
+				<value fill="0.9" volume="284.4"/>
+				<value fill="1.0" volume="314.6"/>
+			</volume-function>
+			<baseImage>mugs/mug_c_v2.jpg</baseImage>
+			<overlayImage>mugs/mug_c_fill_v2.png</overlayImage>
+		</scale>
+		<scale choice-id="4">
+			<dimensions width="470" height="420" emptyLevel="112" fullLevel="291"/>
+			<volume-function>
+				<value fill="0.1" volume="0"/>
+				<value fill="0.2" volume="8.6"/>
+				<value fill="0.3" volume="31.2"/>
+				<value fill="0.4" volume="54.2"/>
+				<value fill="0.5" volume="81.6"/>
+				<value fill="0.6" volume="107"/>
+				<value fill="0.7" volume="130.4"/>
+				<value fill="0.8" volume="152.4"/>
+				<value fill="0.9" volume="180.2"/>
+				<value fill="1.0" volume="215.4"/>
+			</volume-function>
+			<baseImage>mugs/mug_d_v2.jpg</baseImage>
+			<overlayImage>mugs/mug_d_fill_v2.png</overlayImage>
+		</scale>
+		<scale choice-id="5">
+			<dimensions width="470" height="420" emptyLevel="53" fullLevel="283"/>
+			<volume-function>
+				<value fill="0.1" volume="0"/>
+				<value fill="0.2" volume="31.6"/>
+				<value fill="0.3" volume="52.2"/>
+				<value fill="0.4" volume="78.6"/>
+				<value fill="0.5" volume="112.6"/>
+				<value fill="0.6" volume="137.6"/>
+				<value fill="0.7" volume="168"/>
+				<value fill="0.8" volume="196.8"/>
+				<value fill="0.9" volume="225.8"/>
+				<value fill="1.0" volume="253"/>
+			</volume-function>
+			<baseImage>mugs/mug_e_v2.jpg</baseImage>
+			<overlayImage>mugs/mug_e_fill_v2.png</overlayImage>
+		</scale>
+		<scale choice-id="6">
+			<dimensions width="470" height="420" emptyLevel="76" fullLevel="354"/>
+			<volume-function>
+				<value fill="0.1" volume="1"/>
+				<value fill="0.2" volume="20.6"/>
+				<value fill="0.3" volume="58.6"/>
+				<value fill="0.4" volume="103.4"/>
+				<value fill="0.5" volume="148.2"/>
+				<value fill="0.6" volume="202"/>
+				<value fill="0.7" volume="249.2"/>
+				<value fill="0.8" volume="301"/>
+				<value fill="0.9" volume="348.8"/>
+				<value fill="1.0" volume="399.8"/>
+			</volume-function>
+			<baseImage>mugs/mug_f_v2.jpg</baseImage>
+			<overlayImage>mugs/mug_f_fill_v2.png</overlayImage>
+		</scale>
+	</drinkware>
+
+	<drinkware id="takeaway_cups_hot" description="Takeaway cups (hot drinks)">
+		<choice guide-id="Ghotdrinks"/>
+		<scale choice-id="1">
+			<dimensions width="400" height="491" emptyLevel="43" fullLevel="439"/>
+			<volume-function>
+				<value fill="0.06410256410256411" volume="19.3"/>
+				<value fill="0.12820512820512822" volume="53.0"/>
+				<value fill="0.19230769230769232" volume="85.0"/>
+				<value fill="0.25641025641025644" volume="119.0"/>
+				<value fill="0.32051282051282054" volume="154.7"/>
+				<value fill="0.38461538461538464" volume="191.0"/>
+				<value fill="0.44871794871794873" volume="228.3"/>
+				<value fill="0.5128205128205129" volume="271.0"/>
+				<value fill="0.576923076923077" volume="309.7"/>
+				<value fill="0.6410256410256411" volume="356.7"/>
+				<value fill="0.7051282051282052" volume="402.7"/>
+				<value fill="0.7692307692307693" volume="449.3"/>
+				<value fill="0.8333333333333334" volume="499.7"/>
+				<value fill="0.8974358974358975" volume="550.0"/>
+				<value fill="0.9615384615384616" volume="604.7"/>
+				<value fill="1.0" volume="627.3"/>
+			</volume-function>
+			<baseImage>takeaway_cups/cup1.jpg</baseImage>
+			<overlayImage>takeaway_cups/cup1_fill.png</overlayImage>
+		</scale>
+		<scale choice-id="2">
+			<dimensions width="400" height="452" emptyLevel="43" fullLevel="400"/>
+			<volume-function>
+				<value fill="0.06993006993006992" volume="26.7"/>
+				<value fill="0.13986013986013984" volume="66.0"/>
+				<value fill="0.2097902097902098" volume="98.7"/>
+				<value fill="0.2797202797202797" volume="135.3"/>
+				<value fill="0.34965034965034963" volume="175.7"/>
+				<value fill="0.4195804195804196" volume="213.7"/>
+				<value fill="0.4895104895104895" volume="256.3"/>
+				<value fill="0.5594405594405594" volume="303.7"/>
+				<value fill="0.6293706293706294" volume="349.7"/>
+				<value fill="0.6993006993006993" volume="400.0"/>
+				<value fill="0.7692307692307692" volume="456.0"/>
+				<value fill="0.8391608391608392" volume="510.3"/>
+				<value fill="0.9090909090909091" volume="569.3"/>
+				<value fill="1.0" volume="631.0"/>
+			</volume-function>
+			<baseImage>takeaway_cups/cup2.jpg</baseImage>
+			<overlayImage>takeaway_cups/cup2_fill.png</overlayImage>
+		</scale>
+		<scale choice-id="3">
+			<dimensions width="400" height="413" emptyLevel="47" fullLevel="368"/>
+			<volume-function>
+				<value fill="0.07874015748031496" volume="29.0"/>
+				<value fill="0.15748031496062992" volume="62.7"/>
+				<value fill="0.2362204724409449" volume="94.3"/>
+				<value fill="0.31496062992125984" volume="126.7"/>
+				<value fill="0.3937007874015748" volume="165.0"/>
+				<value fill="0.4724409448818898" volume="202.0"/>
+				<value fill="0.5511811023622047" volume="241.7"/>
+				<value fill="0.6299212598425197" volume="285.0"/>
+				<value fill="0.7086614173228347" volume="330.3"/>
+				<value fill="0.7874015748031497" volume="377.3"/>
+				<value fill="0.8661417322834646" volume="428.7"/>
+				<value fill="0.9448818897637796" volume="480.0"/>
+				<value fill="1.0" volume="506.3"/>
+			</volume-function>
+			<baseImage>takeaway_cups/cup3.jpg</baseImage>
+			<overlayImage>takeaway_cups/cup3_fill.png</overlayImage>
+		</scale>
+		<scale choice-id="4">
+			<dimensions width="400" height="379" emptyLevel="51" fullLevel="310"/>
+			<volume-function>
+				<value fill="0.1" volume="21.7"/>
+				<value fill="0.2" volume="58.3"/>
+				<value fill="0.3" volume="97.3"/>
+				<value fill="0.4" volume="135.7"/>
+				<value fill="0.5" volume="177.3"/>
+				<value fill="0.6" volume="215.3"/>
+				<value fill="0.7" volume="262.3"/>
+				<value fill="0.8" volume="308.0"/>
+				<value fill="0.9" volume="359.0"/>
+				<value fill="1.0" volume="411.7"/>
+				<value fill="1.0" volume="411.7"/>
+			</volume-function>
+			<baseImage>takeaway_cups/cup4.jpg</baseImage>
+			<overlayImage>takeaway_cups/cup4_fill.png</overlayImage>
+		</scale>
+		<scale choice-id="5">
+			<dimensions width="400" height="337" emptyLevel="53" fullLevel="273"/>
+			<volume-function>
+				<value fill="0.11235955056179775" volume="19.3"/>
+				<value fill="0.2247191011235955" volume="46.3"/>
+				<value fill="0.33707865168539325" volume="74.3"/>
+				<value fill="0.449438202247191" volume="101.0"/>
+				<value fill="0.5617977528089887" volume="133.3"/>
+				<value fill="0.6741573033707865" volume="167.3"/>
+				<value fill="0.7865168539325842" volume="204.3"/>
+				<value fill="0.898876404494382" volume="244.7"/>
+				<value fill="1.0" volume="276.3"/>
+			</volume-function>
+			<baseImage>takeaway_cups/cup5.jpg</baseImage>
+			<overlayImage>takeaway_cups/cup5_fill.png</overlayImage>
+		</scale>
+		<scale choice-id="6">
+			<dimensions width="400" height="320" emptyLevel="49" fullLevel="244"/>
+			<volume-function>
+				<value fill="0.12658227848101264" volume="18.7"/>
+				<value fill="0.2531645569620253" volume="43.3"/>
+				<value fill="0.37974683544303794" volume="70.7"/>
+				<value fill="0.5063291139240506" volume="99.0"/>
+				<value fill="0.6329113924050632" volume="127.0"/>
+				<value fill="0.7594936708860759" volume="158.0"/>
+				<value fill="0.8860759493670886" volume="190.3"/>
+				<value fill="1.0" volume="213.7"/>
+			</volume-function>
+			<baseImage>takeaway_cups/cup6.jpg</baseImage>
+			<overlayImage>takeaway_cups/cup6_fill.png</overlayImage>
+		</scale>
+		<scale choice-id="7">
+			<dimensions width="400" height="288" emptyLevel="53" fullLevel="193"/>
+			<volume-function>
+				<value fill="0.17857142857142858" volume="17.0"/>
+				<value fill="0.35714285714285715" volume="34.0"/>
+				<value fill="0.5357142857142857" volume="56.0"/>
+				<value fill="0.7142857142857143" volume="78.0"/>
+				<value fill="0.8928571428571429" volume="103.3"/>
+				<value fill="1.0" volume="117.7"/>
+			</volume-function>
+			<baseImage>takeaway_cups/cup7.jpg</baseImage>
+			<overlayImage>takeaway_cups/cup7_fill.png</overlayImage>
+		</scale>		
+	</drinkware>
+
+	<drinkware id="takeaway_cups_cold" description="Takeaway cups (cold drinks)">
+		<choice guide-id="gcolddrinks"/>
+		<scale choice-id="10">
+			<dimensions width="400" height="372" emptyLevel="42" fullLevel="275"/>
+			<volume-function>
+				<value fill="0.10309278350515465" volume="30.0"/>
+				<value fill="0.2061855670103093" volume="58.3"/>
+				<value fill="0.30927835051546393" volume="93.3"/>
+				<value fill="0.4123711340206186" volume="130.0"/>
+				<value fill="0.5154639175257733" volume="167.3"/>
+				<value fill="0.6185567010309279" volume="211.0"/>
+				<value fill="0.7216494845360826" volume="255.0"/>
+				<value fill="0.8247422680412372" volume="304.0"/>
+				<value fill="0.9278350515463918" volume="353.0"/>
+				<value fill="1.0" volume="379.3"/>
+			</volume-function>
+			<baseImage>takeaway_cups/cup10.jpg</baseImage>
+			<overlayImage>takeaway_cups/cup10_fill.png</overlayImage>
+		</scale>
+		<scale choice-id="11">
+			<dimensions width="400" height="485" emptyLevel="54" fullLevel="410"/>
+			<volume-function>
+				<value fill="0.0684931506849315" volume="30.7"/>
+				<value fill="0.136986301369863" volume="63.3"/>
+				<value fill="0.20547945205479454" volume="97.3"/>
+				<value fill="0.273972602739726" volume="137.3"/>
+				<value fill="0.3424657534246575" volume="173.7"/>
+				<value fill="0.4109589041095891" volume="215.3"/>
+				<value fill="0.4794520547945206" volume="258.7"/>
+				<value fill="0.547945205479452" volume="303.0"/>
+				<value fill="0.6164383561643836" volume="352.7"/>
+				<value fill="0.684931506849315" volume="398.3"/>
+				<value fill="0.7534246575342466" volume="451.0"/>
+				<value fill="0.8219178082191781" volume="503.0"/>
+				<value fill="0.8904109589041096" volume="556.3"/>
+				<value fill="0.9589041095890412" volume="613.3"/>
+				<value fill="1.0" volume="642.0"/>
+			</volume-function>
+			<baseImage>takeaway_cups/cup11.jpg</baseImage>
+			<overlayImage>takeaway_cups/cup11_fill.png</overlayImage>
+		</scale>
+		<scale choice-id="12">
+			<dimensions width="400" height="425" emptyLevel="48" fullLevel="337"/>
+			<volume-function>
+				<value fill="0.08403361344537814" volume="23.7"/>
+				<value fill="0.1680672268907563" volume="59.7"/>
+				<value fill="0.25210084033613445" volume="91.3"/>
+				<value fill="0.3361344537815126" volume="136.7"/>
+				<value fill="0.42016806722689076" volume="179.3"/>
+				<value fill="0.5042016806722689" volume="225.0"/>
+				<value fill="0.5882352941176471" volume="277.0"/>
+				<value fill="0.6722689075630252" volume="326.7"/>
+				<value fill="0.7563025210084033" volume="375.0"/>
+				<value fill="0.8403361344537815" volume="432.3"/>
+				<value fill="0.9243697478991596" volume="487.7"/>
+				<value fill="1.0" volume="540.3"/>
+			</volume-function>
+			<baseImage>takeaway_cups/cup12.jpg</baseImage>
+			<overlayImage>takeaway_cups/cup12_fill.png</overlayImage>
+		</scale>
+		<scale choice-id="13">
+			<dimensions width="400" height="384" emptyLevel="54" fullLevel="306"/>
+			<volume-function>
+				<value fill="0.09523809523809523" volume="20.5"/>
+				<value fill="0.19047619047619047" volume="51.5"/>
+				<value fill="0.2857142857142857" volume="84.5"/>
+				<value fill="0.38095238095238093" volume="121.5"/>
+				<value fill="0.47619047619047616" volume="162.0"/>
+				<value fill="0.5714285714285714" volume="199.5"/>
+				<value fill="0.6666666666666666" volume="246.5"/>
+				<value fill="0.7619047619047619" volume="290.0"/>
+				<value fill="0.8571428571428571" volume="338.5"/>
+				<value fill="0.9523809523809523" volume="381.0"/>
+				<value fill="1.0" volume="413.5"/>
+			</volume-function>
+			<baseImage>takeaway_cups/cup13.jpg</baseImage>
+			<overlayImage>takeaway_cups/cup13_fill.png</overlayImage>
+		</scale>
+		<scale choice-id="8">
+			<dimensions width="400" height="600" emptyLevel="55" fullLevel="508"/>
+			<volume-function>
+				<value fill="0.06289308176100629" volume="29.7"/>
+				<value fill="0.12578616352201258" volume="57.0"/>
+				<value fill="0.18867924528301885" volume="91.3"/>
+				<value fill="0.25157232704402516" volume="125.3"/>
+				<value fill="0.31446540880503143" volume="162.0"/>
+				<value fill="0.3773584905660377" volume="203.0"/>
+				<value fill="0.44025157232704404" volume="241.3"/>
+				<value fill="0.5031446540880503" volume="281.0"/>
+				<value fill="0.5660377358490566" volume="326.7"/>
+				<value fill="0.6289308176100629" volume="372.7"/>
+				<value fill="0.6918238993710691" volume="417.3"/>
+				<value fill="0.7547169811320754" volume="465.0"/>
+				<value fill="0.8176100628930817" volume="517.3"/>
+				<value fill="0.8805031446540881" volume="566.3"/>
+				<value fill="0.9433962264150944" volume="621.0"/>
+				<value fill="1.0" volume="677.3"/>
+			</volume-function>
+			<baseImage>takeaway_cups/cup8.jpg</baseImage>
+			<overlayImage>takeaway_cups/cup8_fill.png</overlayImage>
+		</scale>
+		<scale choice-id="9">
+			<dimensions width="400" height="420" emptyLevel="42" fullLevel="367"/>
+			<volume-function>
+				<value fill="0.078125" volume="33.3"/>
+				<value fill="0.15625" volume="67.3"/>
+				<value fill="0.234375" volume="104.0"/>
+				<value fill="0.3125" volume="142.7"/>
+				<value fill="0.390625" volume="182.0"/>
+				<value fill="0.46875" volume="223.7"/>
+				<value fill="0.546875" volume="267.7"/>
+				<value fill="0.625" volume="314.7"/>
+				<value fill="0.703125" volume="364.0"/>
+				<value fill="0.78125" volume="414.0"/>
+				<value fill="0.859375" volume="463.7"/>
+				<value fill="0.9375" volume="518.3"/>
+				<value fill="1.0" volume="558.0"/>
+			</volume-function>
+			<baseImage>takeaway_cups/cup9.jpg</baseImage>
+			<overlayImage>takeaway_cups/cup9_fill.png</overlayImage>
+		</scale>
+	</drinkware>
 </scran24-drinkware>
