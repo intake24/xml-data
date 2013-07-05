@@ -1,775 +1,881 @@
-<scran24-guide-images>
-  <guide-image id="Gaero">
-    <weight description="Aero" value="135.0" id="1" />
-    <weight description="Aero" value="39.0" id="2" />
-    <weight description="Aero" value="42.5" id="3" />
-    <weight description="Aero" value="27.0" id="4" />
-    <weight description="Aero" value="19.0" id="5" />
-    <weight description="Aero" value="9.0" id="6" />
-  </guide-image>
-  <guide-image id="Gapl">
-    <weight description="Apples" value="185.0" id="1" />
-    <weight description="Apples" value="155.0" id="2" />
-    <weight description="Apples" value="125.0" id="3" />
-    <weight description="Apples" value="94.0" id="4" />
-  </guide-image>
-  <guide-image id="Gban">
-    <weight description="Bananas 1 (smallest)" value="126.0" id="1" />
-    <weight description="Bananas 2" value="176.0" id="2" />
-    <weight description="Bananas 3" value="186.0" id="3" />
-    <weight description="Bananas 4" value="218.0" id="4" />
-    <weight description="Bananas 5 (largest)" value="242.0" id="5" />
-  </guide-image>
-  <guide-image id="Gbcn">
-    <weight description="Bacon" value="11.0" id="1" />
-    <weight description="Bacon" value="10.0" id="2" />
-    <weight description="Bacon" value="14.0" id="3" />
-    <weight description="Bacon" value="23.0" id="4" />
-    <weight description="Bacon" value="25.0" id="5" />
-  </guide-image>
-  <guide-image id="Gbisc">
-    <weight description="Biscuits and cookies" value="104.0" id="1" />
-    <weight description="Biscuits and cookies" value="49.0" id="2" />
-    <weight description="Biscuits and cookies" value="17.0" id="3" />
-    <weight description="Biscuits and cookies" value="17.0" id="4" />
-    <weight description="Biscuits and cookies" value="11.0" id="5" />
-    <weight description="Biscuits and cookies" value="10.0" id="6" />
-    <weight description="Biscuits and cookies" value="8.0" id="7" />
-    <weight description="Biscuits and cookies" value="15.0" id="8" />
-    <weight description="Biscuits and cookies" value="12.0" id="9" />
-    <weight description="Biscuits and cookies" value="17.0" id="10" />
-    <weight description="Biscuits and cookies" value="15.0" id="11" />
-    <weight description="Biscuits and cookies" value="11.0" id="12" />
-    <weight description="Biscuits and cookies" value="10.0" id="13" />
-    <weight description="Biscuits and cookies" value="8.0" id="14" />
-    <weight description="Biscuits and cookies" value="9.0" id="15" />
-    <weight description="Biscuits and cookies" value="17.0" id="16" />
-    <weight description="Biscuits and cookies" value="6.0" id="17" />
-  </guide-image>
-  <guide-image id="Gbonti">
-    <weight description="Bounty" value="85.0" id="1" />
-    <weight description="Bounty" value="57.0" id="2" />
-    <weight description="Bounty" value="28.0" id="3" />
-    <weight description="Bounty" value="10.0" id="4" />
-  </guide-image>
-  <guide-image id="Gbur">
-    <weight description="Burger" value="34.0" id="1" />
-    <weight description="Burger" value="78.0" id="2" />
-    <weight description="Burger" value="50.0" id="3" />
-    <weight description="Burger" value="176.0" id="4" />
-    <weight description="Burger" value="193.0" id="5" />
-    <weight description="Burger" value="110.0" id="6" />
-    <weight description="Burger" value="162.0" id="7" />
-    <weight description="Burger" value="114.0" id="8" />
-  </guide-image>
-  <guide-image id="Gcake">
-    <weight description="Cakes" value="133.0" id="1" />
-    <weight description="Cakes" value="34.0" id="2" />
-    <weight description="Cakes" value="59.0" id="3" />
-    <weight description="Cakes" value="34.0" id="4" />
-    <weight description="Cakes" value="34.0" id="5" />
-    <weight description="Cakes" value="27.0" id="6" />
-    <weight description="Cakes" value="25.0" id="7" />
-    <weight description="Cakes" value="27.0" id="8" />
-    <weight description="Cakes" value="27.0" id="9" />
-    <weight description="Cakes" value="22.0" id="10" />
-    <weight description="Cakes" value="28.0" id="11" />
-    <weight description="Cakes" value="41.0" id="12" />
-    <weight description="Cakes" value="32.0" id="13" />
-    <weight description="Cakes" value="22.0" id="14" />
-    <weight description="Cakes" value="33.0" id="15" />
-  </guide-image>
-  <guide-image id="Gcans">
-    <weight description="Cans" value="60.0" id="1" />
-    <weight description="Cans" value="500.0" id="2" />
-    <weight description="Cans" value="330.0" id="3" />
-    <weight description="Cans" value="355.0" id="4" />
-    <weight description="Cans" value="150.0" id="5" />
-    <weight description="Cans" value="250.0" id="6" />
-    <weight description="Cans" value="50.0" id="7" />
-  </guide-image>
-  <guide-image id="Gcbar">
-    <weight description="Chocolate bars" value="55.0" id="1" />
-    <weight description="Chocolate bars" value="41.0" id="2" />
-    <weight description="Chocolate bars" value="30.0" id="3" />
-    <weight description="Chocolate bars" value="52.0" id="4" />
-    <weight description="Chocolate bars" value="21.60000038" id="5" />
-    <weight description="Chocolate bars" value="42.5" id="6" />
-    <weight description="Chocolate bars" value="18.70000076" id="7" />
-    <weight description="Chocolate bars" value="43.0" id="8" />
-  </guide-image>
-  <guide-image id="Gcbisc1">
-    <weight description="Chocolate Biscuits" value="21.0" id="1" />
-    <weight description="Chocolate Biscuits" value="20.0" id="2" />
-    <weight description="Chocolate Biscuits" value="20.0" id="3" />
-    <weight description="Chocolate Biscuits" value="23.0" id="4" />
-    <weight description="Chocolate Biscuits" value="27.0" id="5" />
-    <weight description="Chocolate Biscuits" value="24.0" id="6" />
-    <weight description="Chocolate Biscuits" value="14.0" id="7" />
-    <weight description="Chocolate Biscuits" value="25.0" id="8" />
-    <weight description="Chocolate Biscuits" value="40.0" id="9" />
-    <weight description="Chocolate Biscuits" value="18.0" id="10" />
-  </guide-image>
-  <guide-image id="Gcbisc2">
-    <weight description="Chocolate Biscuits" value="21.0" id="1" />
-    <weight description="Chocolate Biscuits" value="20.0" id="2" />
-    <weight description="Chocolate Biscuits" value="20.0" id="3" />
-    <weight description="Chocolate Biscuits" value="23.0" id="4" />
-    <weight description="Chocolate Biscuits" value="27.0" id="5" />
-    <weight description="Chocolate Biscuits" value="24.0" id="6" />
-    <weight description="Chocolate Biscuits" value="14.0" id="7" />
-    <weight description="Chocolate Biscuits" value="25.0" id="8" />
-    <weight description="Chocolate Biscuits" value="40.0" id="9" />
-    <weight description="Chocolate Biscuits" value="18.0" id="10" />
-  </guide-image>
-  <guide-image id="Gcdmb">
-    <weight description="Dairy milk bars" value="75.0" id="1" />
-    <weight description="Dairy milk bars" value="49.0" id="2" />
-    <weight description="Dairy milk bars" value="21.0" id="3" />
-    <weight description="Dairy milk bars" value="15.5" id="4" />
-    <weight description="Dairy milk bars" value="10.89999962" id="5" />
-  </guide-image>
-  <guide-image id="Gcdmc">
-    <weight description="Dariy milk chocolate chunks" value="115.0" id="1" />
-    <weight description="Dariy milk chocolate chunks" value="57.0" id="2" />
-    <weight description="Dariy milk chocolate chunks" value="26.79999924" id="3" />
-    <weight description="Dariy milk chocolate chunks" value="12.0" id="4" />
-    <weight description="Dariy milk chocolate chunks" value="6.0" id="5" />
-  </guide-image>
-  <guide-image id="Gchckbrst">
-    <weight description="Chicken" value="102.0" id="1" />
-    <weight description="Chicken" value="94.0" id="2" />
-    <weight description="Chicken" value="117.0" id="3" />
-    <weight description="Chicken" value="73.0" id="4" />
-  </guide-image>
-  <guide-image id="Gchckleg">
-    <weight description="Chicken" value="69.0" id="1" />
-    <weight description="Chicken" value="46.0" id="2" />
-    <weight description="Chicken" value="48.0" id="3" />
-    <weight description="Chicken" value="26.0" id="4" />
-    <weight description="Chicken" value="37.0" id="5" />
-    <weight description="Chicken" value="22.0" id="6" />
-  </guide-image>
-  <guide-image id="Gchoc">
-    <weight description="Chocolate bars" value="60.5" id="12" />
-    <weight description="Chocolate bars" value="57.0" id="13" />
-    <weight description="Chocolate bars" value="47.0" id="14" />
-    <weight description="Chocolate bars" value="49.0" id="15" />
-    <weight description="Chocolate bars" value="42.0" id="16" />
-    <weight description="Chocolate bars" value="14.0" id="17" />
-    <weight description="Chocolate bars" value="12.0" id="18" />
-    <weight description="Chocolate bars" value="12.0" id="19" />
-  </guide-image>
-  <guide-image id="Gchoc1">
-    <weight description="Chocolate bars" value="16.0" id="20" />
-    <weight description="Chocolate bars" value="17.0" id="21" />
-    <weight description="Chocolate bars" value="47.0" id="22" />
-    <weight description="Chocolate bars" value="43.0" id="23" />
-    <weight description="Chocolate bars" value="22.0" id="24" />
-    <weight description="Chocolate bars" value="17.0" id="25" />
-    <weight description="Chocolate bars" value="52.0" id="26" />
-    <weight description="Chocolate bars" value="50.0" id="27" />
-    <weight description="Chocolate bars" value="40.0" id="28" />
-    <weight description="Chocolate bars" value="23.0" id="29" />
-  </guide-image>
-  <guide-image id="Gchoc2">
-    <weight description="Chocolate bars" value="40.0" id="1" />
-    <weight description="Chocolate bars" value="17.0" id="2" />
-    <weight description="Chocolate bars" value="85.0" id="3" />
-    <weight description="Chocolate bars" value="58.0" id="4" />
-    <weight description="Chocolate bars" value="22.0" id="5" />
-    <weight description="Chocolate bars" value="62.5" id="6" />
-    <weight description="Chocolate bars" value="95.4" id="7" />
-    <weight description="Chocolate bars" value="20.0" id="8" />
-    <weight description="Chocolate bars" value="20.0" id="9" />
-    <weight description="Chocolate bars" value="62.5" id="10" />
-    <weight description="Chocolate bars" value="85.0" id="11" />
-  </guide-image>
-  <guide-image id="GchocPre">
-    <weight description="Chocolate bars" value="12.0" id="30" />
-    <weight description="Chocolate bars" value="32.4" id="31" />
-    <weight description="Chocolate bars" value="21.0" id="32" />
-    <weight description="Chocolate bars" value="17.0" id="33" />
-    <weight description="Chocolate bars" value="16.0" id="34" />
-    <weight description="Chocolate bars" value="26.0" id="35" />
-    <weight description="Chocolate bars" value="52.0" id="36" />
-    <weight description="Chocolate bars" value="14.0" id="37" />
-    <weight description="Chocolate bars" value="16.0" id="38" />
-    <weight description="Chocolate bars" value="18.0" id="39" />
-    <weight description="Chocolate bars" value="25.0" id="40" />
-    <weight description="Chocolate bars" value="14.0" id="41" />
-    <weight description="Chocolate bars" value="26.0" id="42" />
-    <weight description="Chocolate bars" value="13.0" id="43" />
-    <weight description="Chocolate bars" value="26.0" id="44" />
-  </guide-image>
-  <guide-image id="Gchse">
-    <weight description="Cheese" value="20.0" id="1" />
-    <weight description="Cheese" value="19.0" id="2" />
-    <weight description="Cheese" value="16.66" id="3" />
-    <weight description="Cheese" value="20.0" id="4" />
-    <weight description="Cheese" value="20.0" id="5" />
-    <weight description="Cheese" value="20.0" id="6" />
-    <weight description="Cheese" value="20.0" id="7" />
-    <weight description="Cheese" value="20.0" id="8" />
-    <weight description="Cheese" value="20.0" id="9" />
-    <weight description="Cheese" value="20.0" id="10" />
-    <weight description="Cheese" value="21.0" id="11" />
-    <weight description="Cheese" value="21.0" id="12" />
-    <weight description="Cheese" value="21.0" id="13" />
-    <weight description="Cheese" value="10.0" id="14" />
-    <weight description="Cheese" value="20.0" id="15" />
-    <weight description="Cheese" value="20.0" id="16" />
-    <weight description="Cheese" value="20.0" id="17" />
-  </guide-image>
-  <guide-image id="Gcra">
-    <weight description="Cheese biscuits and crackers" value="8.0" id="1" />
-    <weight description="Cheese biscuits and crackers" value="6.0" id="2" />
-    <weight description="Cheese biscuits and crackers" value="4.0" id="3" />
-    <weight description="Cheese biscuits and crackers" value="2.0" id="4" />
-    <weight description="Cheese biscuits and crackers" value="2.0" id="5" />
-    <weight description="Cheese biscuits and crackers" value="8.0" id="6" />
-    <weight description="Cheese biscuits and crackers" value="12.0" id="7" />
-    <weight description="Cheese biscuits and crackers" value="6.0" id="8" />
-    <weight description="Cheese biscuits and crackers" value="6.0" id="9" />
-  </guide-image>
-  <guide-image id="Gcri">
-    <weight description="Crisps" value="30.0" id="1" />
-    <weight description="Crisps" value="50.0" id="2" />
-    <weight description="Crisps" value="45.0" id="3" />
-    <weight description="Crisps" value="50.0" id="4" />
-    <weight description="Crisps" value="28.0" id="5" />
-    <weight description="Crisps" value="25.0" id="6" />
-    <weight description="Crisps" value="20.0" id="11" />
-    <weight description="Crisps" value="40.0" id="12" />
-    <weight description="Crisps" value="19.0" id="13" />
-    <weight description="Crisps" value="40.0" id="14" />
-    <weight description="Crisps" value="34.5" id="15" />
-    <weight description="Crisps" value="25.0" id="16" />
-    <weight description="Crisps" value="22.0" id="17" />
-    <weight description="Crisps" value="22.0" id="18" />
-    <weight description="Crisps" value="40.0" id="19" />
-    <weight description="Crisps" value="28.0" id="21" />
-    <weight description="Crisps" value="34.0" id="22" />
-    <weight description="Crisps" value="28.0" id="23" />
-    <weight description="Crisps" value="35.0" id="24" />
-    <weight description="Crisps" value="19.0" id="25" />
-    <weight description="Crisps" value="34.0" id="26" />
-    <weight description="Crisps" value="25.0" id="27" />
-    <weight description="Crisps" value="50.0" id="28" />
-    <weight description="Crisps" value="35.0" id="29" />
-  </guide-image>
-  <guide-image id="Gcri1">
-    <weight description="Crisps" value="20.0" id="1" />
-    <weight description="Crisps" value="40.0" id="2" />
-    <weight description="Crisps" value="19.0" id="3" />
-    <weight description="Crisps" value="40.0" id="4" />
-    <weight description="Crisps" value="34.5" id="5" />
-    <weight description="Crisps" value="25.0" id="6" />
-    <weight description="Crisps" value="22.0" id="7" />
-    <weight description="Crisps" value="22.0" id="8" />
-    <weight description="Crisps" value="40.0" id="9" />
-    <weight description="Crisps" value="43.0" id="10" />
-  </guide-image>
-  <guide-image id="Gcri2">
-    <weight description="Crisps" value="28.0" id="1" />
-    <weight description="Crisps" value="34.0" id="2" />
-    <weight description="Crisps" value="28.0" id="3" />
-    <weight description="Crisps" value="35.0" id="4" />
-    <weight description="Crisps" value="19.0" id="5" />
-    <weight description="Crisps" value="34.0" id="6" />
-    <weight description="Crisps" value="25.0" id="7" />
-    <weight description="Crisps" value="50.0" id="8" />
-    <weight description="Crisps" value="35.0" id="9" />
-    <weight description="Crisps" value="32.0" id="10" />
-  </guide-image>
-  <guide-image id="Gdekr">
-    <weight description="Double Decker" value="80.0" id="1" />
-    <weight description="Double Decker" value="60.0" id="2" />
-    <weight description="Double Decker" value="78.0" id="3" />
-    <weight description="Double Decker" value="60.5" id="4" />
-  </guide-image>
-  <guide-image id="Gdes">
-    <weight description="Dairy dessert" value="154.0" id="1" />
-    <weight description="Dairy dessert" value="100.0" id="2" />
-    <weight description="Dairy dessert" value="80.0" id="3" />
-    <weight description="Dairy dessert" value="55.0" id="4" />
-    <weight description="Dairy dessert" value="100.0" id="5" />
-    <weight description="Dairy dessert" value="100.0" id="6" />
-    <weight description="Dairy dessert" value="100.0" id="7" />
-    <weight description="Dairy dessert" value="77.0" id="8" />
-    <weight description="Dairy dessert" value="113.0" id="9" />
-  </guide-image>
-  <guide-image id="Gdori">
-    <weight description="Doritos" value="125.0" id="1" />
-    <weight description="Doritos" value="55.0" id="2" />
-    <weight description="Doritos" value="40.0" id="3" />
-  </guide-image>
-  <guide-image id="Gdou">
-    <weight description="Doughnut" value="46.0" id="1" />
-    <weight description="Doughnut" value="12.0" id="2" />
-    <weight description="Doughnut" value="84.0" id="3" />
-    <weight description="Doughnut" value="64.0" id="4" />
-  </guide-image>
-  <guide-image id="Gdrnk">
-    <weight description="Drinks" value="500.0" id="1" />
-    <weight description="Drinks" value="300.0" id="2" />
-    <weight description="Drinks" value="200.0" id="3" />
-    <weight description="Drinks" value="500.0" id="4" />
-    <weight description="Drinks" value="500.0" id="5" />
-    <weight description="Drinks" value="250.0" id="6" />
-    <weight description="Drinks" value="200.0" id="7" />
-    <weight description="Drinks" value="200.0" id="8" />
-    <weight description="Drinks" value="200.0" id="9" />
-    <weight description="Drinks" value="288.0" id="10" />
-  </guide-image>
-  <guide-image id="Gfjta">
-    <weight description="Fajitas" value="42.0" id="1" />
-    <weight description="Fajitas" value="50.0" id="2" />
-    <weight description="Fajitas" value="65.0" id="3" />
-  </guide-image>
-  <guide-image id="Gfrazz">
-    <weight description="Frazzles" value="40.0" id="1" />
-    <weight description="Frazzles" value="24.60000038" id="2" />
-  </guide-image>
-  <guide-image id="Gfrk">
-    <weight description="Frankfurters 1 (smallest)" value="10.0" id="1" />
-    <weight description="Frankfurters 2" value="24.0" id="2" />
-    <weight description="Frankfurters 3" value="33.0" id="3" />
-    <weight description="Frankfurters 4" value="51.0" id="4" />
-    <weight description="Frankfurters 5 (largest)" value="51.0" id="5" />
-  </guide-image>
-  <guide-image id="Ggalx">
-    <weight description="Galaxy bar" value="125.0" id="1" />
-    <weight description="Galaxy bar" value="75.0" id="2" />
-    <weight description="Galaxy bar" value="46.0" id="3" />
-    <weight description="Galaxy bar" value="8.800000191" id="4" />
-  </guide-image>
-  <guide-image id="Gham">
-    <weight description="Ham" value="16.0" id="1" />
-    <weight description="Ham" value="12.0" id="2" />
-    <weight description="Ham" value="16.0" id="3" />
-    <weight description="Ham" value="38.0" id="4" />
-    <weight description="Ham" value="28.0" id="5" />
-  </guide-image>
-  <guide-image id="Ghula">
-    <weight description="Hula hoops" value="55.0" id="1" />
-    <weight description="Hula hoops" value="34.0" id="2" />
-    <weight description="Hula hoops" value="25.0" id="3" />
-  </guide-image>
-  <guide-image id="Gice1">
-    <weight description="Ice lollies &amp; ice cream bars" value="73.0" id="1" />
-    <weight description="Ice lollies &amp; ice cream bars" value="58.0" id="2" />
-    <weight description="Ice lollies &amp; ice cream bars" value="23.0" id="3" />
-    <weight description="Ice lollies &amp; ice cream bars" value="64.0" id="4" />
-    <weight description="Ice lollies &amp; ice cream bars" value="83.0" id="5" />
-    <weight description="Ice lollies &amp; ice cream bars" value="58.0" id="6" />
-    <weight description="Ice lollies &amp; ice cream bars" value="47.0" id="7" />
-    <weight description="Ice lollies &amp; ice cream bars" value="81.0" id="8" />
-  </guide-image>
-  <guide-image id="Gice2">
-    <weight description="Ice lollies &amp; ice cream bars" value="48.0" id="9" />
-    <weight description="Ice lollies &amp; ice cream bars" value="47.5" id="10" />
-    <weight description="Ice lollies &amp; ice cream bars" value="57.0" id="11" />
-    <weight description="Ice lollies &amp; ice cream bars" value="75.0" id="12" />
-    <weight description="Ice lollies &amp; ice cream bars" value="83.0" id="13" />
-    <weight description="Ice lollies &amp; ice cream bars" value="75.0" id="14" />
-    <weight description="Ice lollies &amp; ice cream bars" value="86.0" id="15" />
-    <weight description="Ice lollies &amp; ice cream bars" value="70.0" id="16" />
-  </guide-image>
-  <guide-image id="Gkbar">
-    <weight description="Small chocolate bars" value="26.0" id="1" />
-    <weight description="Small chocolate bars" value="23.0" id="2" />
-    <weight description="Small chocolate bars" value="27.0" id="3" />
-    <weight description="Small chocolate bars" value="10.0" id="4" />
-    <weight description="Small chocolate bars" value="16.0" id="5" />
-  </guide-image>
-  <guide-image id="Gkitk">
-    <weight description="Kitkat" value="70.0" id="1" />
-    <weight description="Kitkat" value="50.0" id="2" />
-    <weight description="Kitkat" value="31.0" id="3" />
-    <weight description="Kitkat" value="45.0" id="4" />
-  </guide-image>
-  <guide-image id="Gmalt">
-    <weight description="Maltesers" value="135.0" id="1" />
-    <weight description="Maltesers" value="58.5" id="2" />
-    <weight description="Maltesers" value="37.0" id="3" />
-    <weight description="Maltesers" value="20.5" id="4" />
-    <weight description="Maltesers" value="8.600000381" id="5" />
-  </guide-image>
-  <guide-image id="Gmars">
-    <weight description="Mars bar" value="85.0" id="1" />
-    <weight description="Mars bar" value="59.0" id="2" />
-    <weight description="Mars bar" value="37.0" id="3" />
-    <weight description="Mars bar" value="18.60000038" id="4" />
-    <weight description="Mars bar" value="10.0" id="5" />
-  </guide-image>
-  <guide-image id="Gmbut">
-    <weight description="Milk Buttons" value="175.0" id="1" />
-    <weight description="Milk Buttons" value="65.0" id="2" />
-    <weight description="Milk Buttons" value="62.0" id="3" />
-    <weight description="Milk Buttons" value="15.0" id="4" />
-  </guide-image>
-  <guide-image id="Gmco">
-    <weight description="Crisps" value="50.0" id="1" />
-    <weight description="Crisps" value="25.0" id="2" />
-  </guide-image>
-  <guide-image id="Gmkyb">
-    <weight description="Milkybar buttons" value="110.0" id="1" />
-    <weight description="Milkybar buttons" value="31.70000076" id="2" />
-    <weight description="Milkybar buttons" value="17.10000038" id="3" />
-  </guide-image>
-  <guide-image id="Gmlk01">
-    <weight description="Milk, Half pint glasses 1" value="300.0" id="5" />
-    <weight description="Milk, Half pint glasses 2" value="217.0" id="6" />
-    <weight description="Milk, Half pint glasses 3" value="134.0" id="7" />
-    <weight description="Milk, Half pint glasses 4" value="53.0" id="8" />
-  </guide-image>
-  <guide-image id="Gmlk02">
-    <weight description="Milk, Small, tumbler 1" value="140.0" id="13" />
-    <weight description="Milk, Small, tumber 2" value="107.0" id="14" />
-    <weight description="Milk, Small, tumbler 3" value="74.0" id="15" />
-    <weight description="Milk, Small, tumbler 4" value="40.0" id="16" />
-  </guide-image>
-  <guide-image id="Gmlk03">
-    <weight description="Milk, Large tumbler, 1" value="210.0" id="9" />
-    <weight description="Milk, Large tumbler, 2" value="161.0" id="10" />
-    <weight description="Milk, Large tumbler, 3" value="112.0" id="11" />
-    <weight description="Milk, Large tumbler, 4" value="63.0" id="12" />
-  </guide-image>
-  <guide-image id="Gmlk04">
-    <weight description="Milk, Large glasses (tall) 1" value="300.0" id="1" />
-    <weight description="Milk, Large glasses (tall) 2" value="217.0" id="2" />
-    <weight description="Milk, Large glasses (tall) 3" value="134.0" id="3" />
-    <weight description="Milk, Large glasses (tall) 4" value="53.0" id="4" />
-  </guide-image>
-  <guide-image id="Gmlky">
-    <weight description="Milkyway" value="43.79999924" id="1" />
-    <weight description="Milkyway" value="21.89999962" id="2" />
-    <weight description="Milkyway" value="15.5" id="3" />
-    <weight description="Milkyway" value="33.0" id="4" />
-    <weight description="Milkyway" value="14.0" id="5" />
-  </guide-image>
-  <guide-image id="Gmmcp">
-    <weight description="Monster munch" value="85.0" id="1" />
-    <weight description="Monster munch" value="40.0" id="2" />
-    <weight description="Monster munch" value="22.0" id="3" />
-  </guide-image>
-  <guide-image id="Gmnms">
-    <weight description="m&amp;ms" value="185.0" id="1" />
-    <weight description="m&amp;ms" value="45.0" id="2" />
-    <weight description="m&amp;ms" value="21.0" id="3" />
-  </guide-image>
-  <guide-image id="Gmnst">
-    <weight description="Minstrels" value="170.0" id="1" />
-    <weight description="Minstrels" value="105.0" id="2" />
-    <weight description="Minstrels" value="46.0" id="3" />
-  </guide-image>
-  <guide-image id="Gmug">
-    <weight description="Glass, Tea Cup 1" value="190.0" id="1" />
-    <weight description="Glass, Tea Cup 2" value="250.0" id="2" />
-    <weight description="Glass, Tea Cup 3" value="310.0" id="3" />
-    <weight description="Tea Cup 4" value="300.0" id="4" />
-  </guide-image>
-  <guide-image id="Gorg">
-    <weight description="Orange/Tangerines/Mandarins/Clementines 1 (smallest)" value="66.0" id="1" />
-    <weight description="Orange/Tangerines/Mandarins/Clementines 2" value="98.0" id="2" />
-    <weight description="Orange/Tangerines/Mandarins/Clementines 3" value="132.0" id="3" />
-    <weight description="Orange/Tangerines/Mandarins/Clementines 4" value="222.0" id="4" />
-    <weight description="Orange/Tangerines/Mandarins/Clementines 5 (largest)" value="294.0" id="5" />
-  </guide-image>
-  <guide-image id="Gpiesaus">
-    <weight description="Pies" value="148.0" id="1" />
-    <weight description="Pies" value="186.0" id="2" />
-    <weight description="Pies" value="84.0" id="3" />
-    <weight description="Pies" value="147.0" id="4" />
-    <weight description="Pies" value="33.0" id="5" />
-    <weight description="Pies" value="7.0" id="6" />
-    <weight description="Pies" value="103.0" id="7" />
-    <weight description="Pies" value="75.0" id="8" />
-    <weight description="Pies" value="167.0" id="9" />
-    <weight description="Pies" value="155.0" id="10" />
-  </guide-image>
-  <guide-image id="Gpik">
-    <weight description="Bread Other" value="42.0" id="1" />
-    <weight description="Bread Other" value="34.0" id="2" />
-    <weight description="Bread Other" value="22.0" id="3" />
-    <weight description="Bread Other" value="66.0" id="4" />
-    <weight description="Bread Other" value="44.0" id="5" />
-  </guide-image>
-  <guide-image id="Gpiz">
-    <weight description="Pizza" value="823.0" id="1" />
-    <weight description="Pizza" value="290.0" id="2" />
-    <weight description="Pizza" value="102.0" id="3" />
-    <weight description="Pizza" value="105.0" id="4" />
-    <weight description="Pizza" value="90.0" id="5" />
-  </guide-image>
-  <guide-image id="Gprin">
-    <weight description="Pringles" value="165.0" id="1" />
-    <weight description="Pringles" value="43.0" id="2" />
-  </guide-image>
-  <guide-image id="Gprs">
-    <weight description="Pears" value="96.0" id="1" />
-    <weight description="Pears" value="102.0" id="2" />
-    <weight description="Pears" value="112.0" id="3" />
-    <weight description="Pears" value="138.0" id="4" />
-    <weight description="Pears" value="158.0" id="5" />
-  </guide-image>
-  <guide-image id="Gquav">
-    <weight description="Quavers" value="34.0" id="1" />
-    <weight description="Quavers" value="25.39999962" id="2" />
-    <weight description="Quavers" value="17.39999962" id="3" />
-  </guide-image>
-  <guide-image id="Groll">
-    <weight description="Bread rolls" value="89.0" id="1" />
-    <weight description="Bread rolls" value="57.0" id="2" />
-    <weight description="Bread rolls" value="32.0" id="3" />
-    <weight description="Bread rolls" value="61.0" id="4" />
-    <weight description="Bread rolls" value="78.0" id="5" />
-    <weight description="Bread rolls" value="37.0" id="6" />
-    <weight description="Bread rolls" value="58.0" id="7" />
-    <weight description="Bread rolls" value="71.0" id="8" />
-  </guide-image>
-  <guide-image id="Gsaus">
-    <weight description="Sausages" value="65.0" id="1" />
-    <weight description="Sausages" value="37.0" id="2" />
-    <weight description="Sausages" value="17.0" id="3" />
-    <weight description="Sausages" value="6.0" id="4" />
-    <weight description="Sausages" value="10.0" id="5" />
-  </guide-image>
-  <guide-image id="Gshk1">
-    <weight description="Milkshake" value="500.0" id="1" />
-    <weight description="Milkshake" value="500.0" id="2" />
-    <weight description="Milkshake" value="500.0" id="3" />
-    <weight description="Milkshake" value="310.0" id="4" />
-    <weight description="Milkshake" value="500.0" id="5" />
-    <weight description="Milkshake" value="330.0" id="6" />
-    <weight description="Milkshake" value="200.0" id="7" />
-    <weight description="Milkshake" value="200.0" id="8" />
-    <weight description="Milkshake" value="310.0" id="9" />
-  </guide-image>
-  <guide-image id="Gshk2">
-    <weight description="Milkshake" value="750.0" id="10" />
-    <weight description="Milkshake" value="310.0" id="11" />
-    <weight description="Milkshake" value="180.0" id="12" />
-    <weight description="Milkshake" value="90.0" id="13" />
-    <weight description="Milkshake" value="100.0" id="14" />
-  </guide-image>
-  <guide-image id="Gskit">
-    <weight description="Skittles" value="195.0" id="1" />
-    <weight description="Skittles" value="55.0" id="2" />
-    <weight description="Skittles" value="18.0" id="3" />
-  </guide-image>
-  <guide-image id="Gskps">
-    <weight description="Skips" value="40.0" id="1" />
-    <weight description="Skips" value="20.60000038" id="2" />
-    <weight description="Skips" value="16.29999924" id="3" />
-  </guide-image>
-  <guide-image id="Gsli">
-    <weight description="Bread sliced" value="20.0" id="1" />
-    <weight description="Bread sliced" value="27.0" id="2" />
-    <weight description="Bread sliced" value="47.0" id="3" />
-    <weight description="Bread sliced" value="27.0" id="4" />
-    <weight description="Bread sliced" value="37.0" id="5" />
-    <weight description="Bread sliced" value="37.0" id="6" />
-    <weight description="Bread sliced" value="13.0" id="7" />
-    <weight description="Bread sliced" value="23.0" id="8" />
-    <weight description="Bread sliced" value="66.0" id="9" />
-  </guide-image>
-  <guide-image id="Gsnck">
-    <weight description="Snickers" value="95.40000153" id="1" />
-    <weight description="Snickers" value="58.0" id="2" />
-    <weight description="Snickers" value="42.0" id="3" />
-    <weight description="Snickers" value="10.80000019" id="4" />
-  </guide-image>
-  <guide-image id="Gspn">
-    <weight description="Tea spoon" value="7.8" id="1" />
-    <weight description="Dessert spoon" value="16.9" id="2" />
-    <weight description="Soup spoon" value="18.5" id="3" />
-    <weight description="Table spoon" value="26.7" id="4" />
-    <weight description="Serving spoon" value="45.0" id="5" />
-  </guide-image>
-  <guide-image id="Gspns">
-    <weight description="Tea spoon" value="7.8" id="1" />
-    <weight description="Dessert spoon" value="16.9" id="2" />
-    <weight description="Soup spoon" value="18.5" id="3" />
-    <weight description="Table spoon" value="26.7" id="4" />
-    <weight description="Serving spoon" value="45.0" id="5" />
-  </guide-image>
-  <guide-image id="Gsqrs">
-    <weight description="Square crisps" value="25.0" id="1" />
-    <weight description="Square crisps" value="22.5" id="2" />
-  </guide-image>
-  <guide-image id="Gsquash1">
-    <weight description="Glass, Tall glass" value="300.0" id="1" />
-    <weight description="Glass, Tall glass" value="225.0" id="2" />
-    <weight description="Glass, Tall glass" value="150.0" id="3" />
-    <weight description="Glass, Tall glass" value="75.0" id="4" />
-  </guide-image>
-  <guide-image id="Gsquash2">
-    <weight description="Glass, Half pint glass" value="304.0" id="1" />
-    <weight description="Glass, Half pint glass" value="228.0" id="2" />
-    <weight description="Glass, Half pint glass" value="152.0" id="3" />
-    <weight description="Glass, Half pint glass" value="76.0" id="4" />
-  </guide-image>
-  <guide-image id="Gsquash3">
-    <weight description="Glass, Medium tumbler" value="202.0" id="1" />
-    <weight description="Glass, Medium tumbler" value="150.0" id="2" />
-    <weight description="Glass, Medium tumbler" value="100.0" id="3" />
-    <weight description="Glass, Medium tumbler" value="50.0" id="4" />
-  </guide-image>
-  <guide-image id="Gsquash4">
-    <weight description="Glass, Small tumbler" value="145.0" id="1" />
-    <weight description="Glass, Small tumbler" value="109.0" id="2" />
-    <weight description="Glass, Small tumber" value="73.0" id="3" />
-    <weight description="Glass, Small tumbler" value="36.0" id="4" />
-  </guide-image>
-  <guide-image id="Gswb">
-    <weight description="Sandwich biscuits" value="13.0" id="1" />
-    <weight description="Sandwich biscuits" value="16.0" id="2" />
-    <weight description="Sandwich biscuits" value="14.0" id="3" />
-    <weight description="Sandwich biscuits" value="7.0" id="4" />
-    <weight description="Sandwich biscuits" value="19.0" id="5" />
-    <weight description="Sandwich biscuits" value="15.0" id="6" />
-    <weight description="Sandwich biscuits" value="33.0" id="7" />
-    <weight description="Sandwich biscuits" value="11.0" id="8" />
-    <weight description="Sandwich biscuits" value="15.0" id="9" />
-  </guide-image>
-  <guide-image id="Gswt1">
-    <weight description="Sweets" value="27.0" id="24" />
-    <weight description="Sweets" value="16.0" id="25" />
-    <weight description="Sweets" value="23.0" id="26" />
-    <weight description="Sweets" value="23.0" id="27" />
-    <weight description="Sweets" value="19.0" id="28" />
-    <weight description="Sweets" value="43.0" id="29" />
-    <weight description="Sweets" value="27.0" id="30" />
-  </guide-image>
-  <guide-image id="Gswt2">
-    <weight description="Sweets" value="11.0" id="1" />
-    <weight description="Sweets" value="13.0" id="2" />
-    <weight description="Sweets" value="16.0" id="3" />
-    <weight description="Sweets" value="12.0" id="4" />
-    <weight description="Sweets" value="13.0" id="5" />
-    <weight description="Sweets" value="3.0" id="6" />
-    <weight description="Sweets" value="20.0" id="7" />
-    <weight description="Sweets" value="7.0" id="8" />
-    <weight description="Sweets" value="7.0" id="9" />
-    <weight description="Sweets" value="9.0" id="10" />
-    <weight description="Sweets" value="20.0" id="11" />
-    <weight description="Sweets" value="20.0" id="12" />
-    <weight description="Sweets" value="4.0" id="13" />
-    <weight description="Sweets" value="2.0" id="14" />
-    <weight description="Sweets" value="2.0" id="15" />
-    <weight description="Sweets" value="4.0" id="16" />
-    <weight description="Sweets" value="6.0" id="17" />
-    <weight description="Sweets" value="6.0" id="18" />
-    <weight description="Sweets" value="2.0" id="19" />
-    <weight description="Sweets" value="23.0" id="20" />
-    <weight description="Sweets" value="4.0" id="21" />
-    <weight description="Sweets" value="1.0" id="22" />
-    <weight description="Sweets" value="18.0" id="23" />
-  </guide-image>
-  <guide-image id="Gswts">
-    <weight description="Sweets" value="42.79999924" id="1" />
-    <weight description="Sweets" value="52.5" id="2" />
-    <weight description="Sweets" value="56.0" id="3" />
-    <weight description="Sweets" value="55.5" id="4" />
-    <weight description="Sweets" value="48.90000153" id="5" />
-    <weight description="Sweets" value="15.0" id="6" />
-    <weight description="Sweets" value="19.39999962" id="7" />
-  </guide-image>
-  <guide-image id="Gtom">
-    <weight description="Tomato 1 (smallest)" value="4.0" id="1" />
-    <weight description="Tomato 2" value="12.0" id="2" />
-    <weight description="Tomato 3" value="34.0" id="3" />
-    <weight description="Tomato 4" value="36.0" id="4" />
-    <weight description="Tomato 5" value="90.0" id="5" />
-    <weight description="Tomato 6" value="116.0" id="6" />
-    <weight description="Tomato 7" value="132.0" id="7" />
-    <weight description="Tomato 8 (largest)" value="228.0" id="8" />
-  </guide-image>
-  <guide-image id="Gtur">
-    <weight description="Chicken/ Fish shapes" value="49.0" id="1" />
-    <weight description="Chicken/ Fish shapes" value="51.0" id="2" />
-    <weight description="Chicken/ Fish shapes" value="91.0" id="3" />
-    <weight description="Chicken/ Fish shapes" value="40.0" id="4" />
-    <weight description="Chicken/ Fish shapes" value="19.0" id="5" />
-    <weight description="Chicken/ Fish shapes" value="15.0" id="6" />
-    <weight description="Chicken/ Fish shapes" value="19.0" id="7" />
-    <weight description="Chicken/ Fish shapes" value="20.0" id="8" />
-    <weight description="Chicken/ Fish shapes" value="18.0" id="9" />
-  </guide-image>
-  <guide-image id="Gtwfk">
-    <weight description="Twirl/Flake" value="33.0" id="1" />
-    <weight description="Twirl/Flake" value="14.80000019" id="2" />
-    <weight description="Twirl/Flake" value="43.0" id="3" />
-    <weight description="Twirl/Flake" value="37.0" id="4" />
-    <weight description="Twirl/Flake" value="24.0" id="5" />
-    <weight description="Twirl/Flake" value="9.5" id="6" />
-  </guide-image>
-  <guide-image id="Gtwix">
-    <weight description="Twix" value="85.0" id="1" />
-    <weight description="Twix" value="58.0" id="2" />
-    <weight description="Twix" value="20.0" id="3" />
-  </guide-image>
-  <guide-image id="Gumrs">
-    <weight description="Unwrapped chocolate bars" value="85.0" id="1" />
-    <weight description="Unwrapped chocolate bars" value="59.0" id="2" />
-    <weight description="Unwrapped chocolate bars" value="37.0" id="3" />
-    <weight description="Unwrapped chocolate bars" value="18.60000038" id="4" />
-    <weight description="Unwrapped chocolate bars" value="10.10000038" id="5" />
-  </guide-image>
-  <guide-image id="Gwaf">
-    <weight description="Potato,Waffle" value="44.0" id="1" />
-    <weight description="Potato, Hash brown" value="40.0" id="2" />
-    <weight description="Potato, Smiley face" value="16.0" id="3" />
-    <weight description="Potato, Star" value="13.0" id="4" />
-    <weight description="Potato, Croquette" value="26.0" id="5" />
-  </guide-image>
-  <guide-image id="Gwalk">
-    <weight description="Crisps" value="50.0" id="1" />
-    <weight description="Crisps" value="34.5" id="2" />
-    <weight description="Crisps" value="25.0" id="3" />
-  </guide-image>
-  <guide-image id="Gwcho">
-    <weight description="White chocolate" value="100.0" id="1" />
-    <weight description="White chocolate" value="25.39999962" id="2" />
-    <weight description="White chocolate" value="13.0" id="3" />
-  </guide-image>
-  <guide-image id="Gwrp">
-    <weight description="Wraps" value="42.0" id="1" />
-    <weight description="Wraps" value="50.0" id="2" />
-    <weight description="Wraps" value="65.0" id="3" />
-  </guide-image>
-  <guide-image id="Gyog">
-    <weight description="Yoghurt and fromage frais" value="200.0" id="1" />
-    <weight description="Yoghurt and fromage frais" value="200.0" id="2" />
-    <weight description="Yoghurt and fromage frais" value="175.0" id="3" />
-    <weight description="Yoghurt and fromage frais" value="125.0" id="4" />
-    <weight description="Yoghurt and fromage frais" value="120.0" id="5" />
-    <weight description="Yoghurt and fromage frais" value="120.0" id="6" />
-    <weight description="Yoghurt and fromage frais" value="85.0" id="7" />
-    <weight description="Yoghurt and fromage frais" value="50.0" id="8" />
-    <weight description="Yoghurt and fromage frais" value="50.0" id="9" />
-    <weight description="Yoghurt and fromage frais" value="55.0" id="10" />
-    <weight description="Yoghurt and fromage frais" value="50.0" id="11" />
-    <weight description="Yoghurt and fromage frais" value="97.0" id="12" />
-    <weight description="Frubes" value="80.0" id="21" />
-    <weight description="Frubes" value="60.0" id="22" />
-    <weight description="Frubes" value="80.0" id="23" />
-    <weight description="Frubes" value="40.0" id="24" />
-    <weight description="Frubes" value="40.0" id="25" />
-  </guide-image>
-  <guide-image id="Gyog2">
-    <weight description="Frubes" value="80.0" id="1" />
-    <weight description="Frubes" value="60.0" id="2" />
-    <weight description="Frubes" value="80.0" id="3" />
-    <weight description="Frubes" value="40.0" id="4" />
-    <weight description="Frubes" value="40.0" id="5" />
-  </guide-image>
-  <guide-image id="Gyor">
-    <weight description="Yorkshire pudding, 1 (smallest)" value="10.0" id="1" />
-    <weight description="Yorkshire pudding, 2" value="18.0" id="2" />
-    <weight description="Yorkshire pudding, 3" value="19.0" id="3" />
-    <weight description="Yorkshire pudding, 4 (largest)" value="92.0" id="4" />
-  </guide-image>
-</scran24-guide-images>
+<?xml version='1.0' encoding='utf-8'?>
+<guide-images>
+  <guide-image id="Gaero" description="No description">
+    <weight id="1" description="Aero - Bubbles bag" value="135.0"/>
+    <weight id="2" description="Aero - standard Bubbles bag" value="39.0"/>
+    <weight id="3" description="Aero - standard bar" value="42.5"/>
+    <weight id="4" description="Aero - single" value="27.0"/>
+    <weight id="5" description="Aero - medium" value="19.0"/>
+    <weight id="6" description="Aero - treatsize" value="9.0"/>
+  </guide-image>
+  <guide-image id="Galccans" description="No description">
+    <weight id="1" description="Strongbow" value="572.0"/>
+    <weight id="2" description="Carling C2" value="503.0"/>
+    <weight id="3" description="Labatt Blue" value="444.0"/>
+    <weight id="4" description="Smirnoff apple &amp; vodka" value="250.0"/>
+    <weight id="5" description="Jack Daniels whisky &amp; ginger" value="330.0"/>
+  </guide-image>
+  <guide-image id="Gallcans" description="No description">
+    <weight id="1" description="Morrisons new potatoes" value="360.0"/>
+    <weight id="2" description="Heinz Farmers Market soup" value="400.0"/>
+    <weight id="3" description="Heinz Big soup" value="500.0"/>
+    <weight id="4" description="Weight Watchers soup" value="295.0"/>
+    <weight id="5" description="Cirio plum tomatoes" value="400.0"/>
+    <weight id="6" description="Batchelors Bigga peas" value="180.0"/>
+    <weight id="7" description="D'aucy sweetcorn &amp; peas" value="300.0"/>
+    <weight id="8" description="Morrisons mandarin segments" value="175.0"/>
+    <weight id="9" description="Morrisons sweetcorn" value="140.0"/>
+    <weight id="10" description="Nestle Tip Top" value="160.0"/>
+    <weight id="11" description="Dole pineapple" value="227.0"/>
+    <weight id="12" description="Morrisons mushy peas" value="145.0"/>
+  </guide-image>
+  <guide-image id="Gapl" description="(no description for guide image Gapl)">
+    <weight id="1" description="Apples" value="185.0"/>
+    <weight id="2" description="Apples" value="155.0"/>
+    <weight id="3" description="Apples" value="125.0"/>
+    <weight id="4" description="Apples" value="94.0"/>
+  </guide-image>
+  <guide-image id="Gban" description="(no description for guide image Gban)">
+    <weight id="1" description="Bananas 1 (smallest)" value="126.0"/>
+    <weight id="2" description="Bananas 2" value="176.0"/>
+    <weight id="3" description="Bananas 3" value="186.0"/>
+    <weight id="4" description="Bananas 4" value="218.0"/>
+    <weight id="5" description="Bananas 5 (largest)" value="242.0"/>
+  </guide-image>
+  <guide-image id="Gbcn" description="(no description for guide image Gbcn)">
+    <weight id="1" description="Bacon" value="11.0"/>
+    <weight id="2" description="Bacon" value="10.0"/>
+    <weight id="3" description="Bacon" value="14.0"/>
+    <weight id="4" description="Bacon" value="23.0"/>
+    <weight id="5" description="Bacon" value="25.0"/>
+  </guide-image>
+  <guide-image id="Gbeans" description="No description">
+    <weight id="1" description="Baked beans std can" value="415.0"/>
+    <weight id="2" description="Baked beans med can" value="200.0"/>
+    <weight id="3" description="Baked beans small can" value="150.0"/>
+    <weight id="4" description="Baked beans snap pot" value="200.0"/>
+  </guide-image>
+  <guide-image id="Gbeerbot" description="No description">
+    <weight id="1" description="Tiger" value="642.0"/>
+    <weight id="2" description="Deuchars IPA" value="502.0"/>
+    <weight id="3" description="Copen Hagen" value="332.0"/>
+    <weight id="4" description="Guinness" value="335.0"/>
+    <weight id="5" description="Duvel" value="331.0"/>
+  </guide-image>
+  <guide-image id="Gbisc" description="(no description for guide image Gbisc)">
+    <weight id="1" description="Biscuits and cookies" value="104.0"/>
+    <weight id="2" description="Biscuits and cookies" value="49.0"/>
+    <weight id="3" description="Biscuits and cookies" value="17.0"/>
+    <weight id="4" description="Biscuits and cookies" value="17.0"/>
+    <weight id="5" description="Biscuits and cookies" value="11.0"/>
+    <weight id="6" description="Biscuits and cookies" value="10.0"/>
+    <weight id="7" description="Biscuits and cookies" value="8.0"/>
+    <weight id="8" description="Biscuits and cookies" value="15.0"/>
+    <weight id="9" description="Biscuits and cookies" value="12.0"/>
+    <weight id="10" description="Biscuits and cookies" value="17.0"/>
+    <weight id="11" description="Biscuits and cookies" value="15.0"/>
+    <weight id="12" description="Biscuits and cookies" value="11.0"/>
+    <weight id="13" description="Biscuits and cookies" value="10.0"/>
+    <weight id="14" description="Biscuits and cookies" value="8.0"/>
+    <weight id="15" description="Biscuits and cookies" value="9.0"/>
+    <weight id="16" description="Biscuits and cookies" value="17.0"/>
+    <weight id="17" description="Biscuits and cookies" value="6.0"/>
+  </guide-image>
+  <guide-image id="Gbonti" description="No description">
+    <weight id="1" description="Bounty - trio" value="85.0"/>
+    <weight id="2" description="Bounty - standard" value="57.0"/>
+    <weight id="3" description="Bounty - treatsize" value="28.0"/>
+    <weight id="4" description="Bounty - celebration" value="10.0"/>
+  </guide-image>
+  <guide-image id="Gbur" description="(no description for guide image Gbur)">
+    <weight id="1" description="Burger" value="34.0"/>
+    <weight id="2" description="Burger" value="78.0"/>
+    <weight id="3" description="Burger" value="50.0"/>
+    <weight id="4" description="Burger" value="176.0"/>
+    <weight id="5" description="Burger" value="193.0"/>
+    <weight id="6" description="Burger" value="110.0"/>
+    <weight id="7" description="Burger" value="162.0"/>
+    <weight id="8" description="Burger" value="114.0"/>
+  </guide-image>
+  <guide-image id="Gcake" description="(no description for guide image Gcake)">
+    <weight id="1" description="Cakes" value="133.0"/>
+    <weight id="2" description="Cakes" value="34.0"/>
+    <weight id="3" description="Cakes" value="59.0"/>
+    <weight id="4" description="Cakes" value="34.0"/>
+    <weight id="5" description="Cakes" value="34.0"/>
+    <weight id="6" description="Cakes" value="27.0"/>
+    <weight id="7" description="Cakes" value="25.0"/>
+    <weight id="8" description="Cakes" value="27.0"/>
+    <weight id="9" description="Cakes" value="27.0"/>
+    <weight id="10" description="Cakes" value="22.0"/>
+    <weight id="11" description="Cakes" value="28.0"/>
+    <weight id="12" description="Cakes" value="41.0"/>
+    <weight id="13" description="Cakes" value="32.0"/>
+    <weight id="14" description="Cakes" value="22.0"/>
+    <weight id="15" description="Cakes" value="33.0"/>
+  </guide-image>
+  <guide-image id="Gcanfish" description="No description">
+    <weight id="1" description="Morrisons sardines" value="120.0"/>
+    <weight id="2" description="Princes mussels" value="90.0"/>
+    <weight id="3" description="Glenryck pilchards in tomato sauce" value="93.0"/>
+    <weight id="4" description="Princes Tuna in brine" value="135.0"/>
+    <weight id="5" description="Morrisons tuna in water" value="56.0"/>
+  </guide-image>
+  <guide-image id="Gcans" description="(no description for guide image Gcans)">
+    <weight id="1" description="Cans" value="60.0"/>
+    <weight id="2" description="Cans" value="500.0"/>
+    <weight id="3" description="Cans" value="330.0"/>
+    <weight id="4" description="Cans" value="355.0"/>
+    <weight id="5" description="Cans" value="150.0"/>
+    <weight id="6" description="Cans" value="250.0"/>
+    <weight id="7" description="Cans" value="50.0"/>
+  </guide-image>
+  <guide-image id="Gcbar" description="No description">
+    <weight id="1" description="Lion bar" value="55.0"/>
+    <weight id="2" description="Toffee Crisp" value="41.0"/>
+    <weight id="3" description="Toffee Crisp small" value="30.0"/>
+    <weight id="4" description="Drifter - 2 bar" value="52.0"/>
+    <weight id="5" description="Drifter - 1 bar" value="21.6"/>
+    <weight id="6" description="Crunchie" value="42.5"/>
+    <weight id="7" description="Crunchie small" value="18.7"/>
+    <weight id="8" description="Kinder Bueno" value="43.0"/>
+  </guide-image>
+  <guide-image id="Gcbisc1" description="(no description for guide image Gcbisc1)">
+    <weight id="1" description="Chocolate Biscuits" value="21.0"/>
+    <weight id="2" description="Chocolate Biscuits" value="20.0"/>
+    <weight id="3" description="Chocolate Biscuits" value="20.0"/>
+    <weight id="4" description="Chocolate Biscuits" value="23.0"/>
+    <weight id="5" description="Chocolate Biscuits" value="27.0"/>
+    <weight id="6" description="Chocolate Biscuits" value="24.0"/>
+    <weight id="7" description="Chocolate Biscuits" value="14.0"/>
+    <weight id="8" description="Chocolate Biscuits" value="25.0"/>
+    <weight id="9" description="Chocolate Biscuits" value="40.0"/>
+    <weight id="10" description="Chocolate Biscuits" value="18.0"/>
+  </guide-image>
+  <guide-image id="Gcbisc2" description="(no description for guide image Gcbisc2)">
+    <weight id="1" description="Chocolate Biscuits" value="21.0"/>
+    <weight id="2" description="Chocolate Biscuits" value="20.0"/>
+    <weight id="3" description="Chocolate Biscuits" value="20.0"/>
+    <weight id="4" description="Chocolate Biscuits" value="23.0"/>
+    <weight id="5" description="Chocolate Biscuits" value="27.0"/>
+    <weight id="6" description="Chocolate Biscuits" value="24.0"/>
+    <weight id="7" description="Chocolate Biscuits" value="14.0"/>
+    <weight id="8" description="Chocolate Biscuits" value="25.0"/>
+    <weight id="9" description="Chocolate Biscuits" value="40.0"/>
+    <weight id="10" description="Chocolate Biscuits" value="18.0"/>
+  </guide-image>
+  <guide-image id="Gcdmb" description="No description">
+    <weight id="1" description="Dairy Milk - half bar" value="75.0"/>
+    <weight id="2" description="Dairy Milk - standard" value="49.0"/>
+    <weight id="3" description="Dairy Milk - kids bar" value="21.0"/>
+    <weight id="4" description="Dairy Milk - treatsize" value="15.5"/>
+    <weight id="5" description="Dairy Milk - celebration" value="10.9"/>
+  </guide-image>
+  <guide-image id="Gcdmc" description="No description">
+    <weight id="1" description="Dairy Milk squares - 5x4" value="115.0"/>
+    <weight id="2" description="Dairy Milk squares - 5x2" value="57.0"/>
+    <weight id="3" description="Dairy Milk squares - 5x1" value="26.8"/>
+    <weight id="4" description="Dairy Milk squares - 2x1" value="12.0"/>
+    <weight id="5" description="Dairy Milk squares - 1x1" value="6.0"/>
+  </guide-image>
+  <guide-image id="Gchckbrst" description="(no description for guide image Gchckbrst)">
+    <weight id="1" description="Chicken" value="102.0"/>
+    <weight id="2" description="Chicken" value="94.0"/>
+    <weight id="3" description="Chicken" value="117.0"/>
+    <weight id="4" description="Chicken" value="73.0"/>
+  </guide-image>
+  <guide-image id="Gchckleg" description="(no description for guide image Gchckleg)">
+    <weight id="1" description="Chicken" value="69.0"/>
+    <weight id="2" description="Chicken" value="46.0"/>
+    <weight id="3" description="Chicken" value="48.0"/>
+    <weight id="4" description="Chicken" value="26.0"/>
+    <weight id="5" description="Chicken" value="37.0"/>
+    <weight id="6" description="Chicken" value="22.0"/>
+  </guide-image>
+  <guide-image id="Gchoc" description="(no description for guide image Gchoc)">
+    <weight id="12" description="Chocolate bars" value="60.5"/>
+    <weight id="13" description="Chocolate bars" value="57.0"/>
+    <weight id="14" description="Chocolate bars" value="47.0"/>
+    <weight id="15" description="Chocolate bars" value="49.0"/>
+    <weight id="16" description="Chocolate bars" value="42.0"/>
+    <weight id="17" description="Chocolate bars" value="14.0"/>
+    <weight id="18" description="Chocolate bars" value="12.0"/>
+    <weight id="19" description="Chocolate bars" value="12.0"/>
+  </guide-image>
+  <guide-image id="Gchoc1" description="(no description for guide image Gchoc1)">
+    <weight id="20" description="Chocolate bars" value="16.0"/>
+    <weight id="21" description="Chocolate bars" value="17.0"/>
+    <weight id="22" description="Chocolate bars" value="47.0"/>
+    <weight id="23" description="Chocolate bars" value="43.0"/>
+    <weight id="24" description="Chocolate bars" value="22.0"/>
+    <weight id="25" description="Chocolate bars" value="17.0"/>
+    <weight id="26" description="Chocolate bars" value="52.0"/>
+    <weight id="27" description="Chocolate bars" value="50.0"/>
+    <weight id="28" description="Chocolate bars" value="40.0"/>
+    <weight id="29" description="Chocolate bars" value="23.0"/>
+  </guide-image>
+  <guide-image id="Gchoc2" description="(no description for guide image Gchoc2)">
+    <weight id="1" description="Chocolate bars" value="40.0"/>
+    <weight id="2" description="Chocolate bars" value="17.0"/>
+    <weight id="3" description="Chocolate bars" value="85.0"/>
+    <weight id="4" description="Chocolate bars" value="58.0"/>
+    <weight id="5" description="Chocolate bars" value="22.0"/>
+    <weight id="6" description="Chocolate bars" value="62.5"/>
+    <weight id="7" description="Chocolate bars" value="95.4"/>
+    <weight id="8" description="Chocolate bars" value="20.0"/>
+    <weight id="9" description="Chocolate bars" value="20.0"/>
+    <weight id="10" description="Chocolate bars" value="62.5"/>
+    <weight id="11" description="Chocolate bars" value="85.0"/>
+  </guide-image>
+  <guide-image id="GchocPre" description="(no description for guide image GchocPre)">
+    <weight id="30" description="Chocolate bars" value="12.0"/>
+    <weight id="31" description="Chocolate bars" value="32.4"/>
+    <weight id="32" description="Chocolate bars" value="21.0"/>
+    <weight id="33" description="Chocolate bars" value="17.0"/>
+    <weight id="34" description="Chocolate bars" value="16.0"/>
+    <weight id="35" description="Chocolate bars" value="26.0"/>
+    <weight id="36" description="Chocolate bars" value="52.0"/>
+    <weight id="37" description="Chocolate bars" value="14.0"/>
+    <weight id="38" description="Chocolate bars" value="16.0"/>
+    <weight id="39" description="Chocolate bars" value="18.0"/>
+    <weight id="40" description="Chocolate bars" value="25.0"/>
+    <weight id="41" description="Chocolate bars" value="14.0"/>
+    <weight id="42" description="Chocolate bars" value="26.0"/>
+    <weight id="43" description="Chocolate bars" value="13.0"/>
+    <weight id="44" description="Chocolate bars" value="26.0"/>
+  </guide-image>
+  <guide-image id="Gchse" description="(no description for guide image Gchse)">
+    <weight id="1" description="Cheese" value="20.0"/>
+    <weight id="2" description="Cheese" value="19.0"/>
+    <weight id="3" description="Cheese" value="16.66"/>
+    <weight id="4" description="Cheese" value="20.0"/>
+    <weight id="5" description="Cheese" value="20.0"/>
+    <weight id="6" description="Cheese" value="20.0"/>
+    <weight id="7" description="Cheese" value="20.0"/>
+    <weight id="8" description="Cheese" value="20.0"/>
+    <weight id="9" description="Cheese" value="20.0"/>
+    <weight id="10" description="Cheese" value="20.0"/>
+    <weight id="11" description="Cheese" value="21.0"/>
+    <weight id="12" description="Cheese" value="21.0"/>
+    <weight id="13" description="Cheese" value="21.0"/>
+    <weight id="14" description="Cheese" value="10.0"/>
+    <weight id="15" description="Cheese" value="20.0"/>
+    <weight id="16" description="Cheese" value="20.0"/>
+    <weight id="17" description="Cheese" value="20.0"/>
+  </guide-image>
+  <guide-image id="Gciderbot" description="No description">
+    <weight id="1" description="Strongbow" value="2014.0"/>
+    <weight id="2" description="Stella Artois Cidre" value="575.0"/>
+    <weight id="3" description="Gaymers apple cider" value="506.0"/>
+    <weight id="4" description="Copen Hagen" value="332.0"/>
+  </guide-image>
+  <guide-image id="Gcra" description="(no description for guide image Gcra)">
+    <weight id="1" description="Cheese biscuits and crackers" value="8.0"/>
+    <weight id="2" description="Cheese biscuits and crackers" value="6.0"/>
+    <weight id="3" description="Cheese biscuits and crackers" value="4.0"/>
+    <weight id="4" description="Cheese biscuits and crackers" value="2.0"/>
+    <weight id="5" description="Cheese biscuits and crackers" value="2.0"/>
+    <weight id="6" description="Cheese biscuits and crackers" value="8.0"/>
+    <weight id="7" description="Cheese biscuits and crackers" value="12.0"/>
+    <weight id="8" description="Cheese biscuits and crackers" value="6.0"/>
+    <weight id="9" description="Cheese biscuits and crackers" value="6.0"/>
+  </guide-image>
+  <guide-image id="Gcri" description="(no description for guide image Gcri)">
+    <weight id="1" description="Crisps" value="30.0"/>
+    <weight id="2" description="Crisps" value="50.0"/>
+    <weight id="3" description="Crisps" value="45.0"/>
+    <weight id="4" description="Crisps" value="50.0"/>
+    <weight id="5" description="Crisps" value="28.0"/>
+    <weight id="6" description="Crisps" value="25.0"/>
+    <weight id="11" description="Crisps" value="20.0"/>
+    <weight id="12" description="Crisps" value="40.0"/>
+    <weight id="13" description="Crisps" value="19.0"/>
+    <weight id="14" description="Crisps" value="40.0"/>
+    <weight id="15" description="Crisps" value="34.5"/>
+    <weight id="16" description="Crisps" value="25.0"/>
+    <weight id="17" description="Crisps" value="22.0"/>
+    <weight id="18" description="Crisps" value="22.0"/>
+    <weight id="19" description="Crisps" value="40.0"/>
+    <weight id="21" description="Crisps" value="28.0"/>
+    <weight id="22" description="Crisps" value="34.0"/>
+    <weight id="23" description="Crisps" value="28.0"/>
+    <weight id="24" description="Crisps" value="35.0"/>
+    <weight id="25" description="Crisps" value="19.0"/>
+    <weight id="26" description="Crisps" value="34.0"/>
+    <weight id="27" description="Crisps" value="25.0"/>
+    <weight id="28" description="Crisps" value="50.0"/>
+    <weight id="29" description="Crisps" value="35.0"/>
+  </guide-image>
+  <guide-image id="Gcri1" description="(no description for guide image Gcri1)">
+    <weight id="1" description="Crisps" value="20.0"/>
+    <weight id="2" description="Crisps" value="40.0"/>
+    <weight id="3" description="Crisps" value="19.0"/>
+    <weight id="4" description="Crisps" value="40.0"/>
+    <weight id="5" description="Crisps" value="34.5"/>
+    <weight id="6" description="Crisps" value="25.0"/>
+    <weight id="7" description="Crisps" value="22.0"/>
+    <weight id="8" description="Crisps" value="22.0"/>
+    <weight id="9" description="Crisps" value="40.0"/>
+    <weight id="10" description="Crisps" value="43.0"/>
+  </guide-image>
+  <guide-image id="Gcri2" description="(no description for guide image Gcri2)">
+    <weight id="1" description="Crisps" value="28.0"/>
+    <weight id="2" description="Crisps" value="34.0"/>
+    <weight id="3" description="Crisps" value="28.0"/>
+    <weight id="4" description="Crisps" value="35.0"/>
+    <weight id="5" description="Crisps" value="19.0"/>
+    <weight id="6" description="Crisps" value="34.0"/>
+    <weight id="7" description="Crisps" value="25.0"/>
+    <weight id="8" description="Crisps" value="50.0"/>
+    <weight id="9" description="Crisps" value="35.0"/>
+    <weight id="10" description="Crisps" value="32.0"/>
+  </guide-image>
+  <guide-image id="Gdekr" description="No description">
+    <weight id="1" description="Double Decker Duo" value="80.0"/>
+    <weight id="2" description="Double Decker - standard" value="60.0"/>
+    <weight id="3" description="Boost Duo" value="78.0"/>
+    <weight id="4" description="Boost - standard" value="60.5"/>
+  </guide-image>
+  <guide-image id="Gdes" description="(no description for guide image Gdes)">
+    <weight id="1" description="Dairy dessert" value="154.0"/>
+    <weight id="2" description="Dairy dessert" value="100.0"/>
+    <weight id="3" description="Dairy dessert" value="80.0"/>
+    <weight id="4" description="Dairy dessert" value="55.0"/>
+    <weight id="5" description="Dairy dessert" value="100.0"/>
+    <weight id="6" description="Dairy dessert" value="100.0"/>
+    <weight id="7" description="Dairy dessert" value="100.0"/>
+    <weight id="8" description="Dairy dessert" value="77.0"/>
+    <weight id="9" description="Dairy dessert" value="113.0"/>
+  </guide-image>
+  <guide-image id="Gdori" description="No description">
+    <weight id="1" description="Doritos - large" value="125.0"/>
+    <weight id="2" description="Doritos - grab bag" value="55.0"/>
+    <weight id="3" description="Doritos - standard" value="40.0"/>
+  </guide-image>
+  <guide-image id="Gdou" description="(no description for guide image Gdou)">
+    <weight id="1" description="Doughnut" value="46.0"/>
+    <weight id="2" description="Doughnut" value="12.0"/>
+    <weight id="3" description="Doughnut" value="84.0"/>
+    <weight id="4" description="Doughnut" value="64.0"/>
+  </guide-image>
+  <guide-image id="Gdrnk" description="(no description for guide image Gdrnk)">
+    <weight id="1" description="Drinks" value="500.0"/>
+    <weight id="2" description="Drinks" value="300.0"/>
+    <weight id="3" description="Drinks" value="200.0"/>
+    <weight id="4" description="Drinks" value="500.0"/>
+    <weight id="5" description="Drinks" value="500.0"/>
+    <weight id="6" description="Drinks" value="250.0"/>
+    <weight id="7" description="Drinks" value="200.0"/>
+    <weight id="8" description="Drinks" value="200.0"/>
+    <weight id="9" description="Drinks" value="200.0"/>
+    <weight id="10" description="Drinks" value="288.0"/>
+  </guide-image>
+  <guide-image id="Gfjta" description="(no description for guide image Gfjta)">
+    <weight id="1" description="Fajitas" value="42.0"/>
+    <weight id="2" description="Fajitas" value="50.0"/>
+    <weight id="3" description="Fajitas" value="65.0"/>
+  </guide-image>
+  <guide-image id="Gfrazz" description="(no description for guide image Gfrazz)">
+    <weight id="1" description="Frazzles" value="40.0"/>
+    <weight id="2" description="Frazzles" value="24.60000038"/>
+  </guide-image>
+  <guide-image id="Gfrk" description="(no description for guide image Gfrk)">
+    <weight id="1" description="Frankfurters 1 (smallest)" value="10.0"/>
+    <weight id="2" description="Frankfurters 2" value="24.0"/>
+    <weight id="3" description="Frankfurters 3" value="33.0"/>
+    <weight id="4" description="Frankfurters 4" value="51.0"/>
+    <weight id="5" description="Frankfurters 5 (largest)" value="51.0"/>
+  </guide-image>
+  <guide-image id="Ggalx" description="No description">
+    <weight id="1" description="Galaxy - block" value="125.0"/>
+    <weight id="2" description="Galaxy - large" value="75.0"/>
+    <weight id="3" description="Galaxy - standard" value="46.0"/>
+    <weight id="4" description="Galaxy - celebration" value="8.8"/>
+  </guide-image>
+  <guide-image id="Gham" description="(no description for guide image Gham)">
+    <weight id="1" description="Ham" value="16.0"/>
+    <weight id="2" description="Ham" value="12.0"/>
+    <weight id="3" description="Ham" value="16.0"/>
+    <weight id="4" description="Ham" value="38.0"/>
+    <weight id="5" description="Ham" value="28.0"/>
+  </guide-image>
+  <guide-image id="Ghula" description="No description">
+    <weight id="1" description="Hula Hoops - grab bag" value="55.0"/>
+    <weight id="2" description="Hula Hoops - standard" value="34.0"/>
+    <weight id="3" description="Hula Hoops - multipack" value="25.0"/>
+  </guide-image>
+  <guide-image id="Gice1" description="(no description for guide image Gice1)">
+    <weight id="1" description="Ice lollies &amp; ice cream bars" value="73.0"/>
+    <weight id="2" description="Ice lollies &amp; ice cream bars" value="58.0"/>
+    <weight id="3" description="Ice lollies &amp; ice cream bars" value="23.0"/>
+    <weight id="4" description="Ice lollies &amp; ice cream bars" value="64.0"/>
+    <weight id="5" description="Ice lollies &amp; ice cream bars" value="83.0"/>
+    <weight id="6" description="Ice lollies &amp; ice cream bars" value="58.0"/>
+    <weight id="7" description="Ice lollies &amp; ice cream bars" value="47.0"/>
+    <weight id="8" description="Ice lollies &amp; ice cream bars" value="81.0"/>
+  </guide-image>
+  <guide-image id="Gice2" description="(no description for guide image Gice2)">
+    <weight id="9" description="Ice lollies &amp; ice cream bars" value="48.0"/>
+    <weight id="10" description="Ice lollies &amp; ice cream bars" value="47.5"/>
+    <weight id="11" description="Ice lollies &amp; ice cream bars" value="57.0"/>
+    <weight id="12" description="Ice lollies &amp; ice cream bars" value="75.0"/>
+    <weight id="13" description="Ice lollies &amp; ice cream bars" value="83.0"/>
+    <weight id="14" description="Ice lollies &amp; ice cream bars" value="75.0"/>
+    <weight id="15" description="Ice lollies &amp; ice cream bars" value="86.0"/>
+    <weight id="16" description="Ice lollies &amp; ice cream bars" value="70.0"/>
+  </guide-image>
+  <guide-image id="Gkbar" description="No description">
+    <weight id="1" description="Curly Wurly" value="26.0"/>
+    <weight id="2" description="Chomp" value="23.0"/>
+    <weight id="3" description="Fudge" value="27.0"/>
+    <weight id="4" description="Fudge - small" value="10.0"/>
+    <weight id="5" description="Freddo" value="16.0"/>
+  </guide-image>
+  <guide-image id="Gkitk" description="No description">
+    <weight id="1" description="KitKat - Chunky Duo" value="70.0"/>
+    <weight id="2" description="KitKat - Chunky" value="50.0"/>
+    <weight id="3" description="KitKat - Senses" value="31.0"/>
+    <weight id="4" description="KitKat - 4 finger" value="45.0"/>
+  </guide-image>
+  <guide-image id="Gmalt" description="No description">
+    <weight id="1" description="Maltesers - share bag" value="135.0"/>
+    <weight id="2" description="Maltesers - big bag" value="58.5"/>
+    <weight id="3" description="Maltesers - standard bag" value="37.0"/>
+    <weight id="4" description="Maltesers - treatsize" value="20.5"/>
+    <weight id="5" description="Maltesers - celebration" value="8.6"/>
+  </guide-image>
+  <guide-image id="Gmars" description="No description">
+    <weight id="1" description="Mars - Duo" value="85.0"/>
+    <weight id="2" description="Mars - standard" value="59.0"/>
+    <weight id="3" description="Mars - medium size" value="37.0"/>
+    <weight id="4" description="Mars - funsize" value="18.6"/>
+    <weight id="5" description="Mars - celebration" value="10.1"/>
+  </guide-image>
+  <guide-image id="Gmbut" description="No description">
+    <weight id="1" description="Cadburys Buttons - share bag" value="175.0"/>
+    <weight id="2" description="Cadburys Buttons - big bag" value="65.0"/>
+    <weight id="3" description="Cadburys Buttons - standard bag" value="62.0"/>
+    <weight id="4" description="Cadburys Buttons - treatsize" value="15.0"/>
+  </guide-image>
+  <guide-image id="Gmco" description="No description">
+    <weight id="1" description="McCoys - standard" value="50.0"/>
+    <weight id="2" description="McCoys - multipack" value="25.0"/>
+  </guide-image>
+  <guide-image id="Gmeatcan" description="No description">
+    <weight id="1" description="Spam" value="250.0"/>
+    <weight id="2" description="Princes corned beef" value="200.0"/>
+    <weight id="3" description="Princes corned beef" value="340.0"/>
+    <weight id="4" description="Ye old Oak ham" value="340.0"/>
+    <weight id="5" description="Westlers hamburgers" value="425.0"/>
+    <weight id="6" description="PEK chopped pork" value="300.0"/>
+  </guide-image>
+  <guide-image id="Gmkyb" description="No description">
+    <weight id="1" description="Milky Bar Buttons - share bag" value="110.0"/>
+    <weight id="2" description="Milky Bar Buttons - standard bag" value="31.7"/>
+    <weight id="3" description="Milky Bar Buttons - treatsize bag" value="17.1"/>
+  </guide-image>
+  <guide-image id="Gmlk01" description="(no description for guide image Gmlk01)">
+    <weight id="5" description="Milk, Half pint glasses 1" value="300.0"/>
+    <weight id="6" description="Milk, Half pint glasses 2" value="217.0"/>
+    <weight id="7" description="Milk, Half pint glasses 3" value="134.0"/>
+    <weight id="8" description="Milk, Half pint glasses 4" value="53.0"/>
+  </guide-image>
+  <guide-image id="Gmlk02" description="(no description for guide image Gmlk02)">
+    <weight id="13" description="Milk, Small, tumbler 1" value="140.0"/>
+    <weight id="14" description="Milk, Small, tumber 2" value="107.0"/>
+    <weight id="15" description="Milk, Small, tumbler 3" value="74.0"/>
+    <weight id="16" description="Milk, Small, tumbler 4" value="40.0"/>
+  </guide-image>
+  <guide-image id="Gmlk03" description="(no description for guide image Gmlk03)">
+    <weight id="9" description="Milk, Large tumbler, 1" value="210.0"/>
+    <weight id="10" description="Milk, Large tumbler, 2" value="161.0"/>
+    <weight id="11" description="Milk, Large tumbler, 3" value="112.0"/>
+    <weight id="12" description="Milk, Large tumbler, 4" value="63.0"/>
+  </guide-image>
+  <guide-image id="Gmlk04" description="(no description for guide image Gmlk04)">
+    <weight id="1" description="Milk, Large glasses (tall) 1" value="300.0"/>
+    <weight id="2" description="Milk, Large glasses (tall) 2" value="217.0"/>
+    <weight id="3" description="Milk, Large glasses (tall) 3" value="134.0"/>
+    <weight id="4" description="Milk, Large glasses (tall) 4" value="53.0"/>
+  </guide-image>
+  <guide-image id="Gmlky" description="No description">
+    <weight id="4" description="Milky Way Magic Stars - big bag" value="33.0"/>
+    <weight id="5" description="Milky Way Magic Stars - small bag" value="14.0"/>
+    <weight id="1" description="Milky Way Duo" value="43.8"/>
+    <weight id="2" description="Milky Way - standard bar" value="21.9"/>
+    <weight id="3" description="Milky Way - treatsize bar" value="23.7"/>
+  </guide-image>
+  <guide-image id="Gmmcp" description="No description">
+    <weight id="1" description="Monster Munch - Mega" value="85.0"/>
+    <weight id="2" description="Monster Munch - standard" value="40.0"/>
+    <weight id="3" description="Monster Munch - multipack" value="22.0"/>
+  </guide-image>
+  <guide-image id="Gmnms" description="No description">
+    <weight id="1" description="M&amp;Ms - share bag" value="185.0"/>
+    <weight id="2" description="M&amp;Ms - standard bag" value="45.0"/>
+    <weight id="3" description="M&amp;Ms - treatsize bag" value="21.0"/>
+  </guide-image>
+  <guide-image id="Gmnst" description="No description">
+    <weight id="1" description="Minstrels - share bag" value="170.0"/>
+    <weight id="2" description="Minstrels - treat bag" value="105.0"/>
+    <weight id="3" description="Minstrels - standard bag" value="46.0"/>
+  </guide-image>
+  <guide-image id="Gmug" description="(no description for guide image Gmug)">
+    <weight id="1" description="Glass, Tea Cup 1" value="190.0"/>
+    <weight id="2" description="Glass, Tea Cup 2" value="250.0"/>
+    <weight id="3" description="Glass, Tea Cup 3" value="310.0"/>
+    <weight id="4" description="Tea Cup 4" value="300.0"/>
+  </guide-image>
+  <guide-image id="Gorg" description="(no description for guide image Gorg)">
+    <weight id="1" description="Orange/Tangerines/Mandarins/Clementines 1 (smallest)" value="66.0"/>
+    <weight id="2" description="Orange/Tangerines/Mandarins/Clementines 2" value="98.0"/>
+    <weight id="3" description="Orange/Tangerines/Mandarins/Clementines 3" value="132.0"/>
+    <weight id="4" description="Orange/Tangerines/Mandarins/Clementines 4" value="222.0"/>
+    <weight id="5" description="Orange/Tangerines/Mandarins/Clementines 5 (largest)" value="294.0"/>
+  </guide-image>
+  <guide-image id="Gpiesaus" description="(no description for guide image Gpiesaus)">
+    <weight id="1" description="Pies" value="148.0"/>
+    <weight id="2" description="Pies" value="186.0"/>
+    <weight id="3" description="Pies" value="84.0"/>
+    <weight id="4" description="Pies" value="147.0"/>
+    <weight id="5" description="Pies" value="33.0"/>
+    <weight id="6" description="Pies" value="7.0"/>
+    <weight id="7" description="Pies" value="103.0"/>
+    <weight id="8" description="Pies" value="75.0"/>
+    <weight id="9" description="Pies" value="167.0"/>
+    <weight id="10" description="Pies" value="155.0"/>
+  </guide-image>
+  <guide-image id="Gpik" description="(no description for guide image Gpik)">
+    <weight id="1" description="Bread Other" value="42.0"/>
+    <weight id="2" description="Bread Other" value="34.0"/>
+    <weight id="3" description="Bread Other" value="22.0"/>
+    <weight id="4" description="Bread Other" value="66.0"/>
+    <weight id="5" description="Bread Other" value="44.0"/>
+  </guide-image>
+  <guide-image id="Gpiz" description="(no description for guide image Gpiz)">
+    <weight id="1" description="Pizza" value="823.0"/>
+    <weight id="2" description="Pizza" value="290.0"/>
+    <weight id="3" description="Pizza" value="102.0"/>
+    <weight id="4" description="Pizza" value="105.0"/>
+    <weight id="5" description="Pizza" value="90.0"/>
+  </guide-image>
+  <guide-image id="Gpopbottle" description="No description">
+    <weight id="1" description="Robinsons Fruit Shoot" value="218.0"/>
+    <weight id="2" description="Robinsons Fruit Shoot" value="327.0"/>
+    <weight id="3" description="Innocent smoothie" value="280.0"/>
+    <weight id="4" description="Coca Cola" value="520.0"/>
+    <weight id="5" description="Powerade" value="515.0"/>
+    <weight id="6" description="Lucozade" value="515.0"/>
+    <weight id="7" description="Appletiser" value="357.0"/>
+    <weight id="8" description="This Water" value="420.0"/>
+  </guide-image>
+  <guide-image id="Gpopcans" description="No description">
+    <weight id="1" description="Monster Energy drink" value="515.0"/>
+    <weight id="2" description="Source Energy drink" value="258.0"/>
+    <weight id="3" description="Irn Bru" value="343.0"/>
+    <weight id="4" description="Coca Cola" value="156.0"/>
+  </guide-image>
+  <guide-image id="Gpopcarton" description="No description">
+    <weight id="1" description="Don Simon Smoothie" value="224.0"/>
+    <weight id="2" description="Innocent smoothie" value="202.0"/>
+    <weight id="3" description="Capri Sun Orange" value="363.0"/>
+    <weight id="4" description="Asda Great Stuff " value="275.0"/>
+    <weight id="5" description="Ribena" value="302.0"/>
+  </guide-image>
+  <guide-image id="Gprin" description="No description">
+    <weight id="1" description="Pringles- big tube" value="165.0"/>
+    <weight id="2" description="Pringles- small tube" value="43.0"/>
+  </guide-image>
+  <guide-image id="Gprs" description="(no description for guide image Gprs)">
+    <weight id="1" description="Pears" value="96.0"/>
+    <weight id="2" description="Pears" value="102.0"/>
+    <weight id="3" description="Pears" value="112.0"/>
+    <weight id="4" description="Pears" value="138.0"/>
+    <weight id="5" description="Pears" value="158.0"/>
+  </guide-image>
+  <guide-image id="Gquav" description="No description">
+    <weight id="1" description="Quavers - Big Eat" value="34.0"/>
+    <weight id="2" description="Quavers - standard" value="25.4"/>
+    <weight id="3" description="Quavers - multipack" value="17.4"/>
+  </guide-image>
+  <guide-image id="Groll" description="(no description for guide image Groll)">
+    <weight id="1" description="Bread rolls" value="89.0"/>
+    <weight id="2" description="Bread rolls" value="57.0"/>
+    <weight id="3" description="Bread rolls" value="32.0"/>
+    <weight id="4" description="Bread rolls" value="61.0"/>
+    <weight id="5" description="Bread rolls" value="78.0"/>
+    <weight id="6" description="Bread rolls" value="37.0"/>
+    <weight id="7" description="Bread rolls" value="58.0"/>
+    <weight id="8" description="Bread rolls" value="71.0"/>
+  </guide-image>
+  <guide-image id="Gsaus" description="(no description for guide image Gsaus)">
+    <weight id="1" description="Sausages" value="65.0"/>
+    <weight id="2" description="Sausages" value="37.0"/>
+    <weight id="3" description="Sausages" value="17.0"/>
+    <weight id="4" description="Sausages" value="6.0"/>
+    <weight id="5" description="Sausages" value="10.0"/>
+  </guide-image>
+  <guide-image id="Gshk1" description="(no description for guide image Gshk1)">
+    <weight id="1" description="Milkshake" value="500.0"/>
+    <weight id="2" description="Milkshake" value="500.0"/>
+    <weight id="3" description="Milkshake" value="500.0"/>
+    <weight id="4" description="Milkshake" value="310.0"/>
+    <weight id="5" description="Milkshake" value="500.0"/>
+    <weight id="6" description="Milkshake" value="330.0"/>
+    <weight id="7" description="Milkshake" value="200.0"/>
+    <weight id="8" description="Milkshake" value="200.0"/>
+    <weight id="9" description="Milkshake" value="310.0"/>
+  </guide-image>
+  <guide-image id="Gshk2" description="(no description for guide image Gshk2)">
+    <weight id="10" description="Milkshake" value="750.0"/>
+    <weight id="11" description="Milkshake" value="310.0"/>
+    <weight id="12" description="Milkshake" value="180.0"/>
+    <weight id="13" description="Milkshake" value="90.0"/>
+    <weight id="14" description="Milkshake" value="100.0"/>
+  </guide-image>
+  <guide-image id="Gskit" description="No description">
+    <weight id="1" description="Skittles - share bag" value="195.0"/>
+    <weight id="2" description="Skittles - standard bag" value="55.0"/>
+    <weight id="3" description="Skittles - treatsize" value="18.0"/>
+  </guide-image>
+  <guide-image id="Gskps" description="No description">
+    <weight id="1" description="Skips - grab bag" value="40.0"/>
+    <weight id="2" description="Skips - standard" value="20.6"/>
+    <weight id="3" description="Skips - multipack" value="16.3"/>
+  </guide-image>
+  <guide-image id="Gsli" description="(no description for guide image Gsli)">
+    <weight id="1" description="Bread sliced" value="20.0"/>
+    <weight id="2" description="Bread sliced" value="27.0"/>
+    <weight id="3" description="Bread sliced" value="47.0"/>
+    <weight id="4" description="Bread sliced" value="27.0"/>
+    <weight id="5" description="Bread sliced" value="37.0"/>
+    <weight id="6" description="Bread sliced" value="37.0"/>
+    <weight id="7" description="Bread sliced" value="13.0"/>
+    <weight id="8" description="Bread sliced" value="23.0"/>
+    <weight id="9" description="Bread sliced" value="66.0"/>
+  </guide-image>
+  <guide-image id="Gsnck" description="No description">
+    <weight id="1" description="Snickers - Duo" value="95.4"/>
+    <weight id="2" description="Snickers - Standard" value="58.0"/>
+    <weight id="3" description="Snickers - Medium size" value="42.0"/>
+    <weight id="4" description="Snickers - Celebration" value="10.8"/>
+  </guide-image>
+  <guide-image id="Gspn" description="(no description for guide image Gspn)">
+    <weight id="1" description="Tea spoon" value="7.8"/>
+    <weight id="2" description="Dessert spoon" value="16.9"/>
+    <weight id="3" description="Soup spoon" value="18.5"/>
+    <weight id="4" description="Table spoon" value="26.7"/>
+    <weight id="5" description="Serving spoon" value="45.0"/>
+  </guide-image>
+  <guide-image id="Gspns" description="(no description for guide image Gspns)">
+    <weight id="1" description="Tea spoon" value="7.8"/>
+    <weight id="2" description="Dessert spoon" value="16.9"/>
+    <weight id="3" description="Soup spoon" value="18.5"/>
+    <weight id="4" description="Table spoon" value="26.7"/>
+    <weight id="5" description="Serving spoon" value="45.0"/>
+  </guide-image>
+  <guide-image id="Gsqrs" description="No description">
+    <weight id="1" description="Squares - standard " value="25.0"/>
+    <weight id="2" description="Squares - multipack" value="22.5"/>
+  </guide-image>
+  <guide-image id="Gsquash1" description="(no description for guide image Gsquash1)">
+    <weight id="1" description="Glass, Tall glass" value="300.0"/>
+    <weight id="2" description="Glass, Tall glass" value="225.0"/>
+    <weight id="3" description="Glass, Tall glass" value="150.0"/>
+    <weight id="4" description="Glass, Tall glass" value="75.0"/>
+  </guide-image>
+  <guide-image id="Gsquash2" description="(no description for guide image Gsquash2)">
+    <weight id="1" description="Glass, Half pint glass" value="304.0"/>
+    <weight id="2" description="Glass, Half pint glass" value="228.0"/>
+    <weight id="3" description="Glass, Half pint glass" value="152.0"/>
+    <weight id="4" description="Glass, Half pint glass" value="76.0"/>
+  </guide-image>
+  <guide-image id="Gsquash3" description="(no description for guide image Gsquash3)">
+    <weight id="1" description="Glass, Medium tumbler" value="202.0"/>
+    <weight id="2" description="Glass, Medium tumbler" value="150.0"/>
+    <weight id="3" description="Glass, Medium tumbler" value="100.0"/>
+    <weight id="4" description="Glass, Medium tumbler" value="50.0"/>
+  </guide-image>
+  <guide-image id="Gsquash4" description="(no description for guide image Gsquash4)">
+    <weight id="1" description="Glass, Small tumbler" value="145.0"/>
+    <weight id="2" description="Glass, Small tumbler" value="109.0"/>
+    <weight id="3" description="Glass, Small tumber" value="73.0"/>
+    <weight id="4" description="Glass, Small tumbler" value="36.0"/>
+  </guide-image>
+  <guide-image id="Gswb" description="(no description for guide image Gswb)">
+    <weight id="1" description="Sandwich biscuits" value="13.0"/>
+    <weight id="2" description="Sandwich biscuits" value="16.0"/>
+    <weight id="3" description="Sandwich biscuits" value="14.0"/>
+    <weight id="4" description="Sandwich biscuits" value="7.0"/>
+    <weight id="5" description="Sandwich biscuits" value="19.0"/>
+    <weight id="6" description="Sandwich biscuits" value="15.0"/>
+    <weight id="7" description="Sandwich biscuits" value="33.0"/>
+    <weight id="8" description="Sandwich biscuits" value="11.0"/>
+    <weight id="9" description="Sandwich biscuits" value="15.0"/>
+  </guide-image>
+  <guide-image id="Gswt1" description="(no description for guide image Gswt1)">
+    <weight id="24" description="Sweets" value="27.0"/>
+    <weight id="25" description="Sweets" value="16.0"/>
+    <weight id="26" description="Sweets" value="23.0"/>
+    <weight id="27" description="Sweets" value="23.0"/>
+    <weight id="28" description="Sweets" value="19.0"/>
+    <weight id="29" description="Sweets" value="43.0"/>
+    <weight id="30" description="Sweets" value="27.0"/>
+  </guide-image>
+  <guide-image id="Gswt2" description="(no description for guide image Gswt2)">
+    <weight id="1" description="Sweets" value="11.0"/>
+    <weight id="2" description="Sweets" value="13.0"/>
+    <weight id="3" description="Sweets" value="16.0"/>
+    <weight id="4" description="Sweets" value="12.0"/>
+    <weight id="5" description="Sweets" value="13.0"/>
+    <weight id="6" description="Sweets" value="3.0"/>
+    <weight id="7" description="Sweets" value="20.0"/>
+    <weight id="8" description="Sweets" value="7.0"/>
+    <weight id="9" description="Sweets" value="7.0"/>
+    <weight id="10" description="Sweets" value="9.0"/>
+    <weight id="11" description="Sweets" value="20.0"/>
+    <weight id="12" description="Sweets" value="20.0"/>
+    <weight id="13" description="Sweets" value="4.0"/>
+    <weight id="14" description="Sweets" value="2.0"/>
+    <weight id="15" description="Sweets" value="2.0"/>
+    <weight id="16" description="Sweets" value="4.0"/>
+    <weight id="17" description="Sweets" value="6.0"/>
+    <weight id="18" description="Sweets" value="6.0"/>
+    <weight id="19" description="Sweets" value="2.0"/>
+    <weight id="20" description="Sweets" value="23.0"/>
+    <weight id="21" description="Sweets" value="4.0"/>
+    <weight id="22" description="Sweets" value="1.0"/>
+    <weight id="23" description="Sweets" value="18.0"/>
+  </guide-image>
+  <guide-image id="Gswts" description="No description">
+    <weight id="1" description="Smarties - standard tube" value="42.8"/>
+    <weight id="6" description="Smarties - small" value="15.0"/>
+    <weight id="2" description="Fruit Pastilles - standard" value="52.5"/>
+    <weight id="7" description="Fruit Pastilles - small" value="19.4"/>
+    <weight id="3" description="Wine gums" value="56.0"/>
+    <weight id="4" description="Rolo" value="55.5"/>
+    <weight id="5" description="Starburst" value="48.9"/>
+  </guide-image>
+  <guide-image id="Gtom" description="(no description for guide image Gtom)">
+    <weight id="1" description="Tomato 1 (smallest)" value="4.0"/>
+    <weight id="2" description="Tomato 2" value="12.0"/>
+    <weight id="3" description="Tomato 3" value="34.0"/>
+    <weight id="4" description="Tomato 4" value="36.0"/>
+    <weight id="5" description="Tomato 5" value="90.0"/>
+    <weight id="6" description="Tomato 6" value="116.0"/>
+    <weight id="7" description="Tomato 7" value="132.0"/>
+    <weight id="8" description="Tomato 8 (largest)" value="228.0"/>
+  </guide-image>
+  <guide-image id="Gtur" description="(no description for guide image Gtur)">
+    <weight id="1" description="Chicken/ Fish shapes" value="49.0"/>
+    <weight id="2" description="Chicken/ Fish shapes" value="51.0"/>
+    <weight id="3" description="Chicken/ Fish shapes" value="91.0"/>
+    <weight id="4" description="Chicken/ Fish shapes" value="40.0"/>
+    <weight id="5" description="Chicken/ Fish shapes" value="19.0"/>
+    <weight id="6" description="Chicken/ Fish shapes" value="15.0"/>
+    <weight id="7" description="Chicken/ Fish shapes" value="19.0"/>
+    <weight id="8" description="Chicken/ Fish shapes" value="20.0"/>
+    <weight id="9" description="Chicken/ Fish shapes" value="18.0"/>
+  </guide-image>
+  <guide-image id="Gtwfk" description="No description">
+    <weight id="1" description="Flake - standard bar" value="33.0"/>
+    <weight id="2" description="Flake - small" value="14.8"/>
+    <weight id="3" description="Twirl - standard" value="43.0"/>
+    <weight id="5" description="Twirl - single finger" value="24.0"/>
+    <weight id="4" description="Twirl - 2 fingers" value="37.0"/>
+    <weight id="6" description="Twirl - celebration" value="9.5"/>
+  </guide-image>
+  <guide-image id="Gtwix" description="No description">
+    <weight id="1" description="Twix - Extra" value="85.0"/>
+    <weight id="2" description="Twix - standard" value="58.0"/>
+    <weight id="3" description="Twix - single finger" value="20.0"/>
+  </guide-image>
+  <guide-image id="Gumrs" description="No description">
+    <weight id="1" description="Unwrapped Mars Bar - Duo" value="85.0"/>
+    <weight id="2" description="Unwrapped Mars Bar - standard" value="59.0"/>
+    <weight id="3" description="Unwrapped Mars Bar - medium" value="37.0"/>
+    <weight id="4" description="Unwrapped Mars Bar - funsize" value="18.6"/>
+    <weight id="5" description="Unwrapped Mars Bar - celebration" value="10.1"/>
+  </guide-image>
+  <guide-image id="Gwaf" description="(no description for guide image Gwaf)">
+    <weight id="1" description="Potato,Waffle" value="44.0"/>
+    <weight id="2" description="Potato, Hash brown" value="40.0"/>
+    <weight id="3" description="Potato, Smiley face" value="16.0"/>
+    <weight id="4" description="Potato, Star" value="13.0"/>
+    <weight id="5" description="Potato, Croquette" value="26.0"/>
+  </guide-image>
+  <guide-image id="Gwalk" description="No description">
+    <weight id="1" description="Walkers - grab bag" value="50.0"/>
+    <weight id="2" description="Walkers - standard" value="34.5"/>
+    <weight id="3" description="Walkers - multipack" value="25.0"/>
+  </guide-image>
+  <guide-image id="Gwatbottle" description="No description">
+    <weight id="1" description="Buxton" value="1000.0"/>
+    <weight id="2" description="Abbey Well" value="750.0"/>
+    <weight id="3" description="Highland Spring" value="500.0"/>
+    <weight id="4" description="Fruit Shoot Mega Hydro" value="350.0"/>
+    <weight id="5" description="Morrisons lemon &amp; lime water" value="300.0"/>
+  </guide-image>
+  <guide-image id="Gwcho" description="No description">
+    <weight id="1" description="Milky Bar - large" value="100.0"/>
+    <weight id="2" description="Milky Bar - standard" value="25.4"/>
+    <weight id="3" description="Milky Bar - treatsize" value="13.0"/>
+  </guide-image>
+  <guide-image id="Gwinebottle" description="No description">
+    <weight id="1" description="Pinot Grigio" value="746.0"/>
+    <weight id="2" description="Buckfast" value="746.0"/>
+    <weight id="3" description="Black Tower white wine" value="249.0"/>
+    <weight id="4" description="Black Tower rose wine" value="186.0"/>
+  </guide-image>
+  <guide-image id="Gwrp" description="(no description for guide image Gwrp)">
+    <weight id="1" description="Wraps" value="42.0"/>
+    <weight id="2" description="Wraps" value="50.0"/>
+    <weight id="3" description="Wraps" value="65.0"/>
+  </guide-image>
+  <guide-image id="Gyog" description="(no description for guide image Gyog)">
+    <weight id="1" description="Yoghurt and fromage frais" value="200.0"/>
+    <weight id="2" description="Yoghurt and fromage frais" value="200.0"/>
+    <weight id="3" description="Yoghurt and fromage frais" value="175.0"/>
+    <weight id="4" description="Yoghurt and fromage frais" value="125.0"/>
+    <weight id="5" description="Yoghurt and fromage frais" value="120.0"/>
+    <weight id="6" description="Yoghurt and fromage frais" value="120.0"/>
+    <weight id="7" description="Yoghurt and fromage frais" value="85.0"/>
+    <weight id="8" description="Yoghurt and fromage frais" value="50.0"/>
+    <weight id="9" description="Yoghurt and fromage frais" value="50.0"/>
+    <weight id="10" description="Yoghurt and fromage frais" value="55.0"/>
+    <weight id="11" description="Yoghurt and fromage frais" value="50.0"/>
+    <weight id="12" description="Yoghurt and fromage frais" value="97.0"/>
+    <weight id="21" description="Frubes" value="80.0"/>
+    <weight id="22" description="Frubes" value="60.0"/>
+    <weight id="23" description="Frubes" value="80.0"/>
+    <weight id="24" description="Frubes" value="40.0"/>
+    <weight id="25" description="Frubes" value="40.0"/>
+  </guide-image>
+  <guide-image id="Gyog2" description="(no description for guide image Gyog2)">
+    <weight id="1" description="Frubes" value="80.0"/>
+    <weight id="2" description="Frubes" value="60.0"/>
+    <weight id="3" description="Frubes" value="80.0"/>
+    <weight id="4" description="Frubes" value="40.0"/>
+    <weight id="5" description="Frubes" value="40.0"/>
+  </guide-image>
+  <guide-image id="Gyor" description="(no description for guide image Gyor)">
+    <weight id="1" description="Yorkshire pudding, 1 (smallest)" value="10.0"/>
+    <weight id="2" description="Yorkshire pudding, 2" value="18.0"/>
+    <weight id="3" description="Yorkshire pudding, 3" value="19.0"/>
+    <weight id="4" description="Yorkshire pudding, 4 (largest)" value="92.0"/>
+  </guide-image>
+  <guide-image id="gpie" description="No description">
+    <weight id="1" description="Medium pork pie" value="132.0"/>
+    <weight id="2" description="Large pork pie" value="337.0"/>
+    <weight id="3" description="Rectangular pasty" value="157.0"/>
+    <weight id="4" description="Scotch pie" value="144.0"/>
+    <weight id="5" description="Circular pie in foil" value="247.0"/>
+    <weight id="6" description="Macaroni pie" value="156.0"/>
+    <weight id="7" description="Medium sausage roll" value="70.0"/>
+    <weight id="8" description="Large sausage roll" value="100.0"/>
+    <weight id="9" description="Mini sausage roll" value="11.0"/>
+    <weight id="10" description="Small sausage roll" value="50.0"/>
+    <weight id="11" description="Rectangular pie in foil" value="229.0"/>
+    <weight id="12" description="Semi circle pasty" value="167.0"/>
+  </guide-image>
+</guide-images>
