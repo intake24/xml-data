@@ -20,9 +20,6 @@
     <portion-size method="guide-image" description="No description" imageUrl="portion/placeholder.jpg">
       <param name="guide-image-id" value="Gaero"/>
     </portion-size>
-    <portion-size method="guide-image" description="No description" imageUrl="portion/placeholder.jpg">
-      <param name="guide-image-id" value="Gaero"/>
-    </portion-size>
     <portion-size method="standard-portion" description="No description" imageUrl="portion/placeholder.jpg">
       <param name="units-count" value="3"/>
       <param name="unit0-name" value="multipack bars"/>
@@ -762,9 +759,6 @@
     <portion-size method="guide-image" description="No description" imageUrl="portion/placeholder.jpg">
       <param name="guide-image-id" value="Gbonti"/>
     </portion-size>
-    <portion-size method="guide-image" description="No description" imageUrl="portion/placeholder.jpg">
-      <param name="guide-image-id" value="Gbonti"/>
-    </portion-size>
     <portion-size method="standard-portion" description="No description" imageUrl="portion/placeholder.jpg">
       <param name="units-count" value="1"/>
       <param name="unit0-name" value="bars"/>
@@ -808,9 +802,6 @@
     </portion-size>
   </food>
   <food code="BOST" description="Boost bar" ndnsCode="2252">
-    <portion-size method="guide-image" description="No description" imageUrl="portion/placeholder.jpg">
-      <param name="guide-image-id" value="Gdekr"/>
-    </portion-size>
     <portion-size method="guide-image" description="No description" imageUrl="portion/placeholder.jpg">
       <param name="guide-image-id" value="Gdekr"/>
     </portion-size>
@@ -1831,9 +1822,6 @@
     <portion-size method="guide-image" description="No description" imageUrl="portion/placeholder.jpg">
       <param name="guide-image-id" value="Ggalx"/>
     </portion-size>
-    <portion-size method="guide-image" description="No description" imageUrl="portion/placeholder.jpg">
-      <param name="guide-image-id" value="Gcdmb"/>
-    </portion-size>
     <portion-size method="standard-portion" description="No description" imageUrl="portion/placeholder.jpg">
       <param name="units-count" value="11"/>
       <param name="unit0-name" value="single squares"/>
@@ -1872,9 +1860,6 @@
     </portion-size>
   </food>
   <food code="CDMS" description="Milk chocolate, in squares" ndnsCode="2254">
-    <portion-size method="guide-image" description="No description" imageUrl="portion/placeholder.jpg">
-      <param name="guide-image-id" value="Gcdmc"/>
-    </portion-size>
     <portion-size method="guide-image" description="No description" imageUrl="portion/placeholder.jpg">
       <param name="guide-image-id" value="Gcdmc"/>
     </portion-size>
@@ -2305,9 +2290,6 @@
     </portion-size>
   </food>
   <food code="CHOM" description="Chomp chocolate bar" ndnsCode="2256">
-    <portion-size method="guide-image" description="No description" imageUrl="portion/placeholder.jpg">
-      <param name="guide-image-id" value="Gkbar"/>
-    </portion-size>
     <portion-size method="guide-image" description="No description" imageUrl="portion/placeholder.jpg">
       <param name="guide-image-id" value="Gkbar"/>
     </portion-size>
@@ -2806,9 +2788,6 @@
     <portion-size method="guide-image" description="No description" imageUrl="portion/placeholder.jpg">
       <param name="guide-image-id" value="Gcbar"/>
     </portion-size>
-    <portion-size method="guide-image" description="No description" imageUrl="portion/placeholder.jpg">
-      <param name="guide-image-id" value="Gcbar"/>
-    </portion-size>
     <portion-size method="standard-portion" description="No description" imageUrl="portion/placeholder.jpg">
       <param name="units-count" value="2"/>
       <param name="unit0-name" value="snack size bars"/>
@@ -2840,9 +2819,6 @@
     </portion-size>
   </food>
   <food code="CNPT" description="Cornish pasty" ndnsCode="1299">
-    <portion-size method="guide-image" description="No description" imageUrl="portion/placeholder.jpg">
-      <param name="guide-image-id" value="Gpiesaus"/>
-    </portion-size>
     <portion-size method="guide-image" description="No description" imageUrl="portion/placeholder.jpg">
       <param name="guide-image-id" value="gpie"/>
     </portion-size>
@@ -2894,9 +2870,6 @@
     </portion-size>
     <portion-size method="guide-image" description="No description" imageUrl="portion/placeholder.jpg">
       <param name="guide-image-id" value="Gcdmc"/>
-    </portion-size>
-    <portion-size method="guide-image" description="No description" imageUrl="portion/placeholder.jpg">
-      <param name="guide-image-id" value="Gcdmb"/>
     </portion-size>
     <portion-size method="standard-portion" description="No description" imageUrl="portion/placeholder.jpg">
       <param name="units-count" value="1"/>
@@ -3072,9 +3045,6 @@
   </food>
   <food code="CPFI" description="Chicken pie, individual" ndnsCode="1120">
     <portion-size method="guide-image" description="No description" imageUrl="portion/placeholder.jpg">
-      <param name="guide-image-id" value="Gpiesaus"/>
-    </portion-size>
-    <portion-size method="guide-image" description="No description" imageUrl="portion/placeholder.jpg">
       <param name="guide-image-id" value="gpie"/>
     </portion-size>
     <portion-size method="standard-portion" description="No description" imageUrl="portion/placeholder.jpg">
@@ -3105,9 +3075,6 @@
     </portion-size>
   </food>
   <food code="CPLN" description="Plain chocolate / Dark chocolate" ndnsCode="2255">
-    <portion-size method="guide-image" description="No description" imageUrl="portion/placeholder.jpg">
-      <param name="guide-image-id" value="Gcdmc"/>
-    </portion-size>
     <portion-size method="guide-image" description="No description" imageUrl="portion/placeholder.jpg">
       <param name="guide-image-id" value="Gcdmc"/>
     </portion-size>
@@ -3871,14 +3838,8 @@
     <portion-size method="guide-image" description="No description" imageUrl="portion/placeholder.jpg">
       <param name="guide-image-id" value="Gwcho"/>
     </portion-size>
-    <portion-size method="guide-image" description="No description" imageUrl="portion/placeholder.jpg">
-      <param name="guide-image-id" value="Gwcho"/>
-    </portion-size>
   </food>
   <food code="CWHS" description="White Chocolate, in squares" ndnsCode="7960">
-    <portion-size method="guide-image" description="No description" imageUrl="portion/placeholder.jpg">
-      <param name="guide-image-id" value="Gcdmc"/>
-    </portion-size>
     <portion-size method="guide-image" description="No description" imageUrl="portion/placeholder.jpg">
       <param name="guide-image-id" value="Gcdmc"/>
     </portion-size>
@@ -3898,9 +3859,6 @@
     </portion-size>
   </food>
   <food code="CWRL" description="Curly Wurly bar" ndnsCode="2256">
-    <portion-size method="guide-image" description="No description" imageUrl="portion/placeholder.jpg">
-      <param name="guide-image-id" value="Gkbar"/>
-    </portion-size>
     <portion-size method="guide-image" description="No description" imageUrl="portion/placeholder.jpg">
       <param name="guide-image-id" value="Gkbar"/>
     </portion-size>
@@ -3943,9 +3901,9 @@
   <food code="DANI" description="Danish pastries" ndnsCode="318">
     <portion-size method="standard-portion" description="No description" imageUrl="portion/placeholder.jpg">
       <param name="units-count" value="1"/>
-      <param name="unit0-name" value="pastrys"/>
+      <param name="unit0-name" value="pastries"/>
       <param name="unit0-weight" value="145.0"/>
-      <param name="unit0-omit-food-description" value="false"/>
+      <param name="unit0-omit-food-description" value="true"/>
     </portion-size>
   </food>
   <food code="DBCR" description="Double cream" ndnsCode="634">
@@ -4058,9 +4016,6 @@
   <food code="DCSS" description="Hot chocolate made with semi skimmed milk" ndnsCode="10724"> </food>
   <food code="DCWM" description="Hot chocolate made with whole milk" ndnsCode="8063"> </food>
   <food code="DEKR" description="Double Decker" ndnsCode="7978">
-    <portion-size method="guide-image" description="No description" imageUrl="portion/placeholder.jpg">
-      <param name="guide-image-id" value="Gdekr"/>
-    </portion-size>
     <portion-size method="guide-image" description="No description" imageUrl="portion/placeholder.jpg">
       <param name="guide-image-id" value="Gdekr"/>
     </portion-size>
@@ -4272,9 +4227,6 @@
     </portion-size>
   </food>
   <food code="DRFT" description="Drifter bar" ndnsCode="2276">
-    <portion-size method="guide-image" description="No description" imageUrl="portion/placeholder.jpg">
-      <param name="guide-image-id" value="Gcbar"/>
-    </portion-size>
     <portion-size method="guide-image" description="No description" imageUrl="portion/placeholder.jpg">
       <param name="guide-image-id" value="Gcbar"/>
     </portion-size>
@@ -4940,9 +4892,6 @@
     <portion-size method="guide-image" description="No description" imageUrl="portion/placeholder.jpg">
       <param name="guide-image-id" value="Gswts"/>
     </portion-size>
-    <portion-size method="guide-image" description="No description" imageUrl="portion/placeholder.jpg">
-      <param name="guide-image-id" value="Gswts"/>
-    </portion-size>
     <portion-size method="standard-portion" description="No description" imageUrl="portion/placeholder.jpg">
       <param name="units-count" value="4"/>
       <param name="unit0-name" value="gums"/>
@@ -5019,9 +4968,6 @@
     </portion-size>
   </food>
   <food code="FLAK" description="Flake chocolate bar" ndnsCode="2254">
-    <portion-size method="guide-image" description="No description" imageUrl="portion/placeholder.jpg">
-      <param name="guide-image-id" value="Gtwfk"/>
-    </portion-size>
     <portion-size method="guide-image" description="No description" imageUrl="portion/placeholder.jpg">
       <param name="guide-image-id" value="Gtwfk"/>
     </portion-size>
@@ -5160,9 +5106,6 @@
     <portion-size method="guide-image" description="No description" imageUrl="portion/placeholder.jpg">
       <param name="guide-image-id" value="Gswts"/>
     </portion-size>
-    <portion-size method="guide-image" description="No description" imageUrl="portion/placeholder.jpg">
-      <param name="guide-image-id" value="Gswts"/>
-    </portion-size>
     <portion-size method="standard-portion" description="No description" imageUrl="portion/placeholder.jpg">
       <param name="units-count" value="4"/>
       <param name="unit0-name" value="sweets"/>
@@ -5243,9 +5186,6 @@
     </portion-size>
   </food>
   <food code="FRDO" description="Freddo" ndnsCode="2254">
-    <portion-size method="guide-image" description="No description" imageUrl="portion/placeholder.jpg">
-      <param name="guide-image-id" value="Gkbar"/>
-    </portion-size>
     <portion-size method="guide-image" description="No description" imageUrl="portion/placeholder.jpg">
       <param name="guide-image-id" value="Gkbar"/>
     </portion-size>
@@ -5649,9 +5589,6 @@
     <portion-size method="guide-image" description="No description" imageUrl="portion/placeholder.jpg">
       <param name="guide-image-id" value="Gkbar"/>
     </portion-size>
-    <portion-size method="guide-image" description="No description" imageUrl="portion/placeholder.jpg">
-      <param name="guide-image-id" value="Gkbar"/>
-    </portion-size>
     <portion-size method="standard-portion" description="No description" imageUrl="portion/placeholder.jpg">
       <param name="units-count" value="1"/>
       <param name="unit0-name" value="bars"/>
@@ -5670,9 +5607,6 @@
     </portion-size>
   </food>
   <food code="GALX" description="Galaxy chocolate bar" ndnsCode="2254">
-    <portion-size method="guide-image" description="No description" imageUrl="portion/placeholder.jpg">
-      <param name="guide-image-id" value="Ggalx"/>
-    </portion-size>
     <portion-size method="guide-image" description="No description" imageUrl="portion/placeholder.jpg">
       <param name="guide-image-id" value="Ggalx"/>
     </portion-size>
@@ -6651,9 +6585,6 @@
   </food>
   <food code="ISTP" description="Individual steak pie" ndnsCode="1378">
     <portion-size method="guide-image" description="No description" imageUrl="portion/placeholder.jpg">
-      <param name="guide-image-id" value="Gpiesaus"/>
-    </portion-size>
-    <portion-size method="guide-image" description="No description" imageUrl="portion/placeholder.jpg">
       <param name="guide-image-id" value="gpie"/>
     </portion-size>
     <portion-size method="standard-portion" description="No description" imageUrl="portion/placeholder.jpg">
@@ -6837,9 +6768,6 @@
     </portion-size>
   </food>
   <food code="KBNO" description="Kinder Bueno" ndnsCode="8021">
-    <portion-size method="guide-image" description="No description" imageUrl="portion/placeholder.jpg">
-      <param name="guide-image-id" value="Gcbar"/>
-    </portion-size>
     <portion-size method="guide-image" description="No description" imageUrl="portion/placeholder.jpg">
       <param name="guide-image-id" value="Gcbar"/>
     </portion-size>
@@ -7212,9 +7140,6 @@
     <portion-size method="guide-image" description="No description" imageUrl="portion/placeholder.jpg">
       <param name="guide-image-id" value="Gcbar"/>
     </portion-size>
-    <portion-size method="guide-image" description="No description" imageUrl="portion/placeholder.jpg">
-      <param name="guide-image-id" value="Gcbar"/>
-    </portion-size>
     <portion-size method="standard-portion" description="No description" imageUrl="portion/placeholder.jpg">
       <param name="units-count" value="1"/>
       <param name="unit0-name" value="bars"/>
@@ -7514,9 +7439,6 @@
     <portion-size method="guide-image" description="No description" imageUrl="portion/placeholder.jpg">
       <param name="guide-image-id" value="Gumrs"/>
     </portion-size>
-    <portion-size method="guide-image" description="No description" imageUrl="portion/placeholder.jpg">
-      <param name="guide-image-id" value="Gmars"/>
-    </portion-size>
     <portion-size method="standard-portion" description="No description" imageUrl="portion/placeholder.jpg">
       <param name="units-count" value="4"/>
       <param name="unit0-name" value="funsize bars"/>
@@ -7561,9 +7483,6 @@
   </food>
   <food code="MBFP" description="Minced beef pie" ndnsCode="1301">
     <portion-size method="guide-image" description="No description" imageUrl="portion/placeholder.jpg">
-      <param name="guide-image-id" value="Gpiesaus"/>
-    </portion-size>
-    <portion-size method="guide-image" description="No description" imageUrl="portion/placeholder.jpg">
       <param name="guide-image-id" value="gpie"/>
     </portion-size>
     <portion-size method="standard-portion" description="No description" imageUrl="portion/placeholder.jpg">
@@ -7601,9 +7520,6 @@
     </portion-size>
   </food>
   <food code="MBTN" description="Milk chocolate Buttons" ndnsCode="2254">
-    <portion-size method="guide-image" description="No description" imageUrl="portion/placeholder.jpg">
-      <param name="guide-image-id" value="Gmbut"/>
-    </portion-size>
     <portion-size method="guide-image" description="No description" imageUrl="portion/placeholder.jpg">
       <param name="guide-image-id" value="Gmbut"/>
     </portion-size>
@@ -7692,9 +7608,6 @@
     </portion-size>
   </food>
   <food code="MCSP" description="Monster Munch" ndnsCode="10563">
-    <portion-size method="guide-image" description="No description" imageUrl="portion/placeholder.jpg">
-      <param name="guide-image-id" value="Gmmcp"/>
-    </portion-size>
     <portion-size method="guide-image" description="No description" imageUrl="portion/placeholder.jpg">
       <param name="guide-image-id" value="Gmmcp"/>
     </portion-size>
@@ -7891,9 +7804,6 @@
     <portion-size method="guide-image" description="No description" imageUrl="portion/placeholder.jpg">
       <param name="guide-image-id" value="Gmalt"/>
     </portion-size>
-    <portion-size method="guide-image" description="No description" imageUrl="portion/placeholder.jpg">
-      <param name="guide-image-id" value="Gmalt"/>
-    </portion-size>
     <portion-size method="standard-portion" description="No description" imageUrl="portion/placeholder.jpg">
       <param name="units-count" value="5"/>
       <param name="unit0-name" value="funsize bags"/>
@@ -7967,14 +7877,8 @@
     <portion-size method="guide-image" description="No description" imageUrl="portion/placeholder.jpg">
       <param name="guide-image-id" value="Gmnms"/>
     </portion-size>
-    <portion-size method="guide-image" description="No description" imageUrl="portion/placeholder.jpg">
-      <param name="guide-image-id" value="Gmnms"/>
-    </portion-size>
   </food>
   <food code="MNST" description="Minstrels" ndnsCode="7961">
-    <portion-size method="guide-image" description="No description" imageUrl="portion/placeholder.jpg">
-      <param name="guide-image-id" value="Gmnst"/>
-    </portion-size>
     <portion-size method="guide-image" description="No description" imageUrl="portion/placeholder.jpg">
       <param name="guide-image-id" value="Gmnst"/>
     </portion-size>
@@ -8061,9 +7965,6 @@
     </portion-size>
   </food>
   <food code="MPKP" description="Mini pork pie" ndnsCode="1304">
-    <portion-size method="guide-image" description="No description" imageUrl="portion/placeholder.jpg">
-      <param name="guide-image-id" value="Gpiesaus"/>
-    </portion-size>
     <portion-size method="guide-image" description="No description" imageUrl="portion/placeholder.jpg">
       <param name="guide-image-id" value="gpie"/>
     </portion-size>
@@ -8306,9 +8207,6 @@
     </portion-size>
   </food>
   <food code="MWAY" description="Milky way" ndnsCode="7959">
-    <portion-size method="guide-image" description="No description" imageUrl="portion/placeholder.jpg">
-      <param name="guide-image-id" value="Gmlky"/>
-    </portion-size>
     <portion-size method="guide-image" description="No description" imageUrl="portion/placeholder.jpg">
       <param name="guide-image-id" value="Gmlky"/>
     </portion-size>
@@ -9935,9 +9833,6 @@
     <portion-size method="guide-image" description="No description" imageUrl="portion/placeholder.jpg">
       <param name="guide-image-id" value="Ghula"/>
     </portion-size>
-    <portion-size method="guide-image" description="No description" imageUrl="portion/placeholder.jpg">
-      <param name="guide-image-id" value="Ghula"/>
-    </portion-size>
     <portion-size method="standard-portion" description="No description" imageUrl="portion/placeholder.jpg">
       <param name="units-count" value="3"/>
       <param name="unit0-name" value="multipack bags"/>
@@ -10815,9 +10710,6 @@
     <portion-size method="guide-image" description="No description" imageUrl="portion/placeholder.jpg">
       <param name="guide-image-id" value="Gswts"/>
     </portion-size>
-    <portion-size method="guide-image" description="No description" imageUrl="portion/placeholder.jpg">
-      <param name="guide-image-id" value="Gswts"/>
-    </portion-size>
     <portion-size method="standard-portion" description="No description" imageUrl="portion/placeholder.jpg">
       <param name="units-count" value="2"/>
       <param name="unit0-name" value="packets"/>
@@ -11562,9 +11454,6 @@
       <param name="guide-image-id" value="Gskps"/>
     </portion-size>
     <portion-size method="guide-image" description="No description" imageUrl="portion/placeholder.jpg">
-      <param name="guide-image-id" value="Gskps"/>
-    </portion-size>
-    <portion-size method="guide-image" description="No description" imageUrl="portion/placeholder.jpg">
       <param name="guide-image-id" value="Gquav"/>
     </portion-size>
     <portion-size method="standard-portion" description="No description" imageUrl="portion/placeholder.jpg">
@@ -11586,9 +11475,6 @@
     </portion-size>
   </food>
   <food code="SKIT" description="Coated chew sweets e.g skittles / tooty frooties" ndnsCode="7965">
-    <portion-size method="guide-image" description="No description" imageUrl="portion/placeholder.jpg">
-      <param name="guide-image-id" value="Gskit"/>
-    </portion-size>
     <portion-size method="guide-image" description="No description" imageUrl="portion/placeholder.jpg">
       <param name="guide-image-id" value="Gskit"/>
     </portion-size>
@@ -11994,9 +11880,6 @@
     <portion-size method="guide-image" description="No description" imageUrl="portion/placeholder.jpg">
       <param name="guide-image-id" value="Gsnck"/>
     </portion-size>
-    <portion-size method="guide-image" description="No description" imageUrl="portion/placeholder.jpg">
-      <param name="guide-image-id" value="Gsnck"/>
-    </portion-size>
   </food>
   <food code="SNPB" description="Sugar-snap peas, boiled" ndnsCode="2650">
     <portion-size method="as-served" description="No description" imageUrl="portion/placeholder.jpg">
@@ -12204,9 +12087,6 @@
     </portion-size>
   </food>
   <food code="SPKP" description="Pork pie, slice from large pie" ndnsCode="1305">
-    <portion-size method="guide-image" description="No description" imageUrl="portion/placeholder.jpg">
-      <param name="guide-image-id" value="Gpiesaus"/>
-    </portion-size>
     <portion-size method="guide-image" description="No description" imageUrl="portion/placeholder.jpg">
       <param name="guide-image-id" value="gpie"/>
     </portion-size>
@@ -12595,9 +12475,6 @@
     <portion-size method="guide-image" description="No description" imageUrl="portion/placeholder.jpg">
       <param name="guide-image-id" value="Gswts"/>
     </portion-size>
-    <portion-size method="guide-image" description="No description" imageUrl="portion/placeholder.jpg">
-      <param name="guide-image-id" value="Gswts"/>
-    </portion-size>
     <portion-size method="standard-portion" description="No description" imageUrl="portion/placeholder.jpg">
       <param name="units-count" value="5"/>
       <param name="unit0-name" value="sweets"/>
@@ -12679,9 +12556,6 @@
     </portion-size>
   </food>
   <food code="STKK" description="Steak and kidney pie" ndnsCode="1312">
-    <portion-size method="guide-image" description="No description" imageUrl="portion/placeholder.jpg">
-      <param name="guide-image-id" value="Gpiesaus"/>
-    </portion-size>
     <portion-size method="guide-image" description="No description" imageUrl="portion/placeholder.jpg">
       <param name="guide-image-id" value="gpie"/>
     </portion-size>
@@ -13075,9 +12949,6 @@
     </portion-size>
   </food>
   <food code="TFFE" description="Toffee Crisp bar" ndnsCode="10564">
-    <portion-size method="guide-image" description="No description" imageUrl="portion/placeholder.jpg">
-      <param name="guide-image-id" value="Gcbar"/>
-    </portion-size>
     <portion-size method="guide-image" description="No description" imageUrl="portion/placeholder.jpg">
       <param name="guide-image-id" value="Gcbar"/>
     </portion-size>
@@ -13551,9 +13422,6 @@
     <portion-size method="guide-image" description="No description" imageUrl="portion/placeholder.jpg">
       <param name="guide-image-id" value="Gtwix"/>
     </portion-size>
-    <portion-size method="guide-image" description="No description" imageUrl="portion/placeholder.jpg">
-      <param name="guide-image-id" value="Gtwix"/>
-    </portion-size>
     <portion-size method="standard-portion" description="No description" imageUrl="portion/placeholder.jpg">
       <param name="units-count" value="4"/>
       <param name="unit0-name" value="funsize bars"/>
@@ -13571,9 +13439,6 @@
     </portion-size>
   </food>
   <food code="TWRL" description="Twirl chocolate bar" ndnsCode="2254">
-    <portion-size method="guide-image" description="No description" imageUrl="portion/placeholder.jpg">
-      <param name="guide-image-id" value="Gtwfk"/>
-    </portion-size>
     <portion-size method="guide-image" description="No description" imageUrl="portion/placeholder.jpg">
       <param name="guide-image-id" value="Gtwfk"/>
     </portion-size>
@@ -13959,9 +13824,6 @@
     <portion-size method="guide-image" description="No description" imageUrl="portion/placeholder.jpg">
       <param name="guide-image-id" value="Gmkyb"/>
     </portion-size>
-    <portion-size method="guide-image" description="No description" imageUrl="portion/placeholder.jpg">
-      <param name="guide-image-id" value="Gmkyb"/>
-    </portion-size>
     <portion-size method="standard-portion" description="No description" imageUrl="portion/placeholder.jpg">
       <param name="units-count" value="4"/>
       <param name="unit0-name" value="treatsize bags"/>
@@ -14260,9 +14122,6 @@
     </portion-size>
   </food>
   <food code="WMKY" description="White chocolate e.g Milky Bar or Dream" ndnsCode="7960">
-    <portion-size method="guide-image" description="No description" imageUrl="portion/placeholder.jpg">
-      <param name="guide-image-id" value="Gwcho"/>
-    </portion-size>
     <portion-size method="guide-image" description="No description" imageUrl="portion/placeholder.jpg">
       <param name="guide-image-id" value="Gwcho"/>
     </portion-size>
