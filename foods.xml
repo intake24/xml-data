@@ -11647,6 +11647,14 @@
       <param name="unit0-omit-food-description" value="true"/>
     </portion-size>
   </food>
+  <food code="SAND" description="Sandwich (list ingredients individually)" ndnsCode="-1">
+    <portion-size method="standard-portion" description="No description" imageUrl="portion/placeholder.jpg">
+      <param name="units-count" value="1"/>
+      <param name="unit0-name" value="dummy"/>
+      <param name="unit0-weight" value="1.0"/>
+      <param name="unit0-omit-food-description" value="false"/>
+    </portion-size>
+  </food>
   <food code="SATY" description="Chicken satay" ndnsCode="5494">
     <portion-size method="guide-image" description="No description" imageUrl="portion/placeholder.jpg">
       <param name="guide-image-id" value="Gtur"/>
