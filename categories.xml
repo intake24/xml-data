@@ -343,6 +343,7 @@
     <food code="FCFO"/>
     <food code="MWCH"/>
     <food code="FCOB"/>
+    <food code="HOOC"/>
     <subcategory code="TCHI"/>
   </category>
   <category code="CHOI" description="Choc ices">
@@ -509,6 +510,7 @@
     <food code="WCRA"/>
     <food code="WCRF"/>
     <food code="HFFR"/>
+    <food code="SRCR"/>
   </category>
   <category code="CRMC" description="Cream cheese">
     <food code="FFCC"/>
@@ -601,6 +603,7 @@
     <food code="DATR"/>
   </category>
   <category code="DRNK" description="Drinks">
+    <food code="VEGJ"/>
     <subcategory code="ALCL"/>
     <subcategory code="CFFS"/>
     <subcategory code="ENDK"/>
@@ -613,6 +616,7 @@
     <subcategory code="WTRS"/>
   </category>
   <category code="EGGD" description="Egg &amp; egg dishes">
+    <food code="MFSE"/>
     <food code="SCTH"/>
     <subcategory code="EGGS"/>
     <subcategory code="OMLT"/>
@@ -631,6 +635,7 @@
   </category>
   <category code="FISH" description="Fish &amp; fish products">
     <food code="PBFO"/>
+    <food code="COKL"/>
     <subcategory code="CODB"/>
     <subcategory code="CRAB"/>
     <subcategory code="FDSH"/>
@@ -735,6 +740,10 @@
     <food code="MNGO"/>
     <food code="PINE"/>
     <food code="BANA"/>
+    <food code="SHAR"/>
+    <food code="PAFR"/>
+    <food code="KUMQ"/>
+    <food code="LYCE"/>
     <subcategory code="APLS"/>
     <subcategory code="BERR"/>
     <subcategory code="GRPS"/>
@@ -793,6 +802,7 @@
     <food code="DGHB"/>
     <food code="GPIZ"/>
     <food code="GRLC"/>
+    <food code="HOGB"/>
   </category>
   <category code="GATX" description="Gateau">
     <food code="FTGT"/>
@@ -920,6 +930,7 @@
     <food code="FSSI"/>
     <food code="MRWH"/>
     <food code="VSSI"/>
+    <food code="HOIC"/>
   </category>
   <category code="ICEL" description="Ice cream &amp; ice lollies">
     <food code="ARCT"/>
@@ -1060,10 +1071,18 @@
     <food code="MPKP"/>
     <food code="BPIE"/>
     <food code="BRID"/>
+    <food code="CHMU"/>
+    <food code="VMPA"/>
+    <food code="MFSR"/>
   </category>
   <category code="MTST" description="Meat substitute e.g. quorn">
     <food code="CHLQ"/>
     <food code="VEHG"/>
+    <food code="QUOM"/>
+    <food code="VEGB"/>
+    <food code="VMSS"/>
+    <food code="VMPA"/>
+    <food code="MFSR"/>
   </category>
   <category code="MLNS" description="Melons">
     <food code="CANT"/>
@@ -1356,7 +1375,9 @@
   </category>
   <category code="QCHE" description="Quiche">
     <food code="QLMT"/>
+    <food code="SAAQ"/>
     <food code="QUCO"/>
+    <food code="VGQU"/>
   </category>
   <category code="RLSH" description="Relish">
     <food code="GRLS"/>
@@ -1439,6 +1460,13 @@
     <food code="SDBJ"/>
     <food code="WFRB"/>
   </category>
+  <category code="SNDF" description="Sandwich fillers">
+    <food code="CSSF"/>
+    <food code="CTSF"/>
+    <food code="CCSF"/>
+    <food code="EMSF"/>
+    <food code="PCSF"/>
+  </category>
   <category code="SWMT" description="Sandwich meat/sliced meat/canned meat">
     <food code="CNBC"/>
     <food code="CNBN"/>
@@ -1493,6 +1521,7 @@
     <food code="HAGB"/>
     <food code="SKIR"/>
     <food code="WTPD"/>
+    <food code="CHOR"/>
   </category>
   <category code="SYBT" description="Savoury biscuits">
     <food code="RCCK"/>
@@ -1507,8 +1536,8 @@
     <food code="VGMT"/>
     <food code="PSEP"/>
     <food code="POTH"/>
-    <food code="CSSF"/>
     <subcategory code="PTES"/>
+    <subcategory code="SNDF"/>
   </category>
   <category code="SCNS" description="Scones">
     <food code="BNSC"/>
@@ -1566,6 +1595,7 @@
     <food code="FSBS"/>
     <food code="FSPM"/>
     <food code="FSLD"/>
+    <food code="FSCS"/>
   </category>
   <category code="SPNC" description="Spinach">
     <food code="SPNB"/>
@@ -1746,7 +1776,6 @@
     <food code="LNRT"/>
     <food code="NRST"/>
     <food code="ONBJ"/>
-    <food code="SAMS"/>
     <food code="SAUS"/>
     <food code="STAU"/>
     <food code="VGBJ"/>
@@ -1758,6 +1787,9 @@
     <food code="VMUS"/>
     <food code="BEBU"/>
     <food code="VBGF"/>
+    <food code="BOMP"/>
+    <food code="SAMS"/>
+    <food code="VSPR"/>
   </category>
   <category code="VTGB" description="Vegetables">
     <food code="ASPR"/>
@@ -1767,6 +1799,9 @@
     <food code="MSRF"/>
     <food code="BNSQ"/>
     <food code="CCMB"/>
+    <food code="CELC"/>
+    <food code="CHIC"/>
+    <food code="RADS"/>
     <subcategory code="BBNS"/>
     <subcategory code="BEET"/>
     <subcategory code="BRCL"/>

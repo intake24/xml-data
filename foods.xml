@@ -819,6 +819,12 @@
       <param name="unit4-omit-food-description" value="false"/>
     </portion-size>
   </food>
+  <food code="BOMP" description="Bombay potatoes" ndnsCode="5376">
+    <portion-size method="as-served" description="No description" imageUrl="portion/placeholder.jpg">
+      <param name="serving-image-set" value="potatoes_boiled"/>
+      <param name="leftovers-image-set" value="potatoes_boiled_leftovers"/>
+    </portion-size>
+  </food>
   <food code="BOST" description="Boost bar" ndnsCode="2252">
     <portion-size method="guide-image" description="No description" imageUrl="portion/placeholder.jpg">
       <param name="guide-image-id" value="Gdekr"/>
@@ -1748,6 +1754,20 @@
       <param name="unit0-omit-food-description" value="true"/>
     </portion-size>
   </food>
+  <food code="CCSF" description="Coronation chicken sandwich filler" ndnsCode="5883">
+    <portion-size method="standard-portion" description="No description" imageUrl="portion/placeholder.jpg">
+      <param name="units-count" value="3"/>
+      <param name="unit0-name" value="tablespoons"/>
+      <param name="unit0-weight" value="20.0"/>
+      <param name="unit0-omit-food-description" value="false"/>
+      <param name="unit1-name" value="small tubs"/>
+      <param name="unit1-weight" value="210.0"/>
+      <param name="unit1-omit-food-description" value="false"/>
+      <param name="unit2-name" value="large tubs"/>
+      <param name="unit2-weight" value="400.0"/>
+      <param name="unit2-omit-food-description" value="false"/>
+    </portion-size>
+  </food>
   <food code="CCSH" description="Chicken soup, homemade" ndnsCode="2463">
     <portion-size method="as-served" description="No description" imageUrl="portion/placeholder.jpg">
       <param name="serving-image-set" value="soup"/>
@@ -1960,6 +1980,16 @@
       <param name="unit0-name" value="eggs"/>
       <param name="unit0-weight" value="39.0"/>
       <param name="unit0-omit-food-description" value="true"/>
+    </portion-size>
+  </food>
+  <food code="CELC" description="Celeriac" ndnsCode="1724">
+    <portion-size method="as-served" description="batons" imageUrl="baton">
+      <param name="serving-image-set" value="baton"/>
+      <param name="leftovers-image-set" value="baton_leftovers"/>
+    </portion-size>
+    <portion-size method="as-served" description="slices" imageUrl="cars">
+      <param name="serving-image-set" value="cars"/>
+      <param name="leftovers-image-set" value="cars_leftovers"/>
     </portion-size>
   </food>
   <food code="CFAF" description="Chocolates e.g. Roses or Quality Street" ndnsCode="10427">
@@ -2230,6 +2260,12 @@
       <param name="unit2-omit-food-description" value="false"/>
     </portion-size>
   </food>
+  <food code="CHIC" description="Chicory" ndnsCode="1728">
+    <portion-size method="as-served" description="No description" imageUrl="portion/placeholder.jpg">
+      <param name="serving-image-set" value="lettuce"/>
+      <param name="leftovers-image-set" value="lettuce_leftovers"/>
+    </portion-size>
+  </food>
   <food code="CHIL" description="Chilli Powder" ndnsCode="2505">
     <portion-size method="guide-image" description="No description" imageUrl="portion/placeholder.jpg">
       <param name="guide-image-id" value="Gspn"/>
@@ -2327,6 +2363,11 @@
       <param name="unit1-omit-food-description" value="false"/>
     </portion-size>
   </food>
+  <food code="CHMU" description="Chicken and mushroom slice" ndnsCode="8839">
+    <portion-size method="guide-image" description="No description" imageUrl="portion/placeholder.jpg">
+      <param name="guide-image-id" value="gpie"/>
+    </portion-size>
+  </food>
   <food code="CHNT" description="Chocolate and nut spread e.g Nutella" ndnsCode="2212">
     <portion-size method="as-served" description="No description" imageUrl="portion/placeholder.jpg">
       <param name="serving-image-set" value="cream_cheese_spread"/>
@@ -2358,6 +2399,14 @@
       <param name="unit0-name" value="bars"/>
       <param name="unit0-weight" value="26.0"/>
       <param name="unit0-omit-food-description" value="true"/>
+    </portion-size>
+  </food>
+  <food code="CHOR" description="Chorizo" ndnsCode="10155">
+    <portion-size method="standard-portion" description="No description" imageUrl="portion/placeholder.jpg">
+      <param name="units-count" value="1"/>
+      <param name="unit0-name" value="slices"/>
+      <param name="unit0-weight" value="1.0"/>
+      <param name="unit0-omit-food-description" value="false"/>
     </portion-size>
   </food>
   <food code="CHPF" description="Chapatis" ndnsCode="4040">
@@ -2971,6 +3020,17 @@
       <param name="unit2-name" value="medium bowls"/>
       <param name="unit2-weight" value="45.0"/>
       <param name="unit2-omit-food-description" value="false"/>
+    </portion-size>
+  </food>
+  <food code="COKL" description="Cockles" ndnsCode="1564">
+    <portion-size method="standard-portion" description="No description" imageUrl="portion/placeholder.jpg">
+      <param name="units-count" value="2"/>
+      <param name="unit0-name" value="tablespoons"/>
+      <param name="unit0-weight" value="12.0"/>
+      <param name="unit0-omit-food-description" value="false"/>
+      <param name="unit1-name" value="jars"/>
+      <param name="unit1-weight" value="110.0"/>
+      <param name="unit1-omit-food-description" value="false"/>
     </portion-size>
   </food>
   <food code="COLA" description="Cola, not diet, any flavour e.g. cherry cola" ndnsCode="7895">
@@ -3833,6 +3893,20 @@
       <param name="unit0-name" value="triangles"/>
       <param name="unit0-weight" value="18.0"/>
       <param name="unit0-omit-food-description" value="true"/>
+    </portion-size>
+  </food>
+  <food code="CTSF" description="Chicken tikka sandwich filler" ndnsCode="5638">
+    <portion-size method="standard-portion" description="No description" imageUrl="portion/placeholder.jpg">
+      <param name="units-count" value="3"/>
+      <param name="unit0-name" value="tablespoons"/>
+      <param name="unit0-weight" value="20.0"/>
+      <param name="unit0-omit-food-description" value="false"/>
+      <param name="unit1-name" value="small tubs"/>
+      <param name="unit1-weight" value="210.0"/>
+      <param name="unit1-omit-food-description" value="false"/>
+      <param name="unit2-name" value="large tubs"/>
+      <param name="unit2-weight" value="400.0"/>
+      <param name="unit2-omit-food-description" value="false"/>
     </portion-size>
   </food>
   <food code="CTSL" description="Cake bar with sultanas e.g. Mr Kipling Country Slice" ndnsCode="8105">
@@ -4787,6 +4861,20 @@
       <param name="unit1-omit-food-description" value="false"/>
     </portion-size>
   </food>
+  <food code="EMSF" description="Egg mayonnaise sandwich filler" ndnsCode="8066">
+    <portion-size method="standard-portion" description="No description" imageUrl="portion/placeholder.jpg">
+      <param name="units-count" value="3"/>
+      <param name="unit0-name" value="tablespoons"/>
+      <param name="unit0-weight" value="28.0"/>
+      <param name="unit0-omit-food-description" value="false"/>
+      <param name="unit1-name" value="small tubs"/>
+      <param name="unit1-weight" value="210.0"/>
+      <param name="unit1-omit-food-description" value="false"/>
+      <param name="unit2-name" value="large tubs"/>
+      <param name="unit2-weight" value="400.0"/>
+      <param name="unit2-omit-food-description" value="false"/>
+    </portion-size>
+  </food>
   <food code="ENDL" description="Noodles, boiled (not supernoodles)" ndnsCode="32">
     <portion-size method="as-served" description="No description" imageUrl="portion/placeholder.jpg">
       <param name="serving-image-set" value="noodles"/>
@@ -5701,6 +5789,15 @@
       <param name="guide-image-id" value="Gallcans"/>
     </portion-size>
   </food>
+  <food code="FSCS" description="Chicken and sweetcorn soup" ndnsCode="10270">
+    <portion-size method="as-served" description="in a bowl" imageUrl="soup">
+      <param name="serving-image-set" value="soup"/>
+      <param name="leftovers-image-set" value="soup_leftovers"/>
+    </portion-size>
+    <portion-size method="guide-image" description="in a tin" imageUrl="Gallcans">
+      <param name="guide-image-id" value="Gallcans"/>
+    </portion-size>
+  </food>
   <food code="FSHR" description="Frosted Shreddies" ndnsCode="8182">
     <portion-size method="as-served" description="No description" imageUrl="portion/placeholder.jpg">
       <param name="serving-image-set" value="shreddies"/>
@@ -6536,6 +6633,29 @@
       <param name="unit2-omit-food-description" value="false"/>
     </portion-size>
   </food>
+  <food code="HOGB" description="Garlic bread, reduced fat" ndnsCode="6839">
+    <portion-size method="guide-image" description="No description" imageUrl="portion/placeholder.jpg">
+      <param name="guide-image-id" value="Gsli"/>
+    </portion-size>
+    <portion-size method="standard-portion" description="No description" imageUrl="portion/placeholder.jpg">
+      <param name="units-count" value="3"/>
+      <param name="unit0-name" value="small slices"/>
+      <param name="unit0-weight" value="40.0"/>
+      <param name="unit0-omit-food-description" value="false"/>
+      <param name="unit1-name" value="medium slices"/>
+      <param name="unit1-weight" value="80.0"/>
+      <param name="unit1-omit-food-description" value="false"/>
+      <param name="unit2-name" value="large slices"/>
+      <param name="unit2-weight" value="120.0"/>
+      <param name="unit2-omit-food-description" value="false"/>
+    </portion-size>
+  </food>
+  <food code="HOIC" description="Ice cream, reduced fat" ndnsCode="9927">
+    <portion-size method="as-served" description="No description" imageUrl="portion/placeholder.jpg">
+      <param name="serving-image-set" value="ice_cream"/>
+      <param name="leftovers-image-set" value="ice_cream_leftovers"/>
+    </portion-size>
+  </food>
   <food code="HONY" description="Honey, in spoonfuls" ndnsCode="2214">
     <portion-size method="guide-image" description="No description" imageUrl="portion/placeholder.jpg">
       <param name="guide-image-id" value="Gspn"/>
@@ -6548,6 +6668,28 @@
       <param name="unit1-name" value="tablespoons"/>
       <param name="unit1-weight" value="33.6"/>
       <param name="unit1-omit-food-description" value="false"/>
+    </portion-size>
+  </food>
+  <food code="HOOC" description="Oven chips, reduced fat" ndnsCode="4036">
+    <portion-size method="as-served" description="straight cut chips" imageUrl="chips_straight">
+      <param name="serving-image-set" value="chips_straight"/>
+      <param name="leftovers-image-set" value="chips_straight_leftovers"/>
+    </portion-size>
+    <portion-size method="as-served" description="thick cut chips" imageUrl="chips_thick">
+      <param name="serving-image-set" value="chips_thick"/>
+      <param name="leftovers-image-set" value="chips_thick_leftovers"/>
+    </portion-size>
+    <portion-size method="as-served" description="crinkle cut chips" imageUrl="chips_crinkle">
+      <param name="serving-image-set" value="chips_crinkle"/>
+      <param name="leftovers-image-set" value="chips_crinkle_leftovers"/>
+    </portion-size>
+    <portion-size method="as-served" description="French fries" imageUrl="fren">
+      <param name="serving-image-set" value="fren"/>
+      <param name="leftovers-image-set" value="fren_leftovers"/>
+    </portion-size>
+    <portion-size method="as-served" description="curly fries" imageUrl="curf">
+      <param name="serving-image-set" value="curf"/>
+      <param name="leftovers-image-set" value="curf_leftovers"/>
     </portion-size>
   </food>
   <food code="HOSH" description="Honey Shreddies" ndnsCode="8182">
@@ -7258,6 +7400,14 @@
       <param name="unit2-omit-food-description" value="false"/>
     </portion-size>
   </food>
+  <food code="KUMQ" description="Kumquats" ndnsCode="3761">
+    <portion-size method="standard-portion" description="No description" imageUrl="portion/placeholder.jpg">
+      <param name="units-count" value="1"/>
+      <param name="unit0-name" value="kumquats"/>
+      <param name="unit0-weight" value="8.0"/>
+      <param name="unit0-omit-food-description" value="false"/>
+    </portion-size>
+  </food>
   <food code="KWIN" description="Kiwi fruit" ndnsCode="2061">
     <portion-size method="standard-portion" description="No description" imageUrl="portion/placeholder.jpg">
       <param name="units-count" value="1"/>
@@ -7787,6 +7937,14 @@
       <param name="unit0-omit-food-description" value="false"/>
     </portion-size>
   </food>
+  <food code="LYCE" description="Lychees" ndnsCode="2072">
+    <portion-size method="standard-portion" description="No description" imageUrl="portion/placeholder.jpg">
+      <param name="units-count" value="1"/>
+      <param name="unit0-name" value="lychees"/>
+      <param name="unit0-weight" value="15.0"/>
+      <param name="unit0-omit-food-description" value="false"/>
+    </portion-size>
+  </food>
   <food code="MACP" description="Macaroni pie" ndnsCode="9060">
     <portion-size method="guide-image" description="No description" imageUrl="portion/placeholder.jpg">
       <param name="guide-image-id" value="gpie"/>
@@ -8083,6 +8241,25 @@
       <param name="unit2-name" value="large glasses"/>
       <param name="unit2-weight" value="585.04"/>
       <param name="unit2-omit-food-description" value="false"/>
+    </portion-size>
+  </food>
+  <food code="MFSE" description="Meat-free scotch eggs e.g. Quorn" ndnsCode="10592">
+    <portion-size method="standard-portion" description="No description" imageUrl="portion/placeholder.jpg">
+      <param name="units-count" value="1"/>
+      <param name="unit0-name" value="scotch eggs"/>
+      <param name="unit0-weight" value="20.0"/>
+      <param name="unit0-omit-food-description" value="false"/>
+    </portion-size>
+  </food>
+  <food code="MFSR" description="Meat-free sausage rolls e.g. Quorn" ndnsCode="9209">
+    <portion-size method="standard-portion" description="No description" imageUrl="portion/placeholder.jpg">
+      <param name="units-count" value="2"/>
+      <param name="unit0-name" value="sausage rolls"/>
+      <param name="unit0-weight" value="75.0"/>
+      <param name="unit0-omit-food-description" value="false"/>
+      <param name="unit1-name" value="mini sausage rolls"/>
+      <param name="unit1-weight" value="17.5"/>
+      <param name="unit1-omit-food-description" value="false"/>
     </portion-size>
   </food>
   <food code="MGMN" description="Magnum" ndnsCode="8225">
@@ -9358,6 +9535,14 @@
       <param name="leftovers-image-set" value="pensaub_leftovers"/>
     </portion-size>
   </food>
+  <food code="PAFR" description="Passion fruit" ndnsCode="2097">
+    <portion-size method="standard-portion" description="No description" imageUrl="portion/placeholder.jpg">
+      <param name="units-count" value="1"/>
+      <param name="unit0-name" value="whole fruits"/>
+      <param name="unit0-weight" value="15.0"/>
+      <param name="unit0-omit-food-description" value="false"/>
+    </portion-size>
+  </food>
   <food code="PAIN" description="Pain au chocolat" ndnsCode="8111">
     <portion-size method="standard-portion" description="No description" imageUrl="portion/placeholder.jpg">
       <param name="units-count" value="1"/>
@@ -9592,6 +9777,17 @@
       <param name="unit0-name" value="croquettes"/>
       <param name="unit0-weight" value="85.0"/>
       <param name="unit0-omit-food-description" value="true"/>
+    </portion-size>
+  </food>
+  <food code="PCSF" description="Prawn cocktail sandwich filler" ndnsCode="10271">
+    <portion-size method="standard-portion" description="No description" imageUrl="portion/placeholder.jpg">
+      <param name="units-count" value="2"/>
+      <param name="unit0-name" value="tablespoons"/>
+      <param name="unit0-weight" value="28.0"/>
+      <param name="unit0-omit-food-description" value="false"/>
+      <param name="unit1-name" value="small tubs"/>
+      <param name="unit1-weight" value="210.0"/>
+      <param name="unit1-omit-food-description" value="false"/>
     </portion-size>
   </food>
   <food code="PCSP" description="Potato crisps" ndnsCode="10000">
@@ -10730,7 +10926,7 @@
       <param name="unit0-omit-food-description" value="false"/>
     </portion-size>
   </food>
-  <food code="QUCO" description="Cheese and Onion Quiche (with no meat)" ndnsCode="8779">
+  <food code="QUCO" description="Cheese and Onion Quiche " ndnsCode="8779">
     <portion-size method="standard-portion" description="No description" imageUrl="portion/placeholder.jpg">
       <param name="units-count" value="3"/>
       <param name="unit0-name" value="slices"/>
@@ -10742,6 +10938,20 @@
       <param name="unit2-name" value="whole small quiches"/>
       <param name="unit2-weight" value="175.0"/>
       <param name="unit2-omit-food-description" value="false"/>
+    </portion-size>
+  </food>
+  <food code="QUOM" description="Quorn mince" ndnsCode="7189">
+    <portion-size method="as-served" description="No description" imageUrl="portion/placeholder.jpg">
+      <param name="serving-image-set" value="mince"/>
+      <param name="leftovers-image-set" value="mince_leftovers"/>
+    </portion-size>
+  </food>
+  <food code="RADS" description="Radish" ndnsCode="1909">
+    <portion-size method="standard-portion" description="No description" imageUrl="portion/placeholder.jpg">
+      <param name="units-count" value="1"/>
+      <param name="unit0-name" value="whole radishes"/>
+      <param name="unit0-weight" value="8.0"/>
+      <param name="unit0-omit-food-description" value="false"/>
     </portion-size>
   </food>
   <food code="RANC" description="Real ales &amp; strong bitters" ndnsCode="8338">
@@ -11386,6 +11596,20 @@
       <param name="unit0-omit-food-description" value="true"/>
     </portion-size>
   </food>
+  <food code="SAAQ" description="Salmon-based quiche" ndnsCode="9672">
+    <portion-size method="standard-portion" description="No description" imageUrl="portion/placeholder.jpg">
+      <param name="units-count" value="3"/>
+      <param name="unit0-name" value="slices"/>
+      <param name="unit0-weight" value="170.0"/>
+      <param name="unit0-omit-food-description" value="false"/>
+      <param name="unit1-name" value="whole large quiches"/>
+      <param name="unit1-weight" value="400.0"/>
+      <param name="unit1-omit-food-description" value="false"/>
+      <param name="unit2-name" value="whole small quiches"/>
+      <param name="unit2-weight" value="176.0"/>
+      <param name="unit2-omit-food-description" value="false"/>
+    </portion-size>
+  </food>
   <food code="SALH" description="Fruit salad" ndnsCode="2036">
     <portion-size method="as-served" description="No description" imageUrl="portion/placeholder.jpg">
       <param name="serving-image-set" value="canned_fruit"/>
@@ -11412,7 +11636,7 @@
       <param name="unit0-omit-food-description" value="false"/>
     </portion-size>
   </food>
-  <food code="SAMS" description="Vegetable Samosas" ndnsCode="2623">
+  <food code="SAMS" description="Vegetable samosas" ndnsCode="2623">
     <portion-size method="guide-image" description="No description" imageUrl="portion/placeholder.jpg">
       <param name="guide-image-id" value="Gtur"/>
     </portion-size>
@@ -11794,6 +12018,11 @@
       <param name="unit2-name" value="large bowls"/>
       <param name="unit2-weight" value="50.0"/>
       <param name="unit2-omit-food-description" value="false"/>
+    </portion-size>
+  </food>
+  <food code="SHAR" description="Sharon fruit" ndnsCode="6479">
+    <portion-size method="guide-image" description="No description" imageUrl="portion/placeholder.jpg">
+      <param name="guide-image-id" value="Gtom"/>
     </portion-size>
   </food>
   <food code="SHBO" description="Smoked haddock baked in olive oil" ndnsCode="4375">
@@ -12725,6 +12954,11 @@
       <param name="unit0-name" value="average tins"/>
       <param name="unit0-weight" value="120.0"/>
       <param name="unit0-omit-food-description" value="false"/>
+    </portion-size>
+  </food>
+  <food code="SRCR" description="Sour cream" ndnsCode="633">
+    <portion-size method="guide-image" description="No description" imageUrl="portion/placeholder.jpg">
+      <param name="guide-image-id" value="Gspn"/>
     </portion-size>
   </food>
   <food code="SRFP" description="Sausage roll" ndnsCode="1306">
@@ -14053,6 +14287,15 @@
       <param name="unit1-omit-food-description" value="false"/>
     </portion-size>
   </food>
+  <food code="VEGB" description="Vegetarian bacon" ndnsCode="10401">
+    <portion-size method="standard-portion" description="No description" imageUrl="portion/placeholder.jpg">
+      <param name="units-count" value="1"/>
+      <param name="unit0-name" value="rashers"/>
+      <param name="unit0-weight" value="12.0"/>
+      <param name="unit0-omit-food-description" value="false"/>
+    </portion-size>
+  </food>
+  <food code="VEGJ" description="Vegetable juice" ndnsCode="1944"> </food>
   <food code="VEGK" description="Cheese and tomato pizza with vegetables and/or fruit, thick base" ndnsCode="10028">
     <portion-size method="guide-image" description="No description" imageUrl="portion/placeholder.jpg">
       <param name="guide-image-id" value="Gpiz"/>
@@ -14156,6 +14399,20 @@
       <param name="unit1-omit-food-description" value="false"/>
     </portion-size>
   </food>
+  <food code="VGQU" description="Vegetable quiche" ndnsCode="5180">
+    <portion-size method="standard-portion" description="No description" imageUrl="portion/placeholder.jpg">
+      <param name="units-count" value="3"/>
+      <param name="unit0-name" value="slices"/>
+      <param name="unit0-weight" value="170.0"/>
+      <param name="unit0-omit-food-description" value="false"/>
+      <param name="unit1-name" value="whole large quiches"/>
+      <param name="unit1-weight" value="400.0"/>
+      <param name="unit1-omit-food-description" value="false"/>
+      <param name="unit2-name" value="whole small quiches"/>
+      <param name="unit2-weight" value="176.0"/>
+      <param name="unit2-omit-food-description" value="false"/>
+    </portion-size>
+  </food>
   <food code="VGRT" description="Vegetable Risotto" ndnsCode="8681">
     <portion-size method="as-served" description="No description" imageUrl="portion/placeholder.jpg">
       <param name="serving-image-set" value="rice"/>
@@ -14197,6 +14454,19 @@
       <param name="unit0-omit-food-description" value="false"/>
     </portion-size>
   </food>
+  <food code="VMPA" description="Vegemince pasty e.g. Quorn pasty" ndnsCode="7103">
+    <portion-size method="guide-image" description="No description" imageUrl="portion/placeholder.jpg">
+      <param name="guide-image-id" value="gpie"/>
+    </portion-size>
+  </food>
+  <food code="VMSS" description="Vegetarian meat slices e.g. Quorn ham style slices" ndnsCode="3859">
+    <portion-size method="standard-portion" description="No description" imageUrl="portion/placeholder.jpg">
+      <param name="units-count" value="1"/>
+      <param name="unit0-name" value="slices"/>
+      <param name="unit0-weight" value="14.0"/>
+      <param name="unit0-omit-food-description" value="false"/>
+    </portion-size>
+  </food>
   <food code="VMUS" description="Vegetable Moussaka" ndnsCode="8290">
     <portion-size method="as-served" description="No description" imageUrl="portion/placeholder.jpg">
       <param name="serving-image-set" value="lasagne"/>
@@ -14227,6 +14497,20 @@
       <param name="unit1-omit-food-description" value="false"/>
       <param name="unit2-name" value="average cartons"/>
       <param name="unit2-weight" value="600.0"/>
+      <param name="unit2-omit-food-description" value="false"/>
+    </portion-size>
+  </food>
+  <food code="VSPR" description="Vegetable spring rolls" ndnsCode="1919">
+    <portion-size method="standard-portion" description="No description" imageUrl="portion/placeholder.jpg">
+      <param name="units-count" value="3"/>
+      <param name="unit0-name" value="mini spring rolls"/>
+      <param name="unit0-weight" value="18.0"/>
+      <param name="unit0-omit-food-description" value="false"/>
+      <param name="unit1-name" value="average spring rolls"/>
+      <param name="unit1-weight" value="68.0"/>
+      <param name="unit1-omit-food-description" value="false"/>
+      <param name="unit2-name" value="large spring rolls"/>
+      <param name="unit2-weight" value="100.0"/>
       <param name="unit2-omit-food-description" value="false"/>
     </portion-size>
   </food>
