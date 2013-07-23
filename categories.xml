@@ -26,19 +26,19 @@
     <food code="BRKF"/>
   </category>
   <category code="BBNS" description="Baked beans &amp; pulses">
-    <food code="BRDB"/>
-    <food code="BTBN"/>
-    <food code="CKPS"/>
-    <food code="KDBN"/>
     <food code="LNTL"/>
-    <food code="PLBL"/>
     <food code="BBCT"/>
     <food code="BBSS"/>
     <food code="BBTL"/>
     <food code="SOYB"/>
+    <food code="PLBL"/>
     <food code="MUNG"/>
     <food code="BEBE"/>
     <food code="HARB"/>
+    <food code="BRDB"/>
+    <food code="BTBN"/>
+    <food code="CKPS"/>
+    <food code="KDBN"/>
   </category>
   <category code="BKDP" description="Baked potatoes">
     <food code="OPFS"/>
@@ -82,11 +82,10 @@
   <category code="BERR" description="Berries">
     <food code="STBR"/>
     <food code="RASP"/>
-    <food code="BLUE"/>
     <food code="BLAB"/>
+    <food code="BLUE"/>
   </category>
   <category code="BSCT" description="Biscuits &amp; crackers">
-    <food code="AMAR"/>
     <subcategory code="BCHS"/>
     <subcategory code="SWBC"/>
     <subcategory code="SYBT"/>
@@ -137,8 +136,8 @@
     <food code="KRAE"/>
     <food code="CCIS"/>
     <food code="MNAS"/>
-    <food code="OATS"/>
     <food code="POPT"/>
+    <food code="OATS"/>
     <subcategory code="CRBR"/>
     <subcategory code="FCRL"/>
     <subcategory code="HPCR"/>
@@ -181,12 +180,12 @@
   <category code="BUNS" description="Buns and teacakes">
     <food code="CNTB"/>
     <food code="ECFH"/>
-    <food code="ECFN"/>
     <food code="ECLE"/>
     <food code="HCRB"/>
     <food code="ROCK"/>
     <food code="TTCK"/>
     <food code="IBUN"/>
+    <food code="ECFN"/>
     <food code="BRIO"/>
     <food code="CHCA"/>
   </category>
@@ -233,7 +232,6 @@
   <category code="CAKE" description="Cakes/buns/pastries/fruit pies">
     <food code="CKRC"/>
     <subcategory code="BUNS"/>
-    <subcategory code="DGNT"/>
     <subcategory code="FRTP"/>
     <subcategory code="FRYC"/>
     <subcategory code="SCNS"/>
@@ -241,6 +239,7 @@
     <subcategory code="SPNG"/>
     <subcategory code="TART"/>
     <subcategory code="GATX"/>
+    <subcategory code="DGNT"/>
   </category>
   <category code="OILY" description="Canned fish">
     <food code="PILB"/>
@@ -346,9 +345,9 @@
     <food code="CKCS"/>
     <food code="CTCY"/>
     <food code="KIEV"/>
-    <food code="SATY"/>
     <food code="SSCK"/>
     <food code="ENCH"/>
+    <food code="SATY"/>
   </category>
   <category code="MFGR" description="Chicken/turkey nuggets, fingers, goujons">
     <food code="CFFO"/>
@@ -421,28 +420,19 @@
   </category>
   <category code="CBAR" description="Chocolate bars/chocolate sweets">
     <food code="CEGG"/>
-    <food code="CCPR"/>
     <food code="CRWB"/>
     <subcategory code="BARS"/>
     <subcategory code="CHCS"/>
     <subcategory code="CSWT"/>
   </category>
-  <category code="CHCA" description="Chocolate cake">
-    <food code="CFDG"/>
-    <food code="CHCK"/>
-    <food code="CSCB"/>
-    <food code="CSCN"/>
-    <food code="RKYR"/>
-    <food code="CHOB"/>
-    <food code="CCAS"/>
-  </category>
   <category code="CHSB" description="Chocolate covered biscuits">
     <food code="CHMH"/>
     <food code="CHTC"/>
     <food code="CSBC"/>
-    <food code="CSBF"/>
     <food code="CSBW"/>
     <food code="KTKT"/>
+    <food code="CSBF"/>
+    <food code="FING"/>
   </category>
   <category code="CSWT" description="Chocolate covered sweets/nuts/raisins">
     <food code="CCNT"/>
@@ -462,13 +452,13 @@
     <food code="CHOC"/>
   </category>
   <category code="CHCS" description="Chocolates e.g. roses, quality street">
-    <food code="CFAF"/>
     <food code="EIGT"/>
+    <food code="CFAF"/>
   </category>
   <category code="CHTN" description="Chutney">
     <food code="MCHS"/>
-    <food code="CCHS"/>
     <food code="TCHS"/>
+    <food code="CCHS"/>
     <food code="OCHT"/>
     <food code="VCHS"/>
     <food code="LIPI"/>
@@ -548,14 +538,14 @@
     <food code="JPRC"/>
   </category>
   <category code="CREM" description="Cream">
-    <food code="CRFR"/>
     <food code="DBCR"/>
-    <food code="SCRM"/>
-    <food code="SNCR"/>
-    <food code="WCRA"/>
     <food code="WCRF"/>
+    <food code="SCRM"/>
+    <food code="CRFR"/>
     <food code="HFFR"/>
     <food code="SRCR"/>
+    <food code="SNCR"/>
+    <food code="WCRA"/>
   </category>
   <category code="CRMC" description="Cream cheese">
     <food code="FFCC"/>
@@ -563,7 +553,6 @@
   </category>
   <category code="CRSP" description="Crisps &amp; snacks">
     <food code="CPST"/>
-    <food code="DISC"/>
     <food code="FNFR"/>
     <food code="FRAZ"/>
     <food code="PRZL"/>
@@ -583,9 +572,10 @@
     <food code="WAKS"/>
     <food code="WALK"/>
     <food code="SKIP"/>
+    <food code="DISC"/>
     <food code="BDCP"/>
-    <food code="PKSC"/>
     <food code="MNCR"/>
+    <food code="PKSC"/>
   </category>
   <category code="CRPS" description="Crisps/snacks/nuts">
     <subcategory code="CRSP"/>
@@ -598,8 +588,8 @@
     <food code="PANC"/>
     <food code="PASS"/>
     <food code="POCA"/>
-    <food code="ESWM"/>
     <food code="MUFN"/>
+    <food code="ESWM"/>
     <food code="CREP"/>
   </category>
   <category code="CSTD" description="Custard">
@@ -607,8 +597,9 @@
     <food code="FCUS"/>
     <food code="CCUS"/>
     <food code="CURF"/>
-    <food code="FLCU"/>
     <food code="DFCU"/>
+    <food code="FLCU"/>
+    <food code="CUST"/>
   </category>
   <category code="MOUS" description="Dairy desserts">
     <food code="CDDC"/>
@@ -630,20 +621,19 @@
   </category>
   <category code="DIPS" description="Dips">
     <food code="GUAC"/>
-    <food code="SCRM"/>
     <food code="TARA"/>
     <food code="TZKI"/>
     <food code="YOGH"/>
     <food code="HUMS"/>
     <food code="RFHU"/>
     <food code="RAIT"/>
+    <food code="SCRM"/>
   </category>
-  <category code="DGNT" description="Doughnuts">
+  <category code="DGNT" description="Doughnuts and waffles">
     <food code="CDNT"/>
     <food code="IDNT"/>
     <food code="JDNT"/>
     <food code="RDNT"/>
-    <food code="YUMY"/>
     <food code="AMWA"/>
   </category>
   <category code="DRIF" description="Dried fruit">
@@ -661,9 +651,11 @@
     <food code="DATR"/>
     <food code="DRCR"/>
     <food code="DRST"/>
-    <food code="GOJI"/>
     <food code="PRND"/>
     <food code="APRD"/>
+    <food code="GOJI"/>
+    <food code="CRGI"/>
+    <food code="TOSD"/>
   </category>
   <category code="DRNK" description="Drinks">
     <food code="VEGJ"/>
@@ -723,7 +715,6 @@
   <category code="FFLT" description="Fish fillets">
     <food code="CDFB"/>
     <food code="CDFP"/>
-    <food code="CDSG"/>
     <food code="GRIL"/>
     <food code="HBST"/>
     <food code="HDSM"/>
@@ -746,6 +737,7 @@
     <food code="TRST"/>
     <food code="WBFR"/>
     <food code="WHST"/>
+    <food code="CDSG"/>
   </category>
   <category code="FPCS" description="Fish fingers &amp; fish in breadcrumbs">
     <food code="CBGB"/>
@@ -841,8 +833,8 @@
   </category>
   <category code="FFRU" description="Frozen fruit">
     <food code="MANF"/>
-    <food code="PEAF"/>
     <food code="RASF"/>
+    <food code="PEAF"/>
   </category>
   <category code="FRTB" description="Fruit biscuits e.g. garibaldi">
     <food code="FBNW"/>
@@ -944,15 +936,15 @@
     <food code="FHRB"/>
   </category>
   <category code="HRSP" description="Herbs/spices">
-    <food code="CHIL"/>
     <food code="SALT"/>
     <food code="STUF"/>
+    <food code="CHIL"/>
     <subcategory code="HRBS"/>
     <subcategory code="PEPR"/>
   </category>
   <category code="HONI" description="Honey">
-    <food code="HNEY"/>
     <food code="HONY"/>
+    <food code="HNEY"/>
   </category>
   <category code="HPCR" description="Hoop/loop cereals">
     <food code="CHRO"/>
@@ -1023,11 +1015,11 @@
   </category>
   <category code="ICEC" description="Ice cream">
     <food code="CICD"/>
-    <food code="FRMS"/>
     <food code="FSSI"/>
     <food code="MRWH"/>
     <food code="VSSI"/>
     <food code="HOIC"/>
+    <food code="FRMS"/>
   </category>
   <category code="ICEL" description="Ice cream &amp; ice lollies">
     <food code="ARCT"/>
@@ -1041,14 +1033,13 @@
   </category>
   <category code="LOLS" description="Ice cream lollies">
     <food code="BNTY"/>
-    <food code="CORN"/>
     <food code="FEST"/>
     <food code="FICD"/>
     <food code="FLLI"/>
     <food code="IMRS"/>
     <food code="ISNK"/>
-    <food code="MGMN"/>
-    <food code="MGMN"/>
+    <food code="CORN"/>
+    <food code="MGNM"/>
   </category>
   <category code="IWFR" description="Ice cream wafers">
     <food code="WFRS"/>
@@ -1183,12 +1174,11 @@
     <food code="VEGB"/>
     <food code="VMSS"/>
     <food code="VMPA"/>
-    <food code="MFSR"/>
-    <food code="QUOP"/>
     <food code="TOFU"/>
+    <food code="MFSR"/>
     <food code="MFCN"/>
-    <food code="VECA"/>
     <food code="VEMB"/>
+    <food code="QUOP"/>
   </category>
   <category code="MLNS" description="Melons">
     <food code="CANT"/>
@@ -1211,11 +1201,11 @@
     <food code="COCM"/>
   </category>
   <category code="MDNK" description="Milk as a drink">
-    <food code="RIML"/>
     <food code="KMLK"/>
     <food code="SMLK"/>
     <food code="SOYM"/>
     <food code="WMLK"/>
+    <food code="RIML"/>
   </category>
   <category code="TCFF" description="Milk in tea or coffee">
     <food code="KMLK"/>
@@ -1224,11 +1214,11 @@
     <food code="WMLK"/>
   </category>
   <category code="MCRL" description="Milk on cereal">
-    <food code="RIML"/>
     <food code="KMLK"/>
     <food code="SMLK"/>
     <food code="SOYM"/>
     <food code="WMLK"/>
+    <food code="RIML"/>
   </category>
   <category code="SHKS" description="Milkshakes">
     <food code="KMSH"/>
@@ -1496,7 +1486,6 @@
     <food code="IDKM"/>
     <food code="MRNG"/>
     <food code="PFRL"/>
-    <food code="DESU"/>
     <food code="FRFO"/>
     <food code="TIRA"/>
     <food code="WWFD"/>
@@ -1516,12 +1505,12 @@
     <food code="VGQU"/>
   </category>
   <category code="RLSH" description="Relish">
+    <food code="SCJR"/>
     <food code="GRLS"/>
     <food code="HBRL"/>
     <food code="ORLS"/>
-    <food code="SCJR"/>
-    <food code="STRL"/>
     <food code="SCRL"/>
+    <food code="STRL"/>
   </category>
   <category code="RICE" description="Rice">
     <food code="BRCE"/>
@@ -1541,7 +1530,6 @@
     <food code="RSAL"/>
     <food code="SFRT"/>
     <food code="PAEL"/>
-    <food code="VERB"/>
   </category>
   <category code="RCRP" description="Rice krispie type cereals">
     <food code="COCO"/>
@@ -1551,8 +1539,8 @@
   <category code="MPUD" description="Rice pudding/semolina/tapioca">
     <food code="MPDO"/>
     <food code="RPSS"/>
-    <food code="FLRP"/>
     <food code="HERP"/>
+    <food code="FLRP"/>
   </category>
   <category code="RSTM" description="Roast meat">
     <food code="CHBR"/>
@@ -1597,11 +1585,11 @@
     <food code="WFRB"/>
   </category>
   <category code="SNDF" description="Sandwich fillers">
-    <food code="CSSF"/>
     <food code="CTSF"/>
     <food code="CCSF"/>
     <food code="EMSF"/>
     <food code="PCSF"/>
+    <food code="CSSF"/>
   </category>
   <category code="SWMT" description="Sandwich meat/sliced meat/canned meat">
     <food code="CNBC"/>
@@ -1610,30 +1598,29 @@
     <food code="LMNC"/>
     <food code="LMPC"/>
     <food code="MBCN"/>
-    <food code="SLMI"/>
     <food code="CRNC"/>
     <food code="CSLC"/>
     <food code="HPCG"/>
     <food code="TSLC"/>
     <food code="STCN"/>
+    <food code="SLMI"/>
   </category>
   <category code="COND" description="Sauces/condiments/gravy/stock">
     <food code="APSE"/>
-    <food code="CRNB"/>
     <food code="MNTS"/>
-    <food code="SEAS"/>
     <food code="SOYS"/>
     <food code="TKET"/>
     <food code="WRCT"/>
     <food code="HOLS"/>
+    <food code="CRNB"/>
+    <food code="SEAS"/>
     <food code="HORS"/>
-    <food code="LIPI"/>
     <food code="SORS"/>
     <food code="TARS"/>
-    <food code="TGCP"/>
-    <food code="TRCP"/>
     <food code="HOTS"/>
     <food code="TKRS"/>
+    <food code="TGCP"/>
+    <food code="TRCP"/>
     <subcategory code="BBFS"/>
     <subcategory code="CHIS"/>
     <subcategory code="CUBE"/>
@@ -1649,7 +1636,6 @@
     <food code="BPDB"/>
     <food code="BPFR"/>
     <food code="FRFT"/>
-    <food code="LORN"/>
     <food code="PRMI"/>
     <food code="SBFO"/>
     <food code="SSBF"/>
@@ -1666,6 +1652,7 @@
     <food code="HAGB"/>
     <food code="SKIR"/>
     <food code="WTPD"/>
+    <food code="LORN"/>
     <food code="CHOR"/>
   </category>
   <category code="SYBT" description="Savoury biscuits">
@@ -1678,12 +1665,12 @@
   </category>
   <category code="PATE" description="Savoury spreads &amp; pates">
     <food code="BFPS"/>
-    <food code="BVRL"/>
     <food code="CKNP"/>
     <food code="MRMT"/>
     <food code="VGMT"/>
     <food code="PSEP"/>
     <food code="POTH"/>
+    <food code="BVRL"/>
     <subcategory code="PTES"/>
     <subcategory code="SNDF"/>
   </category>
@@ -1696,11 +1683,11 @@
     <food code="SCON"/>
   </category>
   <category code="SHSH" description="Shortbread/ shortcake">
-    <food code="ABBS"/>
     <food code="BTRB"/>
     <food code="CRMS"/>
     <food code="SHBR"/>
     <food code="SHRT"/>
+    <food code="ABBS"/>
   </category>
   <category code="SHRW" description="Shredded wheat">
     <food code="MINM"/>
@@ -1747,8 +1734,8 @@
     <food code="FSCS"/>
     <food code="ORNS"/>
     <food code="MGST"/>
-    <food code="MSOS"/>
     <food code="CPAS"/>
+    <food code="MSOS"/>
   </category>
   <category code="SPNC" description="Spinach">
     <food code="SPNB"/>
@@ -1760,13 +1747,13 @@
     <food code="MELI"/>
     <food code="PORT"/>
     <food code="SPRT"/>
-    <food code="STLI"/>
     <food code="WHMC"/>
+    <food code="STLI"/>
   </category>
   <category code="SPNG" description="Sponge cake">
     <food code="GSCA"/>
+    <food code="CHCA"/>
     <subcategory code="CARR"/>
-    <subcategory code="CHCA"/>
     <subcategory code="FTCA"/>
     <subcategory code="GING"/>
     <subcategory code="SPON"/>
@@ -1810,20 +1797,20 @@
     <food code="PGLF"/>
   </category>
   <category code="SAUC" description="Stir in sauces/pasta sauces/jar sauces">
-    <food code="BLKB"/>
     <food code="CBPS"/>
     <food code="CHPS"/>
     <food code="CRYS"/>
     <food code="GPTO"/>
-    <food code="RPTO"/>
     <food code="SSCS"/>
     <food code="TMPS"/>
-    <food code="BSPS"/>
     <food code="HOCS"/>
-    <food code="PASA"/>
-    <food code="STFS"/>
+    <food code="RPTO"/>
     <food code="TGCP"/>
     <food code="TRCP"/>
+    <food code="BLKB"/>
+    <food code="BSPS"/>
+    <food code="PASA"/>
+    <food code="STFS"/>
   </category>
   <category code="SUGA" description="Sugar">
     <food code="BSGR"/>
@@ -1845,9 +1832,9 @@
     <subcategory code="SYRP"/>
   </category>
   <category code="SUSH" description="Sushi">
+    <food code="VESU"/>
     <food code="SUSS"/>
     <food code="SUST"/>
-    <food code="SUSV"/>
   </category>
   <category code="TRNP" description="Swede/turnip">
     <food code="SWDM"/>
@@ -1864,6 +1851,8 @@
     <food code="HCRY"/>
     <food code="HORT"/>
     <food code="HOCR"/>
+    <food code="AMAR"/>
+    <food code="CCPR"/>
     <subcategory code="CHSB"/>
     <subcategory code="CKES"/>
     <subcategory code="DGST"/>
@@ -1880,9 +1869,9 @@
     <food code="SCFB"/>
   </category>
   <category code="SYRP" description="Syrup/treacle">
-    <food code="GSYP"/>
     <food code="MSYP"/>
     <food code="TRCL"/>
+    <food code="GSYP"/>
   </category>
   <category code="TCHI" description="Takeaway chips">
     <food code="TAFF"/>
@@ -1968,12 +1957,9 @@
     <food code="ONRI"/>
     <food code="VEGT"/>
     <food code="VESU"/>
-    <food code="SUSV"/>
-    <food code="VECA"/>
+    <food code="VEMB"/>
     <food code="VEGF"/>
     <food code="VEGP"/>
-    <food code="VEMB"/>
-    <food code="VERB"/>
   </category>
   <category code="VEGJ" description="Vegetable juice">
     <food code="CARJ"/>
@@ -1994,13 +1980,13 @@
     <food code="OKRA"/>
     <food code="WACR"/>
     <food code="ARTI"/>
-    <food code="PLTN"/>
-    <food code="BEAS"/>
+    <food code="WTCH"/>
     <food code="BAMS"/>
+    <food code="BEAS"/>
+    <food code="WASB"/>
+    <food code="PLTN"/>
     <food code="POLE"/>
     <food code="STVL"/>
-    <food code="WASB"/>
-    <food code="WTCH"/>
     <subcategory code="BBNS"/>
     <subcategory code="BEET"/>
     <subcategory code="BRCL"/>
