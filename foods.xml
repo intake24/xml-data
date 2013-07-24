@@ -1388,12 +1388,12 @@
     </portion-size>
   </food>
   <food code="CFFB" description="Black coffee" ndnsCode="2307">
-    <portion-size method="drink-scale" description="in a cup/mug" imageUrl="portion/placeholder.jpg">
+    <portion-size method="drink-scale" description="in a cup/mug" imageUrl="portion/mugs.jpg">
       <param name="drinkware-id" value="mugs"/>
       <param name="initial-fill-level" value="0.85"/>
       <param name="skip-fill-level" value="true"/>
     </portion-size>
-    <portion-size method="drink-scale" description="in a takeaway cup" imageUrl="portion/placeholder.jpg">
+    <portion-size method="drink-scale" description="in a takeaway cup" imageUrl="portion/hotdrinks.jpg">
       <param name="drinkware-id" value="takeaway_cups_hot"/>
       <param name="initial-fill-level" value="0.85"/>
       <param name="skip-fill-level" value="true"/>
@@ -3221,23 +3221,23 @@
     </portion-size>
   </food>
   <food code="FCFO" description="Chips, fried" ndnsCode="1849">
-    <portion-size method="as-served" description="straight cut chips" imageUrl="portion/placeholder.jpg">
+    <portion-size method="as-served" description="straight cut chips" imageUrl="portion/chipst2.jpg">
       <param name="serving-image-set" value="chips_straight"/>
       <param name="leftovers-image-set" value="chips_straight_leftovers"/>
     </portion-size>
-    <portion-size method="as-served" description="crinkle cut chips" imageUrl="portion/placeholder.jpg">
+    <portion-size method="as-served" description="crinkle cut chips" imageUrl="portion/chipcr2.jpg">
       <param name="serving-image-set" value="chips_crinkle"/>
       <param name="leftovers-image-set" value="chips_crinkle_leftovers"/>
     </portion-size>
-    <portion-size method="as-served" description="thick cut chips" imageUrl="portion/placeholder.jpg">
+    <portion-size method="as-served" description="thick cut chips" imageUrl="portion/chipth2.jpg">
       <param name="serving-image-set" value="chips_thick"/>
       <param name="leftovers-image-set" value="chips_thick_leftovers"/>
     </portion-size>
-    <portion-size method="as-served" description="French fries" imageUrl="portion/placeholder.jpg">
+    <portion-size method="as-served" description="French fries" imageUrl="portion/fren2.jpg">
       <param name="serving-image-set" value="fren"/>
       <param name="leftovers-image-set" value="fren_leftovers"/>
     </portion-size>
-    <portion-size method="as-served" description="curly fries" imageUrl="portion/placeholder.jpg">
+    <portion-size method="as-served" description="curly fries" imageUrl="portion/curf2.jpg">
       <param name="serving-image-set" value="curf"/>
       <param name="leftovers-image-set" value="curf_leftovers"/>
     </portion-size>

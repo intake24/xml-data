@@ -366,10 +366,10 @@
     <food code="SCHS"/>
   </category>
   <category code="C001" description="Chips">
-    <food code="FCFO"/>
     <food code="MWCH"/>
     <food code="FCOB"/>
     <food code="HOOC"/>
+    <food code="FCFO"/>
     <subcategory code="TCHI"/>
   </category>
   <category code="CHOI" description="Choc ices">
@@ -469,12 +469,12 @@
     <food code="FRCI"/>
   </category>
   <category code="CFFS" description="Coffee">
-    <food code="CFFB"/>
     <food code="COWM"/>
     <food code="COSM"/>
     <food code="COSS"/>
     <food code="COSO"/>
     <food code="CORM"/>
+    <food code="CFFB"/>
     <subcategory code="MOCA"/>
     <subcategory code="LATE"/>
     <subcategory code="CAPU"/>
