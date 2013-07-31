@@ -358,4 +358,363 @@
 			<overlayImage>takeaway_cups/cup9_fill.png</overlayImage>
 		</scale>
 	</drinkware>
+
+	<drinkware id="glasses_beer" description="Glasses (beer)">
+		<choice guide-id="gbeer"/>
+		<scale choice-id="1">
+			<dimensions width="400" height="600" emptyLevel="72" fullLevel="467"/>
+			<volume-function>
+				<value fill="0.06666666666666667" volume="17.3"/>
+				<value fill="0.13333333333333333" volume="39.0"/>
+				<value fill="0.2" volume="61.0"/>
+				<value fill="0.26666666666666666" volume="85.0"/>
+				<value fill="0.3333333333333333" volume="112.3"/>
+				<value fill="0.4" volume="143.3"/>
+				<value fill="0.4666666666666667" volume="178.3"/>
+				<value fill="0.5333333333333333" volume="219.0"/>
+				<value fill="0.6" volume="267.7"/>
+				<value fill="0.6666666666666666" volume="311.7"/>
+				<value fill="0.7333333333333333" volume="365.0"/>
+				<value fill="0.8" volume="418.7"/>
+				<value fill="0.8666666666666667" volume="465.7"/>
+				<value fill="0.9333333333333333" volume="511.3"/>
+				<value fill="1.0" volume="559.3"/>
+				<value fill="1.0" volume="559.3"/>
+			</volume-function>
+			<baseImage>glasses/glass1.jpg</baseImage>
+			<overlayImage>glasses/glass1_fill.png</overlayImage>
+		</scale>
+		<scale choice-id="2">
+			<dimensions width="400" height="600" emptyLevel="71" fullLevel="365"/>
+			<volume-function>
+				<value fill="0.0819672131147541" volume="16.0"/>
+				<value fill="0.1639344262295082" volume="35.3"/>
+				<value fill="0.24590163934426232" volume="52.7"/>
+				<value fill="0.3278688524590164" volume="73.0"/>
+				<value fill="0.4098360655737705" volume="92.3"/>
+				<value fill="0.49180327868852464" volume="117.7"/>
+				<value fill="0.5737704918032788" volume="146.7"/>
+				<value fill="0.6557377049180328" volume="177.7"/>
+				<value fill="0.7377049180327869" volume="215.3"/>
+				<value fill="0.819672131147541" volume="254.0"/>
+				<value fill="0.9016393442622951" volume="293.7"/>
+				<value fill="0.9836065573770493" volume="332.7"/>
+				<value fill="1.0" volume="341.3"/>
+			</volume-function>
+			<baseImage>glasses/glass2.jpg</baseImage>
+			<overlayImage>glasses/glass2_fill.png</overlayImage>
+		</scale>
+		<scale choice-id="3">
+			<dimensions width="400" height="600" emptyLevel="94" fullLevel="395"/>
+			<volume-function>
+				<value fill="0.08333333333333333" volume="21.3"/>
+				<value fill="0.16666666666666666" volume="39.7"/>
+				<value fill="0.25" volume="63.3"/>
+				<value fill="0.3333333333333333" volume="87.0"/>
+				<value fill="0.4166666666666667" volume="111.7"/>
+				<value fill="0.5" volume="139.3"/>
+				<value fill="0.5833333333333334" volume="162.0"/>
+				<value fill="0.6666666666666666" volume="191.7"/>
+				<value fill="0.75" volume="220.3"/>
+				<value fill="0.8333333333333334" volume="252.0"/>
+				<value fill="0.9166666666666666" volume="283.0"/>
+				<value fill="1.0" volume="317.3"/>
+				<value fill="1.0" volume="317.3"/>
+			</volume-function>
+			<baseImage>glasses/glass3.jpg</baseImage>
+			<overlayImage>glasses/glass3_fill.png</overlayImage>
+		</scale>
+
+		<scale choice-id="7">
+			<dimensions width="400" height="600" emptyLevel="155" fullLevel="409"/>
+			<volume-function>
+				<value fill="0.09523809523809523" volume="5.0"/>
+				<value fill="0.19047619047619047" volume="17.0"/>
+				<value fill="0.2857142857142857" volume="45.3"/>
+				<value fill="0.38095238095238093" volume="81.7"/>
+				<value fill="0.47619047619047616" volume="129.7"/>
+				<value fill="0.5714285714285714" volume="181.7"/>
+				<value fill="0.6666666666666666" volume="235.3"/>
+				<value fill="0.7619047619047619" volume="291.0"/>
+				<value fill="0.8571428571428571" volume="344.7"/>
+				<value fill="0.9523809523809523" volume="392.3"/>
+				<value fill="1.0" volume="418.0"/>
+			</volume-function>
+			<baseImage>glasses/glass7.jpg</baseImage>
+			<overlayImage>glasses/glass7_fill.png</overlayImage>
+		</scale>
+	</drinkware>
+
+	<drinkware id="glasses_soft" description="Glasses (soft drinks)">
+		<choice guide-id="gsoftdrnk"/>
+		<scale choice-id="1">
+			<dimensions width="400" height="600" emptyLevel="72" fullLevel="467"/>
+			<volume-function>
+				<value fill="0.06666666666666667" volume="17.3"/>
+				<value fill="0.13333333333333333" volume="39.0"/>
+				<value fill="0.2" volume="61.0"/>
+				<value fill="0.26666666666666666" volume="85.0"/>
+				<value fill="0.3333333333333333" volume="112.3"/>
+				<value fill="0.4" volume="143.3"/>
+				<value fill="0.4666666666666667" volume="178.3"/>
+				<value fill="0.5333333333333333" volume="219.0"/>
+				<value fill="0.6" volume="267.7"/>
+				<value fill="0.6666666666666666" volume="311.7"/>
+				<value fill="0.7333333333333333" volume="365.0"/>
+				<value fill="0.8" volume="418.7"/>
+				<value fill="0.8666666666666667" volume="465.7"/>
+				<value fill="0.9333333333333333" volume="511.3"/>
+				<value fill="1.0" volume="559.3"/>
+				<value fill="1.0" volume="559.3"/>
+			</volume-function>
+			<baseImage>glasses/glass1.jpg</baseImage>
+			<overlayImage>glasses/glass1_fill.png</overlayImage>
+		</scale>
+		<scale choice-id="2">
+			<dimensions width="400" height="600" emptyLevel="71" fullLevel="365"/>
+			<volume-function>
+				<value fill="0.0819672131147541" volume="16.0"/>
+				<value fill="0.1639344262295082" volume="35.3"/>
+				<value fill="0.24590163934426232" volume="52.7"/>
+				<value fill="0.3278688524590164" volume="73.0"/>
+				<value fill="0.4098360655737705" volume="92.3"/>
+				<value fill="0.49180327868852464" volume="117.7"/>
+				<value fill="0.5737704918032788" volume="146.7"/>
+				<value fill="0.6557377049180328" volume="177.7"/>
+				<value fill="0.7377049180327869" volume="215.3"/>
+				<value fill="0.819672131147541" volume="254.0"/>
+				<value fill="0.9016393442622951" volume="293.7"/>
+				<value fill="0.9836065573770493" volume="332.7"/>
+				<value fill="1.0" volume="341.3"/>
+			</volume-function>
+			<baseImage>glasses/glass2.jpg</baseImage>
+			<overlayImage>glasses/glass2_fill.png</overlayImage>
+		</scale>
+		<scale choice-id="3">
+			<dimensions width="400" height="600" emptyLevel="94" fullLevel="395"/>
+			<volume-function>
+				<value fill="0.08333333333333333" volume="21.3"/>
+				<value fill="0.16666666666666666" volume="39.7"/>
+				<value fill="0.25" volume="63.3"/>
+				<value fill="0.3333333333333333" volume="87.0"/>
+				<value fill="0.4166666666666667" volume="111.7"/>
+				<value fill="0.5" volume="139.3"/>
+				<value fill="0.5833333333333334" volume="162.0"/>
+				<value fill="0.6666666666666666" volume="191.7"/>
+				<value fill="0.75" volume="220.3"/>
+				<value fill="0.8333333333333334" volume="252.0"/>
+				<value fill="0.9166666666666666" volume="283.0"/>
+				<value fill="1.0" volume="317.3"/>
+				<value fill="1.0" volume="317.3"/>
+			</volume-function>
+			<baseImage>glasses/glass3.jpg</baseImage>
+			<overlayImage>glasses/glass3_fill.png</overlayImage>
+		</scale>
+		<scale choice-id="4">
+			<dimensions width="400" height="600" emptyLevel="68" fullLevel="354"/>
+			<volume-function>
+				<value fill="0.08620689655172414" volume="14.7"/>
+				<value fill="0.1724137931034483" volume="33.7"/>
+				<value fill="0.25862068965517243" volume="56.0"/>
+				<value fill="0.3448275862068966" volume="78.7"/>
+				<value fill="0.4310344827586207" volume="103.3"/>
+				<value fill="0.5172413793103449" volume="132.3"/>
+				<value fill="0.603448275862069" volume="157.3"/>
+				<value fill="0.6896551724137931" volume="185.0"/>
+				<value fill="0.7758620689655172" volume="212.3"/>
+				<value fill="0.8620689655172414" volume="243.7"/>
+				<value fill="0.9482758620689655" volume="271.3"/>
+				<value fill="1.0" volume="289.7"/>
+			</volume-function>
+			<baseImage>glasses/glass4.jpg</baseImage>
+			<overlayImage>glasses/glass4_fill.png</overlayImage>
+		</scale>
+		<scale choice-id="5">
+			<dimensions width="400" height="600" emptyLevel="98" fullLevel="278"/>
+			<volume-function>
+				<value fill="0.14285714285714285" volume="28.0"/>
+				<value fill="0.2857142857142857" volume="66.0"/>
+				<value fill="0.42857142857142855" volume="110.0"/>
+				<value fill="0.5714285714285714" volume="159.7"/>
+				<value fill="0.7142857142857143" volume="218.7"/>
+				<value fill="0.8571428571428571" volume="278.7"/>
+				<value fill="1.0" volume="346.0"/>
+				<value fill="1.0" volume="346.0"/>
+			</volume-function>
+			<baseImage>glasses/glass5.jpg</baseImage>
+			<overlayImage>glasses/glass5_fill.png</overlayImage>
+		</scale>
+		<scale choice-id="6">
+			<dimensions width="400" height="600" emptyLevel="100" fullLevel="266"/>
+			<volume-function>
+				<value fill="0.15151515151515152" volume="24.0"/>
+				<value fill="0.30303030303030304" volume="44.7"/>
+				<value fill="0.4545454545454546" volume="68.7"/>
+				<value fill="0.6060606060606061" volume="94.7"/>
+				<value fill="0.7575757575757576" volume="118.7"/>
+				<value fill="0.9090909090909092" volume="145.3"/>
+				<value fill="1.0" volume="162.3"/>
+			</volume-function>
+			<baseImage>glasses/glass6.jpg</baseImage>
+			<overlayImage>glasses/glass6_fill.png</overlayImage>
+		</scale>
+	</drinkware>
+
+	<drinkware id="glasses_spirits" description="Glasses (spirits)">
+		<choice guide-id="gspirits"/>
+
+		<scale choice-id="11">
+			<dimensions width="400" height="600" emptyLevel="205" fullLevel="322"/>
+			<volume-function>
+				<value fill="0.19607843137254904" volume="2.3"/>
+				<value fill="0.3921568627450981" volume="8.3"/>
+				<value fill="0.5882352941176471" volume="18.0"/>
+				<value fill="0.7843137254901962" volume="29.3"/>
+				<value fill="0.9803921568627452" volume="43.3"/>
+				<value fill="1.0" volume="47.7"/>
+			</volume-function>
+			<baseImage>glasses/glass11.jpg</baseImage>
+			<overlayImage>glasses/glass11_fill.png</overlayImage>
+		</scale>
+		<scale choice-id="12">
+			<dimensions width="400" height="600" emptyLevel="127" fullLevel="239"/>
+			<volume-function>
+				<value fill="0.20833333333333334" volume="2.7"/>
+				<value fill="0.4166666666666667" volume="7.7"/>
+				<value fill="0.625" volume="14.0"/>
+				<value fill="0.8333333333333334" volume="22.0"/>
+				<value fill="1.0" volume="30.3"/>
+			</volume-function>
+			<baseImage>glasses/glass12.jpg</baseImage>
+			<overlayImage>glasses/glass12_fill.png</overlayImage>
+		</scale>
+
+		<scale choice-id="3">
+			<dimensions width="400" height="600" emptyLevel="94" fullLevel="395"/>
+			<volume-function>
+				<value fill="0.08333333333333333" volume="21.3"/>
+				<value fill="0.16666666666666666" volume="39.7"/>
+				<value fill="0.25" volume="63.3"/>
+				<value fill="0.3333333333333333" volume="87.0"/>
+				<value fill="0.4166666666666667" volume="111.7"/>
+				<value fill="0.5" volume="139.3"/>
+				<value fill="0.5833333333333334" volume="162.0"/>
+				<value fill="0.6666666666666666" volume="191.7"/>
+				<value fill="0.75" volume="220.3"/>
+				<value fill="0.8333333333333334" volume="252.0"/>
+				<value fill="0.9166666666666666" volume="283.0"/>
+				<value fill="1.0" volume="317.3"/>
+				<value fill="1.0" volume="317.3"/>
+			</volume-function>
+			<baseImage>glasses/glass3.jpg</baseImage>
+			<overlayImage>glasses/glass3_fill.png</overlayImage>
+		</scale>
+		<scale choice-id="4">
+			<dimensions width="400" height="600" emptyLevel="68" fullLevel="354"/>
+			<volume-function>
+				<value fill="0.08620689655172414" volume="14.7"/>
+				<value fill="0.1724137931034483" volume="33.7"/>
+				<value fill="0.25862068965517243" volume="56.0"/>
+				<value fill="0.3448275862068966" volume="78.7"/>
+				<value fill="0.4310344827586207" volume="103.3"/>
+				<value fill="0.5172413793103449" volume="132.3"/>
+				<value fill="0.603448275862069" volume="157.3"/>
+				<value fill="0.6896551724137931" volume="185.0"/>
+				<value fill="0.7758620689655172" volume="212.3"/>
+				<value fill="0.8620689655172414" volume="243.7"/>
+				<value fill="0.9482758620689655" volume="271.3"/>
+				<value fill="1.0" volume="289.7"/>
+			</volume-function>
+			<baseImage>glasses/glass4.jpg</baseImage>
+			<overlayImage>glasses/glass4_fill.png</overlayImage>
+		</scale>
+		<scale choice-id="5">
+			<dimensions width="400" height="600" emptyLevel="98" fullLevel="278"/>
+			<volume-function>
+				<value fill="0.14285714285714285" volume="28.0"/>
+				<value fill="0.2857142857142857" volume="66.0"/>
+				<value fill="0.42857142857142855" volume="110.0"/>
+				<value fill="0.5714285714285714" volume="159.7"/>
+				<value fill="0.7142857142857143" volume="218.7"/>
+				<value fill="0.8571428571428571" volume="278.7"/>
+				<value fill="1.0" volume="346.0"/>
+				<value fill="1.0" volume="346.0"/>
+			</volume-function>
+			<baseImage>glasses/glass5.jpg</baseImage>
+			<overlayImage>glasses/glass5_fill.png</overlayImage>
+		</scale>
+		<scale choice-id="6">
+			<dimensions width="400" height="600" emptyLevel="100" fullLevel="266"/>
+			<volume-function>
+				<value fill="0.15151515151515152" volume="24.0"/>
+				<value fill="0.30303030303030304" volume="44.7"/>
+				<value fill="0.4545454545454546" volume="68.7"/>
+				<value fill="0.6060606060606061" volume="94.7"/>
+				<value fill="0.7575757575757576" volume="118.7"/>
+				<value fill="0.9090909090909092" volume="145.3"/>
+				<value fill="1.0" volume="162.3"/>
+			</volume-function>
+			<baseImage>glasses/glass6.jpg</baseImage>
+			<overlayImage>glasses/glass6_fill.png</overlayImage>
+		</scale>
+	</drinkware>
+
+	<drinkware id="glasses_wine" description="Glasses (wine)">
+		<choice guide-id="gwine"/>
+
+		<scale choice-id="10">
+			<dimensions width="400" height="600" emptyLevel="284" fullLevel="525"/>
+			<volume-function>
+				<value fill="0.0970873786407767" volume="8.3"/>
+				<value fill="0.1941747572815534" volume="22.0"/>
+				<value fill="0.2912621359223301" volume="43.0"/>
+				<value fill="0.3883495145631068" volume="73.0"/>
+				<value fill="0.48543689320388345" volume="110.7"/>
+				<value fill="0.5825242718446602" volume="156.0"/>
+				<value fill="0.6796116504854368" volume="201.3"/>
+				<value fill="0.7766990291262136" volume="252.3"/>
+				<value fill="0.8737864077669902" volume="296.3"/>
+				<value fill="0.9708737864077669" volume="334.0"/>
+				<value fill="1.0" volume="347.3"/>
+			</volume-function>
+			<baseImage>glasses/glass10.jpg</baseImage>
+			<overlayImage>glasses/glass10_fill.png</overlayImage>
+		</scale>
+		<scale choice-id="8">
+			<dimensions width="400" height="600" emptyLevel="600" fullLevel="600"/>
+			<volume-function>
+				<value fill="0.09433962264150944" volume="6.3"/>
+				<value fill="0.18867924528301888" volume="18.3"/>
+				<value fill="0.2830188679245283" volume="37.0"/>
+				<value fill="0.37735849056603776" volume="63.7"/>
+				<value fill="0.4716981132075472" volume="99.7"/>
+				<value fill="0.5660377358490566" volume="144.3"/>
+				<value fill="0.6603773584905661" volume="193.0"/>
+				<value fill="0.7547169811320755" volume="239.3"/>
+				<value fill="0.8490566037735849" volume="286.7"/>
+				<value fill="0.9433962264150944" volume="327.0"/>
+				<value fill="1.0" volume="340.3"/>
+			</volume-function>
+			<baseImage>glasses/glass8.jpg</baseImage>
+			<overlayImage>glasses/glass8_fill.png</overlayImage>
+		</scale>
+		<scale choice-id="9">
+			<dimensions width="400" height="600" emptyLevel="268" fullLevel="536"/>
+			<volume-function>
+				<value fill="0.1" volume="7.7"/>
+				<value fill="0.2" volume="21.0"/>
+				<value fill="0.3" volume="44.0"/>
+				<value fill="0.4" volume="76.7"/>
+				<value fill="0.5" volume="115.7"/>
+				<value fill="0.6" volume="162.3"/>
+				<value fill="0.7" volume="212.0"/>
+				<value fill="0.8" volume="263.7"/>
+				<value fill="0.9" volume="315.3"/>
+				<value fill="1.0" volume="373.0"/>
+				<value fill="1.0" volume="373.0"/>
+			</volume-function>
+			<baseImage>glasses/glass9.jpg</baseImage>
+			<overlayImage>glasses/glass9_fill.png</overlayImage>
+		</scale>
+	</drinkware>
 </scran24-drinkware>
