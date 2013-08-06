@@ -19,23 +19,29 @@
     </portion-size>
   </food>
   <food code="AJCS" description="Apple juice, sparkling" ndnsCode="2320">
-    <portion-size method="as-served" description="No description" imageUrl="portion/placeholder.jpg">
-      <param name="serving-image-set" value="squash"/>
-      <param name="leftovers-image-set" value="squash_leftovers"/>
+    <portion-size method="drink-scale" description="in a glass" imageUrl="portion/gsoftdrnk.jpg">
+      <param name="drinkware-id" value="glasses_soft"/>
+      <param name="initial-fill-level" value="0.9"/>
+      <param name="skip-fill-level" value="false"/>
     </portion-size>
-    <portion-size method="guide-image" description="No description" imageUrl="portion/placeholder.jpg">
+    <portion-size method="guide-image" description="in a can" imageUrl="portion/Gpopcans.jpg">
       <param name="guide-image-id" value="Gpopcans"/>
     </portion-size>
-    <portion-size method="guide-image" description="No description" imageUrl="portion/placeholder.jpg">
+    <portion-size method="guide-image" description="in a bottle" imageUrl="portion/Gpopbottle.jpg">
       <param name="guide-image-id" value="Gpopbottle"/>
     </portion-size>
   </food>
   <food code="ALFR" description="Alcopop not spirit based e.g. Hooch" ndnsCode="5142">
-    <portion-size method="guide-image" description="in a bottle" imageUrl="portion/placeholder.jpg">
+    <portion-size method="guide-image" description="in a bottle" imageUrl="portion/Gbeerbot.jpg">
       <param name="guide-image-id" value="Gbeerbot"/>
     </portion-size>
-    <portion-size method="guide-image" description="in a can" imageUrl="portion/placeholder.jpg">
+    <portion-size method="guide-image" description="in a can" imageUrl="portion/Galccans.jpg">
       <param name="guide-image-id" value="Galccans"/>
+    </portion-size>
+    <portion-size method="drink-scale" description="in a glass" imageUrl="portion/gsoftdrnk.jpg">
+      <param name="drinkware-id" value="glasses_soft"/>
+      <param name="initial-fill-level" value="0.9"/>
+      <param name="skip-fill-level" value="false"/>
     </portion-size>
   </food>
   <food code="ALMD" description="Almonds" ndnsCode="2169">
@@ -56,11 +62,16 @@
     </portion-size>
   </food>
   <food code="ALSD" description="Alcoholic soft drink e.g. Crabbies" ndnsCode="5507">
-    <portion-size method="guide-image" description="in a bottle" imageUrl="portion/placeholder.jpg">
+    <portion-size method="guide-image" description="in a bottle" imageUrl="portion/Gbeerbot.jpg">
       <param name="guide-image-id" value="Gbeerbot"/>
     </portion-size>
-    <portion-size method="guide-image" description="in a can" imageUrl="portion/placeholder.jpg">
+    <portion-size method="guide-image" description="in a can" imageUrl="portion/Galccans.jpg">
       <param name="guide-image-id" value="Galccans"/>
+    </portion-size>
+    <portion-size method="drink-scale" description="in a glass" imageUrl="portion/gsoftdrnk.jpg">
+      <param name="drinkware-id" value="glasses_soft"/>
+      <param name="initial-fill-level" value="0.9"/>
+      <param name="skip-fill-level" value="false"/>
     </portion-size>
   </food>
   <food code="AMAR" description="Amaretti biscuits" ndnsCode="348">
@@ -90,33 +101,48 @@
     </portion-size>
   </food>
   <food code="APER" description="Aperitifs e.g. Martini, Cinzano, Dubonnet" ndnsCode="2395">
-    <portion-size method="standard-portion" description="No description" imageUrl="portion/placeholder.jpg">
-      <param name="units-count" value="2"/>
+    <portion-size method="standard-portion" description="standard measure" imageUrl="standard-portion.jpg">
+      <param name="units-count" value="3"/>
       <param name="unit0-name" value="single measures"/>
-      <param name="unit0-weight" value="25.0"/>
+      <param name="unit0-weight" value="25.13"/>
       <param name="unit0-omit-food-description" value="false"/>
       <param name="unit1-name" value="double measures"/>
-      <param name="unit1-weight" value="50.0"/>
+      <param name="unit1-weight" value="50.25"/>
       <param name="unit1-omit-food-description" value="false"/>
+      <param name="unit2-name" value="treble measures"/>
+      <param name="unit2-weight" value="75.38"/>
+      <param name="unit2-omit-food-description" value="false"/>
+    </portion-size>
+    <portion-size method="drink-scale" description="in a glass" imageUrl="portion/gspirits.jpg">
+      <param name="drinkware-id" value="glasses_spirits"/>
+      <param name="initial-fill-level" value="0.9"/>
+      <param name="skip-fill-level" value="false"/>
     </portion-size>
   </food>
   <food code="APJC" description="Apple juice" ndnsCode="2317">
-    <portion-size method="guide-image" description="in a glass" imageUrl="portion/placeholder.jpg">
-      <param name="guide-image-id" value="Gdrnk"/>
+    <portion-size method="drink-scale" description="in a glass" imageUrl="portion/gsoftdrnk.jpg">
+      <param name="drinkware-id" value="glasses_soft"/>
+      <param name="initial-fill-level" value="0.9"/>
+      <param name="skip-fill-level" value="false"/>
     </portion-size>
-    <portion-size method="guide-image" description="in a carton" imageUrl="portion/placeholder.jpg">
+    <portion-size method="guide-image" description="in a carton" imageUrl="portion/Gpopcarton.jpg">
       <param name="guide-image-id" value="Gpopcarton"/>
     </portion-size>
-    <portion-size method="guide-image" description="in a bottle" imageUrl="portion/placeholder.jpg">
+    <portion-size method="guide-image" description="in a bottle" imageUrl="portion/Gpopbottle.jpg">
       <param name="guide-image-id" value="Gpopbottle"/>
     </portion-size>
   </food>
   <food code="APOP" description="Alcopop e.g. Bacardi Breezer" ndnsCode="5396">
-    <portion-size method="guide-image" description="in a bottle" imageUrl="portion/placeholder.jpg">
+    <portion-size method="guide-image" description="in a bottle" imageUrl="portion/Gbeerbot.jpg">
       <param name="guide-image-id" value="Gbeerbot"/>
     </portion-size>
-    <portion-size method="guide-image" description="in a can" imageUrl="portion/placeholder.jpg">
+    <portion-size method="guide-image" description="in a can" imageUrl="portion/Galccans.jpg">
       <param name="guide-image-id" value="Galccans"/>
+    </portion-size>
+    <portion-size method="drink-scale" description="in a glass" imageUrl="portion/gsoftdrnk.jpg">
+      <param name="drinkware-id" value="glasses_soft"/>
+      <param name="initial-fill-level" value="0.9"/>
+      <param name="skip-fill-level" value="false"/>
     </portion-size>
   </food>
   <food code="APRC" description="Apricots, tinned in syrup" ndnsCode="1972">
@@ -155,11 +181,11 @@
     </portion-size>
   </food>
   <food code="APSE" description="Apple sauce" ndnsCode="2159">
-    <portion-size method="as-served" description="No description" imageUrl="portion/placeholder.jpg">
+    <portion-size method="as-served" description="stewed apple" imageUrl="portion/PStApl12.jpg">
       <param name="serving-image-set" value="apple_stewed"/>
       <param name="leftovers-image-set" value="apple_stewed_leftovers"/>
     </portion-size>
-    <portion-size method="standard-portion" description="spoonfuls" imageUrl="portion/placeholder.jpg">
+    <portion-size method="standard-portion" description="spoonfuls" imageUrl="standard-portion.jpg">
       <param name="units-count" value="2"/>
       <param name="unit0-name" value="teaspoons"/>
       <param name="unit0-weight" value="8.0"/>
@@ -261,11 +287,16 @@
     </portion-size>
   </food>
   <food code="BBNC" description="Best bitter, e.g. Boddingtons" ndnsCode="8336">
-    <portion-size method="guide-image" description="in a bottle" imageUrl="portion/placeholder.jpg">
+    <portion-size method="guide-image" description="in a bottle" imageUrl="portion/Gbeerbot.jpg">
       <param name="guide-image-id" value="Gbeerbot"/>
     </portion-size>
-    <portion-size method="guide-image" description="in a can" imageUrl="portion/placeholder.jpg">
+    <portion-size method="guide-image" description="in a can" imageUrl="portion/Galccans.jpg">
       <param name="guide-image-id" value="Galccans"/>
+    </portion-size>
+    <portion-size method="drink-scale" description="in a glass" imageUrl="portion/gbeer.jpg">
+      <param name="drinkware-id" value="glasses_beer"/>
+      <param name="initial-fill-level" value="0.9"/>
+      <param name="skip-fill-level" value="false"/>
     </portion-size>
   </food>
   <food code="BBPD" description="Bread and butter pudding" ndnsCode="6939">
@@ -275,11 +306,11 @@
     </portion-size>
   </food>
   <food code="BBQS" description="BBQ sauce" ndnsCode="2409">
-    <portion-size method="as-served" description="No description" imageUrl="portion/placeholder.jpg">
+    <portion-size method="as-served" description="dollops" imageUrl="portion/421.jpg">
       <param name="serving-image-set" value="sauce_dollop"/>
       <param name="leftovers-image-set" value="sauce_dollop_leftovers"/>
     </portion-size>
-    <portion-size method="standard-portion" description="spoonfuls" imageUrl="portion/placeholder.jpg">
+    <portion-size method="standard-portion" description="spoonfuls" imageUrl="standard-portion.jpg">
       <param name="units-count" value="2"/>
       <param name="unit0-name" value="teaspoons"/>
       <param name="unit0-weight" value="10.7"/>
@@ -308,13 +339,15 @@
     </portion-size>
   </food>
   <food code="BCJC" description="Blackcurrant squash, e.g ribena" ndnsCode="5501">
-    <portion-size method="guide-image" description="No description" imageUrl="portion/placeholder.jpg">
-      <param name="guide-image-id" value="Gcans"/>
+    <portion-size method="drink-scale" description="in a glass" imageUrl="portion/gsoftdrnk.jpg">
+      <param name="drinkware-id" value="glasses_soft"/>
+      <param name="initial-fill-level" value="0.9"/>
+      <param name="skip-fill-level" value="false"/>
     </portion-size>
-    <portion-size method="guide-image" description="No description" imageUrl="portion/placeholder.jpg">
+    <portion-size method="guide-image" description="in a carton" imageUrl="portion/Gpopcarton.jpg">
       <param name="guide-image-id" value="Gpopcarton"/>
     </portion-size>
-    <portion-size method="guide-image" description="No description" imageUrl="portion/placeholder.jpg">
+    <portion-size method="guide-image" description="in a bottle" imageUrl="portion/Gpopbottle.jpg">
       <param name="guide-image-id" value="Gpopbottle"/>
     </portion-size>
   </food>
@@ -388,10 +421,10 @@
     </portion-size>
   </food>
   <food code="BEFF" description="Beef steak, fried" ndnsCode="9418">
-    <portion-size method="guide-image" description="No description" imageUrl="portion/placeholder.jpg">
+    <portion-size method="guide-image" description="burger" imageUrl="portion/Gbur.jpg">
       <param name="guide-image-id" value="Gbur"/>
     </portion-size>
-    <portion-size method="standard-portion" description="No description" imageUrl="portion/placeholder.jpg">
+    <portion-size method="standard-portion" description="standard portion" imageUrl="standard-portion.jpg">
       <param name="units-count" value="3"/>
       <param name="unit0-name" value="small steaks"/>
       <param name="unit0-weight" value="110.0"/>
@@ -405,10 +438,10 @@
     </portion-size>
   </food>
   <food code="BEFG" description="Beef steak, grilled" ndnsCode="9419">
-    <portion-size method="guide-image" description="No description" imageUrl="portion/placeholder.jpg">
+    <portion-size method="guide-image" description="burger" imageUrl="portion/Gbur.jpg">
       <param name="guide-image-id" value="Gbur"/>
     </portion-size>
-    <portion-size method="standard-portion" description="No description" imageUrl="portion/placeholder.jpg">
+    <portion-size method="standard-portion" description="standard portion" imageUrl="standard-portion.jpg">
       <param name="units-count" value="4"/>
       <param name="unit0-name" value="small steaks"/>
       <param name="unit0-weight" value="110.0"/>
@@ -450,11 +483,16 @@
     </portion-size>
   </food>
   <food code="BENC" description="Beer" ndnsCode="8339">
-    <portion-size method="guide-image" description="in a bottle" imageUrl="portion/placeholder.jpg">
+    <portion-size method="guide-image" description="in a bottle" imageUrl="portion/Gbeerbot.jpg">
       <param name="guide-image-id" value="Gbeerbot"/>
     </portion-size>
-    <portion-size method="guide-image" description="in a can" imageUrl="portion/placeholder.jpg">
+    <portion-size method="guide-image" description="in a can" imageUrl="portion/Galccans.jpg">
       <param name="guide-image-id" value="Galccans"/>
+    </portion-size>
+    <portion-size method="drink-scale" description="in a glass" imageUrl="portion/gbeer.jpg">
+      <param name="drinkware-id" value="glasses_beer"/>
+      <param name="initial-fill-level" value="0.9"/>
+      <param name="skip-fill-level" value="false"/>
     </portion-size>
   </food>
   <food code="BFCM" description="Beef chow mein" ndnsCode="1317">
@@ -492,28 +530,10 @@
     <portion-size method="guide-image" description="No description" imageUrl="portion/placeholder.jpg">
       <param name="guide-image-id" value="Gbcn"/>
     </portion-size>
-    <portion-size method="standard-portion" description="No description" imageUrl="portion/placeholder.jpg">
-      <param name="units-count" value="2"/>
-      <param name="unit0-name" value="thin slices"/>
-      <param name="unit0-weight" value="38.0"/>
-      <param name="unit0-omit-food-description" value="false"/>
-      <param name="unit1-name" value="thick slices"/>
-      <param name="unit1-weight" value="75.0"/>
-      <param name="unit1-omit-food-description" value="false"/>
-    </portion-size>
   </food>
   <food code="BGRG" description="Gammon rashers, grilled" ndnsCode="906">
     <portion-size method="guide-image" description="No description" imageUrl="portion/placeholder.jpg">
       <param name="guide-image-id" value="Gbcn"/>
-    </portion-size>
-    <portion-size method="standard-portion" description="No description" imageUrl="portion/placeholder.jpg">
-      <param name="units-count" value="2"/>
-      <param name="unit0-name" value="thin slices"/>
-      <param name="unit0-weight" value="38.0"/>
-      <param name="unit0-omit-food-description" value="false"/>
-      <param name="unit1-name" value="thick slices"/>
-      <param name="unit1-weight" value="75.0"/>
-      <param name="unit1-omit-food-description" value="false"/>
     </portion-size>
   </food>
   <food code="BGSF" description="Beef grillsteaks, fried or grilled" ndnsCode="1289">
@@ -826,10 +846,10 @@
     </portion-size>
   </food>
   <food code="BSGR" description="Brown sugar" ndnsCode="9379">
-    <portion-size method="guide-image" description="No description" imageUrl="portion/placeholder.jpg">
+    <portion-size method="guide-image" description="spoonfuls" imageUrl="portion/Gspn.jpg">
       <param name="guide-image-id" value="Gspn"/>
     </portion-size>
-    <portion-size method="standard-portion" description="No description" imageUrl="portion/placeholder.jpg">
+    <portion-size method="standard-portion" description="standard portion " imageUrl="standard-portion.jpg">
       <param name="units-count" value="2"/>
       <param name="unit0-name" value="teaspoons"/>
       <param name="unit0-weight" value="6.0"/>
@@ -891,7 +911,7 @@
     </portion-size>
   </food>
   <food code="BTEA" description="Black tea" ndnsCode="2314">
-    <portion-size method="drink-scale" description="in a cup/mug" imageUrl="portion/mugs.jpg">
+    <portion-size method="drink-scale" description="in a mug" imageUrl="portion/mugs.jpg">
       <param name="drinkware-id" value="mugs"/>
       <param name="initial-fill-level" value="0.85"/>
       <param name="skip-fill-level" value="true"/>
@@ -946,8 +966,13 @@
     </portion-size>
   </food>
   <food code="BUFW" description="Buckfast wine" ndnsCode="10766">
-    <portion-size method="guide-image" description="No description" imageUrl="portion/placeholder.jpg">
+    <portion-size method="guide-image" description="size of bottle" imageUrl="portion/Gwinebottle.jpg">
       <param name="guide-image-id" value="Gwinebottle"/>
+    </portion-size>
+    <portion-size method="drink-scale" description="in a glass" imageUrl="portion/gwine.jpg">
+      <param name="drinkware-id" value="glasses_wine"/>
+      <param name="initial-fill-level" value="0.9"/>
+      <param name="skip-fill-level" value="false"/>
     </portion-size>
   </food>
   <food code="BULG" description="Bulgur wheat" ndnsCode="7028">
@@ -975,11 +1000,11 @@
     </portion-size>
   </food>
   <food code="BWNS" description="Brown sauce" ndnsCode="2412">
-    <portion-size method="as-served" description="No description" imageUrl="portion/placeholder.jpg">
+    <portion-size method="as-served" description="dollops" imageUrl="portion/421.jpg">
       <param name="serving-image-set" value="sauce_dollop"/>
       <param name="leftovers-image-set" value="sauce_dollop_leftovers"/>
     </portion-size>
-    <portion-size method="standard-portion" description="spoonfuls" imageUrl="portion/placeholder.jpg">
+    <portion-size method="standard-portion" description="spoonfuls" imageUrl="standard-portion.jpg">
       <param name="units-count" value="2"/>
       <param name="unit0-name" value="teaspoons"/>
       <param name="unit0-weight" value="10.7"/>
@@ -990,14 +1015,15 @@
     </portion-size>
   </food>
   <food code="BWSQ" description="Barley water, ready to drink, diluted" ndnsCode="8491">
-    <portion-size method="as-served" description="No description" imageUrl="portion/placeholder.jpg">
-      <param name="serving-image-set" value="squash"/>
-      <param name="leftovers-image-set" value="squash_leftovers"/>
+    <portion-size method="drink-scale" description="in a glass" imageUrl="portion/gsoftdrnk.jpg">
+      <param name="drinkware-id" value="glasses_soft"/>
+      <param name="initial-fill-level" value="0.9"/>
+      <param name="skip-fill-level" value="false"/>
     </portion-size>
-    <portion-size method="guide-image" description="No description" imageUrl="portion/placeholder.jpg">
+    <portion-size method="guide-image" description="in a carton" imageUrl="portion/Gpopcarton.jpg">
       <param name="guide-image-id" value="Gpopcarton"/>
     </portion-size>
-    <portion-size method="guide-image" description="No description" imageUrl="portion/placeholder.jpg">
+    <portion-size method="guide-image" description="in a bottle" imageUrl="portion/Gpopbottle.jpg">
       <param name="guide-image-id" value="Gpopbottle"/>
     </portion-size>
   </food>
@@ -1027,7 +1053,19 @@
       <param name="leftovers-image-set" value="melon_leftovers"/>
     </portion-size>
   </food>
-  <food code="CARJ" description="Carrot juice" ndnsCode="2361"> </food>
+  <food code="CARJ" description="Carrot juice" ndnsCode="2361">
+    <portion-size method="drink-scale" description="in a glass" imageUrl="portion/gsoftdrnk.jpg">
+      <param name="drinkware-id" value="glasses_soft"/>
+      <param name="initial-fill-level" value="0.9"/>
+      <param name="skip-fill-level" value="false"/>
+    </portion-size>
+    <portion-size method="guide-image" description="in a carton" imageUrl="portion/Gpopcarton.jpg">
+      <param name="guide-image-id" value="Gpopcarton"/>
+    </portion-size>
+    <portion-size method="guide-image" description="in a bottle" imageUrl="portion/Gpopbottle.jpg">
+      <param name="guide-image-id" value="Gpopbottle"/>
+    </portion-size>
+  </food>
   <food code="CASE" description="Cappuccino made with semi-skimmed milk" ndnsCode="10577"> </food>
   <food code="CASK" description="Cappuccino made with skimmed milk" ndnsCode="8048"> </food>
   <food code="CASR" description="Cashew nuts" ndnsCode="2177">
@@ -1096,11 +1134,16 @@
     </portion-size>
   </food>
   <food code="CCAN" description="Continental lager, e.g. Grolsch" ndnsCode="2370">
-    <portion-size method="guide-image" description="in a bottle" imageUrl="portion/placeholder.jpg">
+    <portion-size method="guide-image" description="in a bottle" imageUrl="portion/Gbeerbot.jpg">
       <param name="guide-image-id" value="Gbeerbot"/>
     </portion-size>
-    <portion-size method="guide-image" description="in a can" imageUrl="portion/placeholder.jpg">
+    <portion-size method="guide-image" description="in a can" imageUrl="portion/Galccans.jpg">
       <param name="guide-image-id" value="Galccans"/>
+    </portion-size>
+    <portion-size method="drink-scale" description="in a glass" imageUrl="portion/gbeer.jpg">
+      <param name="drinkware-id" value="glasses_beer"/>
+      <param name="initial-fill-level" value="0.9"/>
+      <param name="skip-fill-level" value="false"/>
     </portion-size>
   </food>
   <food code="CCAS" description="Chocolate cake slice" ndnsCode="3082">
@@ -1123,10 +1166,6 @@
     </portion-size>
   </food>
   <food code="CCFL" description="Cottage cheese with additions e.g pineapple" ndnsCode="686">
-    <portion-size method="as-served" description="No description" imageUrl="portion/placeholder.jpg">
-      <param name="serving-image-set" value="eggs_scrambled"/>
-      <param name="leftovers-image-set" value="eggs_scrambled_leftovers"/>
-    </portion-size>
     <portion-size method="standard-portion" description="No description" imageUrl="portion/placeholder.jpg">
       <param name="units-count" value="4"/>
       <param name="unit0-name" value="tablespoons"/>
@@ -1150,11 +1189,11 @@
     </portion-size>
   </food>
   <food code="CCHS" description="Chilli chutney" ndnsCode="2416">
-    <portion-size method="as-served" description="dollops" imageUrl="portion/placeholder.jpg">
+    <portion-size method="as-served" description="dollops" imageUrl="portion/421.jpg">
       <param name="serving-image-set" value="sauce_dollop"/>
       <param name="leftovers-image-set" value="sauce_dollop_leftovers"/>
     </portion-size>
-    <portion-size method="standard-portion" description="spoonfuls" imageUrl="portion/placeholder.jpg">
+    <portion-size method="standard-portion" description="spoonfuls" imageUrl="standard-portion.jpg">
       <param name="units-count" value="2"/>
       <param name="unit0-name" value="teaspoons"/>
       <param name="unit0-weight" value="10.0"/>
@@ -1179,10 +1218,6 @@
     </portion-size>
   </food>
   <food code="CCLF" description="Cottage cheese, low fat" ndnsCode="7725">
-    <portion-size method="as-served" description="No description" imageUrl="portion/placeholder.jpg">
-      <param name="serving-image-set" value="eggs_scrambled"/>
-      <param name="leftovers-image-set" value="eggs_scrambled_leftovers"/>
-    </portion-size>
     <portion-size method="standard-portion" description="No description" imageUrl="portion/placeholder.jpg">
       <param name="units-count" value="4"/>
       <param name="unit0-name" value="tablespoons"/>
@@ -1215,7 +1250,15 @@
     </portion-size>
   </food>
   <food code="CCNM" description="Coconut milk" ndnsCode="8078">
-    <portion-size method="guide-image" description="No description" imageUrl="portion/placeholder.jpg">
+    <portion-size method="drink-scale" description="in a glass" imageUrl="portion/gsoftdrnk.jpg">
+      <param name="drinkware-id" value="glasses_soft"/>
+      <param name="initial-fill-level" value="0.9"/>
+      <param name="skip-fill-level" value="false"/>
+    </portion-size>
+    <portion-size method="guide-image" description="in a carton" imageUrl="portion/Gpopcarton.jpg">
+      <param name="guide-image-id" value="Gpopcarton"/>
+    </portion-size>
+    <portion-size method="guide-image" description="in a tin" imageUrl="portion/Gallcans.jpg">
       <param name="guide-image-id" value="Gallcans"/>
     </portion-size>
   </food>
@@ -1368,20 +1411,20 @@
     </portion-size>
   </food>
   <food code="CFAF" description="Chocolates e.g. Roses or Quality Street" ndnsCode="10427">
-    <portion-size method="guide-image" description="No description" imageUrl="portion/placeholder.jpg">
-      <param name="guide-image-id" value="Gcdmc"/>
-    </portion-size>
-    <portion-size method="standard-portion" description="No description" imageUrl="portion/placeholder.jpg">
+    <portion-size method="standard-portion" description="standard portion" imageUrl="standard-portion.jpg">
       <param name="units-count" value="3"/>
       <param name="unit0-name" value="chocolates"/>
       <param name="unit0-weight" value="8.0"/>
       <param name="unit0-omit-food-description" value="true"/>
-      <param name="unit1-name" value="standard boxes"/>
-      <param name="unit1-weight" value="350.0"/>
+      <param name="unit1-name" value="mini boxes"/>
+      <param name="unit1-weight" value="68.0"/>
       <param name="unit1-omit-food-description" value="false"/>
-      <param name="unit2-name" value="mini boxes"/>
-      <param name="unit2-weight" value="68.0"/>
+      <param name="unit2-name" value="standard boxes"/>
+      <param name="unit2-weight" value="350.0"/>
       <param name="unit2-omit-food-description" value="false"/>
+    </portion-size>
+    <portion-size method="guide-image" description="unwrappped chocolate" imageUrl="portion/Gcdmc.jpg">
+      <param name="guide-image-id" value="Gcdmc"/>
     </portion-size>
   </food>
   <food code="CFCI" description="Chocolate fairy cakes with icing" ndnsCode="7689">
@@ -1401,7 +1444,7 @@
     </portion-size>
   </food>
   <food code="CFFB" description="Black coffee" ndnsCode="2307">
-    <portion-size method="drink-scale" description="in a cup/mug" imageUrl="portion/mugs.jpg">
+    <portion-size method="drink-scale" description="in a mug" imageUrl="portion/mugs.jpg">
       <param name="drinkware-id" value="mugs"/>
       <param name="initial-fill-level" value="0.85"/>
       <param name="skip-fill-level" value="true"/>
@@ -1561,11 +1604,11 @@
     </portion-size>
   </food>
   <food code="CHLL" description="Chilli sauce" ndnsCode="9397">
-    <portion-size method="as-served" description="No description" imageUrl="portion/placeholder.jpg">
+    <portion-size method="as-served" description="dollops" imageUrl="portion/421.jpg">
       <param name="serving-image-set" value="sauce_dollop"/>
       <param name="leftovers-image-set" value="sauce_dollop_leftovers"/>
     </portion-size>
-    <portion-size method="standard-portion" description="spoonfuls" imageUrl="portion/placeholder.jpg">
+    <portion-size method="standard-portion" description="spoonfuls" imageUrl="standard-portion.jpg">
       <param name="units-count" value="2"/>
       <param name="unit0-name" value="teaspoons"/>
       <param name="unit0-weight" value="10.7"/>
@@ -1635,8 +1678,13 @@
     </portion-size>
   </food>
   <food code="CHPR" description="Champagne &amp; Prosecco" ndnsCode="2389">
-    <portion-size method="guide-image" description="in a bottle" imageUrl="portion/placeholder.jpg">
+    <portion-size method="guide-image" description="size of bottle" imageUrl="portion/Gwinebottle.jpg">
       <param name="guide-image-id" value="Gwinebottle"/>
+    </portion-size>
+    <portion-size method="drink-scale" description="in a glass" imageUrl="portion/gwine.jpg">
+      <param name="drinkware-id" value="glasses_wine"/>
+      <param name="initial-fill-level" value="0.9"/>
+      <param name="skip-fill-level" value="false"/>
     </portion-size>
   </food>
   <food code="CHPS" description="Cheese sauce" ndnsCode="5420">
@@ -1813,14 +1861,15 @@
     </portion-size>
   </food>
   <food code="CLUC" description="Fizzy energy drink, e.g. Relentless, Red bull" ndnsCode="5545">
-    <portion-size method="as-served" description="in a glass" imageUrl="portion/placeholder.jpg">
-      <param name="serving-image-set" value="squash"/>
-      <param name="leftovers-image-set" value="squash_leftovers"/>
+    <portion-size method="drink-scale" description="in a glass" imageUrl="portion/gsoftdrnk.jpg">
+      <param name="drinkware-id" value="glasses_soft"/>
+      <param name="initial-fill-level" value="0.9"/>
+      <param name="skip-fill-level" value="false"/>
     </portion-size>
-    <portion-size method="guide-image" description="in a can" imageUrl="portion/placeholder.jpg">
+    <portion-size method="guide-image" description="in a can" imageUrl="portion/Gpopcans.jpg">
       <param name="guide-image-id" value="Gpopcans"/>
     </portion-size>
-    <portion-size method="guide-image" description="in a bottle" imageUrl="portion/placeholder.jpg">
+    <portion-size method="guide-image" description="in a bottle" imageUrl="portion/Gpopbottle.jpg">
       <param name="guide-image-id" value="Gpopbottle"/>
     </portion-size>
   </food>
@@ -1859,14 +1908,22 @@
     </portion-size>
   </food>
   <food code="CMLI" description="Cream liqueurs e.g. Baileys" ndnsCode="2397">
-    <portion-size method="standard-portion" description="No description" imageUrl="portion/placeholder.jpg">
-      <param name="units-count" value="2"/>
+    <portion-size method="standard-portion" description="standard measure" imageUrl="standard-portion.jpg">
+      <param name="units-count" value="3"/>
       <param name="unit0-name" value="single measures"/>
-      <param name="unit0-weight" value="25.0"/>
+      <param name="unit0-weight" value="27.33"/>
       <param name="unit0-omit-food-description" value="false"/>
       <param name="unit1-name" value="double measures"/>
-      <param name="unit1-weight" value="50.0"/>
+      <param name="unit1-weight" value="54.65"/>
       <param name="unit1-omit-food-description" value="false"/>
+      <param name="unit2-name" value="treble measures"/>
+      <param name="unit2-weight" value="81.99"/>
+      <param name="unit2-omit-food-description" value="false"/>
+    </portion-size>
+    <portion-size method="drink-scale" description="in a glass" imageUrl="portion/gspirits.jpg">
+      <param name="drinkware-id" value="glasses_spirits"/>
+      <param name="initial-fill-level" value="0.9"/>
+      <param name="skip-fill-level" value="false"/>
     </portion-size>
   </food>
   <food code="CMSC" description="Mushroom soup, shop bought" ndnsCode="2472">
@@ -1910,13 +1967,15 @@
     </portion-size>
   </food>
   <food code="CNJC" description="Cranberry juice " ndnsCode="3846">
-    <portion-size method="guide-image" description="in a glass" imageUrl="portion/placeholder.jpg">
-      <param name="guide-image-id" value="Gdrnk"/>
+    <portion-size method="drink-scale" description="in a glass" imageUrl="portion/gsoftdrnk.jpg">
+      <param name="drinkware-id" value="glasses_soft"/>
+      <param name="initial-fill-level" value="0.9"/>
+      <param name="skip-fill-level" value="false"/>
     </portion-size>
-    <portion-size method="guide-image" description="in a carton" imageUrl="portion/placeholder.jpg">
+    <portion-size method="guide-image" description="in a carton" imageUrl="portion/Gpopcarton.jpg">
       <param name="guide-image-id" value="Gpopcarton"/>
     </portion-size>
-    <portion-size method="guide-image" description="in a bottle" imageUrl="portion/placeholder.jpg">
+    <portion-size method="guide-image" description="in a bottle" imageUrl="portion/Gpopbottle.jpg">
       <param name="guide-image-id" value="Gpopbottle"/>
     </portion-size>
   </food>
@@ -1991,14 +2050,15 @@
     </portion-size>
   </food>
   <food code="COLA" description="Cola, not diet, any flavour e.g. cherry cola" ndnsCode="7895">
-    <portion-size method="as-served" description="No description" imageUrl="portion/placeholder.jpg">
-      <param name="serving-image-set" value="squash"/>
-      <param name="leftovers-image-set" value="squash_leftovers"/>
+    <portion-size method="drink-scale" description="in a glass" imageUrl="portion/gsoftdrnk.jpg">
+      <param name="drinkware-id" value="glasses_soft"/>
+      <param name="initial-fill-level" value="0.9"/>
+      <param name="skip-fill-level" value="false"/>
     </portion-size>
-    <portion-size method="guide-image" description="No description" imageUrl="portion/placeholder.jpg">
+    <portion-size method="guide-image" description="in a can" imageUrl="portion/Gpopcans.jpg">
       <param name="guide-image-id" value="Gpopcans"/>
     </portion-size>
-    <portion-size method="guide-image" description="No description" imageUrl="portion/placeholder.jpg">
+    <portion-size method="guide-image" description="in a bottle" imageUrl="portion/Gpopbottle.jpg">
       <param name="guide-image-id" value="Gpopbottle"/>
     </portion-size>
   </food>
@@ -2033,12 +2093,12 @@
     </portion-size>
   </food>
   <food code="COSM" description="Coffee made with skimmed milk" ndnsCode="-1">
-    <portion-size method="drink-scale" description="in a mug" imageUrl="portion/placeholder.jpg">
+    <portion-size method="drink-scale" description="in a mug" imageUrl="portion/mugs.jpg">
       <param name="drinkware-id" value="mugs"/>
       <param name="initial-fill-level" value="0.85"/>
       <param name="skip-fill-level" value="true"/>
     </portion-size>
-    <portion-size method="drink-scale" description="in a takeaway cup" imageUrl="portion/placeholder.jpg">
+    <portion-size method="drink-scale" description="in a takeaway cup" imageUrl="portion/Ghotdrinks.jpg">
       <param name="drinkware-id" value="takeaway_cups_hot"/>
       <param name="initial-fill-level" value="0.85"/>
       <param name="skip-fill-level" value="true"/>
@@ -2082,13 +2142,15 @@
     </portion-size>
   </food>
   <food code="CPJB" description="Lemon / Pineapple juice, (squash) Already diltued and ready to drink " ndnsCode="8472">
-    <portion-size method="guide-image" description="No description" imageUrl="portion/placeholder.jpg">
-      <param name="guide-image-id" value="Gdrnk"/>
+    <portion-size method="drink-scale" description="in a glass" imageUrl="portion/gsoftdrnk.jpg">
+      <param name="drinkware-id" value="glasses_soft"/>
+      <param name="initial-fill-level" value="0.9"/>
+      <param name="skip-fill-level" value="false"/>
     </portion-size>
-    <portion-size method="guide-image" description="No description" imageUrl="portion/placeholder.jpg">
+    <portion-size method="guide-image" description="in a carton" imageUrl="portion/Gpopcarton.jpg">
       <param name="guide-image-id" value="Gpopcarton"/>
     </portion-size>
-    <portion-size method="guide-image" description="No description" imageUrl="portion/placeholder.jpg">
+    <portion-size method="guide-image" description="in a bottle" imageUrl="portion/Gpopbottle.jpg">
       <param name="guide-image-id" value="Gpopbottle"/>
     </portion-size>
   </food>
@@ -2196,10 +2258,10 @@
     </portion-size>
   </food>
   <food code="CRFR" description="Creme Fraiche" ndnsCode="3014">
-    <portion-size method="guide-image" description="No description" imageUrl="portion/placeholder.jpg">
+    <portion-size method="guide-image" description="spoonfuls" imageUrl="portion/Gspn.jpg">
       <param name="guide-image-id" value="Gspn"/>
     </portion-size>
-    <portion-size method="standard-portion" description="No description" imageUrl="portion/placeholder.jpg">
+    <portion-size method="standard-portion" description="standard portion" imageUrl="standard-portion.jpg">
       <param name="units-count" value="3"/>
       <param name="unit0-name" value="tablespoons"/>
       <param name="unit0-weight" value="40.0"/>
@@ -2237,10 +2299,10 @@
     </portion-size>
   </food>
   <food code="CRNB" description="Cranberry sauce" ndnsCode="9396">
-    <portion-size method="guide-image" description="No description" imageUrl="portion/placeholder.jpg">
+    <portion-size method="guide-image" description="spoonfuls" imageUrl="portion/Gspn.jpg">
       <param name="guide-image-id" value="Gspn"/>
     </portion-size>
-    <portion-size method="standard-portion" description="spoonfuls" imageUrl="portion/placeholder.jpg">
+    <portion-size method="standard-portion" description="standard portion" imageUrl="standard-portion.jpg">
       <param name="units-count" value="2"/>
       <param name="unit0-name" value="teaspoons"/>
       <param name="unit0-weight" value="8.0"/>
@@ -2310,7 +2372,19 @@
       <param name="unit0-omit-food-description" value="false"/>
     </portion-size>
   </food>
-  <food code="CRYJ" description="Cherry juice" ndnsCode="8144"> </food>
+  <food code="CRYJ" description="Cherry juice" ndnsCode="8144">
+    <portion-size method="drink-scale" description="in a glass" imageUrl="portion/gsoftdrnk.jpg">
+      <param name="drinkware-id" value="glasses_soft"/>
+      <param name="initial-fill-level" value="0.9"/>
+      <param name="skip-fill-level" value="false"/>
+    </portion-size>
+    <portion-size method="guide-image" description="in a carton" imageUrl="portion/Gpopcarton.jpg">
+      <param name="guide-image-id" value="Gpopcarton"/>
+    </portion-size>
+    <portion-size method="guide-image" description="in a bottle" imageUrl="portion/Gpopbottle.jpg">
+      <param name="guide-image-id" value="Gpopbottle"/>
+    </portion-size>
+  </food>
   <food code="CRYS" description="Curry sauce" ndnsCode="6678">
     <portion-size method="as-served" description="No description" imageUrl="portion/placeholder.jpg">
       <param name="serving-image-set" value="tomato_sauce"/>
@@ -2431,10 +2505,6 @@
     </portion-size>
   </food>
   <food code="CTCH" description="Cottage Cheese, plain" ndnsCode="687">
-    <portion-size method="as-served" description="No description" imageUrl="portion/placeholder.jpg">
-      <param name="serving-image-set" value="eggs_scrambled"/>
-      <param name="leftovers-image-set" value="eggs_scrambled_leftovers"/>
-    </portion-size>
     <portion-size method="standard-portion" description="No description" imageUrl="portion/placeholder.jpg">
       <param name="units-count" value="4"/>
       <param name="unit0-name" value="tablespoons"/>
@@ -2577,11 +2647,16 @@
     </portion-size>
   </food>
   <food code="DALC" description="Diet alcopop e.g. Diet Bacardi Breezer" ndnsCode="7006">
-    <portion-size method="guide-image" description="in a bottle" imageUrl="portion/placeholder.jpg">
+    <portion-size method="guide-image" description="in a bottle" imageUrl="portion/Gbeerbot.jpg">
       <param name="guide-image-id" value="Gbeerbot"/>
     </portion-size>
-    <portion-size method="guide-image" description="in a can" imageUrl="portion/placeholder.jpg">
+    <portion-size method="guide-image" description="in a can" imageUrl="portion/Galccans.jpg">
       <param name="guide-image-id" value="Galccans"/>
+    </portion-size>
+    <portion-size method="drink-scale" description="in a glass" imageUrl="portion/gsoftdrnk.jpg">
+      <param name="drinkware-id" value="glasses_soft"/>
+      <param name="initial-fill-level" value="0.9"/>
+      <param name="skip-fill-level" value="false"/>
     </portion-size>
   </food>
   <food code="DANI" description="Danish pastries" ndnsCode="318">
@@ -2601,10 +2676,10 @@
     </portion-size>
   </food>
   <food code="DBCR" description="Double cream" ndnsCode="634">
-    <portion-size method="guide-image" description="No description" imageUrl="portion/placeholder.jpg">
+    <portion-size method="guide-image" description="spoonfuls" imageUrl="portion/Gspn.jpg">
       <param name="guide-image-id" value="Gspn"/>
     </portion-size>
-    <portion-size method="standard-portion" description="No description" imageUrl="portion/placeholder.jpg">
+    <portion-size method="standard-portion" description="standard portion" imageUrl="standard-portion.jpg">
       <param name="units-count" value="4"/>
       <param name="unit0-name" value="tablespoons"/>
       <param name="unit0-weight" value="12.1"/>
@@ -2638,22 +2713,28 @@
     </portion-size>
   </food>
   <food code="DCCN" description="Dry cider e.g. Strongbow" ndnsCode="2379">
-    <portion-size method="guide-image" description="in a bottle" imageUrl="portion/placeholder.jpg">
+    <portion-size method="guide-image" description="in a bottle" imageUrl="portion/Gciderbot.jpg">
       <param name="guide-image-id" value="Gciderbot"/>
     </portion-size>
-    <portion-size method="guide-image" description="in a can" imageUrl="portion/placeholder.jpg">
+    <portion-size method="guide-image" description="in a can" imageUrl="portion/Galccans.jpg">
       <param name="guide-image-id" value="Galccans"/>
+    </portion-size>
+    <portion-size method="drink-scale" description="in a glass" imageUrl="portion/gbeer.jpg">
+      <param name="drinkware-id" value="glasses_beer"/>
+      <param name="initial-fill-level" value="0.9"/>
+      <param name="skip-fill-level" value="false"/>
     </portion-size>
   </food>
   <food code="DCLA" description="Diet cola, any flavour e.g. diet cherry coke" ndnsCode="7897">
-    <portion-size method="as-served" description="No description" imageUrl="portion/placeholder.jpg">
-      <param name="serving-image-set" value="squash"/>
-      <param name="leftovers-image-set" value="squash_leftovers"/>
+    <portion-size method="drink-scale" description="in a glass" imageUrl="portion/gsoftdrnk.jpg">
+      <param name="drinkware-id" value="glasses_soft"/>
+      <param name="initial-fill-level" value="0.9"/>
+      <param name="skip-fill-level" value="false"/>
     </portion-size>
-    <portion-size method="guide-image" description="No description" imageUrl="portion/placeholder.jpg">
+    <portion-size method="guide-image" description="in a can" imageUrl="portion/Gpopcans.jpg">
       <param name="guide-image-id" value="Gpopcans"/>
     </portion-size>
-    <portion-size method="guide-image" description="No description" imageUrl="portion/placeholder.jpg">
+    <portion-size method="guide-image" description="in a bottle" imageUrl="portion/Gpopbottle.jpg">
       <param name="guide-image-id" value="Gpopbottle"/>
     </portion-size>
   </food>
@@ -2815,25 +2896,20 @@
     </portion-size>
   </food>
   <food code="DHRB" description="Dried herbs" ndnsCode="9764">
-    <portion-size method="standard-portion" description="No description" imageUrl="portion/placeholder.jpg">
-      <param name="units-count" value="1"/>
-      <param name="unit0-name" value="teaspoons"/>
-      <param name="unit0-weight" value="1.0"/>
-      <param name="unit0-omit-food-description" value="false"/>
-    </portion-size>
     <portion-size method="guide-image" description="No description" imageUrl="portion/placeholder.jpg">
       <param name="guide-image-id" value="Gspn"/>
     </portion-size>
   </food>
   <food code="DINB" description="Diet irn bru" ndnsCode="8327">
-    <portion-size method="as-served" description="No description" imageUrl="portion/placeholder.jpg">
-      <param name="serving-image-set" value="squash"/>
-      <param name="leftovers-image-set" value="squash_leftovers"/>
+    <portion-size method="drink-scale" description="in a glass" imageUrl="portion/gsoftdrnk.jpg">
+      <param name="drinkware-id" value="glasses_soft"/>
+      <param name="initial-fill-level" value="0.9"/>
+      <param name="skip-fill-level" value="false"/>
     </portion-size>
-    <portion-size method="guide-image" description="No description" imageUrl="portion/placeholder.jpg">
+    <portion-size method="guide-image" description="in a can" imageUrl="portion/Gpopcans.jpg">
       <param name="guide-image-id" value="Gpopcans"/>
     </portion-size>
-    <portion-size method="guide-image" description="No description" imageUrl="portion/placeholder.jpg">
+    <portion-size method="guide-image" description="in a bottle" imageUrl="portion/Gpopbottle.jpg">
       <param name="guide-image-id" value="Gpopbottle"/>
     </portion-size>
   </food>
@@ -2847,14 +2923,15 @@
     </portion-size>
   </food>
   <food code="DLMD" description="Diet lemonade" ndnsCode="7899">
-    <portion-size method="as-served" description="No description" imageUrl="portion/placeholder.jpg">
-      <param name="serving-image-set" value="squash"/>
-      <param name="leftovers-image-set" value="squash_leftovers"/>
+    <portion-size method="drink-scale" description="in a glass" imageUrl="portion/gsoftdrnk.jpg">
+      <param name="drinkware-id" value="glasses_soft"/>
+      <param name="initial-fill-level" value="0.9"/>
+      <param name="skip-fill-level" value="false"/>
     </portion-size>
-    <portion-size method="guide-image" description="No description" imageUrl="portion/placeholder.jpg">
+    <portion-size method="guide-image" description="in a can" imageUrl="portion/Gpopcans.jpg">
       <param name="guide-image-id" value="Gpopcans"/>
     </portion-size>
-    <portion-size method="guide-image" description="No description" imageUrl="portion/placeholder.jpg">
+    <portion-size method="guide-image" description="in a bottle" imageUrl="portion/Gpopbottle.jpg">
       <param name="guide-image-id" value="Gpopbottle"/>
     </portion-size>
   </food>
@@ -2952,22 +3029,23 @@
     </portion-size>
   </food>
   <food code="DRPR" description="Dr Pepper " ndnsCode="7901">
-    <portion-size method="as-served" description="No description" imageUrl="portion/placeholder.jpg">
-      <param name="serving-image-set" value="squash"/>
-      <param name="leftovers-image-set" value="squash_leftovers"/>
+    <portion-size method="drink-scale" description="in a glass" imageUrl="portion/gsoftdrnk.jpg">
+      <param name="drinkware-id" value="glasses_soft"/>
+      <param name="initial-fill-level" value="0.9"/>
+      <param name="skip-fill-level" value="false"/>
     </portion-size>
-    <portion-size method="guide-image" description="No description" imageUrl="portion/placeholder.jpg">
+    <portion-size method="guide-image" description="in a can" imageUrl="portion/Gpopcans.jpg">
       <param name="guide-image-id" value="Gpopcans"/>
     </portion-size>
-    <portion-size method="guide-image" description="No description" imageUrl="portion/placeholder.jpg">
+    <portion-size method="guide-image" description="in a bottle" imageUrl="portion/Gpopbottle.jpg">
       <param name="guide-image-id" value="Gpopbottle"/>
     </portion-size>
   </food>
   <food code="DRSS" description="Salad dressing" ndnsCode="9391">
-    <portion-size method="guide-image" description="No description" imageUrl="portion/placeholder.jpg">
+    <portion-size method="guide-image" description="spoonfuls" imageUrl="portion/Gspn.jpg">
       <param name="guide-image-id" value="Gspn"/>
     </portion-size>
-    <portion-size method="standard-portion" description="No description" imageUrl="portion/placeholder.jpg">
+    <portion-size method="standard-portion" description="standard portion" imageUrl="standard-portion.jpg">
       <param name="units-count" value="2"/>
       <param name="unit0-name" value="teaspoons"/>
       <param name="unit0-weight" value="6.0"/>
@@ -3023,8 +3101,13 @@
     </portion-size>
   </food>
   <food code="DWWN" description="Dry white wine" ndnsCode="8354">
-    <portion-size method="guide-image" description="No description" imageUrl="portion/placeholder.jpg">
+    <portion-size method="guide-image" description="size of bottle" imageUrl="portion/Gwinebottle.jpg">
       <param name="guide-image-id" value="Gwinebottle"/>
+    </portion-size>
+    <portion-size method="drink-scale" description="in a glass" imageUrl="portion/gwine.jpg">
+      <param name="drinkware-id" value="glasses_wine"/>
+      <param name="initial-fill-level" value="0.9"/>
+      <param name="skip-fill-level" value="false"/>
     </portion-size>
   </food>
   <food code="EAPF" description="Apples - skin was not eaten" ndnsCode="1951">
@@ -3096,14 +3179,15 @@
     </portion-size>
   </food>
   <food code="EDLC" description="Energy drink, sugar free" ndnsCode="4176">
-    <portion-size method="as-served" description="in a glass" imageUrl="portion/placeholder.jpg">
-      <param name="serving-image-set" value="squash"/>
-      <param name="leftovers-image-set" value="squash_leftovers"/>
+    <portion-size method="drink-scale" description="in a glass" imageUrl="portion/gsoftdrnk.jpg">
+      <param name="drinkware-id" value="glasses_soft"/>
+      <param name="initial-fill-level" value="0.9"/>
+      <param name="skip-fill-level" value="false"/>
     </portion-size>
-    <portion-size method="guide-image" description="in a bottle" imageUrl="portion/placeholder.jpg">
+    <portion-size method="guide-image" description="in a bottle" imageUrl="portion/Gpopbottle.jpg">
       <param name="guide-image-id" value="Gpopbottle"/>
     </portion-size>
-    <portion-size method="guide-image" description="in a can" imageUrl="portion/placeholder.jpg">
+    <portion-size method="guide-image" description="in a can" imageUrl="portion/Gpopcans.jpg">
       <param name="guide-image-id" value="Gpopcans"/>
     </portion-size>
   </food>
@@ -3207,11 +3291,11 @@
     </portion-size>
   </food>
   <food code="EXLM" description="Extra light mayonnaise" ndnsCode="9206">
-    <portion-size method="as-served" description="No description" imageUrl="portion/placeholder.jpg">
+    <portion-size method="as-served" description="dollops" imageUrl="portion/421.jpg">
       <param name="serving-image-set" value="sauce_dollop"/>
       <param name="leftovers-image-set" value="sauce_dollop_leftovers"/>
     </portion-size>
-    <portion-size method="standard-portion" description="spoonfuls" imageUrl="portion/placeholder.jpg">
+    <portion-size method="standard-portion" description="spoonfuls" imageUrl="standard-portion.jpg">
       <param name="units-count" value="2"/>
       <param name="unit0-name" value="teaspoons"/>
       <param name="unit0-weight" value="8.9"/>
@@ -3333,16 +3417,16 @@
     </portion-size>
   </food>
   <food code="FFCC" description="Cream cheese, full fat" ndnsCode="2703">
-    <portion-size method="as-served" description="No description" imageUrl="portion/placeholder.jpg">
+    <portion-size method="as-served" description="spread on bread" imageUrl="portion/Gcsp04.jpg">
       <param name="serving-image-set" value="cream_cheese_spread"/>
     </portion-size>
-    <portion-size method="standard-portion" description="No description" imageUrl="portion/placeholder.jpg">
+    <portion-size method="standard-portion" description="spoons or tubs" imageUrl="standard-portion.jpg">
       <param name="units-count" value="4"/>
       <param name="unit0-name" value="tablespoons"/>
       <param name="unit0-weight" value="30.6"/>
       <param name="unit0-omit-food-description" value="false"/>
       <param name="unit1-name" value="mini tubs"/>
-      <param name="unit1-weight" value="120.0"/>
+      <param name="unit1-weight" value="35.0"/>
       <param name="unit1-omit-food-description" value="false"/>
       <param name="unit2-name" value="medium tubs"/>
       <param name="unit2-weight" value="200.0"/>
@@ -3383,25 +3467,28 @@
     </portion-size>
   </food>
   <food code="FFJD" description="Fizzy fruit juice drink" ndnsCode="8444">
-    <portion-size method="as-served" description="No description" imageUrl="portion/placeholder.jpg">
-      <param name="serving-image-set" value="squash"/>
-      <param name="leftovers-image-set" value="squash_leftovers"/>
+    <portion-size method="drink-scale" description="in a glass" imageUrl="portion/gsoftdrnk.jpg">
+      <param name="drinkware-id" value="glasses_soft"/>
+      <param name="initial-fill-level" value="0.9"/>
+      <param name="skip-fill-level" value="false"/>
     </portion-size>
-    <portion-size method="guide-image" description="No description" imageUrl="portion/placeholder.jpg">
+    <portion-size method="guide-image" description="in a can" imageUrl="portion/Gpopcans.jpg">
       <param name="guide-image-id" value="Gpopcans"/>
     </portion-size>
-    <portion-size method="guide-image" description="No description" imageUrl="portion/placeholder.jpg">
+    <portion-size method="guide-image" description="in a bottle" imageUrl="portion/Gpopbottle.jpg">
       <param name="guide-image-id" value="Gpopbottle"/>
     </portion-size>
   </food>
   <food code="FFJT" description="Fruit flavour juice, ready to drink " ndnsCode="8450">
-    <portion-size method="guide-image" description="No description" imageUrl="portion/placeholder.jpg">
-      <param name="guide-image-id" value="Gcans"/>
+    <portion-size method="drink-scale" description="in a glass" imageUrl="portion/gsoftdrnk.jpg">
+      <param name="drinkware-id" value="glasses_soft"/>
+      <param name="initial-fill-level" value="0.9"/>
+      <param name="skip-fill-level" value="false"/>
     </portion-size>
-    <portion-size method="guide-image" description="No description" imageUrl="portion/placeholder.jpg">
+    <portion-size method="guide-image" description="in a carton" imageUrl="portion/Gpopcarton.jpg">
       <param name="guide-image-id" value="Gpopcarton"/>
     </portion-size>
-    <portion-size method="guide-image" description="No description" imageUrl="portion/placeholder.jpg">
+    <portion-size method="guide-image" description="in a bottle" imageUrl="portion/Gpopbottle.jpg">
       <param name="guide-image-id" value="Gpopbottle"/>
     </portion-size>
   </food>
@@ -3450,12 +3537,6 @@
     </portion-size>
   </food>
   <food code="FHRB" description="Fresh herbs" ndnsCode="9223">
-    <portion-size method="standard-portion" description="No description" imageUrl="portion/placeholder.jpg">
-      <param name="units-count" value="1"/>
-      <param name="unit0-name" value="teaspoons"/>
-      <param name="unit0-weight" value="1.0"/>
-      <param name="unit0-omit-food-description" value="false"/>
-    </portion-size>
     <portion-size method="guide-image" description="No description" imageUrl="portion/placeholder.jpg">
       <param name="guide-image-id" value="Gspn"/>
     </portion-size>
@@ -3635,7 +3716,19 @@
       <param name="guide-image-id" value="Gsli"/>
     </portion-size>
   </food>
-  <food code="FRCI" description="Fruit cider" ndnsCode="8349"> </food>
+  <food code="FRCI" description="Fruit cider" ndnsCode="8349">
+    <portion-size method="guide-image" description="in a bottle" imageUrl="portion/Gciderbot.jpg">
+      <param name="guide-image-id" value="Gciderbot"/>
+    </portion-size>
+    <portion-size method="guide-image" description="in a can" imageUrl="portion/Galccans.jpg">
+      <param name="guide-image-id" value="Galccans"/>
+    </portion-size>
+    <portion-size method="drink-scale" description="in a glass" imageUrl="portion/gbeer.jpg">
+      <param name="drinkware-id" value="glasses_beer"/>
+      <param name="initial-fill-level" value="0.9"/>
+      <param name="skip-fill-level" value="false"/>
+    </portion-size>
+  </food>
   <food code="FRDN" description="Noodles fried (not supernoodles)" ndnsCode="2984">
     <portion-size method="as-served" description="No description" imageUrl="portion/placeholder.jpg">
       <param name="serving-image-set" value="noodles"/>
@@ -3909,11 +4002,11 @@
     </portion-size>
   </food>
   <food code="FTSC" description="Brown sauce e.g. HP fruity" ndnsCode="2412">
-    <portion-size method="as-served" description="No description" imageUrl="portion/placeholder.jpg">
+    <portion-size method="as-served" description="dollops" imageUrl="portion/421.jpg">
       <param name="serving-image-set" value="sauce_dollop"/>
       <param name="leftovers-image-set" value="sauce_dollop_leftovers"/>
     </portion-size>
-    <portion-size method="standard-portion" description="spoonfuls" imageUrl="portion/placeholder.jpg">
+    <portion-size method="standard-portion" description="spoonfuls" imageUrl="standard-portion.jpg">
       <param name="units-count" value="2"/>
       <param name="unit0-name" value="teaspoons"/>
       <param name="unit0-weight" value="10.7"/>
@@ -3952,7 +4045,19 @@
       <param name="guide-image-id" value="Ggalx"/>
     </portion-size>
   </food>
-  <food code="GFJU" description="Grapefruit juice" ndnsCode="2329"> </food>
+  <food code="GFJU" description="Grapefruit juice" ndnsCode="2329">
+    <portion-size method="drink-scale" description="in a glass" imageUrl="portion/gsoftdrnk.jpg">
+      <param name="drinkware-id" value="glasses_soft"/>
+      <param name="initial-fill-level" value="0.9"/>
+      <param name="skip-fill-level" value="false"/>
+    </portion-size>
+    <portion-size method="guide-image" description="in a carton" imageUrl="portion/Gpopcarton.jpg">
+      <param name="guide-image-id" value="Gpopcarton"/>
+    </portion-size>
+    <portion-size method="guide-image" description="in a bottle" imageUrl="portion/Gpopbottle.jpg">
+      <param name="guide-image-id" value="Gpopbottle"/>
+    </portion-size>
+  </food>
   <food code="GFRS" description="Grapefruit, tinned in syrup " ndnsCode="2047">
     <portion-size method="guide-image" description="size of tin" imageUrl="portion/Gallcans.jpg">
       <param name="guide-image-id" value="Gallcans"/>
@@ -3982,7 +4087,7 @@
       <param name="serving-image-set" value="sauce_dollop"/>
       <param name="leftovers-image-set" value="sauce_dollop_leftovers"/>
     </portion-size>
-    <portion-size method="standard-portion" description="spoonfuls" imageUrl="portion/placeholder.jpg">
+    <portion-size method="standard-portion" description="spoonfuls" imageUrl="standard-portion.jpg">
       <param name="units-count" value="2"/>
       <param name="unit0-name" value="teaspoons"/>
       <param name="unit0-weight" value="8.0"/>
@@ -3990,9 +4095,6 @@
       <param name="unit1-name" value="tablespoons"/>
       <param name="unit1-weight" value="34.5"/>
       <param name="unit1-omit-food-description" value="false"/>
-    </portion-size>
-    <portion-size method="guide-image" description="spoons" imageUrl="Gspn.jpg">
-      <param name="guide-image-id" value="Gspn"/>
     </portion-size>
   </food>
   <food code="GMUS" description="Garlic mushrooms" ndnsCode="2731">
@@ -4132,11 +4234,11 @@
     </portion-size>
   </food>
   <food code="GRLS" description="Gherkin relish" ndnsCode="10129">
-    <portion-size method="as-served" description="dollops" imageUrl="portion/placeholder.jpg">
+    <portion-size method="as-served" description="dollops" imageUrl="portion/421.jpg">
       <param name="serving-image-set" value="sauce_dollop"/>
       <param name="leftovers-image-set" value="sauce_dollop_leftovers"/>
     </portion-size>
-    <portion-size method="standard-portion" description="spoonfuls" imageUrl="portion/placeholder.jpg">
+    <portion-size method="standard-portion" description="spoonfuls" imageUrl="standard-portion.jpg">
       <param name="units-count" value="2"/>
       <param name="unit0-name" value="teaspoons"/>
       <param name="unit0-weight" value="10.0"/>
@@ -4168,21 +4270,12 @@
     <portion-size method="guide-image" description="No description" imageUrl="portion/placeholder.jpg">
       <param name="guide-image-id" value="Gham"/>
     </portion-size>
-    <portion-size method="standard-portion" description="No description" imageUrl="portion/placeholder.jpg">
-      <param name="units-count" value="2"/>
-      <param name="unit0-name" value="thin slices"/>
-      <param name="unit0-weight" value="30.0"/>
-      <param name="unit0-omit-food-description" value="false"/>
-      <param name="unit1-name" value="thick slices"/>
-      <param name="unit1-weight" value="50.0"/>
-      <param name="unit1-omit-food-description" value="false"/>
-    </portion-size>
   </food>
   <food code="GSYP" description="Golden syrup" ndnsCode="2206">
-    <portion-size method="guide-image" description="No description" imageUrl="portion/placeholder.jpg">
+    <portion-size method="guide-image" description="spoonfuls" imageUrl="portion/Gspn.jpg">
       <param name="guide-image-id" value="Gspn"/>
     </portion-size>
-    <portion-size method="standard-portion" description="No description" imageUrl="portion/placeholder.jpg">
+    <portion-size method="standard-portion" description="standard portion" imageUrl="standard-portion.jpg">
       <param name="units-count" value="2"/>
       <param name="unit0-name" value="teaspoons"/>
       <param name="unit0-weight" value="10.0"/>
@@ -4198,10 +4291,10 @@
     </portion-size>
   </food>
   <food code="GUAC" description="Guacamole" ndnsCode="8121">
-    <portion-size method="guide-image" description="spoonfuls" imageUrl="portion/placeholder.jpg">
+    <portion-size method="guide-image" description="spoonfuls" imageUrl="portion/Gspn.jpg">
       <param name="guide-image-id" value="Gspn"/>
     </portion-size>
-    <portion-size method="standard-portion" description="No description" imageUrl="portion/placeholder.jpg">
+    <portion-size method="standard-portion" description="standard portion" imageUrl="standard-portion.jpg">
       <param name="units-count" value="2"/>
       <param name="unit0-name" value="tablespoons"/>
       <param name="unit0-weight" value="27.0"/>
@@ -4256,11 +4349,11 @@
     </portion-size>
   </food>
   <food code="HBRL" description="Hamburger relish" ndnsCode="10129">
-    <portion-size method="as-served" description="dollops" imageUrl="portion/placeholder.jpg">
+    <portion-size method="as-served" description="dollops" imageUrl="portion/421.jpg">
       <param name="serving-image-set" value="sauce_dollop"/>
       <param name="leftovers-image-set" value="sauce_dollop_leftovers"/>
     </portion-size>
-    <portion-size method="standard-portion" description="spoonfuls" imageUrl="portion/placeholder.jpg">
+    <portion-size method="standard-portion" description="spoonfuls" imageUrl="standard-portion.jpg">
       <param name="units-count" value="2"/>
       <param name="unit0-name" value="teaspoons"/>
       <param name="unit0-weight" value="10.0"/>
@@ -4333,10 +4426,10 @@
     </portion-size>
   </food>
   <food code="HFFR" description="Creme fraiche, reduced fat" ndnsCode="6985">
-    <portion-size method="guide-image" description="No description" imageUrl="portion/placeholder.jpg">
+    <portion-size method="guide-image" description="spoonfuls" imageUrl="portion/Gspn.jpg">
       <param name="guide-image-id" value="Gspn"/>
     </portion-size>
-    <portion-size method="standard-portion" description="No description" imageUrl="portion/placeholder.jpg">
+    <portion-size method="standard-portion" description="standard portion" imageUrl="standard-portion.jpg">
       <param name="units-count" value="3"/>
       <param name="unit0-name" value="tablespoons"/>
       <param name="unit0-weight" value="40.0"/>
@@ -4350,13 +4443,15 @@
     </portion-size>
   </food>
   <food code="HJCB" description="High juice drink, ready to drink" ndnsCode="7914">
-    <portion-size method="guide-image" description="No description" imageUrl="portion/placeholder.jpg">
-      <param name="guide-image-id" value="Gdrnk"/>
+    <portion-size method="drink-scale" description="in a glass" imageUrl="portion/gsoftdrnk.jpg">
+      <param name="drinkware-id" value="glasses_soft"/>
+      <param name="initial-fill-level" value="0.9"/>
+      <param name="skip-fill-level" value="false"/>
     </portion-size>
-    <portion-size method="guide-image" description="No description" imageUrl="portion/placeholder.jpg">
+    <portion-size method="guide-image" description="in a carton" imageUrl="portion/Gpopcarton.jpg">
       <param name="guide-image-id" value="Gpopcarton"/>
     </portion-size>
-    <portion-size method="guide-image" description="No description" imageUrl="portion/placeholder.jpg">
+    <portion-size method="guide-image" description="in a bottle" imageUrl="portion/Gpopbottle.jpg">
       <param name="guide-image-id" value="Gpopbottle"/>
     </portion-size>
   </food>
@@ -4367,8 +4462,13 @@
     </portion-size>
   </food>
   <food code="HMWN" description="Homemade wine, any type" ndnsCode="9246">
-    <portion-size method="guide-image" description="No description" imageUrl="portion/placeholder.jpg">
+    <portion-size method="guide-image" description="size of bottle" imageUrl="portion/Gwinebottle.jpg">
       <param name="guide-image-id" value="Gwinebottle"/>
+    </portion-size>
+    <portion-size method="drink-scale" description="in a glass" imageUrl="portion/gwine.jpg">
+      <param name="drinkware-id" value="glasses_wine"/>
+      <param name="initial-fill-level" value="0.9"/>
+      <param name="skip-fill-level" value="false"/>
     </portion-size>
   </food>
   <food code="HNEY" description="Honey, spread on bread" ndnsCode="2214">
@@ -4448,10 +4548,10 @@
     </portion-size>
   </food>
   <food code="HOLS" description="Hollandaise sauce " ndnsCode="2755">
-    <portion-size method="guide-image" description="No description" imageUrl="portion/placeholder.jpg">
+    <portion-size method="guide-image" description="spoonfuls" imageUrl="portion/Gspn.jpg">
       <param name="guide-image-id" value="Gspn"/>
     </portion-size>
-    <portion-size method="standard-portion" description="spoonfuls" imageUrl="portion/placeholder.jpg">
+    <portion-size method="standard-portion" description="standard portion" imageUrl="standard-portion.jpg">
       <param name="units-count" value="2"/>
       <param name="unit0-name" value="teaspoons"/>
       <param name="unit0-weight" value="8.9"/>
@@ -4461,17 +4561,26 @@
       <param name="unit1-omit-food-description" value="false"/>
     </portion-size>
   </food>
-  <food code="HOME" description="Home brew (homemade beer)" ndnsCode="9247"> </food>
+  <food code="HOME" description="Home brew (homemade beer)" ndnsCode="9247">
+    <portion-size method="guide-image" description="in a bottle" imageUrl="portion/Gbeerbot.jpg">
+      <param name="guide-image-id" value="Gbeerbot"/>
+    </portion-size>
+    <portion-size method="drink-scale" description="in a glass" imageUrl="portion/gbeer.jpg">
+      <param name="drinkware-id" value="glasses_beer"/>
+      <param name="initial-fill-level" value="0.9"/>
+      <param name="skip-fill-level" value="false"/>
+    </portion-size>
+  </food>
   <food code="HOMF" description="Muffins, any flavour, low fat" ndnsCode="10074">
     <portion-size method="guide-image" description="No description" imageUrl="portion/placeholder.jpg">
       <param name="guide-image-id" value="Gcake"/>
     </portion-size>
   </food>
   <food code="HONY" description="Honey, in spoonfuls" ndnsCode="2214">
-    <portion-size method="guide-image" description="No description" imageUrl="portion/placeholder.jpg">
+    <portion-size method="guide-image" description="spoonfuls" imageUrl="portion/Gspn.jpg">
       <param name="guide-image-id" value="Gspn"/>
     </portion-size>
-    <portion-size method="standard-portion" description="No description" imageUrl="portion/placeholder.jpg">
+    <portion-size method="standard-portion" description="standard portion" imageUrl="standard-portion.jpg">
       <param name="units-count" value="2"/>
       <param name="unit0-name" value="teaspoons"/>
       <param name="unit0-weight" value="10.9"/>
@@ -4504,11 +4613,11 @@
     </portion-size>
   </food>
   <food code="HORS" description="Horseradish sauce " ndnsCode="2428">
-    <portion-size method="as-served" description="No description" imageUrl="portion/placeholder.jpg">
+    <portion-size method="as-served" description="dollops" imageUrl="portion/421.jpg">
       <param name="serving-image-set" value="sauce_dollop"/>
       <param name="leftovers-image-set" value="sauce_dollop_leftovers"/>
     </portion-size>
-    <portion-size method="standard-portion" description="spoonfuls" imageUrl="portion/placeholder.jpg">
+    <portion-size method="standard-portion" description="spoonfuls" imageUrl="standard-portion.jpg">
       <param name="units-count" value="2"/>
       <param name="unit0-name" value="teaspoons"/>
       <param name="unit0-weight" value="8.9"/>
@@ -4530,10 +4639,10 @@
     </portion-size>
   </food>
   <food code="HOTS" description="Hot sauce" ndnsCode="9398">
-    <portion-size method="guide-image" description="No description" imageUrl="portion/placeholder.jpg">
+    <portion-size method="guide-image" description="spoonfuls" imageUrl="portion/Gspn.jpg">
       <param name="guide-image-id" value="Gspn"/>
     </portion-size>
-    <portion-size method="standard-portion" description="No description" imageUrl="portion/placeholder.jpg">
+    <portion-size method="standard-portion" description="standard portion" imageUrl="standard-portion.jpg">
       <param name="units-count" value="2"/>
       <param name="unit0-name" value="teaspoons"/>
       <param name="unit0-weight" value="6.0"/>
@@ -4615,7 +4724,7 @@
     </portion-size>
   </food>
   <food code="HTEA" description="Herbal tea" ndnsCode="7000">
-    <portion-size method="drink-scale" description="in a cup/mug" imageUrl="portion/mugs.jpg">
+    <portion-size method="drink-scale" description="in a mug" imageUrl="portion/mugs.jpg">
       <param name="drinkware-id" value="mugs"/>
       <param name="initial-fill-level" value="0.85"/>
       <param name="skip-fill-level" value="true"/>
@@ -4627,10 +4736,10 @@
     </portion-size>
   </food>
   <food code="HUMS" description="Hummus" ndnsCode="1817">
-    <portion-size method="guide-image" description="spoonfuls" imageUrl="portion/placeholder.jpg">
+    <portion-size method="guide-image" description="spoonfuls" imageUrl="portion/Gspn.jpg">
       <param name="guide-image-id" value="Gspn"/>
     </portion-size>
-    <portion-size method="standard-portion" description="No description" imageUrl="portion/placeholder.jpg">
+    <portion-size method="standard-portion" description="standard portion" imageUrl="standard-portion.jpg">
       <param name="units-count" value="4"/>
       <param name="unit0-name" value="tablespoons"/>
       <param name="unit0-weight" value="30.0"/>
@@ -4681,7 +4790,19 @@
       <param name="unit0-omit-food-description" value="true"/>
     </portion-size>
   </food>
-  <food code="ICET" description="Iced tea" ndnsCode="10158"> </food>
+  <food code="ICET" description="Iced tea" ndnsCode="10158">
+    <portion-size method="guide-image" description="in a bottle" imageUrl="portion/Gpopbottle.jpg">
+      <param name="guide-image-id" value="Gpopbottle"/>
+    </portion-size>
+    <portion-size method="guide-image" description="in a can" imageUrl="portion/Gpopcans.jpg">
+      <param name="guide-image-id" value="Gpopcans"/>
+    </portion-size>
+    <portion-size method="drink-scale" description="in a glass" imageUrl="portion/gsoftdrnk.jpg">
+      <param name="drinkware-id" value="glasses_soft"/>
+      <param name="initial-fill-level" value="0.9"/>
+      <param name="skip-fill-level" value="false"/>
+    </portion-size>
+  </food>
   <food code="ICRM" description="Ice cream topping sauce" ndnsCode="2227">
     <portion-size method="guide-image" description="No description" imageUrl="portion/placeholder.jpg">
       <param name="guide-image-id" value="Gspn"/>
@@ -4735,14 +4856,15 @@
     </portion-size>
   </food>
   <food code="IRNB" description="Irn bru" ndnsCode="8325">
-    <portion-size method="as-served" description="No description" imageUrl="portion/placeholder.jpg">
-      <param name="serving-image-set" value="squash"/>
-      <param name="leftovers-image-set" value="squash_leftovers"/>
+    <portion-size method="drink-scale" description="in a glass" imageUrl="portion/gsoftdrnk.jpg">
+      <param name="drinkware-id" value="glasses_soft"/>
+      <param name="initial-fill-level" value="0.9"/>
+      <param name="skip-fill-level" value="false"/>
     </portion-size>
-    <portion-size method="guide-image" description="No description" imageUrl="portion/placeholder.jpg">
+    <portion-size method="guide-image" description="in a can" imageUrl="portion/Gpopcans.jpg">
       <param name="guide-image-id" value="Gpopcans"/>
     </portion-size>
-    <portion-size method="guide-image" description="No description" imageUrl="portion/placeholder.jpg">
+    <portion-size method="guide-image" description="in a bottle" imageUrl="portion/Gpopbottle.jpg">
       <param name="guide-image-id" value="Gpopbottle"/>
     </portion-size>
   </food>
@@ -4887,9 +5009,18 @@
     </portion-size>
   </food>
   <food code="KMSH" description="Milkshake made with skimmed milk" ndnsCode="3554">
-    <portion-size method="as-served" description="No description" imageUrl="portion/placeholder.jpg">
-      <param name="serving-image-set" value="milk_shake_2"/>
-      <param name="leftovers-image-set" value="milk_shake_2_leftovers"/>
+    <portion-size method="drink-scale" description="in a glass" imageUrl="portion/gsoftdrnk.jpg">
+      <param name="drinkware-id" value="glasses_soft"/>
+      <param name="initial-fill-level" value="0.9"/>
+      <param name="skip-fill-level" value="false"/>
+    </portion-size>
+    <portion-size method="guide-image" description="in a bottle" imageUrl="portion/Gshk1.jpg">
+      <param name="guide-image-id" value="Gshk1"/>
+    </portion-size>
+    <portion-size method="drink-scale" description="in a takeaway cup" imageUrl="portion/gcolddrinks.jpg">
+      <param name="drinkware-id" value="takeaway_cups_cold"/>
+      <param name="initial-fill-level" value="0.9"/>
+      <param name="skip-fill-level" value="false"/>
     </portion-size>
   </food>
   <food code="KPBK" description="Kipper" ndnsCode="1502">
@@ -4959,11 +5090,16 @@
     </portion-size>
   </food>
   <food code="LCNC" description="Low carb lager e.g. Pils" ndnsCode="8344">
-    <portion-size method="guide-image" description="in a bottle" imageUrl="portion/placeholder.jpg">
+    <portion-size method="guide-image" description="in a bottle" imageUrl="portion/Gbeerbot.jpg">
       <param name="guide-image-id" value="Gbeerbot"/>
     </portion-size>
-    <portion-size method="guide-image" description="in a can" imageUrl="portion/placeholder.jpg">
+    <portion-size method="guide-image" description="in a can" imageUrl="portion/Galccans.jpg">
       <param name="guide-image-id" value="Galccans"/>
+    </portion-size>
+    <portion-size method="drink-scale" description="in a glass" imageUrl="portion/gbeer.jpg">
+      <param name="drinkware-id" value="glasses_beer"/>
+      <param name="initial-fill-level" value="0.9"/>
+      <param name="skip-fill-level" value="false"/>
     </portion-size>
   </food>
   <food code="LCYC" description="Lucky charms" ndnsCode="8483">
@@ -4973,14 +5109,15 @@
     </portion-size>
   </food>
   <food code="LCZD" description="Lucozade" ndnsCode="3893">
-    <portion-size method="as-served" description="No description" imageUrl="portion/placeholder.jpg">
-      <param name="serving-image-set" value="squash"/>
-      <param name="leftovers-image-set" value="squash_leftovers"/>
+    <portion-size method="drink-scale" description="in a glass" imageUrl="portion/gsoftdrnk.jpg">
+      <param name="drinkware-id" value="glasses_soft"/>
+      <param name="initial-fill-level" value="0.9"/>
+      <param name="skip-fill-level" value="false"/>
     </portion-size>
-    <portion-size method="guide-image" description="No description" imageUrl="portion/placeholder.jpg">
+    <portion-size method="guide-image" description="in a can" imageUrl="portion/Gpopcans.jpg">
       <param name="guide-image-id" value="Gpopcans"/>
     </portion-size>
-    <portion-size method="guide-image" description="No description" imageUrl="portion/placeholder.jpg">
+    <portion-size method="guide-image" description="in a bottle" imageUrl="portion/Gpopbottle.jpg">
       <param name="guide-image-id" value="Gpopbottle"/>
     </portion-size>
   </food>
@@ -5027,10 +5164,10 @@
     </portion-size>
   </food>
   <food code="LFCC" description="Cream cheese, low fat" ndnsCode="6979">
-    <portion-size method="as-served" description="No description" imageUrl="portion/placeholder.jpg">
+    <portion-size method="as-served" description="spread on bread" imageUrl="portion/Gcsp04.jpg">
       <param name="serving-image-set" value="cream_cheese_spread"/>
     </portion-size>
-    <portion-size method="standard-portion" description="No description" imageUrl="portion/placeholder.jpg">
+    <portion-size method="standard-portion" description="spoons or tubs" imageUrl="standard-portion.jpg">
       <param name="units-count" value="4"/>
       <param name="unit0-name" value="tablespoons"/>
       <param name="unit0-weight" value="30.6"/>
@@ -5088,10 +5225,10 @@
     </portion-size>
   </food>
   <food code="LFRC" description="French Dressing, fat free" ndnsCode="2704">
-    <portion-size method="guide-image" description="No description" imageUrl="portion/placeholder.jpg">
+    <portion-size method="guide-image" description="spoonfuls" imageUrl="portion/Gspn.jpg">
       <param name="guide-image-id" value="Gspn"/>
     </portion-size>
-    <portion-size method="standard-portion" description="No description" imageUrl="portion/placeholder.jpg">
+    <portion-size method="standard-portion" description="standard portion" imageUrl="standard-portion.jpg">
       <param name="units-count" value="1"/>
       <param name="unit0-name" value="tablespoons"/>
       <param name="unit0-weight" value="15.0"/>
@@ -5123,7 +5260,7 @@
     </portion-size>
   </food>
   <food code="LIPI" description="Lime pickle" ndnsCode="2429">
-    <portion-size method="standard-portion" description="spoonfuls" imageUrl="portion/placeholder.jpg">
+    <portion-size method="standard-portion" description="spoonfuls" imageUrl="standard-portion.jpg">
       <param name="units-count" value="2"/>
       <param name="unit0-name" value="teaspoons"/>
       <param name="unit0-weight" value="10.0"/>
@@ -5132,7 +5269,7 @@
       <param name="unit1-weight" value="30.0"/>
       <param name="unit1-omit-food-description" value="false"/>
     </portion-size>
-    <portion-size method="as-served" description="dollops" imageUrl="portion/placeholder.jpg">
+    <portion-size method="as-served" description="dollops" imageUrl="portion/421.jpg">
       <param name="serving-image-set" value="sauce_dollop"/>
       <param name="leftovers-image-set" value="sauce_dollop_leftovers"/>
     </portion-size>
@@ -5143,8 +5280,16 @@
     </portion-size>
   </food>
   <food code="LJSB" description="Lime juice cordial, ready to drink already diluted" ndnsCode="8453">
-    <portion-size method="guide-image" description="No description" imageUrl="portion/placeholder.jpg">
-      <param name="guide-image-id" value="Gdrnk"/>
+    <portion-size method="drink-scale" description="in a glass" imageUrl="portion/gsoftdrnk.jpg">
+      <param name="drinkware-id" value="glasses_soft"/>
+      <param name="initial-fill-level" value="0.9"/>
+      <param name="skip-fill-level" value="false"/>
+    </portion-size>
+    <portion-size method="guide-image" description="in a carton" imageUrl="portion/Gpopcarton.jpg">
+      <param name="guide-image-id" value="Gpopcarton"/>
+    </portion-size>
+    <portion-size method="guide-image" description="in a bottle" imageUrl="portion/Gpopbottle.jpg">
+      <param name="guide-image-id" value="Gpopbottle"/>
     </portion-size>
   </food>
   <food code="LKSB" description="Leeks, boiled / steamed / microwaved" ndnsCode="1756">
@@ -5170,10 +5315,7 @@
     </portion-size>
   </food>
   <food code="LMMB" description="Lamb chops" ndnsCode="982">
-    <portion-size method="guide-image" description="No description" imageUrl="portion/placeholder.jpg">
-      <param name="guide-image-id" value="Gbur"/>
-    </portion-size>
-    <portion-size method="standard-portion" description="No description" imageUrl="portion/placeholder.jpg">
+    <portion-size method="standard-portion" description="standard portion" imageUrl="standard-portion.jpg">
       <param name="units-count" value="3"/>
       <param name="unit0-name" value="small chops"/>
       <param name="unit0-weight" value="40.0"/>
@@ -5192,14 +5334,15 @@
     </portion-size>
   </food>
   <food code="LMND" description="Lemonade " ndnsCode="2322">
-    <portion-size method="as-served" description="No description" imageUrl="portion/placeholder.jpg">
-      <param name="serving-image-set" value="squash"/>
-      <param name="leftovers-image-set" value="squash_leftovers"/>
+    <portion-size method="drink-scale" description="in a glass" imageUrl="portion/gsoftdrnk.jpg">
+      <param name="drinkware-id" value="glasses_soft"/>
+      <param name="initial-fill-level" value="0.9"/>
+      <param name="skip-fill-level" value="false"/>
     </portion-size>
-    <portion-size method="guide-image" description="No description" imageUrl="portion/placeholder.jpg">
+    <portion-size method="guide-image" description="in a can" imageUrl="portion/Gpopcans.jpg">
       <param name="guide-image-id" value="Gpopcans"/>
     </portion-size>
-    <portion-size method="guide-image" description="No description" imageUrl="portion/placeholder.jpg">
+    <portion-size method="guide-image" description="in a bottle" imageUrl="portion/Gpopbottle.jpg">
       <param name="guide-image-id" value="Gpopbottle"/>
     </portion-size>
   </food>
@@ -5227,7 +5370,19 @@
       <param name="unit0-omit-food-description" value="false"/>
     </portion-size>
   </food>
-  <food code="LOCJ" description="Cranberry juice, light" ndnsCode="3895"> </food>
+  <food code="LOCJ" description="Cranberry juice, light" ndnsCode="3895">
+    <portion-size method="drink-scale" description="in a glass" imageUrl="portion/gsoftdrnk.jpg">
+      <param name="drinkware-id" value="glasses_soft"/>
+      <param name="initial-fill-level" value="0.9"/>
+      <param name="skip-fill-level" value="false"/>
+    </portion-size>
+    <portion-size method="guide-image" description="in a carton" imageUrl="portion/Gpopcarton.jpg">
+      <param name="guide-image-id" value="Gpopcarton"/>
+    </portion-size>
+    <portion-size method="guide-image" description="in a bottle" imageUrl="portion/Gpopbottle.jpg">
+      <param name="guide-image-id" value="Gpopbottle"/>
+    </portion-size>
+  </food>
   <food code="LORN" description="Lorne sausage" ndnsCode="7786">
     <portion-size method="standard-portion" description="No description" imageUrl="portion/placeholder.jpg">
       <param name="units-count" value="3"/>
@@ -5355,11 +5510,11 @@
     </portion-size>
   </food>
   <food code="MAYO" description="Mayonnaise" ndnsCode="2432">
-    <portion-size method="as-served" description="No description" imageUrl="portion/placeholder.jpg">
+    <portion-size method="as-served" description="dollops" imageUrl="portion/421.jpg">
       <param name="serving-image-set" value="sauce_dollop"/>
       <param name="leftovers-image-set" value="sauce_dollop_leftovers"/>
     </portion-size>
-    <portion-size method="standard-portion" description="spoonfuls" imageUrl="portion/placeholder.jpg">
+    <portion-size method="standard-portion" description="spoonfuls" imageUrl="standard-portion.jpg">
       <param name="units-count" value="2"/>
       <param name="unit0-name" value="teaspoons"/>
       <param name="unit0-weight" value="8.9"/>
@@ -5397,11 +5552,11 @@
     </portion-size>
   </food>
   <food code="MCHS" description="Mango chutney" ndnsCode="2419">
-    <portion-size method="as-served" description="dollops" imageUrl="portion/placeholder.jpg">
+    <portion-size method="as-served" description="dollops" imageUrl="portion/421.jpg">
       <param name="serving-image-set" value="sauce_dollop"/>
       <param name="leftovers-image-set" value="sauce_dollop_leftovers"/>
     </portion-size>
-    <portion-size method="standard-portion" description="spoonfuls" imageUrl="portion/placeholder.jpg">
+    <portion-size method="standard-portion" description="spoonfuls" imageUrl="standard-portion.jpg">
       <param name="units-count" value="2"/>
       <param name="unit0-name" value="teaspoons"/>
       <param name="unit0-weight" value="10.0"/>
@@ -5454,15 +5609,23 @@
       <param name="leftovers-image-set" value="potatoes_mashed_leftovers"/>
     </portion-size>
   </food>
-  <food code="MELI" description="Medium liqueurs e.g. Tia Maria, Cr?me de menthe" ndnsCode="2399">
-    <portion-size method="standard-portion" description="No description" imageUrl="portion/placeholder.jpg">
-      <param name="units-count" value="2"/>
+  <food code="MELI" description="Medium liqueurs e.g. Tia Maria, Creme de menthe" ndnsCode="2399">
+    <portion-size method="standard-portion" description="standard measure" imageUrl="standard-portion.jpg">
+      <param name="units-count" value="3"/>
       <param name="unit0-name" value="single measures"/>
       <param name="unit0-weight" value="27.33"/>
       <param name="unit0-omit-food-description" value="false"/>
       <param name="unit1-name" value="double measures"/>
       <param name="unit1-weight" value="54.65"/>
       <param name="unit1-omit-food-description" value="false"/>
+      <param name="unit2-name" value="treble measures"/>
+      <param name="unit2-weight" value="81.99"/>
+      <param name="unit2-omit-food-description" value="false"/>
+    </portion-size>
+    <portion-size method="drink-scale" description="in a glass" imageUrl="portion/gspirits.jpg">
+      <param name="drinkware-id" value="glasses_spirits"/>
+      <param name="initial-fill-level" value="0.9"/>
+      <param name="skip-fill-level" value="false"/>
     </portion-size>
   </food>
   <food code="MFCN" description="Meat free chicken-style nuggets e.g. quorn nuggets " ndnsCode="8055">
@@ -5471,14 +5634,15 @@
     </portion-size>
   </food>
   <food code="MFJC" description="Mixed fruit juice, ready to drink" ndnsCode="2357">
-    <portion-size method="as-served" description="No description" imageUrl="portion/placeholder.jpg">
-      <param name="serving-image-set" value="squash"/>
-      <param name="leftovers-image-set" value="squash_leftovers"/>
+    <portion-size method="drink-scale" description="in a glass" imageUrl="portion/gsoftdrnk.jpg">
+      <param name="drinkware-id" value="glasses_soft"/>
+      <param name="initial-fill-level" value="0.9"/>
+      <param name="skip-fill-level" value="false"/>
     </portion-size>
-    <portion-size method="guide-image" description="No description" imageUrl="portion/placeholder.jpg">
+    <portion-size method="guide-image" description="in a carton" imageUrl="portion/Gpopcarton.jpg">
       <param name="guide-image-id" value="Gpopcarton"/>
     </portion-size>
-    <portion-size method="guide-image" description="No description" imageUrl="portion/placeholder.jpg">
+    <portion-size method="guide-image" description="in a bottle" imageUrl="portion/Gpopbottle.jpg">
       <param name="guide-image-id" value="Gpopbottle"/>
     </portion-size>
   </food>
@@ -5649,7 +5813,19 @@
       <param name="unit1-omit-food-description" value="false"/>
     </portion-size>
   </food>
-  <food code="MNGJ" description="Mango juice, e.g Rubicon " ndnsCode="9157"> </food>
+  <food code="MNGJ" description="Mango juice, e.g Rubicon " ndnsCode="9157">
+    <portion-size method="drink-scale" description="in a glass" imageUrl="portion/gsoftdrnk.jpg">
+      <param name="drinkware-id" value="glasses_soft"/>
+      <param name="initial-fill-level" value="0.9"/>
+      <param name="skip-fill-level" value="false"/>
+    </portion-size>
+    <portion-size method="guide-image" description="in a carton" imageUrl="portion/Gpopcarton.jpg">
+      <param name="guide-image-id" value="Gpopcarton"/>
+    </portion-size>
+    <portion-size method="guide-image" description="in a bottle" imageUrl="portion/Gpopbottle.jpg">
+      <param name="guide-image-id" value="Gpopbottle"/>
+    </portion-size>
+  </food>
   <food code="MNGO" description="Mango" ndnsCode="2078">
     <portion-size method="as-served" description="No description" imageUrl="portion/placeholder.jpg">
       <param name="serving-image-set" value="canned_fruit"/>
@@ -5677,10 +5853,10 @@
     </portion-size>
   </food>
   <food code="MNTS" description="Mint sauce" ndnsCode="2435">
-    <portion-size method="guide-image" description="No description" imageUrl="portion/placeholder.jpg">
+    <portion-size method="guide-image" description="spoonfuls" imageUrl="portion/Gspn.jpg">
       <param name="guide-image-id" value="Gspn"/>
     </portion-size>
-    <portion-size method="standard-portion" description="spoonfuls" imageUrl="portion/placeholder.jpg">
+    <portion-size method="standard-portion" description="standard portion" imageUrl="standard-portion.jpg">
       <param name="units-count" value="2"/>
       <param name="unit0-name" value="teaspoons"/>
       <param name="unit0-weight" value="7.0"/>
@@ -5821,10 +5997,10 @@
     </portion-size>
   </food>
   <food code="MSYP" description="Maple syrup" ndnsCode="8068">
-    <portion-size method="guide-image" description="No description" imageUrl="portion/placeholder.jpg">
+    <portion-size method="guide-image" description="spoonfuls" imageUrl="portion/Gspn.jpg">
       <param name="guide-image-id" value="Gspn"/>
     </portion-size>
-    <portion-size method="standard-portion" description="No description" imageUrl="portion/placeholder.jpg">
+    <portion-size method="standard-portion" description="standard portion" imageUrl="standard-portion.jpg">
       <param name="units-count" value="2"/>
       <param name="unit0-name" value="teaspoons"/>
       <param name="unit0-weight" value="10.0"/>
@@ -5864,8 +6040,13 @@
     </portion-size>
   </food>
   <food code="MULW" description="Mulled wine" ndnsCode="10402">
-    <portion-size method="guide-image" description="No description" imageUrl="portion/placeholder.jpg">
+    <portion-size method="guide-image" description="size of bottle" imageUrl="portion/Gwinebottle.jpg">
       <param name="guide-image-id" value="Gwinebottle"/>
+    </portion-size>
+    <portion-size method="drink-scale" description="in a glass" imageUrl="portion/gwine.jpg">
+      <param name="drinkware-id" value="glasses_wine"/>
+      <param name="initial-fill-level" value="0.9"/>
+      <param name="skip-fill-level" value="false"/>
     </portion-size>
   </food>
   <food code="MUNG" description="Mung beans" ndnsCode="8809">
@@ -5935,16 +6116,21 @@
     </portion-size>
   </food>
   <food code="MWWN" description="Medium white wine" ndnsCode="8355">
-    <portion-size method="guide-image" description="No description" imageUrl="portion/placeholder.jpg">
+    <portion-size method="guide-image" description="size of bottle" imageUrl="portion/Gwinebottle.jpg">
       <param name="guide-image-id" value="Gwinebottle"/>
+    </portion-size>
+    <portion-size method="drink-scale" description="in a glass" imageUrl="portion/gwine.jpg">
+      <param name="drinkware-id" value="glasses_wine"/>
+      <param name="initial-fill-level" value="0.9"/>
+      <param name="skip-fill-level" value="false"/>
     </portion-size>
   </food>
   <food code="MYOL" description="Light Mayonnaise" ndnsCode="2433">
-    <portion-size method="as-served" description="No description" imageUrl="portion/placeholder.jpg">
+    <portion-size method="as-served" description="dollops" imageUrl="portion/421.jpg">
       <param name="serving-image-set" value="sauce_dollop"/>
       <param name="leftovers-image-set" value="sauce_dollop_leftovers"/>
     </portion-size>
-    <portion-size method="standard-portion" description="spoonfuls" imageUrl="portion/placeholder.jpg">
+    <portion-size method="standard-portion" description="spoonfuls" imageUrl="standard-portion.jpg">
       <param name="units-count" value="2"/>
       <param name="unit0-name" value="teaspoons"/>
       <param name="unit0-weight" value="8.9"/>
@@ -5983,11 +6169,16 @@
     </portion-size>
   </food>
   <food code="NPCN" description="Non-premium lager, e.g. Carlsberg" ndnsCode="2368">
-    <portion-size method="guide-image" description="in a bottle" imageUrl="portion/placeholder.jpg">
+    <portion-size method="guide-image" description="in a bottle" imageUrl="portion/Gbeerbot.jpg">
       <param name="guide-image-id" value="Gbeerbot"/>
     </portion-size>
-    <portion-size method="guide-image" description="in a can" imageUrl="portion/placeholder.jpg">
+    <portion-size method="guide-image" description="in a can" imageUrl="portion/Galccans.jpg">
       <param name="guide-image-id" value="Galccans"/>
+    </portion-size>
+    <portion-size method="drink-scale" description="in a glass" imageUrl="portion/gbeer.jpg">
+      <param name="drinkware-id" value="glasses_beer"/>
+      <param name="initial-fill-level" value="0.9"/>
+      <param name="skip-fill-level" value="false"/>
     </portion-size>
   </food>
   <food code="NPTB" description="New potatoes skins eaten, boiled / steamed / microwaved," ndnsCode="1830">
@@ -6067,11 +6258,11 @@
     </portion-size>
   </food>
   <food code="OCHT" description="Onion chutney" ndnsCode="10129">
-    <portion-size method="as-served" description="dollops" imageUrl="portion/placeholder.jpg">
+    <portion-size method="as-served" description="dollops" imageUrl="portion/421.jpg">
       <param name="serving-image-set" value="sauce_dollop"/>
       <param name="leftovers-image-set" value="sauce_dollop_leftovers"/>
     </portion-size>
-    <portion-size method="standard-portion" description="spoonfuls" imageUrl="portion/placeholder.jpg">
+    <portion-size method="standard-portion" description="spoonfuls" imageUrl="standard-portion.jpg">
       <param name="units-count" value="2"/>
       <param name="unit0-name" value="teaspoons"/>
       <param name="unit0-weight" value="10.0"/>
@@ -6106,32 +6297,41 @@
     </portion-size>
   </food>
   <food code="OFDD" description="Other fizzy diet drink" ndnsCode="7903">
-    <portion-size method="guide-image" description="No description" imageUrl="portion/placeholder.jpg">
+    <portion-size method="drink-scale" description="in a glass" imageUrl="portion/gsoftdrnk.jpg">
+      <param name="drinkware-id" value="glasses_soft"/>
+      <param name="initial-fill-level" value="0.9"/>
+      <param name="skip-fill-level" value="false"/>
+    </portion-size>
+    <portion-size method="guide-image" description="in a can" imageUrl="portion/Gpopcans.jpg">
       <param name="guide-image-id" value="Gpopcans"/>
     </portion-size>
-    <portion-size method="guide-image" description="No description" imageUrl="portion/placeholder.jpg">
+    <portion-size method="guide-image" description="in a bottle" imageUrl="portion/Gpopbottle.jpg">
       <param name="guide-image-id" value="Gpopbottle"/>
     </portion-size>
   </food>
   <food code="OJCB" description="Fresh orange juice, not freshly squeezed " ndnsCode="2337">
-    <portion-size method="guide-image" description="in a glass" imageUrl="portion/placeholder.jpg">
-      <param name="guide-image-id" value="Gdrnk"/>
+    <portion-size method="drink-scale" description="in a glass" imageUrl="portion/gsoftdrnk.jpg">
+      <param name="drinkware-id" value="glasses_soft"/>
+      <param name="initial-fill-level" value="0.9"/>
+      <param name="skip-fill-level" value="false"/>
     </portion-size>
-    <portion-size method="guide-image" description="in a carton" imageUrl="portion/placeholder.jpg">
+    <portion-size method="guide-image" description="in a carton" imageUrl="portion/Gpopcarton.jpg">
       <param name="guide-image-id" value="Gpopcarton"/>
     </portion-size>
-    <portion-size method="guide-image" description="in a bottle" imageUrl="portion/placeholder.jpg">
+    <portion-size method="guide-image" description="in a bottle" imageUrl="portion/Gpopbottle.jpg">
       <param name="guide-image-id" value="Gpopbottle"/>
     </portion-size>
   </food>
   <food code="OJCC" description="Fresh orange juice, from concentrate" ndnsCode="2334">
-    <portion-size method="guide-image" description="in a glass" imageUrl="portion/placeholder.jpg">
-      <param name="guide-image-id" value="Gdrnk"/>
+    <portion-size method="drink-scale" description="in a glass" imageUrl="portion/gsoftdrnk.jpg">
+      <param name="drinkware-id" value="glasses_soft"/>
+      <param name="initial-fill-level" value="0.9"/>
+      <param name="skip-fill-level" value="false"/>
     </portion-size>
-    <portion-size method="guide-image" description="in a carton" imageUrl="portion/placeholder.jpg">
+    <portion-size method="guide-image" description="in a carton" imageUrl="portion/Gpopcarton.jpg">
       <param name="guide-image-id" value="Gpopcarton"/>
     </portion-size>
-    <portion-size method="guide-image" description="in a bottle" imageUrl="portion/placeholder.jpg">
+    <portion-size method="guide-image" description="in a bottle" imageUrl="portion/Gpopbottle.jpg">
       <param name="guide-image-id" value="Gpopbottle"/>
     </portion-size>
   </food>
@@ -6169,10 +6369,6 @@
     </portion-size>
   </food>
   <food code="OMCH" description="Cheese omelette" ndnsCode="771">
-    <portion-size method="as-served" description="No description" imageUrl="portion/placeholder.jpg">
-      <param name="serving-image-set" value="eggs_scrambled"/>
-      <param name="leftovers-image-set" value="eggs_scrambled_leftovers"/>
-    </portion-size>
     <portion-size method="standard-portion" description="No description" imageUrl="portion/placeholder.jpg">
       <param name="units-count" value="3"/>
       <param name="unit0-name" value="small omelette (1 egg)s"/>
@@ -6199,10 +6395,6 @@
       <param name="unit2-weight" value="240.0"/>
       <param name="unit2-omit-food-description" value="false"/>
     </portion-size>
-    <portion-size method="as-served" description="No description" imageUrl="portion/placeholder.jpg">
-      <param name="serving-image-set" value="eggs_scrambled"/>
-      <param name="leftovers-image-set" value="eggs_scrambled_leftovers"/>
-    </portion-size>
   </food>
   <food code="OMEM" description="Meat omelette" ndnsCode="775">
     <portion-size method="standard-portion" description="No description" imageUrl="portion/placeholder.jpg">
@@ -6217,10 +6409,6 @@
       <param name="unit2-weight" value="240.0"/>
       <param name="unit2-omit-food-description" value="false"/>
     </portion-size>
-    <portion-size method="as-served" description="No description" imageUrl="portion/placeholder.jpg">
-      <param name="serving-image-set" value="eggs_scrambled"/>
-      <param name="leftovers-image-set" value="eggs_scrambled_leftovers"/>
-    </portion-size>
   </food>
   <food code="OMEV" description="Vegetable omelette" ndnsCode="6172">
     <portion-size method="standard-portion" description="No description" imageUrl="portion/placeholder.jpg">
@@ -6234,10 +6422,6 @@
       <param name="unit2-name" value="large omelette (4 egg)s"/>
       <param name="unit2-weight" value="240.0"/>
       <param name="unit2-omit-food-description" value="false"/>
-    </portion-size>
-    <portion-size method="as-served" description="No description" imageUrl="portion/placeholder.jpg">
-      <param name="serving-image-set" value="eggs_scrambled"/>
-      <param name="leftovers-image-set" value="eggs_scrambled_leftovers"/>
     </portion-size>
   </food>
   <food code="ONBJ" description="Onion pakora/bhajia" ndnsCode="1797">
@@ -6357,22 +6541,24 @@
     </portion-size>
   </food>
   <food code="ORJB" description="Fresh orange juice, freshly squeezed" ndnsCode="2339">
-    <portion-size method="guide-image" description="No description" imageUrl="portion/placeholder.jpg">
-      <param name="guide-image-id" value="Gdrnk"/>
+    <portion-size method="drink-scale" description="in a glass" imageUrl="portion/gsoftdrnk.jpg">
+      <param name="drinkware-id" value="glasses_soft"/>
+      <param name="initial-fill-level" value="0.9"/>
+      <param name="skip-fill-level" value="false"/>
     </portion-size>
-    <portion-size method="guide-image" description="No description" imageUrl="portion/placeholder.jpg">
+    <portion-size method="guide-image" description="in a carton" imageUrl="portion/Gpopcarton.jpg">
       <param name="guide-image-id" value="Gpopcarton"/>
     </portion-size>
-    <portion-size method="guide-image" description="No description" imageUrl="portion/placeholder.jpg">
+    <portion-size method="guide-image" description="in a bottle" imageUrl="portion/Gpopbottle.jpg">
       <param name="guide-image-id" value="Gpopbottle"/>
     </portion-size>
   </food>
   <food code="ORLS" description="Onion relish" ndnsCode="10129">
-    <portion-size method="as-served" description="dollops" imageUrl="portion/placeholder.jpg">
+    <portion-size method="as-served" description="dollops" imageUrl="portion/421.jpg">
       <param name="serving-image-set" value="sauce_dollop"/>
       <param name="leftovers-image-set" value="sauce_dollop_leftovers"/>
     </portion-size>
-    <portion-size method="standard-portion" description="spoonfuls" imageUrl="portion/placeholder.jpg">
+    <portion-size method="standard-portion" description="spoonfuls" imageUrl="standard-portion.jpg">
       <param name="units-count" value="2"/>
       <param name="unit0-name" value="teaspoons"/>
       <param name="unit0-weight" value="10.0"/>
@@ -6392,13 +6578,15 @@
     </portion-size>
   </food>
   <food code="OSQB" description="Orange squash, ready to drink, diluted " ndnsCode="8453">
-    <portion-size method="guide-image" description="No description" imageUrl="portion/placeholder.jpg">
-      <param name="guide-image-id" value="Gdrnk"/>
+    <portion-size method="drink-scale" description="in a glass" imageUrl="portion/gsoftdrnk.jpg">
+      <param name="drinkware-id" value="glasses_soft"/>
+      <param name="initial-fill-level" value="0.9"/>
+      <param name="skip-fill-level" value="false"/>
     </portion-size>
-    <portion-size method="guide-image" description="No description" imageUrl="portion/placeholder.jpg">
+    <portion-size method="guide-image" description="in a carton" imageUrl="portion/Gpopcarton.jpg">
       <param name="guide-image-id" value="Gpopcarton"/>
     </portion-size>
-    <portion-size method="guide-image" description="No description" imageUrl="portion/placeholder.jpg">
+    <portion-size method="guide-image" description="in a bottle" imageUrl="portion/Gpopbottle.jpg">
       <param name="guide-image-id" value="Gpopbottle"/>
     </portion-size>
   </food>
@@ -6468,11 +6656,16 @@
     </portion-size>
   </food>
   <food code="PALE" description="Pale ale &amp; mild ale" ndnsCode="2362">
-    <portion-size method="guide-image" description="in a bottle" imageUrl="portion/placeholder.jpg">
+    <portion-size method="guide-image" description="in a bottle" imageUrl="portion/Gbeerbot.jpg">
       <param name="guide-image-id" value="Gbeerbot"/>
     </portion-size>
-    <portion-size method="guide-image" description="in a can" imageUrl="portion/placeholder.jpg">
+    <portion-size method="guide-image" description="in a can" imageUrl="portion/Galccans.jpg">
       <param name="guide-image-id" value="Galccans"/>
+    </portion-size>
+    <portion-size method="drink-scale" description="in a glass" imageUrl="portion/gbeer.jpg">
+      <param name="drinkware-id" value="glasses_beer"/>
+      <param name="initial-fill-level" value="0.9"/>
+      <param name="skip-fill-level" value="false"/>
     </portion-size>
   </food>
   <food code="PALM" description="Palm oil" ndnsCode="867">
@@ -6740,9 +6933,6 @@
     </portion-size>
   </food>
   <food code="PGLF" description="Pork chop" ndnsCode="1024">
-    <portion-size method="guide-image" description="No description" imageUrl="portion/placeholder.jpg">
-      <param name="guide-image-id" value="Gbur"/>
-    </portion-size>
     <portion-size method="standard-portion" description="No description" imageUrl="portion/placeholder.jpg">
       <param name="units-count" value="3"/>
       <param name="unit0-name" value="small chops"/>
@@ -6797,14 +6987,17 @@
     </portion-size>
   </food>
   <food code="PIMS" description="Pimms" ndnsCode="2406">
-    <portion-size method="standard-portion" description="No description" imageUrl="portion/placeholder.jpg">
-      <param name="units-count" value="2"/>
+    <portion-size method="standard-portion" description="No description" imageUrl="standard-portion.jpg">
+      <param name="units-count" value="3"/>
       <param name="unit0-name" value="single measures"/>
       <param name="unit0-weight" value="25.0"/>
       <param name="unit0-omit-food-description" value="false"/>
       <param name="unit1-name" value="double measures"/>
       <param name="unit1-weight" value="50.0"/>
       <param name="unit1-omit-food-description" value="false"/>
+      <param name="unit2-name" value="treble measures"/>
+      <param name="unit2-weight" value="75.0"/>
+      <param name="unit2-omit-food-description" value="false"/>
     </portion-size>
   </food>
   <food code="PINE" description="Pineapple" ndnsCode="2117">
@@ -6833,10 +7026,6 @@
     </portion-size>
   </food>
   <food code="PLAN" description="Plain omelette" ndnsCode="9334">
-    <portion-size method="as-served" description="No description" imageUrl="portion/placeholder.jpg">
-      <param name="serving-image-set" value="eggs_scrambled"/>
-      <param name="leftovers-image-set" value="eggs_scrambled_leftovers"/>
-    </portion-size>
     <portion-size method="standard-portion" description="No description" imageUrl="portion/placeholder.jpg">
       <param name="units-count" value="3"/>
       <param name="unit0-name" value="small omelette (1 egg)s"/>
@@ -6938,13 +7127,15 @@
     </portion-size>
   </food>
   <food code="PNJB" description="Pineapple juice " ndnsCode="2342">
-    <portion-size method="guide-image" description="in a glass" imageUrl="portion/placeholder.jpg">
-      <param name="guide-image-id" value="Gdrnk"/>
+    <portion-size method="drink-scale" description="in a glass" imageUrl="portion/gsoftdrnk.jpg">
+      <param name="drinkware-id" value="glasses_soft"/>
+      <param name="initial-fill-level" value="0.9"/>
+      <param name="skip-fill-level" value="false"/>
     </portion-size>
-    <portion-size method="guide-image" description="in a carton" imageUrl="portion/placeholder.jpg">
+    <portion-size method="guide-image" description="in a carton" imageUrl="portion/Gpopcarton.jpg">
       <param name="guide-image-id" value="Gpopcarton"/>
     </portion-size>
-    <portion-size method="guide-image" description="in a bottle" imageUrl="portion/placeholder.jpg">
+    <portion-size method="guide-image" description="in a bottle" imageUrl="portion/Gpopbottle.jpg">
       <param name="guide-image-id" value="Gpopbottle"/>
     </portion-size>
   </food>
@@ -7012,7 +7203,19 @@
       <param name="unit0-omit-food-description" value="false"/>
     </portion-size>
   </food>
-  <food code="POMJ" description="Pomegranate juice" ndnsCode="2132"> </food>
+  <food code="POMJ" description="Pomegranate juice" ndnsCode="2132">
+    <portion-size method="drink-scale" description="in a glass" imageUrl="portion/gsoftdrnk.jpg">
+      <param name="drinkware-id" value="glasses_soft"/>
+      <param name="initial-fill-level" value="0.9"/>
+      <param name="skip-fill-level" value="false"/>
+    </portion-size>
+    <portion-size method="guide-image" description="in a carton" imageUrl="portion/Gpopcarton.jpg">
+      <param name="guide-image-id" value="Gpopcarton"/>
+    </portion-size>
+    <portion-size method="guide-image" description="in a bottle" imageUrl="portion/Gpopbottle.jpg">
+      <param name="guide-image-id" value="Gpopbottle"/>
+    </portion-size>
+  </food>
   <food code="PONS" description="Pickled Onions" ndnsCode="2423">
     <portion-size method="standard-portion" description="No description" imageUrl="portion/placeholder.jpg">
       <param name="units-count" value="4"/>
@@ -7045,14 +7248,22 @@
     </portion-size>
   </food>
   <food code="PORT" description="Port" ndnsCode="2390">
-    <portion-size method="standard-portion" description="No description" imageUrl="portion/placeholder.jpg">
-      <param name="units-count" value="2"/>
+    <portion-size method="standard-portion" description="standard measure" imageUrl="standard-portion.jpg">
+      <param name="units-count" value="3"/>
       <param name="unit0-name" value="single measures"/>
-      <param name="unit0-weight" value="25.0"/>
+      <param name="unit0-weight" value="25.65"/>
       <param name="unit0-omit-food-description" value="false"/>
       <param name="unit1-name" value="double measures"/>
-      <param name="unit1-weight" value="50.0"/>
+      <param name="unit1-weight" value="51.3"/>
       <param name="unit1-omit-food-description" value="false"/>
+      <param name="unit2-name" value="treble measures"/>
+      <param name="unit2-weight" value="76.95"/>
+      <param name="unit2-omit-food-description" value="false"/>
+    </portion-size>
+    <portion-size method="drink-scale" description="in a glass" imageUrl="portion/gspirits.jpg">
+      <param name="drinkware-id" value="glasses_spirits"/>
+      <param name="initial-fill-level" value="0.9"/>
+      <param name="skip-fill-level" value="false"/>
     </portion-size>
   </food>
   <food code="POTD" description="Potato salad" ndnsCode="7862">
@@ -7133,13 +7344,30 @@
       <param name="unit0-omit-food-description" value="true"/>
     </portion-size>
   </food>
-  <food code="PRCI" description="Pear cider" ndnsCode="8349"> </food>
+  <food code="PRCI" description="Pear cider" ndnsCode="8349">
+    <portion-size method="guide-image" description="in a bottle" imageUrl="portion/Gciderbot.jpg">
+      <param name="guide-image-id" value="Gciderbot"/>
+    </portion-size>
+    <portion-size method="guide-image" description="in a can" imageUrl="portion/Galccans.jpg">
+      <param name="guide-image-id" value="Galccans"/>
+    </portion-size>
+    <portion-size method="drink-scale" description="in a glass" imageUrl="portion/gbeer.jpg">
+      <param name="drinkware-id" value="glasses_beer"/>
+      <param name="initial-fill-level" value="0.9"/>
+      <param name="skip-fill-level" value="false"/>
+    </portion-size>
+  </food>
   <food code="PRCN" description="Premium lager e.g. Amstel" ndnsCode="2369">
-    <portion-size method="guide-image" description="in a bottle" imageUrl="portion/placeholder.jpg">
+    <portion-size method="guide-image" description="in a bottle" imageUrl="portion/Gbeerbot.jpg">
       <param name="guide-image-id" value="Gbeerbot"/>
     </portion-size>
-    <portion-size method="guide-image" description="in a can" imageUrl="portion/placeholder.jpg">
+    <portion-size method="guide-image" description="in a can" imageUrl="portion/Galccans.jpg">
       <param name="guide-image-id" value="Galccans"/>
+    </portion-size>
+    <portion-size method="drink-scale" description="in a glass" imageUrl="portion/gbeer.jpg">
+      <param name="drinkware-id" value="glasses_beer"/>
+      <param name="initial-fill-level" value="0.9"/>
+      <param name="skip-fill-level" value="false"/>
     </portion-size>
   </food>
   <food code="PRDW" description="Porridge, made with water" ndnsCode="10284">
@@ -7245,7 +7473,19 @@
       <param name="leftovers-image-set" value="porridge_leftovers"/>
     </portion-size>
   </food>
-  <food code="PRUJ" description="Prune juice" ndnsCode="8640"> </food>
+  <food code="PRUJ" description="Prune juice" ndnsCode="8640">
+    <portion-size method="drink-scale" description="in a glass" imageUrl="portion/gsoftdrnk.jpg">
+      <param name="drinkware-id" value="glasses_soft"/>
+      <param name="initial-fill-level" value="0.9"/>
+      <param name="skip-fill-level" value="false"/>
+    </portion-size>
+    <portion-size method="guide-image" description="in a carton" imageUrl="portion/Gpopcarton.jpg">
+      <param name="guide-image-id" value="Gpopcarton"/>
+    </portion-size>
+    <portion-size method="guide-image" description="in a bottle" imageUrl="portion/Gpopbottle.jpg">
+      <param name="guide-image-id" value="Gpopbottle"/>
+    </portion-size>
+  </food>
   <food code="PRWM" description="Porridge, made with whole milk" ndnsCode="10338">
     <portion-size method="as-served" description="No description" imageUrl="portion/placeholder.jpg">
       <param name="serving-image-set" value="porridge"/>
@@ -7485,10 +7725,10 @@
     </portion-size>
   </food>
   <food code="RAIT" description="Raita" ndnsCode="1741">
-    <portion-size method="guide-image" description="spoonfuls" imageUrl="portion/placeholder.jpg">
+    <portion-size method="guide-image" description="spoonfuls" imageUrl="portion/Gspn.jpg">
       <param name="guide-image-id" value="Gspn"/>
     </portion-size>
-    <portion-size method="standard-portion" description="No description" imageUrl="portion/placeholder.jpg">
+    <portion-size method="standard-portion" description="standard portion" imageUrl="standard-portion.jpg">
       <param name="units-count" value="1"/>
       <param name="unit0-name" value="tablespoons"/>
       <param name="unit0-weight" value="24.0"/>
@@ -7496,11 +7736,16 @@
     </portion-size>
   </food>
   <food code="RANC" description="Real ales &amp; strong bitters" ndnsCode="8338">
-    <portion-size method="guide-image" description="in a bottle" imageUrl="portion/placeholder.jpg">
+    <portion-size method="guide-image" description="in a bottle" imageUrl="portion/Gbeerbot.jpg">
       <param name="guide-image-id" value="Gbeerbot"/>
     </portion-size>
-    <portion-size method="guide-image" description="in a can" imageUrl="portion/placeholder.jpg">
+    <portion-size method="guide-image" description="in a can" imageUrl="portion/Galccans.jpg">
       <param name="guide-image-id" value="Galccans"/>
+    </portion-size>
+    <portion-size method="drink-scale" description="in a glass" imageUrl="portion/gbeer.jpg">
+      <param name="drinkware-id" value="glasses_beer"/>
+      <param name="initial-fill-level" value="0.9"/>
+      <param name="skip-fill-level" value="false"/>
     </portion-size>
   </food>
   <food code="RASF" description="Raspberries, frozen" ndnsCode="2147">
@@ -7656,8 +7901,13 @@
     </portion-size>
   </food>
   <food code="RDWN" description="Red wine" ndnsCode="8352">
-    <portion-size method="guide-image" description="No description" imageUrl="portion/placeholder.jpg">
+    <portion-size method="guide-image" description="size of bottle" imageUrl="portion/Gwinebottle.jpg">
       <param name="guide-image-id" value="Gwinebottle"/>
+    </portion-size>
+    <portion-size method="drink-scale" description="in a glass" imageUrl="portion/gwine.jpg">
+      <param name="drinkware-id" value="glasses_wine"/>
+      <param name="initial-fill-level" value="0.9"/>
+      <param name="skip-fill-level" value="false"/>
     </portion-size>
   </food>
   <food code="REPD" description="Red pudding" ndnsCode="9097">
@@ -7675,15 +7925,23 @@
     </portion-size>
   </food>
   <food code="RFCM" description="Coconut milk, reduced fat" ndnsCode="7208">
-    <portion-size method="guide-image" description="No description" imageUrl="portion/placeholder.jpg">
+    <portion-size method="drink-scale" description="in a glass" imageUrl="portion/gsoftdrnk.jpg">
+      <param name="drinkware-id" value="glasses_soft"/>
+      <param name="initial-fill-level" value="0.9"/>
+      <param name="skip-fill-level" value="false"/>
+    </portion-size>
+    <portion-size method="guide-image" description="in a carton" imageUrl="portion/Gpopcarton.jpg">
+      <param name="guide-image-id" value="Gpopcarton"/>
+    </portion-size>
+    <portion-size method="guide-image" description="in a tin" imageUrl="portion/Gallcans.jpg">
       <param name="guide-image-id" value="Gallcans"/>
     </portion-size>
   </food>
   <food code="RFHU" description="Hummus, reduced fat" ndnsCode="2978">
-    <portion-size method="guide-image" description="spoonfuls" imageUrl="portion/placeholder.jpg">
+    <portion-size method="guide-image" description="spoonfuls" imageUrl="portion/Gspn.jpg">
       <param name="guide-image-id" value="Gspn"/>
     </portion-size>
-    <portion-size method="standard-portion" description="No description" imageUrl="portion/placeholder.jpg">
+    <portion-size method="standard-portion" description="standard portion" imageUrl="standard-portion.jpg">
       <param name="units-count" value="4"/>
       <param name="unit0-name" value="tablespoons"/>
       <param name="unit0-weight" value="30.0"/>
@@ -7782,8 +8040,13 @@
     </portion-size>
   </food>
   <food code="ROWN" description="Rose wine" ndnsCode="8353">
-    <portion-size method="guide-image" description="No description" imageUrl="portion/placeholder.jpg">
+    <portion-size method="guide-image" description="size of bottle" imageUrl="portion/Gwinebottle.jpg">
       <param name="guide-image-id" value="Gwinebottle"/>
+    </portion-size>
+    <portion-size method="drink-scale" description="in a glass" imageUrl="portion/gwine.jpg">
+      <param name="drinkware-id" value="glasses_wine"/>
+      <param name="initial-fill-level" value="0.9"/>
+      <param name="skip-fill-level" value="false"/>
     </portion-size>
   </food>
   <food code="RPMF" description="Roast Pork" ndnsCode="5323">
@@ -7951,11 +8214,11 @@
     </portion-size>
   </food>
   <food code="SCHS" description="Sweet chilli sauce" ndnsCode="8074">
-    <portion-size method="as-served" description="No description" imageUrl="portion/placeholder.jpg">
+    <portion-size method="as-served" description="dollops" imageUrl="portion/421.jpg">
       <param name="serving-image-set" value="sauce_dollop"/>
       <param name="leftovers-image-set" value="sauce_dollop_leftovers"/>
     </portion-size>
-    <portion-size method="standard-portion" description="spoonfuls" imageUrl="portion/placeholder.jpg">
+    <portion-size method="standard-portion" description="spoonfuls" imageUrl="standard-portion.jpg">
       <param name="units-count" value="2"/>
       <param name="unit0-name" value="teaspoons"/>
       <param name="unit0-weight" value="5.0"/>
@@ -7966,11 +8229,11 @@
     </portion-size>
   </food>
   <food code="SCJR" description="Chilli and jalapeno relish/ salsa" ndnsCode="10723">
-    <portion-size method="as-served" description="dollops" imageUrl="portion/placeholder.jpg">
+    <portion-size method="as-served" description="dollops" imageUrl="portion/421.jpg">
       <param name="serving-image-set" value="sauce_dollop"/>
       <param name="leftovers-image-set" value="sauce_dollop_leftovers"/>
     </portion-size>
-    <portion-size method="standard-portion" description="spoonfuls" imageUrl="portion/placeholder.jpg">
+    <portion-size method="standard-portion" description="spoonfuls" imageUrl="standard-portion.jpg">
       <param name="units-count" value="2"/>
       <param name="unit0-name" value="teaspoons"/>
       <param name="unit0-weight" value="10.0"/>
@@ -7981,14 +8244,15 @@
     </portion-size>
   </food>
   <food code="SCLZ" description="Still energy drink, eg Lucozade Hydroactive, Gatorade, Powerade " ndnsCode="8888">
-    <portion-size method="as-served" description="in a glass" imageUrl="portion/placeholder.jpg">
-      <param name="serving-image-set" value="squash"/>
-      <param name="leftovers-image-set" value="squash_leftovers"/>
+    <portion-size method="drink-scale" description="in a glass" imageUrl="portion/gsoftdrnk.jpg">
+      <param name="drinkware-id" value="glasses_soft"/>
+      <param name="initial-fill-level" value="0.9"/>
+      <param name="skip-fill-level" value="false"/>
     </portion-size>
-    <portion-size method="guide-image" description="in a can" imageUrl="portion/placeholder.jpg">
+    <portion-size method="guide-image" description="in a can" imageUrl="portion/Gpopcans.jpg">
       <param name="guide-image-id" value="Gpopcans"/>
     </portion-size>
-    <portion-size method="guide-image" description="in a bottle" imageUrl="portion/placeholder.jpg">
+    <portion-size method="guide-image" description="in a bottle" imageUrl="portion/Gpopbottle.jpg">
       <param name="guide-image-id" value="Gpopbottle"/>
     </portion-size>
   </food>
@@ -8012,11 +8276,11 @@
     </portion-size>
   </food>
   <food code="SCRL" description="Sweetcorn relish" ndnsCode="2415">
-    <portion-size method="as-served" description="dollops" imageUrl="portion/placeholder.jpg">
+    <portion-size method="as-served" description="dollops" imageUrl="portion/421.jpg">
       <param name="serving-image-set" value="sauce_dollop"/>
       <param name="leftovers-image-set" value="sauce_dollop_leftovers"/>
     </portion-size>
-    <portion-size method="standard-portion" description="spoonfuls" imageUrl="portion/placeholder.jpg">
+    <portion-size method="standard-portion" description="spoonfuls" imageUrl="standard-portion.jpg">
       <param name="units-count" value="2"/>
       <param name="unit0-name" value="teaspoons"/>
       <param name="unit0-weight" value="10.0"/>
@@ -8027,10 +8291,10 @@
     </portion-size>
   </food>
   <food code="SCRM" description="Sour cream based dips" ndnsCode="9366">
-    <portion-size method="guide-image" description="spoonfuls" imageUrl="portion/placeholder.jpg">
+    <portion-size method="guide-image" description="spoonfuls" imageUrl="portion/Gspn.jpg">
       <param name="guide-image-id" value="Gspn"/>
     </portion-size>
-    <portion-size method="standard-portion" description="No description" imageUrl="portion/placeholder.jpg">
+    <portion-size method="standard-portion" description="standard portion" imageUrl="standard-portion.jpg">
       <param name="units-count" value="2"/>
       <param name="unit0-name" value="tablespoons"/>
       <param name="unit0-weight" value="15.0"/>
@@ -8071,11 +8335,11 @@
     </portion-size>
   </food>
   <food code="SDCL" description="Light salad cream" ndnsCode="2442">
-    <portion-size method="as-served" description="No description" imageUrl="portion/placeholder.jpg">
+    <portion-size method="as-served" description="dollops" imageUrl="portion/421.jpg">
       <param name="serving-image-set" value="sauce_dollop"/>
       <param name="leftovers-image-set" value="sauce_dollop_leftovers"/>
     </portion-size>
-    <portion-size method="standard-portion" description="spoonfuls" imageUrl="portion/placeholder.jpg">
+    <portion-size method="standard-portion" description="spoonfuls" imageUrl="standard-portion.jpg">
       <param name="units-count" value="2"/>
       <param name="unit0-name" value="teaspoons"/>
       <param name="unit0-weight" value="10.7"/>
@@ -8086,11 +8350,11 @@
     </portion-size>
   </food>
   <food code="SEAS" description="Seafood sauce " ndnsCode="7921">
-    <portion-size method="as-served" description="No description" imageUrl="portion/placeholder.jpg">
+    <portion-size method="as-served" description="dollops" imageUrl="portion/421.jpg">
       <param name="serving-image-set" value="sauce_dollop"/>
       <param name="leftovers-image-set" value="sauce_dollop_leftovers"/>
     </portion-size>
-    <portion-size method="standard-portion" description="spoonfuls" imageUrl="portion/placeholder.jpg">
+    <portion-size method="standard-portion" description="spoonfuls" imageUrl="standard-portion.jpg">
       <param name="units-count" value="2"/>
       <param name="unit0-name" value="teaspoons"/>
       <param name="unit0-weight" value="8.9"/>
@@ -8127,8 +8391,16 @@
     </portion-size>
   </food>
   <food code="SHAN" description="Shandy" ndnsCode="2378">
-    <portion-size method="guide-image" description="No description" imageUrl="portion/placeholder.jpg">
+    <portion-size method="guide-image" description="in a bottle" imageUrl="portion/Gbeerbot.jpg">
+      <param name="guide-image-id" value="Gbeerbot"/>
+    </portion-size>
+    <portion-size method="guide-image" description="in a can" imageUrl="portion/Galccans.jpg">
       <param name="guide-image-id" value="Galccans"/>
+    </portion-size>
+    <portion-size method="drink-scale" description="in a glass" imageUrl="portion/gbeer.jpg">
+      <param name="drinkware-id" value="glasses_beer"/>
+      <param name="initial-fill-level" value="0.9"/>
+      <param name="skip-fill-level" value="false"/>
     </portion-size>
   </food>
   <food code="SHAR" description="Sharon fruit" ndnsCode="6479">
@@ -8161,8 +8433,15 @@
     </portion-size>
   </food>
   <food code="SHIC" description="Milk shake, with ice cream (shop bought)" ndnsCode="628">
-    <portion-size method="guide-image" description="No description" imageUrl="portion/placeholder.jpg">
-      <param name="guide-image-id" value="Gshk1"/>
+    <portion-size method="drink-scale" description="in a glass" imageUrl="portion/gsoftdrnk.jpg">
+      <param name="drinkware-id" value="glasses_soft"/>
+      <param name="initial-fill-level" value="0.9"/>
+      <param name="skip-fill-level" value="false"/>
+    </portion-size>
+    <portion-size method="drink-scale" description="in a takeaway cup" imageUrl="portion/gcolddrinks.jpg">
+      <param name="drinkware-id" value="takeaway_cups_cold"/>
+      <param name="initial-fill-level" value="0.9"/>
+      <param name="skip-fill-level" value="false"/>
     </portion-size>
   </food>
   <food code="SHMB" description="Smoked haddock poached in milk &amp; butter" ndnsCode="7820">
@@ -8230,19 +8509,34 @@
     </portion-size>
   </food>
   <food code="SHRY" description="Sherry" ndnsCode="2392">
-    <portion-size method="standard-portion" description="No description" imageUrl="portion/placeholder.jpg">
-      <param name="units-count" value="2"/>
+    <portion-size method="standard-portion" description="standard measure" imageUrl="standard-portion.jpg">
+      <param name="units-count" value="3"/>
       <param name="unit0-name" value="single measures"/>
-      <param name="unit0-weight" value="25.0"/>
+      <param name="unit0-weight" value="24.7"/>
       <param name="unit0-omit-food-description" value="false"/>
       <param name="unit1-name" value="double measures"/>
-      <param name="unit1-weight" value="50.0"/>
+      <param name="unit1-weight" value="49.4"/>
       <param name="unit1-omit-food-description" value="false"/>
+      <param name="unit2-name" value="treble measures"/>
+      <param name="unit2-weight" value="74.1"/>
+      <param name="unit2-omit-food-description" value="false"/>
+    </portion-size>
+    <portion-size method="drink-scale" description="in a glass" imageUrl="portion/gspirits.jpg">
+      <param name="drinkware-id" value="glasses_spirits"/>
+      <param name="initial-fill-level" value="0.9"/>
+      <param name="skip-fill-level" value="false"/>
     </portion-size>
   </food>
   <food code="SHTH" description="Milkshake, with no ice cream (shop bought)" ndnsCode="629">
-    <portion-size method="guide-image" description="No description" imageUrl="portion/placeholder.jpg">
-      <param name="guide-image-id" value="Gshk1"/>
+    <portion-size method="drink-scale" description="in a glass" imageUrl="portion/gsoftdrnk.jpg">
+      <param name="drinkware-id" value="glasses_soft"/>
+      <param name="initial-fill-level" value="0.9"/>
+      <param name="skip-fill-level" value="false"/>
+    </portion-size>
+    <portion-size method="drink-scale" description="in a takeaway cup" imageUrl="portion/gcolddrinks.jpg">
+      <param name="drinkware-id" value="takeaway_cups_cold"/>
+      <param name="initial-fill-level" value="0.9"/>
+      <param name="skip-fill-level" value="false"/>
     </portion-size>
   </food>
   <food code="SHWB" description="Shredded wheat, bitesize" ndnsCode="221">
@@ -8298,11 +8592,11 @@
     </portion-size>
   </food>
   <food code="SLDC" description="Salad cream" ndnsCode="2441">
-    <portion-size method="as-served" description="No description" imageUrl="portion/placeholder.jpg">
+    <portion-size method="as-served" description="dollops" imageUrl="portion/421.jpg">
       <param name="serving-image-set" value="sauce_dollop"/>
       <param name="leftovers-image-set" value="sauce_dollop_leftovers"/>
     </portion-size>
-    <portion-size method="standard-portion" description="spoonfuls" imageUrl="portion/placeholder.jpg">
+    <portion-size method="standard-portion" description="spoonfuls" imageUrl="standard-portion.jpg">
       <param name="units-count" value="2"/>
       <param name="unit0-name" value="teaspoons"/>
       <param name="unit0-weight" value="3.2"/>
@@ -8431,9 +8725,10 @@
     </portion-size>
   </food>
   <food code="SMSH" description="Milkshake made with powder and milk" ndnsCode="627">
-    <portion-size method="as-served" description="No description" imageUrl="portion/placeholder.jpg">
-      <param name="serving-image-set" value="milk_shake_2"/>
-      <param name="leftovers-image-set" value="milk_shake_2_leftovers"/>
+    <portion-size method="drink-scale" description="in a glass" imageUrl="portion/gsoftdrnk.jpg">
+      <param name="drinkware-id" value="glasses_soft"/>
+      <param name="initial-fill-level" value="0.9"/>
+      <param name="skip-fill-level" value="false"/>
     </portion-size>
   </food>
   <food code="SMSM" description="Smoked salmon" ndnsCode="1522">
@@ -8446,7 +8741,7 @@
       <param name="serving-image-set" value="sauce_dollop"/>
       <param name="leftovers-image-set" value="sauce_dollop_leftovers"/>
     </portion-size>
-    <portion-size method="standard-portion" description="spoonfuls" imageUrl="portion/placeholder.jpg">
+    <portion-size method="standard-portion" description="spoonfuls" imageUrl="standard-portion.jpg">
       <param name="units-count" value="2"/>
       <param name="unit0-name" value="teaspoons"/>
       <param name="unit0-weight" value="8.0"/>
@@ -8455,34 +8750,35 @@
       <param name="unit1-weight" value="34.5"/>
       <param name="unit1-omit-food-description" value="false"/>
     </portion-size>
-    <portion-size method="guide-image" description="spoons" imageUrl="Gspn.jpg">
-      <param name="guide-image-id" value="Gspn"/>
-    </portion-size>
   </food>
   <food code="SMTB" description="Fruit smoothie " ndnsCode="10038">
-    <portion-size method="guide-image" description="No description" imageUrl="portion/placeholder.jpg">
-      <param name="guide-image-id" value="Gdrnk"/>
+    <portion-size method="drink-scale" description="in a glass" imageUrl="portion/gsoftdrnk.jpg">
+      <param name="drinkware-id" value="glasses_soft"/>
+      <param name="initial-fill-level" value="0.9"/>
+      <param name="skip-fill-level" value="false"/>
     </portion-size>
-    <portion-size method="guide-image" description="No description" imageUrl="portion/placeholder.jpg">
+    <portion-size method="guide-image" description="in a carton" imageUrl="portion/Gpopcarton.jpg">
       <param name="guide-image-id" value="Gpopcarton"/>
     </portion-size>
-    <portion-size method="guide-image" description="No description" imageUrl="portion/placeholder.jpg">
+    <portion-size method="guide-image" description="in a bottle" imageUrl="portion/Gpopbottle.jpg">
       <param name="guide-image-id" value="Gpopbottle"/>
     </portion-size>
   </food>
   <food code="SMWB" description="Bottled mineral water, still or fizzy" ndnsCode="8333">
-    <portion-size method="guide-image" description="No description" imageUrl="portion/placeholder.jpg">
-      <param name="guide-image-id" value="Gdrnk"/>
+    <portion-size method="drink-scale" description="in a glass" imageUrl="portion/gsoftdrnk.jpg">
+      <param name="drinkware-id" value="glasses_soft"/>
+      <param name="initial-fill-level" value="0.9"/>
+      <param name="skip-fill-level" value="false"/>
     </portion-size>
-    <portion-size method="guide-image" description="No description" imageUrl="Gwatbottle.jpg">
+    <portion-size method="guide-image" description="in a bottle" imageUrl="Gwatbottle.jpg">
       <param name="guide-image-id" value="Gwatbottle"/>
     </portion-size>
   </food>
   <food code="SNCR" description="Single cream" ndnsCode="638">
-    <portion-size method="guide-image" description="No description" imageUrl="portion/placeholder.jpg">
+    <portion-size method="guide-image" description="spoonfuls" imageUrl="portion/Gspn.jpg">
       <param name="guide-image-id" value="Gspn"/>
     </portion-size>
-    <portion-size method="standard-portion" description="No description" imageUrl="portion/placeholder.jpg">
+    <portion-size method="standard-portion" description="standard portion" imageUrl="standard-portion.jpg">
       <param name="units-count" value="4"/>
       <param name="unit0-name" value="tablespoons"/>
       <param name="unit0-weight" value="15.0"/>
@@ -8527,14 +8823,15 @@
     </portion-size>
   </food>
   <food code="SNUP" description="Sprite/ 7 up" ndnsCode="9991">
-    <portion-size method="as-served" description="No description" imageUrl="portion/placeholder.jpg">
-      <param name="serving-image-set" value="squash"/>
-      <param name="leftovers-image-set" value="squash_leftovers"/>
+    <portion-size method="drink-scale" description="in a glass" imageUrl="portion/gsoftdrnk.jpg">
+      <param name="drinkware-id" value="glasses_soft"/>
+      <param name="initial-fill-level" value="0.9"/>
+      <param name="skip-fill-level" value="false"/>
     </portion-size>
-    <portion-size method="guide-image" description="No description" imageUrl="portion/placeholder.jpg">
+    <portion-size method="guide-image" description="in a can" imageUrl="portion/Gpopcans.jpg">
       <param name="guide-image-id" value="Gpopcans"/>
     </portion-size>
-    <portion-size method="guide-image" description="No description" imageUrl="portion/placeholder.jpg">
+    <portion-size method="guide-image" description="in a bottle" imageUrl="portion/Gpopbottle.jpg">
       <param name="guide-image-id" value="Gpopbottle"/>
     </portion-size>
   </food>
@@ -8694,7 +8991,7 @@
     </portion-size>
   </food>
   <food code="SPRT" description="Spirits e.g. whisky, gin, brandy, rum, vodka, bacardi, malibu" ndnsCode="2402">
-    <portion-size method="standard-portion" description="No description" imageUrl="portion/placeholder.jpg">
+    <portion-size method="standard-portion" description="standard measure" imageUrl="standard-portion.jpg">
       <param name="units-count" value="3"/>
       <param name="unit0-name" value="single measures"/>
       <param name="unit0-weight" value="23.75"/>
@@ -8705,6 +9002,11 @@
       <param name="unit2-name" value="treble measures"/>
       <param name="unit2-weight" value="71.25"/>
       <param name="unit2-omit-food-description" value="false"/>
+    </portion-size>
+    <portion-size method="drink-scale" description="in a glass" imageUrl="portion/gspirits.jpg">
+      <param name="drinkware-id" value="glasses_spirits"/>
+      <param name="initial-fill-level" value="0.9"/>
+      <param name="skip-fill-level" value="false"/>
     </portion-size>
   </food>
   <food code="SPTD" description="Spotted dick" ndnsCode="7713">
@@ -8740,10 +9042,10 @@
     </portion-size>
   </food>
   <food code="SRCR" description="Sour cream" ndnsCode="633">
-    <portion-size method="guide-image" description="No description" imageUrl="portion/placeholder.jpg">
+    <portion-size method="guide-image" description="spoonfuls" imageUrl="portion/Gspn.jpg">
       <param name="guide-image-id" value="Gspn"/>
     </portion-size>
-    <portion-size method="standard-portion" description="No description" imageUrl="portion/placeholder.jpg">
+    <portion-size method="standard-portion" description="standard portion" imageUrl="standard-portion.jpg">
       <param name="units-count" value="3"/>
       <param name="unit0-name" value="tablespoons"/>
       <param name="unit0-weight" value="40.0"/>
@@ -8777,11 +9079,16 @@
     </portion-size>
   </food>
   <food code="SSBC" description="Lager, special strong brew" ndnsCode="2371">
-    <portion-size method="guide-image" description="in a bottle" imageUrl="portion/placeholder.jpg">
+    <portion-size method="guide-image" description="in a bottle" imageUrl="portion/Gbeerbot.jpg">
       <param name="guide-image-id" value="Gbeerbot"/>
     </portion-size>
-    <portion-size method="guide-image" description="in a can" imageUrl="portion/placeholder.jpg">
+    <portion-size method="guide-image" description="in a can" imageUrl="portion/Galccans.jpg">
       <param name="guide-image-id" value="Galccans"/>
+    </portion-size>
+    <portion-size method="drink-scale" description="in a glass" imageUrl="portion/gbeer.jpg">
+      <param name="drinkware-id" value="glasses_beer"/>
+      <param name="initial-fill-level" value="0.9"/>
+      <param name="skip-fill-level" value="false"/>
     </portion-size>
   </food>
   <food code="SSBF" description="Beef Sausages, fried" ndnsCode="1276">
@@ -8950,22 +9257,35 @@
     </portion-size>
   </food>
   <food code="STLI" description="Strong liqueurs e.g. Pernod, Drambuie, Cointreau, Grand Marnier" ndnsCode="2400">
-    <portion-size method="standard-portion" description="No description" imageUrl="portion/placeholder.jpg">
-      <param name="units-count" value="2"/>
+    <portion-size method="standard-portion" description="standard measure" imageUrl="standard-portion.jpg">
+      <param name="units-count" value="3"/>
       <param name="unit0-name" value="single measures"/>
-      <param name="unit0-weight" value="25.0"/>
+      <param name="unit0-weight" value="23.75"/>
       <param name="unit0-omit-food-description" value="false"/>
       <param name="unit1-name" value="double measures"/>
-      <param name="unit1-weight" value="50.0"/>
+      <param name="unit1-weight" value="47.5"/>
       <param name="unit1-omit-food-description" value="false"/>
+      <param name="unit2-name" value="treble measures"/>
+      <param name="unit2-weight" value="71.25"/>
+      <param name="unit2-omit-food-description" value="false"/>
+    </portion-size>
+    <portion-size method="drink-scale" description="in a glass" imageUrl="portion/gspirits.jpg">
+      <param name="drinkware-id" value="glasses_spirits"/>
+      <param name="initial-fill-level" value="0.9"/>
+      <param name="skip-fill-level" value="false"/>
     </portion-size>
   </food>
   <food code="STNC" description="Stout not canned, e.g. Guinness" ndnsCode="8334">
-    <portion-size method="guide-image" description="in a bottle" imageUrl="portion/placeholder.jpg">
+    <portion-size method="guide-image" description="in a bottle" imageUrl="portion/Gbeerbot.jpg">
       <param name="guide-image-id" value="Gbeerbot"/>
     </portion-size>
-    <portion-size method="guide-image" description="in a can" imageUrl="portion/placeholder.jpg">
+    <portion-size method="guide-image" description="in a can" imageUrl="portion/Galccans.jpg">
       <param name="guide-image-id" value="Galccans"/>
+    </portion-size>
+    <portion-size method="drink-scale" description="in a glass" imageUrl="portion/gbeer.jpg">
+      <param name="drinkware-id" value="glasses_beer"/>
+      <param name="initial-fill-level" value="0.9"/>
+      <param name="skip-fill-level" value="false"/>
     </portion-size>
   </food>
   <food code="STOV" description="Stovies" ndnsCode="5561">
@@ -8975,11 +9295,11 @@
     </portion-size>
   </food>
   <food code="STRL" description="Tomato relish" ndnsCode="2418">
-    <portion-size method="as-served" description="dollops" imageUrl="portion/placeholder.jpg">
+    <portion-size method="as-served" description="dollops" imageUrl="portion/421.jpg">
       <param name="serving-image-set" value="sauce_dollop"/>
       <param name="leftovers-image-set" value="sauce_dollop_leftovers"/>
     </portion-size>
-    <portion-size method="standard-portion" description="spoonfuls" imageUrl="portion/placeholder.jpg">
+    <portion-size method="standard-portion" description="spoonfuls" imageUrl="standard-portion.jpg">
       <param name="units-count" value="2"/>
       <param name="unit0-name" value="teaspoons"/>
       <param name="unit0-weight" value="10.0"/>
@@ -9043,11 +9363,16 @@
     </portion-size>
   </food>
   <food code="SWCD" description="Sweet/medium cider e.g. Woodpecker" ndnsCode="8349">
-    <portion-size method="guide-image" description="in a bottle" imageUrl="portion/placeholder.jpg">
+    <portion-size method="guide-image" description="in a bottle" imageUrl="portion/Gciderbot.jpg">
       <param name="guide-image-id" value="Gciderbot"/>
     </portion-size>
-    <portion-size method="guide-image" description="in a can" imageUrl="portion/placeholder.jpg">
+    <portion-size method="guide-image" description="in a can" imageUrl="portion/Galccans.jpg">
       <param name="guide-image-id" value="Galccans"/>
+    </portion-size>
+    <portion-size method="drink-scale" description="in a glass" imageUrl="portion/gbeer.jpg">
+      <param name="drinkware-id" value="glasses_beer"/>
+      <param name="initial-fill-level" value="0.9"/>
+      <param name="skip-fill-level" value="false"/>
     </portion-size>
   </food>
   <food code="SWDB" description="Swede, boiled / steamed / microwaved" ndnsCode="1921">
@@ -9063,8 +9388,13 @@
     </portion-size>
   </food>
   <food code="SWEW" description="Sweet white wine" ndnsCode="8356">
-    <portion-size method="guide-image" description="No description" imageUrl="portion/placeholder.jpg">
+    <portion-size method="guide-image" description="size of bottle" imageUrl="portion/Gwinebottle.jpg">
       <param name="guide-image-id" value="Gwinebottle"/>
+    </portion-size>
+    <portion-size method="drink-scale" description="in a glass" imageUrl="portion/gwine.jpg">
+      <param name="drinkware-id" value="glasses_wine"/>
+      <param name="initial-fill-level" value="0.9"/>
+      <param name="skip-fill-level" value="false"/>
     </portion-size>
   </food>
   <food code="SWIS" description="Swiss roll" ndnsCode="8564">
@@ -9096,8 +9426,13 @@
     </portion-size>
   </food>
   <food code="SWWN" description="Sparkling white wine" ndnsCode="8357">
-    <portion-size method="guide-image" description="No description" imageUrl="portion/placeholder.jpg">
+    <portion-size method="guide-image" description="size of bottle" imageUrl="portion/Gwinebottle.jpg">
       <param name="guide-image-id" value="Gwinebottle"/>
+    </portion-size>
+    <portion-size method="drink-scale" description="in a glass" imageUrl="portion/gwine.jpg">
+      <param name="drinkware-id" value="glasses_wine"/>
+      <param name="initial-fill-level" value="0.9"/>
+      <param name="skip-fill-level" value="false"/>
     </portion-size>
   </food>
   <food code="TABL" description="Tablet (fudge)" ndnsCode="7980">
@@ -9133,10 +9468,10 @@
     </portion-size>
   </food>
   <food code="TARA" description="Taramasalata" ndnsCode="1634">
-    <portion-size method="guide-image" description="spoonfuls" imageUrl="portion/placeholder.jpg">
+    <portion-size method="guide-image" description="spoonfuls" imageUrl="portion/Gspn.jpg">
       <param name="guide-image-id" value="Gspn"/>
     </portion-size>
-    <portion-size method="standard-portion" description="No description" imageUrl="portion/placeholder.jpg">
+    <portion-size method="standard-portion" description="standard portion" imageUrl="standard-portion.jpg">
       <param name="units-count" value="3"/>
       <param name="unit0-name" value="tablespoons"/>
       <param name="unit0-weight" value="45.0"/>
@@ -9150,11 +9485,11 @@
     </portion-size>
   </food>
   <food code="TARS" description="Tartare sauce" ndnsCode="9392">
-    <portion-size method="as-served" description="No description" imageUrl="portion/placeholder.jpg">
+    <portion-size method="as-served" description="dollops" imageUrl="portion/421.jpg">
       <param name="serving-image-set" value="sauce_dollop"/>
       <param name="leftovers-image-set" value="sauce_dollop_leftovers"/>
     </portion-size>
-    <portion-size method="standard-portion" description="spoonfuls" imageUrl="portion/placeholder.jpg">
+    <portion-size method="standard-portion" description="spoonfuls" imageUrl="standard-portion.jpg">
       <param name="units-count" value="2"/>
       <param name="unit0-name" value="teaspoons"/>
       <param name="unit0-weight" value="10.0"/>
@@ -9185,11 +9520,11 @@
     </portion-size>
   </food>
   <food code="TCHS" description="Tomato chutney" ndnsCode="2418">
-    <portion-size method="as-served" description="dollops" imageUrl="portion/placeholder.jpg">
+    <portion-size method="as-served" description="dollops" imageUrl="portion/421.jpg">
       <param name="serving-image-set" value="sauce_dollop"/>
       <param name="leftovers-image-set" value="sauce_dollop_leftovers"/>
     </portion-size>
-    <portion-size method="standard-portion" description="spoonfuls" imageUrl="portion/placeholder.jpg">
+    <portion-size method="standard-portion" description="spoonfuls" imageUrl="standard-portion.jpg">
       <param name="units-count" value="2"/>
       <param name="unit0-name" value="teaspoons"/>
       <param name="unit0-weight" value="10.0"/>
@@ -9210,10 +9545,10 @@
     </portion-size>
   </food>
   <food code="TGCP" description="Thai green curry paste " ndnsCode="9375">
-    <portion-size method="guide-image" description="No description" imageUrl="portion/placeholder.jpg">
+    <portion-size method="guide-image" description="spoonfuls" imageUrl="portion/Gspn.jpg">
       <param name="guide-image-id" value="Gspn"/>
     </portion-size>
-    <portion-size method="standard-portion" description="No description" imageUrl="portion/placeholder.jpg">
+    <portion-size method="standard-portion" description="standard portion" imageUrl="standard-portion.jpg">
       <param name="units-count" value="2"/>
       <param name="unit0-name" value="teaspoons"/>
       <param name="unit0-weight" value="8.0"/>
@@ -9224,10 +9559,10 @@
     </portion-size>
   </food>
   <food code="THIS" description="Thousand Island Dressing, reduced calorie" ndnsCode="7921">
-    <portion-size method="guide-image" description="No description" imageUrl="portion/placeholder.jpg">
+    <portion-size method="guide-image" description="spoonfuls" imageUrl="portion/Gspn.jpg">
       <param name="guide-image-id" value="Gspn"/>
     </portion-size>
-    <portion-size method="standard-portion" description="No description" imageUrl="portion/placeholder.jpg">
+    <portion-size method="standard-portion" description="standard portion" imageUrl="standard-portion.jpg">
       <param name="units-count" value="2"/>
       <param name="unit0-name" value="teaspoons"/>
       <param name="unit0-weight" value="6.0"/>
@@ -9238,10 +9573,10 @@
     </portion-size>
   </food>
   <food code="THOU" description="Thousand Island Dressing" ndnsCode="7921">
-    <portion-size method="guide-image" description="No description" imageUrl="portion/placeholder.jpg">
+    <portion-size method="guide-image" description="spoonfuls" imageUrl="portion/Gspn.jpg">
       <param name="guide-image-id" value="Gspn"/>
     </portion-size>
-    <portion-size method="standard-portion" description="No description" imageUrl="portion/placeholder.jpg">
+    <portion-size method="standard-portion" description="standard portion" imageUrl="standard-portion.jpg">
       <param name="units-count" value="2"/>
       <param name="unit0-name" value="teaspoons"/>
       <param name="unit0-weight" value="6.0"/>
@@ -9300,7 +9635,19 @@
       <param name="guide-image-id" value="Gorg"/>
     </portion-size>
   </food>
-  <food code="TNIC" description="Tonic water" ndnsCode="8378"> </food>
+  <food code="TNIC" description="Tonic water" ndnsCode="8378">
+    <portion-size method="drink-scale" description="in a glass" imageUrl="portion/gsoftdrnk.jpg">
+      <param name="drinkware-id" value="glasses_soft"/>
+      <param name="initial-fill-level" value="0.9"/>
+      <param name="skip-fill-level" value="false"/>
+    </portion-size>
+    <portion-size method="guide-image" description="in a can" imageUrl="portion/Gpopcans.jpg">
+      <param name="guide-image-id" value="Gpopcans"/>
+    </portion-size>
+    <portion-size method="guide-image" description="in a bottle" imageUrl="portion/Gpopbottle.jpg">
+      <param name="guide-image-id" value="Gpopbottle"/>
+    </portion-size>
+  </food>
   <food code="TNPB" description="Turnip, boiled / steamed / microwaved" ndnsCode="1941">
     <portion-size method="as-served" description="No description" imageUrl="portion/placeholder.jpg">
       <param name="serving-image-set" value="cars"/>
@@ -9344,13 +9691,15 @@
     </portion-size>
   </food>
   <food code="TOMB" description="Tomato juice " ndnsCode="2356">
-    <portion-size method="guide-image" description="in a glass" imageUrl="portion/placeholder.jpg">
-      <param name="guide-image-id" value="Gdrnk"/>
+    <portion-size method="drink-scale" description="in a glass" imageUrl="portion/gsoftdrnk.jpg">
+      <param name="drinkware-id" value="glasses_soft"/>
+      <param name="initial-fill-level" value="0.9"/>
+      <param name="skip-fill-level" value="false"/>
     </portion-size>
-    <portion-size method="guide-image" description="in a carton" imageUrl="portion/placeholder.jpg">
+    <portion-size method="guide-image" description="in a carton" imageUrl="portion/Gpopcarton.jpg">
       <param name="guide-image-id" value="Gpopcarton"/>
     </portion-size>
-    <portion-size method="guide-image" description="in a bottle" imageUrl="portion/placeholder.jpg">
+    <portion-size method="guide-image" description="in a bottle" imageUrl="portion/Gpopbottle.jpg">
       <param name="guide-image-id" value="Gpopbottle"/>
     </portion-size>
   </food>
@@ -9380,7 +9729,7 @@
     </portion-size>
   </food>
   <food code="TRCL" description="Treacle" ndnsCode="2207">
-    <portion-size method="standard-portion" description="No description" imageUrl="portion/placeholder.jpg">
+    <portion-size method="standard-portion" description="standard portion" imageUrl="standard-portion.jpg">
       <param name="units-count" value="2"/>
       <param name="unit0-name" value="teaspoons"/>
       <param name="unit0-weight" value="3.2"/>
@@ -9389,12 +9738,15 @@
       <param name="unit1-weight" value="17.6"/>
       <param name="unit1-omit-food-description" value="false"/>
     </portion-size>
-  </food>
-  <food code="TRCP" description="Thai red curry paste " ndnsCode="9375">
-    <portion-size method="guide-image" description="No description" imageUrl="portion/placeholder.jpg">
+    <portion-size method="guide-image" description="spoonfuls" imageUrl="portion/Gspn.jpg">
       <param name="guide-image-id" value="Gspn"/>
     </portion-size>
-    <portion-size method="standard-portion" description="No description" imageUrl="portion/placeholder.jpg">
+  </food>
+  <food code="TRCP" description="Thai red curry paste " ndnsCode="9375">
+    <portion-size method="guide-image" description="spoonfuls" imageUrl="portion/Gspn.jpg">
+      <param name="guide-image-id" value="Gspn"/>
+    </portion-size>
+    <portion-size method="standard-portion" description="standard portion" imageUrl="standard-portion.jpg">
       <param name="units-count" value="2"/>
       <param name="unit0-name" value="teaspoons"/>
       <param name="unit0-weight" value="8.0"/>
@@ -9416,20 +9768,29 @@
     </portion-size>
   </food>
   <food code="TRFL" description="Trifle" ndnsCode="574">
-    <portion-size method="guide-image" description="No description" imageUrl="portion/placeholder.jpg">
+    <portion-size method="guide-image" description="in a pot" imageUrl="portion/Gdes.jpg">
       <param name="guide-image-id" value="Gdes"/>
     </portion-size>
-    <portion-size method="standard-portion" description="No description" imageUrl="portion/placeholder.jpg">
-      <param name="units-count" value="2"/>
+    <portion-size method="standard-portion" description="spoonfuls" imageUrl="standard-portion.jpg">
+      <param name="units-count" value="1"/>
       <param name="unit0-name" value="tablespoons"/>
       <param name="unit0-weight" value="30.7"/>
       <param name="unit0-omit-food-description" value="false"/>
-      <param name="unit1-name" value="small pots"/>
-      <param name="unit1-weight" value="122.0"/>
-      <param name="unit1-omit-food-description" value="false"/>
     </portion-size>
   </food>
-  <food code="TROJ" description="Tropical juice, ready to drink, e.g. Five Alive " ndnsCode="10480"> </food>
+  <food code="TROJ" description="Tropical juice, ready to drink, e.g. Five Alive " ndnsCode="10480">
+    <portion-size method="drink-scale" description="in a bottle" imageUrl="portion/gsoftdrnk.jpg">
+      <param name="drinkware-id" value="glasses_soft"/>
+      <param name="initial-fill-level" value="0.9"/>
+      <param name="skip-fill-level" value="false"/>
+    </portion-size>
+    <portion-size method="guide-image" description="in a carton" imageUrl="portion/Gpopcarton.jpg">
+      <param name="guide-image-id" value="Gpopcarton"/>
+    </portion-size>
+    <portion-size method="guide-image" description="in a bottle" imageUrl="portion/Gpopbottle.jpg">
+      <param name="guide-image-id" value="Gpopbottle"/>
+    </portion-size>
+  </food>
   <food code="TROL" description="Turkey roast roll, slices" ndnsCode="8261">
     <portion-size method="guide-image" description="No description" imageUrl="portion/placeholder.jpg">
       <param name="guide-image-id" value="Gham"/>
@@ -9544,19 +9905,20 @@
     </portion-size>
   </food>
   <food code="TWTR" description="Water (from tap)" ndnsCode="5000">
-    <portion-size method="as-served" description="No description" imageUrl="portion/placeholder.jpg">
-      <param name="serving-image-set" value="squash"/>
-      <param name="leftovers-image-set" value="squash_leftovers"/>
+    <portion-size method="drink-scale" description="in a glass" imageUrl="portion/gsoftdrnk.jpg">
+      <param name="drinkware-id" value="glasses_soft"/>
+      <param name="initial-fill-level" value="0.9"/>
+      <param name="skip-fill-level" value="false"/>
     </portion-size>
-    <portion-size method="guide-image" description="No description" imageUrl="Gwatbottle.jpg">
+    <portion-size method="guide-image" description="in a bottle" imageUrl="Gwatbottle.jpg">
       <param name="guide-image-id" value="Gwatbottle"/>
     </portion-size>
   </food>
   <food code="TZKI" description="Tzatziki" ndnsCode="2660">
-    <portion-size method="guide-image" description="spoonfuls" imageUrl="portion/placeholder.jpg">
+    <portion-size method="guide-image" description="spoonfuls" imageUrl="portion/Gspn.jpg">
       <param name="guide-image-id" value="Gspn"/>
     </portion-size>
-    <portion-size method="standard-portion" description="No description" imageUrl="portion/placeholder.jpg">
+    <portion-size method="standard-portion" description="standard portion" imageUrl="standard-portion.jpg">
       <param name="units-count" value="2"/>
       <param name="unit0-name" value="tablespoons"/>
       <param name="unit0-weight" value="30.0"/>
@@ -9578,11 +9940,11 @@
     </portion-size>
   </food>
   <food code="VCHS" description="Vegetable chutney" ndnsCode="2418">
-    <portion-size method="as-served" description="dollops" imageUrl="portion/placeholder.jpg">
+    <portion-size method="as-served" description="dollops" imageUrl="portion/421.jpg">
       <param name="serving-image-set" value="sauce_dollop"/>
       <param name="leftovers-image-set" value="sauce_dollop_leftovers"/>
     </portion-size>
-    <portion-size method="standard-portion" description="spoonfuls" imageUrl="portion/placeholder.jpg">
+    <portion-size method="standard-portion" description="spoonfuls" imageUrl="standard-portion.jpg">
       <param name="units-count" value="2"/>
       <param name="unit0-name" value="teaspoons"/>
       <param name="unit0-weight" value="10.0"/>
@@ -9852,10 +10214,10 @@
     </portion-size>
   </food>
   <food code="WCRA" description="Whipped cream canned in an aerosol, e.g anchor" ndnsCode="643">
-    <portion-size method="guide-image" description="No description" imageUrl="portion/placeholder.jpg">
+    <portion-size method="guide-image" description="spoonfuls" imageUrl="portion/Gspn.jpg">
       <param name="guide-image-id" value="Gspn"/>
     </portion-size>
-    <portion-size method="standard-portion" description="No description" imageUrl="portion/placeholder.jpg">
+    <portion-size method="standard-portion" description="standard portion" imageUrl="standard-portion.jpg">
       <param name="units-count" value="2"/>
       <param name="unit0-name" value="teaspoons"/>
       <param name="unit0-weight" value="3.0"/>
@@ -9871,10 +10233,10 @@
     </portion-size>
   </food>
   <food code="WCRF" description="Fresh whipped cream" ndnsCode="644">
-    <portion-size method="guide-image" description="No description" imageUrl="portion/placeholder.jpg">
+    <portion-size method="guide-image" description="spoonfuls" imageUrl="portion/Gspn.jpg">
       <param name="guide-image-id" value="Gspn"/>
     </portion-size>
-    <portion-size method="standard-portion" description="No description" imageUrl="portion/placeholder.jpg">
+    <portion-size method="standard-portion" description="standard portion" imageUrl="standard-portion.jpg">
       <param name="units-count" value="1"/>
       <param name="unit0-name" value="tablespoons"/>
       <param name="unit0-weight" value="20.3"/>
@@ -9962,11 +10324,10 @@
     </portion-size>
   </food>
   <food code="WHMC" description="Whisky Mac" ndnsCode="2393">
-    <portion-size method="standard-portion" description="No description" imageUrl="portion/placeholder.jpg">
-      <param name="units-count" value="1"/>
-      <param name="unit0-name" value="glasses"/>
-      <param name="unit0-weight" value="200.0"/>
-      <param name="unit0-omit-food-description" value="false"/>
+    <portion-size method="drink-scale" description="No description" imageUrl="portion/gspirits.jpg">
+      <param name="drinkware-id" value="glasses_spirits"/>
+      <param name="initial-fill-level" value="0.9"/>
+      <param name="skip-fill-level" value="false"/>
     </portion-size>
   </food>
   <food code="WHPA" description="Fusilli/penne pasta, white" ndnsCode="34">
@@ -10054,9 +10415,18 @@
     </portion-size>
   </food>
   <food code="WMSH" description="Milkshake made with whole milk" ndnsCode="8214">
-    <portion-size method="as-served" description="No description" imageUrl="portion/placeholder.jpg">
-      <param name="serving-image-set" value="milk_shake_1"/>
-      <param name="leftovers-image-set" value="milk_shake_1_leftovers"/>
+    <portion-size method="drink-scale" description="in a glass" imageUrl="portion/gsoftdrnk.jpg">
+      <param name="drinkware-id" value="glasses_soft"/>
+      <param name="initial-fill-level" value="0.9"/>
+      <param name="skip-fill-level" value="false"/>
+    </portion-size>
+    <portion-size method="guide-image" description="in a bottle" imageUrl="portion/Gshk1.jpg">
+      <param name="guide-image-id" value="Gshk1"/>
+    </portion-size>
+    <portion-size method="drink-scale" description="in a takeaway cup" imageUrl="portion/gcolddrinks.jpg">
+      <param name="drinkware-id" value="takeaway_cups_cold"/>
+      <param name="initial-fill-level" value="0.9"/>
+      <param name="skip-fill-level" value="false"/>
     </portion-size>
   </food>
   <food code="WMSP" description="Spaghetti, wholemeal" ndnsCode="36">
@@ -10089,10 +10459,10 @@
     </portion-size>
   </food>
   <food code="WRCT" description="Worcestershire sauce" ndnsCode="2453">
-    <portion-size method="guide-image" description="No description" imageUrl="portion/placeholder.jpg">
+    <portion-size method="guide-image" description="spoonfuls" imageUrl="portion/Gspn.jpg">
       <param name="guide-image-id" value="Gspn"/>
     </portion-size>
-    <portion-size method="standard-portion" description="spoonfuls" imageUrl="portion/placeholder.jpg">
+    <portion-size method="standard-portion" description="standard portion" imageUrl="standard-portion.jpg">
       <param name="units-count" value="2"/>
       <param name="unit0-name" value="teaspoons"/>
       <param name="unit0-weight" value="5.0"/>
@@ -10108,10 +10478,10 @@
     </portion-size>
   </food>
   <food code="WSGR" description="White sugar" ndnsCode="2205">
-    <portion-size method="guide-image" description="No description" imageUrl="portion/placeholder.jpg">
+    <portion-size method="guide-image" description="spoonfuls" imageUrl="portion/Gspn.jpg">
       <param name="guide-image-id" value="Gspn"/>
     </portion-size>
-    <portion-size method="standard-portion" description="No description" imageUrl="portion/placeholder.jpg">
+    <portion-size method="standard-portion" description="standard portion" imageUrl="standard-portion.jpg">
       <param name="units-count" value="2"/>
       <param name="unit0-name" value="teaspoons"/>
       <param name="unit0-weight" value="6.0"/>
@@ -10202,8 +10572,13 @@
     </portion-size>
   </food>
   <food code="WWLA" description="White wine, low alcohol" ndnsCode="9596">
-    <portion-size method="guide-image" description="No description" imageUrl="portion/placeholder.jpg">
+    <portion-size method="guide-image" description="size of bottle" imageUrl="portion/Gwinebottle.jpg">
       <param name="guide-image-id" value="Gwinebottle"/>
+    </portion-size>
+    <portion-size method="drink-scale" description="in a glass" imageUrl="portion/gwine.jpg">
+      <param name="drinkware-id" value="glasses_wine"/>
+      <param name="initial-fill-level" value="0.9"/>
+      <param name="skip-fill-level" value="false"/>
     </portion-size>
   </food>
   <food code="YCFB" description="Baby carrots, boiled / steamed / microwaved" ndnsCode="1713">
@@ -10231,21 +10606,23 @@
     </portion-size>
   </food>
   <food code="YOGB" description="Fruit and yoghurt smoothie" ndnsCode="10038">
-    <portion-size method="guide-image" description="No description" imageUrl="portion/placeholder.jpg">
-      <param name="guide-image-id" value="Gdrnk"/>
+    <portion-size method="drink-scale" description="in a glass" imageUrl="portion/gsoftdrnk.jpg">
+      <param name="drinkware-id" value="glasses_soft"/>
+      <param name="initial-fill-level" value="0.9"/>
+      <param name="skip-fill-level" value="false"/>
     </portion-size>
-    <portion-size method="guide-image" description="No description" imageUrl="portion/placeholder.jpg">
+    <portion-size method="guide-image" description="in a carton" imageUrl="portion/Gpopcarton.jpg">
       <param name="guide-image-id" value="Gpopcarton"/>
     </portion-size>
-    <portion-size method="guide-image" description="No description" imageUrl="portion/placeholder.jpg">
+    <portion-size method="guide-image" description="in a bottle" imageUrl="portion/Gpopbottle.jpg">
       <param name="guide-image-id" value="Gpopbottle"/>
     </portion-size>
   </food>
   <food code="YOGH" description="Yoghurt based dressing" ndnsCode="9390">
-    <portion-size method="guide-image" description="spoonfuls" imageUrl="portion/placeholder.jpg">
+    <portion-size method="guide-image" description="spoonfuls" imageUrl="portion/Gspn.jpg">
       <param name="guide-image-id" value="Gspn"/>
     </portion-size>
-    <portion-size method="standard-portion" description="No description" imageUrl="portion/placeholder.jpg">
+    <portion-size method="standard-portion" description="standard portion" imageUrl="standard-portion.jpg">
       <param name="units-count" value="1"/>
       <param name="unit0-name" value="tablespoons"/>
       <param name="unit0-weight" value="24.2"/>
