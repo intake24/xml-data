@@ -1792,6 +1792,7 @@
       <param name="leftovers-image-set" value="chicken_sauce_leftovers"/>
     </portion-size>
   </food>
+  <food code="CKML" description="Skimmed milk (on cereal)" ndnsCode="613"> </food>
   <food code="CKNP" description="Chicken paste" ndnsCode="1168">
     <portion-size method="as-served" description="No description" imageUrl="portion/placeholder.jpg">
       <param name="serving-image-set" value="cream_cheese_spread"/>
@@ -2285,6 +2286,7 @@
       <param name="unit1-omit-food-description" value="false"/>
     </portion-size>
   </food>
+  <food code="CRIM" description="Rice milk (on cereal)" ndnsCode="10572"> </food>
   <food code="CRMP" description="Crumpets/ pikelets toasted" ndnsCode="148">
     <portion-size method="guide-image" description="No description" imageUrl="portion/placeholder.jpg">
       <param name="guide-image-id" value="Gpik"/>
@@ -2447,6 +2449,8 @@
       <param name="unit0-omit-food-description" value="true"/>
     </portion-size>
   </food>
+  <food code="CSML" description="Semi skimmed milk (on cereal)" ndnsCode="608"> </food>
+  <food code="CSOY" description="Soya milk (on cereal)" ndnsCode="3769"> </food>
   <food code="CSPC" description="Chicken soup, shop bought" ndnsCode="7925">
     <portion-size method="as-served" description="in a bowl" imageUrl="portion/Soup4.jpg">
       <param name="serving-image-set" value="soup"/>
@@ -2635,6 +2639,7 @@
       <param name="guide-image-id" value="Gchckleg"/>
     </portion-size>
   </food>
+  <food code="CWML" description="Whole milk (on cereal)" ndnsCode="602"> </food>
   <food code="CWRL" description="Curly Wurly bar" ndnsCode="2256">
     <portion-size method="guide-image" description="No description" imageUrl="portion/placeholder.jpg">
       <param name="guide-image-id" value="Gkbar"/>
@@ -2759,6 +2764,7 @@
       <param name="skip-fill-level" value="true"/>
     </portion-size>
   </food>
+  <food code="DCLR" description="Hot chocolate (low calorie) made with water" ndnsCode="-1"> </food>
   <food code="DCLS" description="Hot chocolate (low calorie) made with semi-skimmed milk" ndnsCode="-1">
     <portion-size method="drink-scale" description="No description" imageUrl="portion/placeholder.jpg">
       <param name="drinkware-id" value="mugs"/>
@@ -4995,17 +5001,10 @@
     </portion-size>
   </food>
   <food code="KMLK" description="Skimmed milk" ndnsCode="613">
-    <portion-size method="standard-portion" description="No description" imageUrl="portion/placeholder.jpg">
-      <param name="units-count" value="3"/>
-      <param name="unit0-name" value="small glasses"/>
-      <param name="unit0-weight" value="209.27"/>
-      <param name="unit0-omit-food-description" value="false"/>
-      <param name="unit1-name" value="medium glasses"/>
-      <param name="unit1-weight" value="294.22"/>
-      <param name="unit1-omit-food-description" value="false"/>
-      <param name="unit2-name" value="large glasses"/>
-      <param name="unit2-weight" value="588.45"/>
-      <param name="unit2-omit-food-description" value="false"/>
+    <portion-size method="drink-scale" description="No description" imageUrl="portion/placeholder.jpg">
+      <param name="drinkware-id" value="glasses_soft"/>
+      <param name="initial-fill-level" value="0.9"/>
+      <param name="skip-fill-level" value="false"/>
     </portion-size>
   </food>
   <food code="KMSH" description="Milkshake made with skimmed milk" ndnsCode="3554">
@@ -7976,17 +7975,10 @@
     </portion-size>
   </food>
   <food code="RIML" description="Rice milk" ndnsCode="10572">
-    <portion-size method="standard-portion" description="No description" imageUrl="portion/placeholder.jpg">
-      <param name="units-count" value="3"/>
-      <param name="unit0-name" value="smal glasses"/>
-      <param name="unit0-weight" value="202.0"/>
-      <param name="unit0-omit-food-description" value="false"/>
-      <param name="unit1-name" value="medium glasses"/>
-      <param name="unit1-weight" value="284.0"/>
-      <param name="unit1-omit-food-description" value="false"/>
-      <param name="unit2-name" value="large glasses"/>
-      <param name="unit2-weight" value="568.0"/>
-      <param name="unit2-omit-food-description" value="false"/>
+    <portion-size method="drink-scale" description="No description" imageUrl="portion/placeholder.jpg">
+      <param name="drinkware-id" value="glasses_soft"/>
+      <param name="initial-fill-level" value="0.9"/>
+      <param name="skip-fill-level" value="false"/>
     </portion-size>
   </food>
   <food code="RINO" description="Rice noodles" ndnsCode="3229">
@@ -8659,17 +8651,10 @@
     </portion-size>
   </food>
   <food code="SMLK" description="Semi skimmed milk" ndnsCode="608">
-    <portion-size method="standard-portion" description="No description" imageUrl="portion/placeholder.jpg">
-      <param name="units-count" value="3"/>
-      <param name="unit0-name" value="small glasses"/>
-      <param name="unit0-weight" value="208.87"/>
-      <param name="unit0-omit-food-description" value="false"/>
-      <param name="unit1-name" value="medium glasses"/>
-      <param name="unit1-weight" value="293.66"/>
-      <param name="unit1-omit-food-description" value="false"/>
-      <param name="unit2-name" value="large glasses"/>
-      <param name="unit2-weight" value="587.31"/>
-      <param name="unit2-omit-food-description" value="false"/>
+    <portion-size method="drink-scale" description="No description" imageUrl="portion/placeholder.jpg">
+      <param name="drinkware-id" value="glasses_soft"/>
+      <param name="initial-fill-level" value="0.9"/>
+      <param name="skip-fill-level" value="false"/>
     </portion-size>
   </food>
   <food code="SMNB" description="Salmon in brine, tinned" ndnsCode="9267">
@@ -8874,17 +8859,10 @@
     </portion-size>
   </food>
   <food code="SOYM" description="Soya milk" ndnsCode="3769">
-    <portion-size method="standard-portion" description="No description" imageUrl="portion/placeholder.jpg">
-      <param name="units-count" value="3"/>
-      <param name="unit0-name" value="small glasses"/>
-      <param name="unit0-weight" value="202.0"/>
-      <param name="unit0-omit-food-description" value="false"/>
-      <param name="unit1-name" value="medium glasses"/>
-      <param name="unit1-weight" value="284.0"/>
-      <param name="unit1-omit-food-description" value="false"/>
-      <param name="unit2-name" value="large glasses"/>
-      <param name="unit2-weight" value="568.0"/>
-      <param name="unit2-omit-food-description" value="false"/>
+    <portion-size method="drink-scale" description="No description" imageUrl="portion/placeholder.jpg">
+      <param name="drinkware-id" value="glasses_soft"/>
+      <param name="initial-fill-level" value="0.9"/>
+      <param name="skip-fill-level" value="false"/>
     </portion-size>
   </food>
   <food code="SOYP" description="Soya yoghurt e.g. alpro soya" ndnsCode="10575">
@@ -9967,7 +9945,6 @@
       <param name="guide-image-id" value="Gtur"/>
     </portion-size>
   </food>
-  <food code="VEGJ" description="Vegetable juice" ndnsCode="1944"> </food>
   <food code="VEGK" description="Cheese and tomato pizza with vegetables and/or fruit, thick base" ndnsCode="10028">
     <portion-size method="guide-image" description="No description" imageUrl="portion/placeholder.jpg">
       <param name="guide-image-id" value="Gpiz"/>
@@ -10036,6 +10013,19 @@
     <portion-size method="as-served" description="No description" imageUrl="portion/placeholder.jpg">
       <param name="serving-image-set" value="noodles"/>
       <param name="leftovers-image-set" value="noodles_leftovers"/>
+    </portion-size>
+  </food>
+  <food code="VGJU" description="Vegetable juice" ndnsCode="1944">
+    <portion-size method="drink-scale" description="in a glass" imageUrl="portion/gsoftdrnk.jpg">
+      <param name="drinkware-id" value="glasses_soft"/>
+      <param name="initial-fill-level" value="0.9"/>
+      <param name="skip-fill-level" value="false"/>
+    </portion-size>
+    <portion-size method="guide-image" description="in a carton" imageUrl="portion/Gpopcarton.jpg">
+      <param name="guide-image-id" value="Gpopcarton"/>
+    </portion-size>
+    <portion-size method="guide-image" description="in a bottle" imageUrl="portion/Gpopbottle.jpg">
+      <param name="guide-image-id" value="Gpopbottle"/>
     </portion-size>
   </food>
   <food code="VGMT" description="Vegemite" ndnsCode="10967">
@@ -10391,17 +10381,10 @@
     </portion-size>
   </food>
   <food code="WMLK" description="Whole milk" ndnsCode="602">
-    <portion-size method="standard-portion" description="No description" imageUrl="portion/placeholder.jpg">
-      <param name="units-count" value="3"/>
-      <param name="unit0-name" value="small glasses"/>
-      <param name="unit0-weight" value="208.26"/>
-      <param name="unit0-omit-food-description" value="false"/>
-      <param name="unit1-name" value="medium glasses"/>
-      <param name="unit1-weight" value="292.8"/>
-      <param name="unit1-omit-food-description" value="false"/>
-      <param name="unit2-name" value="large glasses"/>
-      <param name="unit2-weight" value="585.61"/>
-      <param name="unit2-omit-food-description" value="false"/>
+    <portion-size method="drink-scale" description="No description" imageUrl="portion/placeholder.jpg">
+      <param name="drinkware-id" value="glasses_soft"/>
+      <param name="initial-fill-level" value="0.9"/>
+      <param name="skip-fill-level" value="false"/>
     </portion-size>
   </food>
   <food code="WMPA" description="Fusilli/penne pasta, wholemeal" ndnsCode="36">

@@ -369,6 +369,297 @@
     <as-served-image weight="14.56" url="Caul13.jpg"/>
     <as-served-image weight="21.65" url="Caul14.jpg"/>
   </as-served-set>
+  <as-served-set description="Cereal, flake, bowl A" id="cereal_flakeA">
+    <as-served-image weight="24.0" url="cereal/flakeA1.jpg"/>
+    <as-served-image weight="32.0" url="cereal/flakeA2.jpg"/>
+    <as-served-image weight="41.0" url="cereal/flakeA3.jpg"/>
+    <as-served-image weight="55.0" url="cereal/flakeA4.jpg"/>
+    <as-served-image weight="72.0" url="cereal/flakeA5.jpg"/>
+  </as-served-set>
+  <as-served-set description="Cereal, flake, bowl A, leftovers" id="cereal_flakeA_leftovers">
+    <as-served-image weight="1.0" url="cereal/flakeA6.jpg"/>
+    <as-served-image weight="2.0" url="cereal/flakeA7.jpg"/>
+    <as-served-image weight="4.0" url="cereal/flakeA8.jpg"/>
+    <as-served-image weight="6.0" url="cereal/flakeA9.jpg"/>
+    <as-served-image weight="10.0" url="cereal/flakeA10.jpg"/>
+    <as-served-image weight="15.0" url="cereal/flakeA11.jpg"/>
+  </as-served-set>
+  <as-served-set description="Cereal, flake, bowl B" id="cereal_flakeB">
+    <as-served-image weight="24.0" url="cereal/flakeB1.jpg"/>
+    <as-served-image weight="32.0" url="cereal/flakeB2.jpg"/>
+    <as-served-image weight="41.0" url="cereal/flakeB3.jpg"/>
+    <as-served-image weight="55.0" url="cereal/flakeB4.jpg"/>
+    <as-served-image weight="72.0" url="cereal/flakeB5.jpg"/>
+  </as-served-set>
+  <as-served-set description="Cereal, flake, bowl B, leftovers" id="cereal_flakeB_leftovers">
+    <as-served-image weight="1.0" url="cereal/flakeB6.jpg"/>
+    <as-served-image weight="2.0" url="cereal/flakeB7.jpg"/>
+    <as-served-image weight="4.0" url="cereal/flakeB8.jpg"/>
+    <as-served-image weight="6.0" url="cereal/flakeB9.jpg"/>
+    <as-served-image weight="10.0" url="cereal/flakeB10.jpg"/>
+    <as-served-image weight="15.0" url="cereal/flakeB11.jpg"/>
+  </as-served-set>
+  <as-served-set description="Cereal, flake, bowl C" id="cereal_flakeC">
+    <as-served-image weight="24.0" url="cereal/flakeC1.jpg"/>
+    <as-served-image weight="32.0" url="cereal/flakeC2.jpg"/>
+    <as-served-image weight="41.0" url="cereal/flakeC3.jpg"/>
+    <as-served-image weight="55.0" url="cereal/flakeC4.jpg"/>
+    <as-served-image weight="72.0" url="cereal/flakeC5.jpg"/>
+  </as-served-set>
+  <as-served-set description="Cereal, flake, bowl C, leftovers" id="cereal_flakeC_leftovers">
+    <as-served-image weight="1.0" url="cereal/flakeC6.jpg"/>
+    <as-served-image weight="2.0" url="cereal/flakeC7.jpg"/>
+    <as-served-image weight="4.0" url="cereal/flakeC8.jpg"/>
+    <as-served-image weight="6.0" url="cereal/flakeC9.jpg"/>
+    <as-served-image weight="10.0" url="cereal/flakeC10.jpg"/>
+    <as-served-image weight="15.0" url="cereal/flakeC11.jpg"/>
+  </as-served-set>
+  <as-served-set description="Cereal, flake, bowl D" id="cereal_flakeD">
+    <as-served-image weight="24.0" url="cereal/flakeD1.jpg"/>
+    <as-served-image weight="32.0" url="cereal/flakeD2.jpg"/>
+    <as-served-image weight="41.0" url="cereal/flakeD3.jpg"/>
+    <as-served-image weight="55.0" url="cereal/flakeD4.jpg"/>
+    <as-served-image weight="72.0" url="cereal/flakeD5.jpg"/>
+  </as-served-set>
+  <as-served-set description="Cereal, flake, bowl D, leftovers" id="cereal_flakeD_leftovers">
+    <as-served-image weight="1.0" url="cereal/flakeD6.jpg"/>
+    <as-served-image weight="2.0" url="cereal/flakeD7.jpg"/>
+    <as-served-image weight="4.0" url="cereal/flakeD8.jpg"/>
+    <as-served-image weight="6.0" url="cereal/flakeD9.jpg"/>
+    <as-served-image weight="10.0" url="cereal/flakeD10.jpg"/>
+    <as-served-image weight="15.0" url="cereal/flakeD11.jpg"/>
+  </as-served-set>
+  <as-served-set description="Cereal, flake, bowl E" id="cereal_flakeE">
+    <as-served-image weight="24.0" url="cereal/flakeE1.jpg"/>
+    <as-served-image weight="32.0" url="cereal/flakeE2.jpg"/>
+    <as-served-image weight="41.0" url="cereal/flakeE3.jpg"/>
+    <as-served-image weight="55.0" url="cereal/flakeE4.jpg"/>
+    <as-served-image weight="72.0" url="cereal/flakeE5.jpg"/>
+  </as-served-set>
+  <as-served-set description="Cereal, flake, bowl E, leftovers" id="cereal_flakeE_leftovers">
+    <as-served-image weight="1.0" url="cereal/flakeE6.jpg"/>
+    <as-served-image weight="2.0" url="cereal/flakeE7.jpg"/>
+    <as-served-image weight="4.0" url="cereal/flakeE8.jpg"/>
+    <as-served-image weight="6.0" url="cereal/flakeE9.jpg"/>
+    <as-served-image weight="10.0" url="cereal/flakeE10.jpg"/>
+    <as-served-image weight="15.0" url="cereal/flakeE11.jpg"/>
+  </as-served-set>
+  <as-served-set description="Cereal, flake, bowl F" id="cereal_flakeF">
+    <as-served-image weight="24.0" url="cereal/flakeF1.jpg"/>
+    <as-served-image weight="32.0" url="cereal/flakeF2.jpg"/>
+    <as-served-image weight="41.0" url="cereal/flakeF3.jpg"/>
+    <as-served-image weight="55.0" url="cereal/flakeF4.jpg"/>
+    <as-served-image weight="72.0" url="cereal/flakeF5.jpg"/>
+  </as-served-set>
+  <as-served-set description="Cereal, flake, bowl F, leftovers" id="cereal_flakeF_leftovers">
+    <as-served-image weight="1.0" url="cereal/flakeF6.jpg"/>
+    <as-served-image weight="2.0" url="cereal/flakeF7.jpg"/>
+    <as-served-image weight="4.0" url="cereal/flakeF8.jpg"/>
+    <as-served-image weight="6.0" url="cereal/flakeF9.jpg"/>
+    <as-served-image weight="10.0" url="cereal/flakeF10.jpg"/>
+    <as-served-image weight="15.0" url="cereal/flakeF11.jpg"/>
+  </as-served-set>
+  <as-served-set description="Cereal, hoop, bowl A" id="cereal_hoopA">
+    <as-served-image weight="23.0" url="cereal/hoopA1.jpg"/>
+    <as-served-image weight="29.0" url="cereal/hoopA2.jpg"/>
+    <as-served-image weight="36.0" url="cereal/hoopA3.jpg"/>
+    <as-served-image weight="45.0" url="cereal/hoopA4.jpg"/>
+    <as-served-image weight="71.0" url="cereal/hoopA6.jpg"/>
+    <as-served-image weight="89.0" url="cereal/hoopA7.jpg"/>
+  </as-served-set>
+  <as-served-set description="Cereal, hoop, bowl A, leftovers" id="cereal_hoopA_leftovers">
+    <as-served-image weight="2.0" url="cereal/hoopA8.jpg"/>
+    <as-served-image weight="3.0" url="cereal/hoopA9.jpg"/>
+    <as-served-image weight="4.0" url="cereal/hoopA10.jpg"/>
+    <as-served-image weight="7.0" url="cereal/hoopA11.jpg"/>
+    <as-served-image weight="10.0" url="cereal/hoopA12.jpg"/>
+    <as-served-image weight="15.0" url="cereal/hoopA13.jpg"/>
+  </as-served-set>
+  <as-served-set description="Cereal, hoop, bowl B" id="cereal_hoopB">
+    <as-served-image weight="23.0" url="cereal/hoopB1.jpg"/>
+    <as-served-image weight="29.0" url="cereal/hoopB2.jpg"/>
+    <as-served-image weight="36.0" url="cereal/hoopB3.jpg"/>
+    <as-served-image weight="45.0" url="cereal/hoopB4.jpg"/>
+    <as-served-image weight="57.0" url="cereal/hoopB5.jpg"/>
+    <as-served-image weight="71.0" url="cereal/hoopB6.jpg"/>
+    <as-served-image weight="89.0" url="cereal/hoopB7.jpg"/>
+  </as-served-set>
+  <as-served-set description="Cereal, hoop, bowl B, leftovers" id="cereal_hoopB_leftovers">
+    <as-served-image weight="2.0" url="cereal/hoopB8.jpg"/>
+    <as-served-image weight="3.0" url="cereal/hoopB9.jpg"/>
+    <as-served-image weight="4.0" url="cereal/hoopB10.jpg"/>
+    <as-served-image weight="7.0" url="cereal/hoopB11.jpg"/>
+    <as-served-image weight="10.0" url="cereal/hoopB12.jpg"/>
+    <as-served-image weight="15.0" url="cereal/hoopB13.jpg"/>
+  </as-served-set>
+  <as-served-set description="Cereal, hoop, bowl C" id="cereal_hoopC">
+    <as-served-image weight="23.0" url="cereal/hoopC1.jpg"/>
+    <as-served-image weight="29.0" url="cereal/hoopC2.jpg"/>
+    <as-served-image weight="36.0" url="cereal/hoopC3.jpg"/>
+    <as-served-image weight="45.0" url="cereal/hoopC4.jpg"/>
+    <as-served-image weight="57.0" url="cereal/hoopC5.jpg"/>
+    <as-served-image weight="71.0" url="cereal/hoopC6.jpg"/>
+    <as-served-image weight="89.0" url="cereal/hoopC7.jpg"/>
+  </as-served-set>
+  <as-served-set description="Cereal, hoop, bowl C, leftovers" id="cereal_hoopC_leftovers">
+    <as-served-image weight="2.0" url="cereal/hoopC8.jpg"/>
+    <as-served-image weight="3.0" url="cereal/hoopC9.jpg"/>
+    <as-served-image weight="4.0" url="cereal/hoopC10.jpg"/>
+    <as-served-image weight="7.0" url="cereal/hoopC11.jpg"/>
+    <as-served-image weight="10.0" url="cereal/hoopC12.jpg"/>
+    <as-served-image weight="15.0" url="cereal/hoopC13.jpg"/>
+  </as-served-set>
+  <as-served-set description="Cereal, hoop, bowl D" id="cereal_hoopD">
+    <as-served-image weight="23.0" url="cereal/hoopD1.jpg"/>
+    <as-served-image weight="29.0" url="cereal/hoopD2.jpg"/>
+    <as-served-image weight="36.0" url="cereal/hoopD3.jpg"/>
+    <as-served-image weight="45.0" url="cereal/hoopD4.jpg"/>
+    <as-served-image weight="57.0" url="cereal/hoopD5.jpg"/>
+    <as-served-image weight="71.0" url="cereal/hoopD6.jpg"/>
+  </as-served-set>
+  <as-served-set description="Cereal, hoop, bowl D, leftovers" id="cereal_hoopD_leftovers">
+    <as-served-image weight="2.0" url="cereal/hoopD7.jpg"/>
+    <as-served-image weight="3.0" url="cereal/hoopD8.jpg"/>
+    <as-served-image weight="4.0" url="cereal/hoopD9.jpg"/>
+    <as-served-image weight="7.0" url="cereal/hoopD10.jpg"/>
+    <as-served-image weight="10.0" url="cereal/hoopD11.jpg"/>
+    <as-served-image weight="15.0" url="cereal/hoopD12.jpg"/>
+  </as-served-set>
+  <as-served-set description="Cereal, hoop, bowl E" id="cereal_hoopE">
+    <as-served-image weight="23.0" url="cereal/hoopE1.jpg"/>
+    <as-served-image weight="29.0" url="cereal/hoopE2.jpg"/>
+    <as-served-image weight="36.0" url="cereal/hoopE3.jpg"/>
+    <as-served-image weight="45.0" url="cereal/hoopE4.jpg"/>
+    <as-served-image weight="57.0" url="cereal/hoopE5.jpg"/>
+    <as-served-image weight="71.0" url="cereal/hoopE6.jpg"/>
+    <as-served-image weight="89.0" url="cereal/hoopE7.jpg"/>
+  </as-served-set>
+  <as-served-set description="Cereal, hoop, bowl E, leftovers" id="cereal_hoopE_leftovers">
+    <as-served-image weight="2.0" url="cereal/hoopE8.jpg"/>
+    <as-served-image weight="3.0" url="cereal/hoopE9.jpg"/>
+    <as-served-image weight="4.0" url="cereal/hoopE10.jpg"/>
+    <as-served-image weight="7.0" url="cereal/hoopE11.jpg"/>
+    <as-served-image weight="10.0" url="cereal/hoopE12.jpg"/>
+    <as-served-image weight="15.0" url="cereal/hoopE13.jpg"/>
+  </as-served-set>
+  <as-served-set description="Cereal, hoop, bowl F" id="cereal_hoopF">
+    <as-served-image weight="23.0" url="cereal/hoopF1.jpg"/>
+    <as-served-image weight="29.0" url="cereal/hoopF2.jpg"/>
+    <as-served-image weight="36.0" url="cereal/hoopF3.jpg"/>
+    <as-served-image weight="45.0" url="cereal/hoopF4.jpg"/>
+    <as-served-image weight="57.0" url="cereal/hoopF5.jpg"/>
+    <as-served-image weight="71.0" url="cereal/hoopF6.jpg"/>
+    <as-served-image weight="89.0" url="cereal/hoopF7.jpg"/>
+  </as-served-set>
+  <as-served-set description="Cereal, hoop, bowl F, leftovers" id="cereal_hoopF_leftovers">
+    <as-served-image weight="2.0" url="cereal/hoopF8.jpg"/>
+    <as-served-image weight="3.0" url="cereal/hoopF9.jpg"/>
+    <as-served-image weight="4.0" url="cereal/hoopF10.jpg"/>
+    <as-served-image weight="7.0" url="cereal/hoopF11.jpg"/>
+    <as-served-image weight="10.0" url="cereal/hoopF12.jpg"/>
+    <as-served-image weight="15.0" url="cereal/hoopF13.jpg"/>
+  </as-served-set>
+  <as-served-set description="Cereal, rkris, bowl A" id="cereal_rkrisA">
+    <as-served-image weight="18.0" url="cereal/rkrisA1.jpg"/>
+    <as-served-image weight="23.0" url="cereal/rkrisA2.jpg"/>
+    <as-served-image weight="29.0" url="cereal/rkrisA3.jpg"/>
+    <as-served-image weight="38.0" url="cereal/rkrisA4.jpg"/>
+    <as-served-image weight="48.0" url="cereal/rkrisA5.jpg"/>
+    <as-served-image weight="62.0" url="cereal/rkrisA6.jpg"/>
+    <as-served-image weight="79.0" url="cereal/rkrisA7.jpg"/>
+  </as-served-set>
+  <as-served-set description="Cereal, rkris, bowl A, leftovers" id="cereal_rkrisA_leftovers">
+    <as-served-image weight="2.0" url="cereal/rkrisA8.jpg"/>
+    <as-served-image weight="3.0" url="cereal/rkrisA9.jpg"/>
+    <as-served-image weight="4.0" url="cereal/rkrisA10.jpg"/>
+    <as-served-image weight="6.0" url="cereal/rkrisA11.jpg"/>
+    <as-served-image weight="9.0" url="cereal/rkrisA12.jpg"/>
+    <as-served-image weight="12.0" url="cereal/rkrisA13.jpg"/>
+  </as-served-set>
+  <as-served-set description="Cereal, rkris, bowl B" id="cereal_rkrisB">
+    <as-served-image weight="18.0" url="cereal/rkrisB1.jpg"/>
+    <as-served-image weight="23.0" url="cereal/rkrisB2.jpg"/>
+    <as-served-image weight="29.0" url="cereal/rkrisB3.jpg"/>
+    <as-served-image weight="38.0" url="cereal/rkrisB4.jpg"/>
+    <as-served-image weight="48.0" url="cereal/rkrisB5.jpg"/>
+    <as-served-image weight="62.0" url="cereal/rkrisB6.jpg"/>
+    <as-served-image weight="79.0" url="cereal/rkrisB7.jpg"/>
+  </as-served-set>
+  <as-served-set description="Cereal, rkris, bowl B, leftovers" id="cereal_rkrisB_leftovers">
+    <as-served-image weight="2.0" url="cereal/rkrisB8.jpg"/>
+    <as-served-image weight="3.0" url="cereal/rkrisB9.jpg"/>
+    <as-served-image weight="4.0" url="cereal/rkrisB10.jpg"/>
+    <as-served-image weight="6.0" url="cereal/rkrisB11.jpg"/>
+    <as-served-image weight="9.0" url="cereal/rkrisB12.jpg"/>
+    <as-served-image weight="12.0" url="cereal/rkrisB13.jpg"/>
+  </as-served-set>
+  <as-served-set description="Cereal, rkris, bowl C" id="cereal_rkrisC">
+    <as-served-image weight="18.0" url="cereal/rkrisC1.jpg"/>
+    <as-served-image weight="23.0" url="cereal/rkrisC2.jpg"/>
+    <as-served-image weight="29.0" url="cereal/rkrisC3.jpg"/>
+    <as-served-image weight="38.0" url="cereal/rkrisC4.jpg"/>
+    <as-served-image weight="48.0" url="cereal/rkrisC5.jpg"/>
+    <as-served-image weight="62.0" url="cereal/rkrisC6.jpg"/>
+    <as-served-image weight="79.0" url="cereal/rkrisC7.jpg"/>
+  </as-served-set>
+  <as-served-set description="Cereal, rkris, bowl C, leftovers" id="cereal_rkrisC_leftovers">
+    <as-served-image weight="2.0" url="cereal/rkrisC8.jpg"/>
+    <as-served-image weight="3.0" url="cereal/rkrisC9.jpg"/>
+    <as-served-image weight="4.0" url="cereal/rkrisC10.jpg"/>
+    <as-served-image weight="6.0" url="cereal/rkrisC11.jpg"/>
+    <as-served-image weight="9.0" url="cereal/rkrisC12.jpg"/>
+    <as-served-image weight="12.0" url="cereal/rkrisC13.jpg"/>
+  </as-served-set>
+  <as-served-set description="Cereal, rkris, bowl D" id="cereal_rkrisD">
+    <as-served-image weight="18.0" url="cereal/rkrisD1.jpg"/>
+    <as-served-image weight="23.0" url="cereal/rkrisD2.jpg"/>
+    <as-served-image weight="29.0" url="cereal/rkrisD3.jpg"/>
+    <as-served-image weight="38.0" url="cereal/rkrisD4.jpg"/>
+    <as-served-image weight="48.0" url="cereal/rkrisD5.jpg"/>
+    <as-served-image weight="62.0" url="cereal/rkrisD6.jpg"/>
+  </as-served-set>
+  <as-served-set description="Cereal, rkris, bowl D, leftovers" id="cereal_rkrisD_leftovers">
+    <as-served-image weight="2.0" url="cereal/rkrisD7.jpg"/>
+    <as-served-image weight="3.0" url="cereal/rkrisD8.jpg"/>
+    <as-served-image weight="4.0" url="cereal/rkrisD9.jpg"/>
+    <as-served-image weight="6.0" url="cereal/rkrisD10.jpg"/>
+    <as-served-image weight="9.0" url="cereal/rkrisD11.jpg"/>
+    <as-served-image weight="12.0" url="cereal/rkrisD12.jpg"/>
+  </as-served-set>
+  <as-served-set description="Cereal, rkris, bowl E" id="cereal_rkrisE">
+    <as-served-image weight="18.0" url="cereal/rkrisE1.jpg"/>
+    <as-served-image weight="23.0" url="cereal/rkrisE2.jpg"/>
+    <as-served-image weight="29.0" url="cereal/rkrisE3.jpg"/>
+    <as-served-image weight="38.0" url="cereal/rkrisE4.jpg"/>
+    <as-served-image weight="48.0" url="cereal/rkrisE5.jpg"/>
+    <as-served-image weight="62.0" url="cereal/rkrisE6.jpg"/>
+    <as-served-image weight="79.0" url="cereal/rkrisE7.jpg"/>
+  </as-served-set>
+  <as-served-set description="Cereal, rkris, bowl E, leftovers" id="cereal_rkrisE_leftovers">
+    <as-served-image weight="2.0" url="cereal/rkrisE8.jpg"/>
+    <as-served-image weight="3.0" url="cereal/rkrisE9.jpg"/>
+    <as-served-image weight="4.0" url="cereal/rkrisE10.jpg"/>
+    <as-served-image weight="6.0" url="cereal/rkrisE11.jpg"/>
+    <as-served-image weight="9.0" url="cereal/rkrisE12.jpg"/>
+    <as-served-image weight="12.0" url="cereal/rkrisE13.jpg"/>
+  </as-served-set>
+  <as-served-set description="Cereal, rkris, bowl F" id="cereal_rkrisF">
+    <as-served-image weight="18.0" url="cereal/rkrisF1.jpg"/>
+    <as-served-image weight="23.0" url="cereal/rkrisF2.jpg"/>
+    <as-served-image weight="29.0" url="cereal/rkrisF3.jpg"/>
+    <as-served-image weight="38.0" url="cereal/rkrisF4.jpg"/>
+    <as-served-image weight="48.0" url="cereal/rkrisF5.jpg"/>
+    <as-served-image weight="62.0" url="cereal/rkrisF6.jpg"/>
+    <as-served-image weight="79.0" url="cereal/rkrisF7.jpg"/>
+  </as-served-set>
+  <as-served-set description="Cereal, rkris, bowl F, leftovers" id="cereal_rkrisF_leftovers">
+    <as-served-image weight="2.0" url="cereal/rkrisF8.jpg"/>
+    <as-served-image weight="3.0" url="cereal/rkrisF9.jpg"/>
+    <as-served-image weight="4.0" url="cereal/rkrisF10.jpg"/>
+    <as-served-image weight="6.0" url="cereal/rkrisF11.jpg"/>
+    <as-served-image weight="9.0" url="cereal/rkrisF12.jpg"/>
+    <as-served-image weight="12.0" url="cereal/rkrisF13.jpg"/>
+  </as-served-set>
   <as-served-set description="Cheese, cubes" id="chec">
     <as-served-image weight="10.0" url="cheese/chec1.jpg"/>
     <as-served-image weight="15.0" url="cheese/chec2.jpg"/>

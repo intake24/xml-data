@@ -660,7 +660,6 @@
     <food code="TOSD"/>
   </category>
   <category code="DRNK" description="Drinks">
-    <food code="VEGJ"/>
     <food code="ICET"/>
     <subcategory code="ALCL"/>
     <subcategory code="CFFS"/>
@@ -674,6 +673,8 @@
     <subcategory code="VEGJ"/>
     <subcategory code="HCHC"/>
     <subcategory code="SOFT"/>
+    <subcategory code="VGTJ"/>
+    <subcategory code="HDRC"/>
   </category>
   <category code="EGGD" description="Egg &amp; egg dishes">
     <food code="MFSE"/>
@@ -868,9 +869,9 @@
     <food code="MNGJ"/>
     <food code="TROJ"/>
     <food code="PRUJ"/>
-    <food code="TOMB"/>
     <food code="LOCJ"/>
     <food code="CRYJ"/>
+    <food code="TOMB"/>
   </category>
   <category code="FTYG" description="Fruit yoghurt">
     <food code="FFFT"/>
@@ -983,8 +984,8 @@
   </category>
   <category code="HCHC" description="Hot chocolate &amp; malted drinks">
     <food code="DCHS"/>
-    <food code="DCLR"/>
     <food code="HRLK"/>
+    <food code="DCLR"/>
     <subcategory code="HORL"/>
     <subcategory code="HCLC"/>
     <subcategory code="HCHO"/>
@@ -995,12 +996,7 @@
     <food code="DCLS"/>
     <food code="DCLM"/>
     <food code="DCLO"/>
-  </category>
-  <category code="HDRK" description="Hot drink made with milk">
-    <food code="KMLK"/>
-    <food code="SMLK"/>
-    <food code="SOYM"/>
-    <food code="WMLK"/>
+    <food code="DCLR"/>
   </category>
   <category code="HDRC" description="Hot drinks">
     <subcategory code="TEAS"/>
@@ -1195,10 +1191,8 @@
     <food code="CCNM"/>
     <food code="RFCM"/>
     <subcategory code="CREM"/>
-    <subcategory code="HDRK"/>
     <subcategory code="MCRL"/>
     <subcategory code="MDNK"/>
-    <subcategory code="TCFF"/>
     <subcategory code="SHKS"/>
   </category>
   <category code="MLKD" description="Milk as a drink">
@@ -1207,22 +1201,16 @@
   <category code="MDNK" description="Milk as a drink">
     <food code="KMLK"/>
     <food code="SMLK"/>
-    <food code="SOYM"/>
     <food code="WMLK"/>
+    <food code="SOYM"/>
     <food code="RIML"/>
-  </category>
-  <category code="TCFF" description="Milk in tea or coffee">
-    <food code="KMLK"/>
-    <food code="SMLK"/>
-    <food code="SOYM"/>
-    <food code="WMLK"/>
   </category>
   <category code="MCRL" description="Milk on cereal">
-    <food code="KMLK"/>
-    <food code="SMLK"/>
-    <food code="SOYM"/>
-    <food code="WMLK"/>
-    <food code="RIML"/>
+    <food code="CSML"/>
+    <food code="CSOY"/>
+    <food code="CRIM"/>
+    <food code="CWML"/>
+    <food code="CKML"/>
   </category>
   <category code="SHKS" description="Milkshakes">
     <food code="SHIC"/>
@@ -1974,9 +1962,11 @@
     <food code="VEGF"/>
     <food code="VEGP"/>
   </category>
-  <category code="VEGJ" description="Vegetable juice">
-    <food code="TOMB"/>
+  <category code="VEGJ" description="Vegetable juice"> </category>
+  <category code="VGTJ" description="Vegetable juice">
     <food code="CARJ"/>
+    <food code="TOMB"/>
+    <food code="VGJU"/>
   </category>
   <category code="VTGB" description="Vegetables">
     <food code="ASPR"/>
