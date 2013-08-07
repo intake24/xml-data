@@ -795,15 +795,13 @@
     </portion-size>
   </food>
   <food code="BRNF" description="Branflakes" ndnsCode="202">
-    <portion-size method="as-served" description="no description" imageUrl="portion/placeholder.jpg">
-      <param name="serving-image-set" value="flakeF"/>
-      <param name="leftovers-image-set" value="flakeD_leftovers"/>
+    <portion-size method="cereal" description="no description" imageUrl="portion/placeholder.jpg">
+      <param name="type" value="flake"/>
     </portion-size>
   </food>
   <food code="BRNS" description="Branflakes with sultanas" ndnsCode="7624">
-    <portion-size method="as-served" description="no description" imageUrl="portion/placeholder.jpg">
-      <param name="serving-image-set" value="flakeF"/>
-      <param name="leftovers-image-set" value="flakeD_leftovers"/>
+    <portion-size method="cereal" description="no description" imageUrl="portion/placeholder.jpg">
+      <param name="type" value="flake"/>
     </portion-size>
   </food>
   <food code="BRTH" description="Scotch broth" ndnsCode="2477">
@@ -1504,9 +1502,8 @@
     </portion-size>
   </food>
   <food code="CHCF" description="Choco flakes" ndnsCode="8427">
-    <portion-size method="as-served" description="no description" imageUrl="portion/placeholder.jpg">
-      <param name="serving-image-set" value="flakeF"/>
-      <param name="leftovers-image-set" value="flakeD_leftovers"/>
+    <portion-size method="cereal" description="no description" imageUrl="portion/placeholder.jpg">
+      <param name="type" value="flake"/>
     </portion-size>
   </food>
   <food code="CHCI" description="Choc ice" ndnsCode="8225">
@@ -1700,9 +1697,8 @@
     </portion-size>
   </food>
   <food code="CHRO" description="Cheerios" ndnsCode="7637">
-    <portion-size method="as-served" description="no description" imageUrl="portion/placeholder.jpg">
-      <param name="serving-image-set" value="hoopD"/>
-      <param name="leftovers-image-set" value="hoopC_leftovers"/>
+    <portion-size method="cereal" description="no description" imageUrl="portion/placeholder.jpg">
+      <param name="type" value="hoop"/>
     </portion-size>
   </food>
   <food code="CHRY" description="Cherries, raw" ndnsCode="1991">
@@ -1730,9 +1726,7 @@
     </portion-size>
   </food>
   <food code="CHSN" description="Cheese and tomato pizza, thin base" ndnsCode="10026">
-    <portion-size method="guide-image" description="No description" imageUrl="portion/placeholder.jpg">
-      <param name="guide-image-id" value="Gpiz"/>
-    </portion-size>
+    <portion-size method="pizza" description="No description" imageUrl="portion/placeholder.jpg"> </portion-size>
   </food>
   <food code="CHSP" description="Cheese spread e.g Dairylea, Philadelphia" ndnsCode="10413">
     <portion-size method="as-served" description="No description" imageUrl="portion/placeholder.jpg">
@@ -1991,9 +1985,8 @@
     </portion-size>
   </food>
   <food code="CNTC" description="Crunchy nut cornflakes" ndnsCode="10512">
-    <portion-size method="as-served" description="no description" imageUrl="portion/placeholder.jpg">
-      <param name="serving-image-set" value="flakeF"/>
-      <param name="leftovers-image-set" value="flakeD_leftovers"/>
+    <portion-size method="cereal" description="no description" imageUrl="portion/placeholder.jpg">
+      <param name="type" value="flake"/>
     </portion-size>
   </food>
   <food code="CNUT" description="Chocolate bar with nuts e.g. Cadbury whole nut" ndnsCode="2258">
@@ -2016,9 +2009,8 @@
     </portion-size>
   </food>
   <food code="COCF" description="Chocolate cornflakes" ndnsCode="8427">
-    <portion-size method="as-served" description="No description" imageUrl="portion/placeholder.jpg">
-      <param name="serving-image-set" value="flakeF"/>
-      <param name="leftovers-image-set" value="flakeD_leftovers"/>
+    <portion-size method="cereal" description="No description" imageUrl="portion/placeholder.jpg">
+      <param name="type" value="flake"/>
     </portion-size>
   </food>
   <food code="COCM" description="Coconut milk drink" ndnsCode="8078"> </food>
@@ -2034,9 +2026,8 @@
     </portion-size>
   </food>
   <food code="COCO" description="Coco Pops" ndnsCode="8483">
-    <portion-size method="as-served" description="no description" imageUrl="portion/placeholder.jpg">
-      <param name="serving-image-set" value="rkrisD"/>
-      <param name="leftovers-image-set" value="rkrisC_leftovers"/>
+    <portion-size method="cereal" description="no description" imageUrl="portion/placeholder.jpg">
+      <param name="type" value="rkris"/>
     </portion-size>
   </food>
   <food code="COKL" description="Cockles" ndnsCode="1564">
@@ -2202,14 +2193,10 @@
     </portion-size>
   </food>
   <food code="CPTK" description="Chicken pizza, thick base" ndnsCode="10030">
-    <portion-size method="guide-image" description="No description" imageUrl="portion/placeholder.jpg">
-      <param name="guide-image-id" value="Gpiz"/>
-    </portion-size>
+    <portion-size method="pizza" description="No description" imageUrl="portion/placeholder.jpg"> </portion-size>
   </food>
   <food code="CPTN" description="Chicken pizza, thin base" ndnsCode="10030">
-    <portion-size method="guide-image" description="No description" imageUrl="portion/placeholder.jpg">
-      <param name="guide-image-id" value="Gpiz"/>
-    </portion-size>
+    <portion-size method="pizza" description="No description" imageUrl="portion/placeholder.jpg"> </portion-size>
   </food>
   <food code="CRAN" description="Cranachan" ndnsCode="573">
     <portion-size method="standard-portion" description="No description" imageUrl="portion/placeholder.jpg">
@@ -2320,9 +2307,8 @@
     </portion-size>
   </food>
   <food code="CRNF" description="Cornflakes" ndnsCode="206">
-    <portion-size method="as-served" description="no description" imageUrl="portion/placeholder.jpg">
-      <param name="serving-image-set" value="flakeF"/>
-      <param name="leftovers-image-set" value="flakeD_leftovers"/>
+    <portion-size method="cereal" description="no description" imageUrl="portion/placeholder.jpg">
+      <param name="type" value="flake"/>
     </portion-size>
   </food>
   <food code="CRNP" description="Honey Pops" ndnsCode="10563">
@@ -2551,7 +2537,9 @@
       <param name="guide-image-id" value="Gchse"/>
     </portion-size>
   </food>
-  <food code="CTSC" description="Cheese and tomato pizza, stuffed crust" ndnsCode="10033"> </food>
+  <food code="CTSC" description="Cheese and tomato pizza, stuffed crust" ndnsCode="10033">
+    <portion-size method="pizza" description="No description" imageUrl="portion/placeholder.jpg"> </portion-size>
+  </food>
   <food code="CTSF" description="Chicken tikka sandwich filler" ndnsCode="5638">
     <portion-size method="standard-portion" description="No description" imageUrl="portion/placeholder.jpg">
       <param name="units-count" value="3"/>
@@ -2572,9 +2560,7 @@
     </portion-size>
   </food>
   <food code="CTTB" description="Cheese and tomato pizza, thick base" ndnsCode="10026">
-    <portion-size method="guide-image" description="No description" imageUrl="portion/placeholder.jpg">
-      <param name="guide-image-id" value="Gpiz"/>
-    </portion-size>
+    <portion-size method="pizza" description="No description" imageUrl="portion/placeholder.jpg"> </portion-size>
   </food>
   <food code="CURC" description="Curiously Cinnamon" ndnsCode="9032">
     <portion-size method="as-served" description="No description" imageUrl="portion/placeholder.jpg">
@@ -3752,9 +3738,8 @@
     </portion-size>
   </food>
   <food code="FRFB" description="Fruit 'n' fibre" ndnsCode="5327">
-    <portion-size method="as-served" description="no description" imageUrl="portion/placeholder.jpg">
-      <param name="serving-image-set" value="flakeF"/>
-      <param name="leftovers-image-set" value="flakeD_leftovers"/>
+    <portion-size method="cereal" description="no description" imageUrl="portion/placeholder.jpg">
+      <param name="type" value="flake"/>
     </portion-size>
   </food>
   <food code="FRFF" description="French Dressing" ndnsCode="9391">
@@ -3792,9 +3777,8 @@
     </portion-size>
   </food>
   <food code="FRLP" description="Fruit Loops" ndnsCode="10885">
-    <portion-size method="as-served" description="no description" imageUrl="portion/placeholder.jpg">
-      <param name="serving-image-set" value="hoopD"/>
-      <param name="leftovers-image-set" value="hoopC_leftovers"/>
+    <portion-size method="cereal" description="no description" imageUrl="portion/placeholder.jpg">
+      <param name="type" value="hoop"/>
     </portion-size>
   </food>
   <food code="FRMS" description="Frozen mousse" ndnsCode="9791">
@@ -3850,9 +3834,8 @@
     </portion-size>
   </food>
   <food code="FRST" description="Frosties" ndnsCode="227">
-    <portion-size method="as-served" description="no description" imageUrl="portion/placeholder.jpg">
-      <param name="serving-image-set" value="flakeF"/>
-      <param name="leftovers-image-set" value="flakeD_leftovers"/>
+    <portion-size method="cereal" description="no description" imageUrl="portion/placeholder.jpg">
+      <param name="type" value="flake"/>
     </portion-size>
   </food>
   <food code="FRTF" description="Potato fritters, fried" ndnsCode="9002">
@@ -4483,9 +4466,8 @@
     </portion-size>
   </food>
   <food code="HNUT" description="Honey Nut Loops" ndnsCode="9275">
-    <portion-size method="as-served" description="no description" imageUrl="portion/placeholder.jpg">
-      <param name="serving-image-set" value="hoopD"/>
-      <param name="leftovers-image-set" value="hoopC_leftovers"/>
+    <portion-size method="cereal" description="no description" imageUrl="portion/placeholder.jpg">
+      <param name="type" value="hoop"/>
     </portion-size>
   </food>
   <food code="HOCB" description="Healthy option cereal bar e.g. Alpen light bar " ndnsCode="8022">
@@ -5102,9 +5084,8 @@
     </portion-size>
   </food>
   <food code="LCYC" description="Lucky charms" ndnsCode="8483">
-    <portion-size method="as-served" description="No description" imageUrl="portion/placeholder.jpg">
-      <param name="serving-image-set" value="puffed_cereals"/>
-      <param name="leftovers-image-set" value="puffed_cereals_leftovers"/>
+    <portion-size method="cereal" description="No description" imageUrl="portion/placeholder.jpg">
+      <param name="type" value="hoop"/>
     </portion-size>
   </food>
   <food code="LCZD" description="Lucozade" ndnsCode="3893">
@@ -5902,7 +5883,9 @@
       <param name="guide-image-id" value="gpie"/>
     </portion-size>
   </food>
-  <food code="MPSC" description="Meat Pizza, stuffed crust" ndnsCode="10034"> </food>
+  <food code="MPSC" description="Meat Pizza, stuffed crust" ndnsCode="10034">
+    <portion-size method="pizza" description="No description" imageUrl="portion/placeholder.jpg"> </portion-size>
+  </food>
   <food code="MRMT" description="Marmite" ndnsCode="2431">
     <portion-size method="as-served" description="No description" imageUrl="portion/placeholder.jpg">
       <param name="serving-image-set" value="butter_spread"/>
@@ -6024,14 +6007,10 @@
     </portion-size>
   </food>
   <food code="MTTK" description="Meat Pizza, thick base" ndnsCode="10032">
-    <portion-size method="guide-image" description="No description" imageUrl="portion/placeholder.jpg">
-      <param name="guide-image-id" value="Gpiz"/>
-    </portion-size>
+    <portion-size method="pizza" description="No description" imageUrl="portion/placeholder.jpg"> </portion-size>
   </food>
   <food code="MTTN" description="Meat Pizza, thin base" ndnsCode="10032">
-    <portion-size method="guide-image" description="No description" imageUrl="portion/placeholder.jpg">
-      <param name="guide-image-id" value="Gpiz"/>
-    </portion-size>
+    <portion-size method="pizza" description="No description" imageUrl="portion/placeholder.jpg"> </portion-size>
   </food>
   <food code="MUFN" description="English style bread muffins, white, toasted" ndnsCode="152">
     <portion-size method="guide-image" description="No description" imageUrl="portion/placeholder.jpg">
@@ -6221,8 +6200,8 @@
   </food>
   <food code="OATC" description="Crunchy Oat Cereal, e.g. Clusters" ndnsCode="213">
     <portion-size method="as-served" description="No description" imageUrl="portion/placeholder.jpg">
-      <param name="serving-image-set" value="hoop_cereals"/>
-      <param name="leftovers-image-set" value="hoop_cereals_leftovers"/>
+      <param name="serving-image-set" value="shreddies"/>
+      <param name="leftovers-image-set" value="shreddies_leftovers"/>
     </portion-size>
   </food>
   <food code="OATS" description="Oats" ndnsCode="24">
@@ -7842,9 +7821,8 @@
     </portion-size>
   </food>
   <food code="RCKP" description="Rice Krispies" ndnsCode="220">
-    <portion-size method="as-served" description="no description" imageUrl="portion/placeholder.jpg">
-      <param name="serving-image-set" value="rkrisD"/>
-      <param name="leftovers-image-set" value="rkrisC_leftovers"/>
+    <portion-size method="cereal" description="no description" imageUrl="portion/placeholder.jpg">
+      <param name="type" value="rkris"/>
     </portion-size>
   </food>
   <food code="RCLF" description="Cauliflower" ndnsCode="1718">
@@ -7969,9 +7947,8 @@
     </portion-size>
   </food>
   <food code="RICI" description="Ricicles" ndnsCode="4331">
-    <portion-size method="as-served" description="no description" imageUrl="portion/placeholder.jpg">
-      <param name="serving-image-set" value="rkrisD"/>
-      <param name="leftovers-image-set" value="rkrisC_leftovers"/>
+    <portion-size method="cereal" description="no description" imageUrl="portion/placeholder.jpg">
+      <param name="type" value="rkris"/>
     </portion-size>
   </food>
   <food code="RIML" description="Rice milk" ndnsCode="10572">
@@ -8621,9 +8598,8 @@
     </portion-size>
   </food>
   <food code="SLTB" description="Sultana bran" ndnsCode="203">
-    <portion-size method="as-served" description="no description" imageUrl="portion/placeholder.jpg">
-      <param name="serving-image-set" value="flakeF"/>
-      <param name="leftovers-image-set" value="flakeD_leftovers"/>
+    <portion-size method="cereal" description="no description" imageUrl="portion/placeholder.jpg">
+      <param name="type" value="flake"/>
     </portion-size>
   </food>
   <food code="SLTN" description="Saltines" ndnsCode="279">
@@ -8882,9 +8858,8 @@
     </portion-size>
   </food>
   <food code="SPCK" description="Special K cereal" ndnsCode="223">
-    <portion-size method="as-served" description="no description" imageUrl="portion/placeholder.jpg">
-      <param name="serving-image-set" value="flakeF"/>
-      <param name="leftovers-image-set" value="flakeD_leftovers"/>
+    <portion-size method="cereal" description="no description" imageUrl="portion/placeholder.jpg">
+      <param name="type" value="flake"/>
     </portion-size>
   </food>
   <food code="SPCR" description="Salt and pepper cracker" ndnsCode="10062">
@@ -9946,14 +9921,10 @@
     </portion-size>
   </food>
   <food code="VEGK" description="Cheese and tomato pizza with vegetables and/or fruit, thick base" ndnsCode="10028">
-    <portion-size method="guide-image" description="No description" imageUrl="portion/placeholder.jpg">
-      <param name="guide-image-id" value="Gpiz"/>
-    </portion-size>
+    <portion-size method="pizza" description="No description" imageUrl="portion/placeholder.jpg"> </portion-size>
   </food>
   <food code="VEGN" description="Cheese and tomato pizza with vegetables and/or fruit, thin base" ndnsCode="10028">
-    <portion-size method="guide-image" description="No description" imageUrl="portion/placeholder.jpg">
-      <param name="guide-image-id" value="Gpiz"/>
-    </portion-size>
+    <portion-size method="pizza" description="No description" imageUrl="portion/placeholder.jpg"> </portion-size>
   </food>
   <food code="VEGO" description="Vegetable oil" ndnsCode="871">
     <portion-size method="guide-image" description="No description" imageUrl="portion/placeholder.jpg">
@@ -10089,7 +10060,9 @@
       <param name="leftovers-image-set" value="lasagne_leftovers"/>
     </portion-size>
   </food>
-  <food code="VPSC" description="Vegetable pizza, stuffed crust " ndnsCode="10033"> </food>
+  <food code="VPSC" description="Vegetable pizza, stuffed crust " ndnsCode="10033">
+    <portion-size method="pizza" description="No description" imageUrl="portion/placeholder.jpg"> </portion-size>
+  </food>
   <food code="VSPC" description="Vegetable soup" ndnsCode="2483">
     <portion-size method="as-served" description="in a bowl" imageUrl="portion/Soup4.jpg">
       <param name="serving-image-set" value="soup"/>
@@ -10256,9 +10229,8 @@
     </portion-size>
   </food>
   <food code="WETO" description="Chocolate hoops, e.g. Weetos" ndnsCode="7632">
-    <portion-size method="as-served" description="no description" imageUrl="portion/placeholder.jpg">
-      <param name="serving-image-set" value="hoopD"/>
-      <param name="leftovers-image-set" value="hoopC_leftovers"/>
+    <portion-size method="cereal" description="no description" imageUrl="portion/placeholder.jpg">
+      <param name="type" value="hoop"/>
     </portion-size>
   </food>
   <food code="WFLF" description="Potato waffles/ Smilies, fried" ndnsCode="1882">
@@ -10485,9 +10457,8 @@
     </portion-size>
   </food>
   <food code="WTAF" description="Weetaflake" ndnsCode="6823">
-    <portion-size method="as-served" description="no description" imageUrl="portion/placeholder.jpg">
-      <param name="serving-image-set" value="flakeF"/>
-      <param name="leftovers-image-set" value="flakeD_leftovers"/>
+    <portion-size method="cereal" description="no description" imageUrl="portion/placeholder.jpg">
+      <param name="type" value="flake"/>
     </portion-size>
   </food>
   <food code="WTBM" description="Weetabix minis" ndnsCode="6132">
@@ -10518,9 +10489,8 @@
     </portion-size>
   </food>
   <food code="WTFR" description="Weetaflake 'n' raisin" ndnsCode="8760">
-    <portion-size method="as-served" description="no description" imageUrl="portion/placeholder.jpg">
-      <param name="serving-image-set" value="flakeF"/>
-      <param name="leftovers-image-set" value="flakeD_leftovers"/>
+    <portion-size method="cereal" description="no description" imageUrl="portion/placeholder.jpg">
+      <param name="type" value="flake"/>
     </portion-size>
   </food>
   <food code="WTPD" description="Mealy pudding" ndnsCode="1263">

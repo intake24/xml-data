@@ -131,13 +131,16 @@
     <food code="CHST"/>
   </category>
   <category code="CRLS" description="Breakfast cereals">
-    <food code="OATC"/>
-    <food code="MSLI"/>
     <food code="KRAE"/>
     <food code="CCIS"/>
     <food code="MNAS"/>
     <food code="POPT"/>
     <food code="OATS"/>
+    <food code="CURC"/>
+    <food code="CURS"/>
+    <food code="GOLG"/>
+    <food code="MSLI"/>
+    <food code="OATC"/>
     <subcategory code="CRBR"/>
     <subcategory code="FCRL"/>
     <subcategory code="HPCR"/>
@@ -147,7 +150,6 @@
     <subcategory code="SGPC"/>
     <subcategory code="SHRE"/>
     <subcategory code="SHRW"/>
-    <subcategory code="SQCE"/>
     <subcategory code="WTBI"/>
   </category>
   <category code="BRCL" description="Broccoli">
@@ -670,11 +672,9 @@
     <subcategory code="TEAS"/>
     <subcategory code="WTRS"/>
     <subcategory code="MLKD"/>
-    <subcategory code="VEGJ"/>
-    <subcategory code="HCHC"/>
     <subcategory code="SOFT"/>
-    <subcategory code="VGTJ"/>
     <subcategory code="HDRC"/>
+    <subcategory code="VGTJ"/>
   </category>
   <category code="EGGD" description="Egg &amp; egg dishes">
     <food code="MFSE"/>
@@ -783,12 +783,12 @@
     <food code="CNTC"/>
     <food code="CRNF"/>
     <food code="FRFB"/>
-    <food code="FRST"/>
     <food code="SLTB"/>
     <food code="SPCK"/>
     <food code="WTAF"/>
     <food code="WTFR"/>
     <food code="COCF"/>
+    <food code="FRST"/>
   </category>
   <category code="FLPJ" description="Flapjacks">
     <food code="FLJB"/>
@@ -1692,9 +1692,9 @@
   </category>
   <category code="SHRE" description="Shreddies">
     <food code="FSHR"/>
-    <food code="SHRD"/>
     <food code="COSH"/>
     <food code="HOSH"/>
+    <food code="SHRD"/>
   </category>
   <category code="SMTH" description="Smoothies">
     <food code="SMTB"/>
@@ -1775,11 +1775,6 @@
     <food code="CLOO"/>
     <food code="CHRI"/>
   </category>
-  <category code="SQCE" description="Square cereals">
-    <food code="CURC"/>
-    <food code="CURS"/>
-    <food code="GOLG"/>
-  </category>
   <category code="SQDK" description="Squash/cordial/fruit flavour drinks">
     <food code="LISB"/>
     <food code="BCJC"/>
@@ -1819,9 +1814,9 @@
   </category>
   <category code="SGPC" description="Sugar puffed cereal">
     <food code="CRNP"/>
-    <food code="LCYC"/>
     <food code="NESQ"/>
     <food code="SGPF"/>
+    <food code="LCYC"/>
   </category>
   <category code="SUGR" description="Sugar/jams/marmalades/spreads/pates">
     <subcategory code="CHOS"/>
@@ -1962,7 +1957,6 @@
     <food code="VEGF"/>
     <food code="VEGP"/>
   </category>
-  <category code="VEGJ" description="Vegetable juice"> </category>
   <category code="VGTJ" description="Vegetable juice">
     <food code="CARJ"/>
     <food code="TOMB"/>
