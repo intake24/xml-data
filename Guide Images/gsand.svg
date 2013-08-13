@@ -15,7 +15,7 @@
    id="svg2"
    version="1.1"
    inkscape:version="0.48.4 r9939"
-   sodipodi:docname="New document 1">
+   sodipodi:docname="gsand.svg">
   <defs
      id="defs4" />
   <sodipodi:namedview
@@ -25,9 +25,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.49497475"
-     inkscape:cx="1016.8646"
-     inkscape:cy="1076.7069"
+     inkscape:zoom="0.175"
+     inkscape:cx="1531.5549"
+     inkscape:cy="1112.246"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -35,11 +35,11 @@
      fit-margin-left="0"
      fit-margin-right="0"
      fit-margin-bottom="0"
-     inkscape:window-width="1280"
-     inkscape:window-height="962"
-     inkscape:window-x="-8"
-     inkscape:window-y="-8"
-     inkscape:window-maximized="1" />
+     inkscape:window-width="897"
+     inkscape:window-height="880"
+     inkscape:window-x="970"
+     inkscape:window-y="57"
+     inkscape:window-maximized="0" />
   <metadata
      id="metadata7">
     <rdf:RDF>
@@ -48,7 +48,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -60,7 +60,7 @@
     <image
        y="-927.63782"
        x="-2325.7144"
-       id="area_3"
+       id="qwe"
        xlink:href="file:///T:/SCRAN24/NEW%20PHOTOS%20FOR%20SCRAN/gsand.jpg"
        height="2000"
        width="3000"
@@ -68,23 +68,26 @@
     <path
        style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        d="m 513.1575,1121.1673 46.46701,-56.5686 -14.14213,-16.1624 12.12183,-18.1827 92.93403,-56.56859 18.18274,-18.18274 16.16245,-12.12183 48.48732,-109.09648 1022.27435,529.31994 0,54.5482 18.1828,133.3402 -20.2031,94.9543 -30.3046,42.4264 -56.5685,32.3249 -115.1573,12.1218 -50.5077,8.0812 -1008.13226,-589.929 z"
-       id="path2996"
+       id="area_3"
        inkscape:connector-curvature="0"
        transform="translate(-2325.7144,-927.63782)"
-       sodipodi:nodetypes="cccccccccccccccccc" />
+       sodipodi:nodetypes="cccccccccccccccccc"
+       inkscape:label="#path2996" />
     <path
        style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        d="m 1060.6602,612.05041 76.7715,-103.03556 84.8529,-64.64977 101.0152,-40.4061 82.8325,-16.16244 78.7919,-2.02031 111.1168,4.04061 119.198,44.44672 64.6498,46.46701 18.1827,68.69038 -18.1827,48.48732 28.2843,8.08122 20.203,0 0,16.16244 -14.1421,16.16244 -2.0203,20.20305 -22.2234,16.16244 -2.0203,20.20305 -84.8528,70.71068 24.2437,28.28427 -44.4468,20.20305 -16.1624,18.18274 -46.467,30.30458 -40.4061,-36.36549 -10.1015,22.22336 -22.2234,-14.14214 -62.6295,24.24366 -6.0609,36.3655 -46.467,36.36549 -32.3249,16.16244 -8.0812,-62.62946 -30.3046,6.06092 -151.5229,26.26396 -94.9543,-20.20305 -42.4264,-38.3858 -20.203,-58.58884 8.0812,-56.56854 -22.2234,-42.42642 z"
-       id="path2998"
+       id="area_1"
        inkscape:connector-curvature="0"
        transform="translate(-2325.7144,-927.63782)"
-       sodipodi:nodetypes="ccccccccccccccccccccccccccccccccccccccc" />
+       sodipodi:nodetypes="ccccccccccccccccccccccccccccccccccccccc"
+       inkscape:label="#path2998" />
     <path
        style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        d="m 1731.4015,1274.7105 543.462,-890.95457 28.2843,-36.36549 22.2234,-8.08122 385.8782,149.50257 42.4264,18.18275 2.0203,18.18274 -171.7259,268.70058 -74.7513,351.53304 -232.3351,171.726 -127.2792,200.0102 -16.1624,4.0406 -404.061,-218.193 z"
-       id="path3000"
+       id="area_2"
        inkscape:connector-curvature="0"
-       transform="translate(-2325.7144,-927.63782)" />
+       transform="translate(-2325.7144,-927.63782)"
+       inkscape:label="#path3000" />
     <text
        xml:space="preserve"
        style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"

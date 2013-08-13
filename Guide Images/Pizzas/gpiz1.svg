@@ -13,9 +13,9 @@
    width="1500"
    height="1000"
    id="svg2"
-   version="1.1"
+   version="1.2"
    inkscape:version="0.48.4 r9939"
-   sodipodi:docname="New document 1">
+   sodipodi:docname="gpiz1.svg">
   <defs
      id="defs4" />
   <sodipodi:namedview
@@ -27,7 +27,7 @@
      inkscape:pageshadow="2"
      inkscape:zoom="0.7"
      inkscape:cx="681.0138"
-     inkscape:cy="646.02922"
+     inkscape:cy="531.74351"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -35,11 +35,11 @@
      fit-margin-left="0"
      fit-margin-right="0"
      fit-margin-bottom="0"
-     inkscape:window-width="1280"
-     inkscape:window-height="962"
-     inkscape:window-x="-8"
-     inkscape:window-y="-8"
-     inkscape:window-maximized="1" />
+     inkscape:window-width="944"
+     inkscape:window-height="1001"
+     inkscape:window-x="960"
+     inkscape:window-y="0"
+     inkscape:window-maximized="0" />
   <metadata
      id="metadata7">
     <rdf:RDF>
@@ -48,7 +48,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -60,7 +60,7 @@
     <image
        y="32.362183"
        x="-375"
-       id="area_C"
+       id="qwe"
        xlink:href="file:///T:/SCRAN24/NEW%20PHOTOS%20FOR%20SCRAN/Pizzas/gpiz1.jpg"
        height="1000"
        width="1500"
@@ -68,21 +68,24 @@
     <path
        style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        d="m 518.20826,607.05066 -44.44672,-22.22336 -46.46701,-39.39595 -18.18275,-29.29442 -24.24366,-48.48732 -1.01015,-62.62946 10.10152,-28.28427 -1.01015,-12.12183 6.06092,-5.05076 20.20305,-28.28428 16.16244,-20.20305 42.4264,-32.32488 1.01016,-12.12183 13.13198,1.01015 103.03556,-44.44671 11.11168,-4.04061 3.03045,0 46.46702,-12.12183 37.37565,-2.0203 9.09137,-5.05077 48.48732,3.03046 10.10153,-2.0203 17.17259,2.0203 8.08122,1.01015 10.10153,0 19.19289,5.05077 16.16244,2.0203 27.27412,10.10153 13.13199,-2.02031 9.09137,-1.01015 37.37564,19.1929 3.03046,14.14213 -101.01525,129.29953 -27.27412,22.22336 -51.51778,48.48732 -9.09137,5.05076 -20.20306,16.16244 -61.6193,62.62946 -15.15229,18.18274 z"
-       id="path2996"
+       id="area_1"
        inkscape:connector-curvature="0"
-       transform="translate(-375,32.362183)" />
+       transform="translate(-375,32.362183)"
+       inkscape:label="#path2996" />
     <path
        style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        d="m 779.83777,447.44656 -28.28428,2.0203 0,8.08122 -39.39595,37.37565 -18.18274,3.03045 4.04061,19.1929 -21.2132,6.06092 -21.21321,26.26396 -12.12183,11.11168 -14.14213,-3.03045 -48.48733,21.2132 -26.26396,30.30457 17.17259,13.13199 84.85281,27.27412 111.11678,12.12183 88.89343,-3.03046 108.08632,-19.1929 47.47722,-14.14213 55.5583,-35.35534 38.3858,-41.41626 -1.0101,-27.27412 -14.1422,1.01016 -17.1725,4.04061 -92.93408,-15.15229 -66.67007,-19.1929 -11.11167,0 -24.24367,-6.06092 -43.43655,-18.18274 z"
-       id="path3000"
+       id="area_2"
        inkscape:connector-curvature="0"
-       transform="translate(-375,32.362183)" />
+       transform="translate(-375,32.362183)"
+       inkscape:label="#path3000" />
     <path
        style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        d="m 950.55355,190.86781 -15.15229,17.17259 -3.03046,13.13199 0,8.08122 -10.10153,12.12183 -57.57869,87.88327 -6.06092,10.10153 -10.10152,26.26396 -23.23351,17.17259 -37.37564,26.26397 -1.01016,15.15229 12.12183,7.07107 156.57365,-27.27412 23.23351,-15.15229 7.07106,4.04061 145.46202,-57.57869 0,-11.11168 -11.1117,-3.03046 -2.0203,-16.16244 -67.6803,-58.58885 -11.1116,-17.17259 -33.3351,-10.10153 -12.1218,-15.15229 -20.20305,0 z"
-       id="path3002"
+       id="area_3"
        inkscape:connector-curvature="0"
-       transform="translate(-375,32.362183)" />
+       transform="translate(-375,32.362183)"
+       inkscape:label="#path3002" />
     <text
        xml:space="preserve"
        style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
@@ -93,8 +96,8 @@
        transform="translate(-375,32.362183)"
        inkscape:label="#text3008"><tspan
          sodipodi:role="line"
-         id="tspan3010"
          x="511.42856"
-         y="82.85714">A B C</tspan></text>
+         y="82.85714"
+         id="tspan2988">1 2 3</tspan></text>
   </g>
 </svg>

@@ -13,9 +13,9 @@
    width="1500"
    height="1000"
    id="svg3130"
-   version="1.1"
+   version="1.2"
    inkscape:version="0.48.4 r9939"
-   sodipodi:docname="New document 11">
+   sodipodi:docname="gpiz6.svg">
   <defs
      id="defs3132" />
   <sodipodi:namedview
@@ -35,11 +35,11 @@
      fit-margin-left="0"
      fit-margin-right="0"
      fit-margin-bottom="0"
-     inkscape:window-width="1280"
-     inkscape:window-height="962"
-     inkscape:window-x="-8"
-     inkscape:window-y="-8"
-     inkscape:window-maximized="1" />
+     inkscape:window-width="919"
+     inkscape:window-height="842"
+     inkscape:window-x="940"
+     inkscape:window-y="11"
+     inkscape:window-maximized="0" />
   <metadata
      id="metadata3135">
     <rdf:RDF>
@@ -48,7 +48,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -60,7 +60,7 @@
     <image
        y="223.79076"
        x="-21.428572"
-       id="area_B"
+       id="qwe"
        xlink:href="file:///T:/SCRAN24/NEW%20PHOTOS%20FOR%20SCRAN/Pizzas/gpiz6.jpg"
        height="1000"
        width="1500"
@@ -68,17 +68,19 @@
     <path
        style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        d="m 666.70068,470.68007 -44.44671,-15.15229 -8.08122,-12.12183 -18.18275,-17.1726 -59.599,-33.33503 -15.15229,-1.01015 -16.16244,-17.1726 -4.04061,-16.16244 -20.20305,-25.25381 -7.07106,-34.34518 22.22335,-20.20305 33.33503,-17.1726 7.07107,-7.07107 15.15229,-3.03045 22.22336,-5.05077 30.30457,12.12183 88.89343,47.47717 18.18274,4.04061 5.05076,11.11168 56.56855,32.32488 -4.04061,29.29442 -69.70053,48.48733 -6.06091,22.22335 2.0203,12.12183 -18.18274,9.09138 -15.15229,-4.04061 z"
-       id="path3149"
+       id="area_1"
        inkscape:connector-curvature="0"
        transform="translate(-21.428572,223.79076)"
-       sodipodi:nodetypes="ccccccccccccccccccccccccccc" />
+       sodipodi:nodetypes="ccccccccccccccccccccccccccc"
+       inkscape:label="#path3149" />
     <path
        style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        d="m 705.08648,427.24351 c 15.15228,-8.08122 92.93403,-66.67007 92.93403,-66.67007 l 11.11168,1.01015 37.37565,20.20305 19.19289,13.13199 33.33504,17.17259 16.16244,15.15229 -10.10153,40.4061 -25.25381,5.05076 -26.26397,20.20305 -10.10152,16.16244 -1.01016,23.23351 -25.25382,14.14213 -17.17258,-4.0406 -102.02541,-65.65992 -3.03046,-24.24366 z"
-       id="path3151"
+       id="area_2"
        inkscape:connector-curvature="0"
        transform="translate(-21.428572,223.79076)"
-       sodipodi:nodetypes="ccccccccccccccccc" />
+       sodipodi:nodetypes="ccccccccccccccccc"
+       inkscape:label="#path3151" />
     <text
        xml:space="preserve"
        style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
@@ -91,6 +93,6 @@
          sodipodi:role="line"
          id="tspan3155"
          x="604.07123"
-         y="53.487064">A B</tspan></text>
+         y="53.487064">1 2</tspan></text>
   </g>
 </svg>

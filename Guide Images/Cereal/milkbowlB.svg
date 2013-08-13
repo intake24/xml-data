@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="1500"
+   height="1000"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.48.4 r9939"
+   sodipodi:docname="milkbowlB.svg">
+  <defs
+     id="defs4" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.98994949"
+     inkscape:cx="747.3654"
+     inkscape:cy="557.14286"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0"
+     inkscape:window-width="1920"
+     inkscape:window-height="1018"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(1130,-89.505043)">
+    <image
+       y="89.505043"
+       x="-1130"
+       id="image2993"
+       xlink:href="file:///T:/SCRAN24/NEW%20PHOTOS%20FOR%20INTAKE24/Cereal/milkbowlB.jpg"
+       height="1000"
+       width="1500" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 585.88847,406.0303 30.30458,1.01016 14.14214,-10e-6 55.55839,0 1.01016,27.27413 -43.43656,1.01015 -28.28428,-1.01016 -27.27412,1.01016 z"
+       id="area_1"
+       inkscape:connector-curvature="0"
+       transform="translate(-1130,89.505043)"
+       inkscape:label="#path2996"
+       sodipodi:nodetypes="ccccccccc" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 584.87832,365.6242 28.28428,0 21.2132,0 52.52793,-1.01015 0,30.30457 -41.41625,1.01016 -28.28427,-1.01015 -31.31473,0 z"
+       id="area_2"
+       inkscape:connector-curvature="0"
+       transform="translate(-1130,89.505043)"
+       inkscape:label="#path2998"
+       sodipodi:nodetypes="ccccccccc" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 583.86817,323.19779 38.3858,1.01015 32.32488,10e-6 31.31473,-10e-6 1.01015,30.30459 -42.42641,1.01014 -29.29442,10e-6 -30.30457,0 z"
+       id="area_3"
+       inkscape:connector-curvature="0"
+       transform="translate(-1130,89.505043)"
+       inkscape:label="#path3000"
+       sodipodi:nodetypes="ccccccccc" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 582.85801,284.812 28.28428,0 34.34519,0 41.41625,-1.01016 1.01015,29.29443 -29.29442,-1.01016 -43.43656,1.01016 -32.32488,-1.01015 z"
+       id="area_4"
+       inkscape:connector-curvature="0"
+       transform="translate(-1130,89.505043)"
+       inkscape:label="#path3002"
+       sodipodi:nodetypes="ccccccccc" />
+    <flowRoot
+       xml:space="preserve"
+       id="navigation"
+       style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       transform="translate(-1130,89.505043)"
+       inkscape:label="#flowRoot3004"><flowRegion
+         id="flowRegion3006"><rect
+           id="rect3008"
+           width="225.26402"
+           height="60.609154"
+           x="79.802048"
+           y="224.20285" /></flowRegion><flowPara
+         id="flowPara3010">1 2 3 4</flowPara></flowRoot>  </g>
+</svg>

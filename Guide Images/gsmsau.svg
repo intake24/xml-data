@@ -15,7 +15,7 @@
    id="svg2"
    version="1.1"
    inkscape:version="0.48.4 r9939"
-   sodipodi:docname="New document 1">
+   sodipodi:docname="gsmsau.svg">
   <defs
      id="defs4" />
   <sodipodi:namedview
@@ -35,11 +35,11 @@
      fit-margin-left="0"
      fit-margin-right="0"
      fit-margin-bottom="0"
-     inkscape:window-width="1280"
-     inkscape:window-height="962"
-     inkscape:window-x="-8"
-     inkscape:window-y="-8"
-     inkscape:window-maximized="1" />
+     inkscape:window-width="740"
+     inkscape:window-height="740"
+     inkscape:window-x="1032"
+     inkscape:window-y="180"
+     inkscape:window-maximized="0" />
   <metadata
      id="metadata7">
     <rdf:RDF>
@@ -48,7 +48,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -60,7 +60,7 @@
     <image
        y="266.64789"
        x="-81.428574"
-       id="area_3"
+       id="qweqwe"
        xlink:href="file:///T:/SCRAN24/NEW%20PHOTOS%20FOR%20SCRAN/gsmsau.jpg"
        height="1000"
        width="1500"
@@ -68,23 +68,26 @@
     <path
        style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        d="M 278.57143,372.85714 250,337.14286 244.28571,280 270,222.85714 l 54.28571,-48.57143 54.28572,-25.71428 50,-17.14286 44.28571,-7.14286 48.57143,-7.14285 51.42857,-2.85715 42.85715,18.57143 12.85714,30.00001 -11.42857,29.99999 -14.28571,11.42857 -20.00001,11.42858 -45.71428,2.85714 -71.42857,10 -54.28572,18.57143 -24.28572,20 -25.71428,21.42857 1.42857,34.28571 -5.71428,30 -25.71429,21.42857 -22.85714,11.42858 z"
-       id="path2996"
+       id="area_1"
        inkscape:connector-curvature="0"
        transform="translate(-81.428574,266.64789)"
-       sodipodi:nodetypes="ccccccccccccccccccccccccc" />
+       sodipodi:nodetypes="ccccccccccccccccccccccccc"
+       inkscape:label="#path2996" />
     <path
        style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        d="M 442.85714,347.14286 C 477.14286,318.57143 657.14286,204.28571 657.14286,204.28571 l 38.57142,-17.14285 42.85715,15.71428 5.71428,-7.14285 14.28571,12.85714 10e-6,8.57143 -7.14286,7.14285 8.57143,11.42858 11.42857,40 -22.85714,25.71428 L 544.28571,440 505.71429,442.85714 472.85714,427.14286 450,432.85715 445.71429,427.14286 457.14285,408.57143 440,390 z"
-       id="path2998"
+       id="area_2"
        inkscape:connector-curvature="0"
        transform="translate(-81.428574,266.64789)"
-       sodipodi:nodetypes="ccccccccccccccccccc" />
+       sodipodi:nodetypes="ccccccccccccccccccc"
+       inkscape:label="#path2998" />
     <path
        style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        d="m 971.42857,310 -24.28571,38.57143 -31.42857,28.57143 -31.42858,18.57143 -47.14285,61.42857 -25.71429,-5.71429 -15.71428,34.28572 L 770,522.85714 l 37.14286,35.71429 84.28571,30 50,21.42857 70.00003,27.14286 92.8571,58.57143 32.8572,-2.85715 80,5.71429 35.7142,-20 32.8572,-34.28572 30,-32.85714 10,-62.85714 52.8571,-12.85714 L 1410,500 1371.4286,475.71429 1245.7143,428.57143 1170,412.85714 l -102.8571,-30 -45.7143,-10 -10,-35.71428 z"
-       id="path3000"
+       id="area_3"
        inkscape:connector-curvature="0"
-       transform="translate(-81.428574,266.64789)" />
+       transform="translate(-81.428574,266.64789)"
+       inkscape:label="#path3000" />
     <text
        xml:space="preserve"
        style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
