@@ -1176,9 +1176,9 @@
     <food code="CCNM"/>
     <food code="RFCM"/>
     <subcategory code="CREM"/>
-    <subcategory code="MCRL"/>
     <subcategory code="SHKS"/>
     <subcategory code="MDNK"/>
+    <subcategory code="MCRL"/>
   </category>
   <category code="MDNK" description="Milk as a drink">
     <food code="KMLK"/>
@@ -1193,6 +1193,7 @@
     <food code="CRIM"/>
     <food code="CWML"/>
     <food code="CKML"/>
+    <portion-size method="milk-on-cereal" description="No description" imageUrl="portion/placeholder.jpg"> </portion-size>
   </category>
   <category code="SHKS" description="Milkshakes">
     <food code="SHIC"/>
