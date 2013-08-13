@@ -912,7 +912,7 @@
     <portion-size method="drink-scale" description="in a mug" imageUrl="portion/mugs.jpg">
       <param name="drinkware-id" value="mugs"/>
       <param name="initial-fill-level" value="0.85"/>
-      <param name="skip-fill-level" value="true"/>
+      <param name="skip-fill-level" value="false"/>
     </portion-size>
     <portion-size method="drink-scale" description="in a takeaway cup" imageUrl="portion/hotdrinks.jpg">
       <param name="drinkware-id" value="takeaway_cups_hot"/>
@@ -1064,8 +1064,30 @@
       <param name="guide-image-id" value="Gpopbottle"/>
     </portion-size>
   </food>
-  <food code="CASE" description="Cappuccino made with semi-skimmed milk" ndnsCode="10577"> </food>
-  <food code="CASK" description="Cappuccino made with skimmed milk" ndnsCode="8048"> </food>
+  <food code="CASE" description="Cappuccino made with semi-skimmed milk" ndnsCode="10577">
+    <portion-size method="drink-scale" description="in a mug" imageUrl="portion/mugs.jpg">
+      <param name="drinkware-id" value="mugs"/>
+      <param name="initial-fill-level" value="0.9"/>
+      <param name="skip-fill-level" value="false"/>
+    </portion-size>
+    <portion-size method="drink-scale" description="in a takeaway cup" imageUrl="portion/hotdrinks.jpg">
+      <param name="drinkware-id" value="takeaway_cups_hot"/>
+      <param name="initial-fill-level" value="0.9"/>
+      <param name="skip-fill-level" value="true"/>
+    </portion-size>
+  </food>
+  <food code="CASK" description="Cappuccino made with skimmed milk" ndnsCode="8048">
+    <portion-size method="drink-scale" description="in a mug" imageUrl="portion/mugs.jpg">
+      <param name="drinkware-id" value="mugs"/>
+      <param name="initial-fill-level" value="0.9"/>
+      <param name="skip-fill-level" value="false"/>
+    </portion-size>
+    <portion-size method="drink-scale" description="in a takeaway cup" imageUrl="portion/hotdrinks.jpg">
+      <param name="drinkware-id" value="takeaway_cups_hot"/>
+      <param name="initial-fill-level" value="0.9"/>
+      <param name="skip-fill-level" value="true"/>
+    </portion-size>
+  </food>
   <food code="CASR" description="Cashew nuts" ndnsCode="2177">
     <portion-size method="standard-portion" description="No description" imageUrl="portion/placeholder.jpg">
       <param name="units-count" value="4"/>
@@ -1089,7 +1111,18 @@
       <param name="leftovers-image-set" value="chicken_sauce_leftovers"/>
     </portion-size>
   </food>
-  <food code="CAWM" description="Cappuccino made with whole milk" ndnsCode="8042"> </food>
+  <food code="CAWM" description="Cappuccino made with whole milk" ndnsCode="8042">
+    <portion-size method="drink-scale" description="in a mug" imageUrl="portion/mugs.jpg">
+      <param name="drinkware-id" value="mugs"/>
+      <param name="initial-fill-level" value="0.9"/>
+      <param name="skip-fill-level" value="false"/>
+    </portion-size>
+    <portion-size method="drink-scale" description="in a takeaway cup" imageUrl="portion/hotdrinks.jpg">
+      <param name="drinkware-id" value="takeaway_cups_hot"/>
+      <param name="initial-fill-level" value="0.9"/>
+      <param name="skip-fill-level" value="true"/>
+    </portion-size>
+  </food>
   <food code="CBBL" description="Chicken burger in a bun with lettuce" ndnsCode="5262">
     <portion-size method="guide-image" description="No description" imageUrl="portion/placeholder.jpg">
       <param name="guide-image-id" value="Gbur"/>
@@ -1445,7 +1478,7 @@
     <portion-size method="drink-scale" description="in a mug" imageUrl="portion/mugs.jpg">
       <param name="drinkware-id" value="mugs"/>
       <param name="initial-fill-level" value="0.85"/>
-      <param name="skip-fill-level" value="true"/>
+      <param name="skip-fill-level" value="false"/>
     </portion-size>
     <portion-size method="drink-scale" description="in a takeaway cup" imageUrl="portion/hotdrinks.jpg">
       <param name="drinkware-id" value="takeaway_cups_hot"/>
@@ -2013,7 +2046,13 @@
       <param name="type" value="flake"/>
     </portion-size>
   </food>
-  <food code="COCM" description="Coconut milk drink" ndnsCode="8078"> </food>
+  <food code="COCM" description="Coconut milk drink" ndnsCode="8078">
+    <portion-size method="drink-scale" description="in a glass" imageUrl="portion/placeholder.jpg">
+      <param name="drinkware-id" value="glasses_soft"/>
+      <param name="initial-fill-level" value="0.9"/>
+      <param name="skip-fill-level" value="false"/>
+    </portion-size>
+  </food>
   <food code="COCN" description="Coconut, fresh" ndnsCode="2181">
     <portion-size method="standard-portion" description="No description" imageUrl="portion/placeholder.jpg">
       <param name="units-count" value="2"/>
@@ -2072,7 +2111,18 @@
       <param name="leftovers-image-set" value="cucs_leftovers"/>
     </portion-size>
   </food>
-  <food code="CORM" description="Coffee made with rice milk" ndnsCode="-1"> </food>
+  <food code="CORM" description="Coffee made with rice milk" ndnsCode="-1">
+    <portion-size method="drink-scale" description="in a mug" imageUrl="portion/mugs.jpg">
+      <param name="drinkware-id" value="mugs"/>
+      <param name="initial-fill-level" value="0.9"/>
+      <param name="skip-fill-level" value="false"/>
+    </portion-size>
+    <portion-size method="drink-scale" description="in a takeaway cup" imageUrl="portion/hotdrinks.jpg">
+      <param name="drinkware-id" value="takeaway_cups_hot"/>
+      <param name="initial-fill-level" value="0.9"/>
+      <param name="skip-fill-level" value="true"/>
+    </portion-size>
+  </food>
   <food code="CORN" description="Cornetto / king cone" ndnsCode="731">
     <portion-size method="guide-image" description="No description" imageUrl="portion/placeholder.jpg">
       <param name="guide-image-id" value="Gice2"/>
@@ -2088,23 +2138,56 @@
     <portion-size method="drink-scale" description="in a mug" imageUrl="portion/mugs.jpg">
       <param name="drinkware-id" value="mugs"/>
       <param name="initial-fill-level" value="0.85"/>
-      <param name="skip-fill-level" value="true"/>
+      <param name="skip-fill-level" value="false"/>
     </portion-size>
-    <portion-size method="drink-scale" description="in a takeaway cup" imageUrl="portion/Ghotdrinks.jpg">
+    <portion-size method="drink-scale" description="in a takeaway cup" imageUrl="portion/hotdrinks.jpg">
       <param name="drinkware-id" value="takeaway_cups_hot"/>
       <param name="initial-fill-level" value="0.85"/>
       <param name="skip-fill-level" value="true"/>
     </portion-size>
   </food>
-  <food code="COSO" description="Coffee made with soya milk" ndnsCode="-1"> </food>
-  <food code="COSS" description="Coffee made with semi-skimmed milk" ndnsCode="-1"> </food>
+  <food code="COSO" description="Coffee made with soya milk" ndnsCode="-1">
+    <portion-size method="drink-scale" description="in a mug" imageUrl="portion/mugs.jpg">
+      <param name="drinkware-id" value="mugs"/>
+      <param name="initial-fill-level" value="0.9"/>
+      <param name="skip-fill-level" value="false"/>
+    </portion-size>
+    <portion-size method="drink-scale" description="in a takeaway cup" imageUrl="portion/hotdrinks.jpg">
+      <param name="drinkware-id" value="takeaway_cups_hot"/>
+      <param name="initial-fill-level" value="0.9"/>
+      <param name="skip-fill-level" value="true"/>
+    </portion-size>
+  </food>
+  <food code="COSS" description="Coffee made with semi-skimmed milk" ndnsCode="-1">
+    <portion-size method="drink-scale" description="in a mug" imageUrl="portion/mugs.jpg">
+      <param name="drinkware-id" value="mugs"/>
+      <param name="initial-fill-level" value="0.9"/>
+      <param name="skip-fill-level" value="false"/>
+    </portion-size>
+    <portion-size method="drink-scale" description="in a takeaway cup" imageUrl="portion/hotdrinks.jpg">
+      <param name="drinkware-id" value="takeaway_cups_hot"/>
+      <param name="initial-fill-level" value="0.9"/>
+      <param name="skip-fill-level" value="true"/>
+    </portion-size>
+  </food>
   <food code="COTP" description="Cottage pie" ndnsCode="1357">
     <portion-size method="as-served" description="No description" imageUrl="portion/placeholder.jpg">
       <param name="serving-image-set" value="shepherds_pie"/>
       <param name="leftovers-image-set" value="shepherds_pie_leftovers"/>
     </portion-size>
   </food>
-  <food code="COWM" description="Coffee made with whole milk" ndnsCode="-1"> </food>
+  <food code="COWM" description="Coffee made with whole milk" ndnsCode="-1">
+    <portion-size method="drink-scale" description="in a mug" imageUrl="portion/mugs.jpg">
+      <param name="drinkware-id" value="mugs"/>
+      <param name="initial-fill-level" value="0.9"/>
+      <param name="skip-fill-level" value="false"/>
+    </portion-size>
+    <portion-size method="drink-scale" description="in a takeaway cup" imageUrl="portion/hotdrinks.jpg">
+      <param name="drinkware-id" value="takeaway_cups_hot"/>
+      <param name="initial-fill-level" value="0.9"/>
+      <param name="skip-fill-level" value="true"/>
+    </portion-size>
+  </food>
   <food code="CPAS" description="Cup a soup, made up" ndnsCode="2468">
     <portion-size method="standard-portion" description="No description" imageUrl="portion/placeholder.jpg">
       <param name="units-count" value="1"/>
@@ -2332,8 +2415,12 @@
     </portion-size>
   </food>
   <food code="CROT" description="Carrot cake (with icing)" ndnsCode="5722">
-    <portion-size method="guide-image" description="No description" imageUrl="portion/placeholder.jpg">
+    <portion-size method="guide-image" description="cake bar" imageUrl="portion/Gcake.jpg">
       <param name="guide-image-id" value="Gcake"/>
+    </portion-size>
+    <portion-size method="as-served" description="slice from a large cake" imageUrl="portion/m216.jpg">
+      <param name="serving-image-set" value="gateau"/>
+      <param name="leftovers-image-set" value="gateau_leftovers"/>
     </portion-size>
   </food>
   <food code="CRPA" description="Crab pate" ndnsCode="1563">
@@ -2512,8 +2599,12 @@
     </portion-size>
   </food>
   <food code="CTCK" description="Carrot cake" ndnsCode="10073">
-    <portion-size method="guide-image" description="No description" imageUrl="portion/placeholder.jpg">
+    <portion-size method="guide-image" description="cake bar" imageUrl="portion/Gcake.jpg">
       <param name="guide-image-id" value="Gcake"/>
+    </portion-size>
+    <portion-size method="as-served" description="slice from a large cake" imageUrl="portion/m216.jpg">
+      <param name="serving-image-set" value="gateau"/>
+      <param name="leftovers-image-set" value="gateau_leftovers"/>
     </portion-size>
   </food>
   <food code="CTCM" description="Biscuits with cream filling e.g. Custard creams, bourbons" ndnsCode="8198">
@@ -2733,45 +2824,51 @@
     <portion-size method="drink-scale" description="No description" imageUrl="portion/placeholder.jpg">
       <param name="drinkware-id" value="mugs"/>
       <param name="initial-fill-level" value="0.85"/>
-      <param name="skip-fill-level" value="true"/>
+      <param name="skip-fill-level" value="false"/>
     </portion-size>
   </food>
   <food code="DCLM" description="Hot chocolate (low calorie) made with skimmed milk" ndnsCode="-1">
     <portion-size method="drink-scale" description="No description" imageUrl="portion/placeholder.jpg">
       <param name="drinkware-id" value="mugs"/>
       <param name="initial-fill-level" value="0.85"/>
-      <param name="skip-fill-level" value="true"/>
+      <param name="skip-fill-level" value="false"/>
     </portion-size>
   </food>
   <food code="DCLO" description="Hot chocolate (low calorie) made with soya milk" ndnsCode="-1">
     <portion-size method="drink-scale" description="No description" imageUrl="portion/placeholder.jpg">
       <param name="drinkware-id" value="mugs"/>
       <param name="initial-fill-level" value="0.85"/>
-      <param name="skip-fill-level" value="true"/>
+      <param name="skip-fill-level" value="false"/>
     </portion-size>
   </food>
-  <food code="DCLR" description="Hot chocolate (low calorie) made with water" ndnsCode="-1"> </food>
+  <food code="DCLR" description="Hot chocolate (low calorie) made with water" ndnsCode="-1">
+    <portion-size method="drink-scale" description="No description" imageUrl="portion/placeholder.jpg">
+      <param name="drinkware-id" value="mugs"/>
+      <param name="initial-fill-level" value="0.9"/>
+      <param name="skip-fill-level" value="false"/>
+    </portion-size>
+  </food>
   <food code="DCLS" description="Hot chocolate (low calorie) made with semi-skimmed milk" ndnsCode="-1">
     <portion-size method="drink-scale" description="No description" imageUrl="portion/placeholder.jpg">
       <param name="drinkware-id" value="mugs"/>
       <param name="initial-fill-level" value="0.85"/>
-      <param name="skip-fill-level" value="true"/>
+      <param name="skip-fill-level" value="false"/>
     </portion-size>
   </food>
   <food code="DCLW" description="Hot chocolate (low calorie) made with whole milk" ndnsCode="-1">
     <portion-size method="drink-scale" description="No description" imageUrl="portion/placeholder.jpg">
       <param name="drinkware-id" value="mugs"/>
       <param name="initial-fill-level" value="0.85"/>
-      <param name="skip-fill-level" value="true"/>
+      <param name="skip-fill-level" value="false"/>
     </portion-size>
   </food>
   <food code="DCRM" description="Hot chocolate made with rice milk" ndnsCode="-1">
     <portion-size method="drink-scale" description="in a mug" imageUrl="Gmug.jpg">
       <param name="drinkware-id" value="mugs"/>
       <param name="initial-fill-level" value="0.85"/>
-      <param name="skip-fill-level" value="true"/>
+      <param name="skip-fill-level" value="false"/>
     </portion-size>
-    <portion-size method="drink-scale" description="in a takeaway cup" imageUrl="Ghotdrinks.jpg">
+    <portion-size method="drink-scale" description="in a takeaway cup" imageUrl="portion/hotdrinks.jpg">
       <param name="drinkware-id" value="takeaway_cups_hot"/>
       <param name="initial-fill-level" value="0.85"/>
       <param name="skip-fill-level" value="true"/>
@@ -2781,9 +2878,9 @@
     <portion-size method="drink-scale" description="in a mug" imageUrl="Gmug.jpg">
       <param name="drinkware-id" value="mugs"/>
       <param name="initial-fill-level" value="0.85"/>
-      <param name="skip-fill-level" value="true"/>
+      <param name="skip-fill-level" value="false"/>
     </portion-size>
-    <portion-size method="drink-scale" description="in a takeaway cup" imageUrl="Ghotdrinks.jpg">
+    <portion-size method="drink-scale" description="in a takeaway cup" imageUrl="portion/hotdrinks.jpg">
       <param name="drinkware-id" value="takeaway_cups_hot"/>
       <param name="initial-fill-level" value="0.85"/>
       <param name="skip-fill-level" value="true"/>
@@ -2793,9 +2890,9 @@
     <portion-size method="drink-scale" description="in a mug" imageUrl="Gmug.jpg">
       <param name="drinkware-id" value="mugs"/>
       <param name="initial-fill-level" value="0.85"/>
-      <param name="skip-fill-level" value="true"/>
+      <param name="skip-fill-level" value="false"/>
     </portion-size>
-    <portion-size method="drink-scale" description="in a takeaway cup" imageUrl="Ghotdrinks.jpg">
+    <portion-size method="drink-scale" description="in a takeaway cup" imageUrl="portion/hotdrinks.jpg">
       <param name="drinkware-id" value="takeaway_cups_hot"/>
       <param name="initial-fill-level" value="0.85"/>
       <param name="skip-fill-level" value="true"/>
@@ -2814,9 +2911,9 @@
     <portion-size method="drink-scale" description="in a mug" imageUrl="Gmug.jpg">
       <param name="drinkware-id" value="mugs"/>
       <param name="initial-fill-level" value="0.85"/>
-      <param name="skip-fill-level" value="true"/>
+      <param name="skip-fill-level" value="false"/>
     </portion-size>
-    <portion-size method="drink-scale" description="in a takeaway cup" imageUrl="Ghotdrinks.jpg">
+    <portion-size method="drink-scale" description="in a takeaway cup" imageUrl="portion/hotdrinks.jpg">
       <param name="drinkware-id" value="takeaway_cups_hot"/>
       <param name="initial-fill-level" value="0.85"/>
       <param name="skip-fill-level" value="true"/>
@@ -2826,9 +2923,9 @@
     <portion-size method="drink-scale" description="in a mug" imageUrl="Gmug.jpg">
       <param name="drinkware-id" value="mugs"/>
       <param name="initial-fill-level" value="0.85"/>
-      <param name="skip-fill-level" value="true"/>
+      <param name="skip-fill-level" value="false"/>
     </portion-size>
-    <portion-size method="drink-scale" description="in a takeaway cup" imageUrl="Ghotdrinks.jpg">
+    <portion-size method="drink-scale" description="in a takeaway cup" imageUrl="portion/hotdrinks.jpg">
       <param name="drinkware-id" value="takeaway_cups_hot"/>
       <param name="initial-fill-level" value="0.85"/>
       <param name="skip-fill-level" value="true"/>
@@ -4094,20 +4191,27 @@
       <param name="unit0-omit-food-description" value="false"/>
     </portion-size>
   </food>
-  <food code="GNGH" description="Gingerbread / Gingercake, homemade" ndnsCode="337">
+  <food code="GNGH" description="Gingerbread" ndnsCode="7691">
     <portion-size method="standard-portion" description="No description" imageUrl="portion/placeholder.jpg">
-      <param name="units-count" value="1"/>
-      <param name="unit0-name" value="slices"/>
-      <param name="unit0-weight" value="30.0"/>
+      <param name="units-count" value="3"/>
+      <param name="unit0-name" value="small biscuit"/>
+      <param name="unit0-weight" value="40.0"/>
       <param name="unit0-omit-food-description" value="false"/>
+      <param name="unit1-name" value="medium biscuit"/>
+      <param name="unit1-weight" value="63.0"/>
+      <param name="unit1-omit-food-description" value="false"/>
+      <param name="unit2-name" value="large biscuit"/>
+      <param name="unit2-weight" value="85.0"/>
+      <param name="unit2-omit-food-description" value="false"/>
     </portion-size>
   </food>
-  <food code="GNGP" description="Gingerbread / Gingercake, purchased" ndnsCode="7691">
-    <portion-size method="standard-portion" description="No description" imageUrl="portion/placeholder.jpg">
-      <param name="units-count" value="1"/>
-      <param name="unit0-name" value="slices"/>
-      <param name="unit0-weight" value="30.0"/>
-      <param name="unit0-omit-food-description" value="false"/>
+  <food code="GNGP" description="Gingercake" ndnsCode="7691">
+    <portion-size method="guide-image" description="cake bar" imageUrl="portion/Gcake.jpg">
+      <param name="guide-image-id" value="Gcake"/>
+    </portion-size>
+    <portion-size method="as-served" description="slice from a large cake" imageUrl="portion/m216.jpg">
+      <param name="serving-image-set" value="gateau"/>
+      <param name="leftovers-image-set" value="gateau_leftovers"/>
     </portion-size>
   </food>
   <food code="GNGR" description="Gingernuts" ndnsCode="263">
@@ -4715,7 +4819,7 @@
     <portion-size method="drink-scale" description="in a mug" imageUrl="portion/mugs.jpg">
       <param name="drinkware-id" value="mugs"/>
       <param name="initial-fill-level" value="0.85"/>
-      <param name="skip-fill-level" value="true"/>
+      <param name="skip-fill-level" value="false"/>
     </portion-size>
     <portion-size method="drink-scale" description="in a takeaway cup" imageUrl="portion/hotdrinks.jpg">
       <param name="drinkware-id" value="takeaway_cups_hot"/>
@@ -5061,10 +5165,54 @@
       <param name="leftovers-image-set" value="chicken_sauce_leftovers"/>
     </portion-size>
   </food>
-  <food code="LASK" description="Latte made with skimmed milk (skinny latte)" ndnsCode="8058"> </food>
-  <food code="LASS" description="Latte made with semi-skimmed milk" ndnsCode="10729"> </food>
-  <food code="LASY" description="Latte made with soya milk" ndnsCode="10727"> </food>
-  <food code="LAWM" description="Latte made with whole milk" ndnsCode="8053"> </food>
+  <food code="LASK" description="Latte made with skimmed milk (skinny latte)" ndnsCode="8058">
+    <portion-size method="drink-scale" description="in a mug" imageUrl="portion/mugs.jpg">
+      <param name="drinkware-id" value="mugs"/>
+      <param name="initial-fill-level" value="0.9"/>
+      <param name="skip-fill-level" value="false"/>
+    </portion-size>
+    <portion-size method="drink-scale" description="in a takeaway cup" imageUrl="portion/hotdrinks.jpg">
+      <param name="drinkware-id" value="takeaway_cups_hot"/>
+      <param name="initial-fill-level" value="0.9"/>
+      <param name="skip-fill-level" value="true"/>
+    </portion-size>
+  </food>
+  <food code="LASS" description="Latte made with semi-skimmed milk" ndnsCode="10729">
+    <portion-size method="drink-scale" description="in a mug" imageUrl="portion/mugs.jpg">
+      <param name="drinkware-id" value="mugs"/>
+      <param name="initial-fill-level" value="0.9"/>
+      <param name="skip-fill-level" value="false"/>
+    </portion-size>
+    <portion-size method="drink-scale" description="in a takeaway cup" imageUrl="portion/hotdrinks.jpg">
+      <param name="drinkware-id" value="takeaway_cups_hot"/>
+      <param name="initial-fill-level" value="0.9"/>
+      <param name="skip-fill-level" value="true"/>
+    </portion-size>
+  </food>
+  <food code="LASY" description="Latte made with soya milk" ndnsCode="10727">
+    <portion-size method="drink-scale" description="in a mug" imageUrl="portion/mugs.jpg">
+      <param name="drinkware-id" value="mugs"/>
+      <param name="initial-fill-level" value="0.9"/>
+      <param name="skip-fill-level" value="false"/>
+    </portion-size>
+    <portion-size method="drink-scale" description="in a takeaway cup" imageUrl="portion/hotdrinks.jpg">
+      <param name="drinkware-id" value="takeaway_cups_hot"/>
+      <param name="initial-fill-level" value="0.9"/>
+      <param name="skip-fill-level" value="true"/>
+    </portion-size>
+  </food>
+  <food code="LAWM" description="Latte made with whole milk" ndnsCode="8053">
+    <portion-size method="drink-scale" description="in a mug" imageUrl="portion/mugs.jpg">
+      <param name="drinkware-id" value="mugs"/>
+      <param name="initial-fill-level" value="0.9"/>
+      <param name="skip-fill-level" value="false"/>
+    </portion-size>
+    <portion-size method="drink-scale" description="in a takeaway cup" imageUrl="portion/hotdrinks.jpg">
+      <param name="drinkware-id" value="takeaway_cups_hot"/>
+      <param name="initial-fill-level" value="0.9"/>
+      <param name="skip-fill-level" value="true"/>
+    </portion-size>
+  </food>
   <food code="LCHC" description="Choc ices containing caramel" ndnsCode="8226">
     <portion-size method="guide-image" description="No description" imageUrl="portion/placeholder.jpg">
       <param name="guide-image-id" value="Gice2"/>
@@ -5854,10 +6002,54 @@
       <param name="unit0-omit-food-description" value="false"/>
     </portion-size>
   </food>
-  <food code="MOSK" description="Mocha made with skimmed milk (no cream)" ndnsCode="8060"> </food>
-  <food code="MOSS" description="Mocha made with semi-skimmed milk (no cream)" ndnsCode="10785"> </food>
-  <food code="MOWC" description="Mocha with cream" ndnsCode="8061"> </food>
-  <food code="MOWM" description="Mocha made with whole milk (no cream)" ndnsCode="8059"> </food>
+  <food code="MOSK" description="Mocha made with skimmed milk (no cream)" ndnsCode="8060">
+    <portion-size method="drink-scale" description="in a mug" imageUrl="portion/mugs.jpg">
+      <param name="drinkware-id" value="mugs"/>
+      <param name="initial-fill-level" value="0.9"/>
+      <param name="skip-fill-level" value="false"/>
+    </portion-size>
+    <portion-size method="drink-scale" description="in a takeaway cup" imageUrl="portion/hotdrinks.jpg">
+      <param name="drinkware-id" value="takeaway_cups_hot"/>
+      <param name="initial-fill-level" value="0.9"/>
+      <param name="skip-fill-level" value="true"/>
+    </portion-size>
+  </food>
+  <food code="MOSS" description="Mocha made with semi-skimmed milk (no cream)" ndnsCode="10785">
+    <portion-size method="drink-scale" description="in a mug" imageUrl="portion/mugs.jpg">
+      <param name="drinkware-id" value="mugs"/>
+      <param name="initial-fill-level" value="0.9"/>
+      <param name="skip-fill-level" value="false"/>
+    </portion-size>
+    <portion-size method="drink-scale" description="in a takeaway cup" imageUrl="portion/hotdrinks.jpg">
+      <param name="drinkware-id" value="takeaway_cups_hot"/>
+      <param name="initial-fill-level" value="0.9"/>
+      <param name="skip-fill-level" value="true"/>
+    </portion-size>
+  </food>
+  <food code="MOWC" description="Mocha with cream" ndnsCode="8061">
+    <portion-size method="drink-scale" description="in a mug" imageUrl="portion/mugs.jpg">
+      <param name="drinkware-id" value="mugs"/>
+      <param name="initial-fill-level" value="0.9"/>
+      <param name="skip-fill-level" value="false"/>
+    </portion-size>
+    <portion-size method="drink-scale" description="in a takeaway cup" imageUrl="portion/hotdrinks.jpg">
+      <param name="drinkware-id" value="takeaway_cups_hot"/>
+      <param name="initial-fill-level" value="0.9"/>
+      <param name="skip-fill-level" value="true"/>
+    </portion-size>
+  </food>
+  <food code="MOWM" description="Mocha made with whole milk (no cream)" ndnsCode="8059">
+    <portion-size method="drink-scale" description="in a mug" imageUrl="portion/mugs.jpg">
+      <param name="drinkware-id" value="mugs"/>
+      <param name="initial-fill-level" value="0.9"/>
+      <param name="skip-fill-level" value="false"/>
+    </portion-size>
+    <portion-size method="drink-scale" description="in a takeaway cup" imageUrl="portion/hotdrinks.jpg">
+      <param name="drinkware-id" value="takeaway_cups_hot"/>
+      <param name="initial-fill-level" value="0.9"/>
+      <param name="skip-fill-level" value="true"/>
+    </portion-size>
+  </food>
   <food code="MOZZ" description="Mozzarella Cheese" ndnsCode="675">
     <portion-size method="standard-portion" description="No description" imageUrl="portion/placeholder.jpg">
       <param name="units-count" value="1"/>
@@ -9487,11 +9679,66 @@
       <param name="unit1-omit-food-description" value="false"/>
     </portion-size>
   </food>
-  <food code="TERM" description="Tea made with rice milk" ndnsCode="-1"> </food>
-  <food code="TESM" description="Tea made with skimmed milk" ndnsCode="-1"> </food>
-  <food code="TESO" description="Tea made with soya milk" ndnsCode="-1"> </food>
-  <food code="TESS" description="Tea made with semi-skimmed milk" ndnsCode="-1"> </food>
-  <food code="TEWM" description="Tea made with whole milk" ndnsCode="-1"> </food>
+  <food code="TERM" description="Tea made with rice milk" ndnsCode="-1">
+    <portion-size method="drink-scale" description="in a mug" imageUrl="portion/mugs.jpg">
+      <param name="drinkware-id" value="mugs"/>
+      <param name="initial-fill-level" value="0.9"/>
+      <param name="skip-fill-level" value="false"/>
+    </portion-size>
+    <portion-size method="drink-scale" description="in a takeaway cup" imageUrl="portion/hotdrinks.jpg">
+      <param name="drinkware-id" value="takeaway_cups_hot"/>
+      <param name="initial-fill-level" value="0.9"/>
+      <param name="skip-fill-level" value="true"/>
+    </portion-size>
+  </food>
+  <food code="TESM" description="Tea made with skimmed milk" ndnsCode="-1">
+    <portion-size method="drink-scale" description="in a mug" imageUrl="portion/mugs.jpg">
+      <param name="drinkware-id" value="mugs"/>
+      <param name="initial-fill-level" value="0.9"/>
+      <param name="skip-fill-level" value="false"/>
+    </portion-size>
+    <portion-size method="drink-scale" description="in a takeaway cup" imageUrl="portion/hotdrinks.jpg">
+      <param name="drinkware-id" value="takeaway_cups_hot"/>
+      <param name="initial-fill-level" value="0.9"/>
+      <param name="skip-fill-level" value="true"/>
+    </portion-size>
+  </food>
+  <food code="TESO" description="Tea made with soya milk" ndnsCode="-1">
+    <portion-size method="drink-scale" description="in a mug" imageUrl="portion/mugs.jpg">
+      <param name="drinkware-id" value="mugs"/>
+      <param name="initial-fill-level" value="0.9"/>
+      <param name="skip-fill-level" value="false"/>
+    </portion-size>
+    <portion-size method="drink-scale" description="in a takeaway cup" imageUrl="portion/hotdrinks.jpg">
+      <param name="drinkware-id" value="takeaway_cups_hot"/>
+      <param name="initial-fill-level" value="0.9"/>
+      <param name="skip-fill-level" value="true"/>
+    </portion-size>
+  </food>
+  <food code="TESS" description="Tea made with semi-skimmed milk" ndnsCode="-1">
+    <portion-size method="drink-scale" description="in a mug" imageUrl="portion/mugs.jpg">
+      <param name="drinkware-id" value="mugs"/>
+      <param name="initial-fill-level" value="0.9"/>
+      <param name="skip-fill-level" value="false"/>
+    </portion-size>
+    <portion-size method="drink-scale" description="in a takeaway cup" imageUrl="portion/hotdrinks.jpg">
+      <param name="drinkware-id" value="takeaway_cups_hot"/>
+      <param name="initial-fill-level" value="0.9"/>
+      <param name="skip-fill-level" value="true"/>
+    </portion-size>
+  </food>
+  <food code="TEWM" description="Tea made with whole milk" ndnsCode="-1">
+    <portion-size method="drink-scale" description="in a mug" imageUrl="portion/mugs.jpg">
+      <param name="drinkware-id" value="mugs"/>
+      <param name="initial-fill-level" value="0.9"/>
+      <param name="skip-fill-level" value="false"/>
+    </portion-size>
+    <portion-size method="drink-scale" description="in a takeaway cup" imageUrl="portion/hotdrinks.jpg">
+      <param name="drinkware-id" value="takeaway_cups_hot"/>
+      <param name="initial-fill-level" value="0.9"/>
+      <param name="skip-fill-level" value="true"/>
+    </portion-size>
+  </food>
   <food code="TFFE" description="Toffee Crisp bar" ndnsCode="10564">
     <portion-size method="guide-image" description="No description" imageUrl="portion/placeholder.jpg">
       <param name="guide-image-id" value="Gcbar"/>
