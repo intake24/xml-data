@@ -115,15 +115,15 @@
     <food code="BRIO"/>
   </category>
   <category code="BRED" description="Bread/crumpets/pancakes/yorkshire puddings" hidden="false">
-    <subcategory code="BBRD"/>
     <subcategory code="BCHS"/>
+    <subcategory code="YPUD"/>
+    <subcategory code="BBRD"/>
     <subcategory code="BRDR"/>
     <subcategory code="CRUM"/>
     <subcategory code="FJTA"/>
     <subcategory code="FTBD"/>
     <subcategory code="GBRD"/>
     <subcategory code="WBRD"/>
-    <subcategory code="YPUD"/>
   </category>
   <category code="BCHS" description="Breadsticks" hidden="false">
     <food code="BRDS"/>
@@ -209,8 +209,8 @@
     <food code="BTUS"/>
   </category>
   <category code="BTTR" description="Butter, margarine, oils" hidden="false">
-    <subcategory code="BUTR"/>
     <subcategory code="CKGO"/>
+    <subcategory code="BUTR"/>
     <subcategory code="MRGN"/>
   </category>
   <category code="CBBG" description="Cabbage" hidden="false">
@@ -303,6 +303,13 @@
     <food code="HCRS"/>
     <food code="HCRY"/>
     <food code="HOCB"/>
+  </category>
+  <category code="C011" description="Cheese" hidden="false">
+    <subcategory code="COTC"/>
+    <subcategory code="CRMC"/>
+    <subcategory code="HRDC"/>
+    <subcategory code="SFTC"/>
+    <subcategory code="SPRD"/>
   </category>
   <category code="CHSE" description="Cheese &amp; cheese products" hidden="false">
     <subcategory code="CHPT"/>
@@ -581,9 +588,9 @@
     <food code="DISC"/>
   </category>
   <category code="CRPS" description="Crisps/snacks/nuts" hidden="false">
-    <subcategory code="CRSP"/>
     <subcategory code="PMPC"/>
     <subcategory code="POPC"/>
+    <subcategory code="CRSP"/>
     <subcategory code="NUTS"/>
   </category>
   <category code="CRUM" description="Crumpets, muffins &amp; pancakes" hidden="false">
@@ -680,9 +687,9 @@
   <category code="EGGD" description="Egg &amp; egg dishes" hidden="false">
     <food code="MFSE"/>
     <food code="SCTH"/>
-    <subcategory code="EGGS"/>
     <subcategory code="OMLT"/>
     <subcategory code="QCHE"/>
+    <subcategory code="EGGS"/>
   </category>
   <category code="EGGS" description="Eggs" hidden="false">
     <food code="SEGS"/>
@@ -696,20 +703,27 @@
     <food code="SCLZ"/>
     <food code="EDLC"/>
   </category>
+  <category code="C010" description="Fish" hidden="false">
+    <food code="PBFO"/>
+    <subcategory code="FFLT"/>
+    <subcategory code="CRAB"/>
+    <subcategory code="OILY"/>
+    <subcategory code="FPCS"/>
+  </category>
   <category code="FISH" description="Fish &amp; fish products" hidden="false">
     <food code="COKL"/>
-    <food code="PBFO"/>
     <food code="SHRI"/>
     <food code="SQUI"/>
     <food code="MUSS"/>
+    <food code="PBFO"/>
     <subcategory code="CODB"/>
     <subcategory code="FDSH"/>
-    <subcategory code="FFLT"/>
-    <subcategory code="FPCS"/>
     <subcategory code="FSCK"/>
-    <subcategory code="OILY"/>
-    <subcategory code="CRAB"/>
     <subcategory code="SUSH"/>
+    <subcategory code="FFLT"/>
+    <subcategory code="CRAB"/>
+    <subcategory code="OILY"/>
+    <subcategory code="FPCS"/>
   </category>
   <category code="FDSH" description="Fish dishes" hidden="false">
     <food code="FCRY"/>
@@ -1112,13 +1126,25 @@
     <food code="MYOL"/>
     <food code="EXLM"/>
   </category>
-  <category code="MEAT" description="Meat &amp; meat dishes" hidden="false">
-    <food code="PRIB"/>
-    <food code="SRFP"/>
+  <category code="C009" description="Meat" hidden="false">
     <subcategory code="BCNS"/>
     <subcategory code="HAMS"/>
     <subcategory code="MFGR"/>
+    <subcategory code="MTST"/>
+    <subcategory code="RSTM"/>
+    <subcategory code="SSGS"/>
+    <subcategory code="STEK"/>
+    <subcategory code="SWMT"/>
+    <subcategory code="BRGS"/>
+    <subcategory code="MDSH"/>
+  </category>
+  <category code="MEAT" description="Meat &amp; meat dishes" hidden="false">
+    <food code="PRIB"/>
+    <food code="SRFP"/>
     <subcategory code="MTPS"/>
+    <subcategory code="BCNS"/>
+    <subcategory code="HAMS"/>
+    <subcategory code="MFGR"/>
     <subcategory code="MTST"/>
     <subcategory code="RSTM"/>
     <subcategory code="SSGS"/>
@@ -1177,10 +1203,10 @@
     <food code="CCNM"/>
     <food code="RFCM"/>
     <food code="CNDM"/>
-    <subcategory code="CREM"/>
     <subcategory code="MDNK"/>
     <subcategory code="MCRL"/>
     <subcategory code="SHKS"/>
+    <subcategory code="CREM"/>
   </category>
   <category code="MDNK" description="Milk as a drink" hidden="false">
     <food code="KMLK"/>
@@ -1588,30 +1614,116 @@
     <food code="HPCG"/>
     <food code="MATT"/>
   </category>
-  <category code="COND" description="Sauces/condiments/gravy/stock" hidden="false">
+  <category code="SW01" description="Sandwich wizard stage 1 (bread)" hidden="true">
+    <subcategory code="BBRD"/>
+    <subcategory code="BRDR"/>
+    <subcategory code="CRUM"/>
+    <subcategory code="FJTA"/>
+    <subcategory code="FTBD"/>
+    <subcategory code="GBRD"/>
+    <subcategory code="WBRD"/>
+  </category>
+  <category code="SW02" description="Sandwich wizard stage 2 (spreads)" hidden="true">
+    <subcategory code="BUTR"/>
+    <subcategory code="MRGN"/>
+  </category>
+  <category code="SW03" description="Sandwich wizard stage 3 (meat &amp; fish)" hidden="true">
+    <food code="PBFO"/>
+    <subcategory code="BCNS"/>
+    <subcategory code="HAMS"/>
+    <subcategory code="MFGR"/>
+    <subcategory code="MTST"/>
+    <subcategory code="RSTM"/>
+    <subcategory code="SSGS"/>
+    <subcategory code="STEK"/>
+    <subcategory code="SWMT"/>
+    <subcategory code="BRGS"/>
+    <subcategory code="MDSH"/>
+    <subcategory code="FFLT"/>
+    <subcategory code="CRAB"/>
+    <subcategory code="OILY"/>
+    <subcategory code="FPCS"/>
+  </category>
+  <category code="SW04" description="Sandwich wizard stage 4 (dairy products)" hidden="true">
+    <subcategory code="CREM"/>
+    <subcategory code="EGGS"/>
+    <subcategory code="COTC"/>
+    <subcategory code="CRMC"/>
+    <subcategory code="HRDC"/>
+    <subcategory code="SFTC"/>
+    <subcategory code="SPRD"/>
+  </category>
+  <category code="SW05" description="Sandwich wizard stage 5 (other fillings)" hidden="true">
+    <subcategory code="EGGS"/>
+    <subcategory code="CRSP"/>
+    <subcategory code="NUTS"/>
+    <subcategory code="C011"/>
+    <subcategory code="CHSE"/>
+    <subcategory code="FRTS"/>
+    <subcategory code="HRSP"/>
+    <subcategory code="CARB"/>
+    <subcategory code="PCKL"/>
+    <subcategory code="VTGB"/>
+    <subcategory code="SUGR"/>
+    <subcategory code="SAUC"/>
+    <subcategory code="COND"/>
+    <subcategory code="FISH"/>
+    <subcategory code="MEAT"/>
+  </category>
+  <category code="SW06" description="Sandwich wizard stage 6 (sauces/pickles)" hidden="true">
+    <food code="RPTO"/>
+    <food code="GPTO"/>
+    <subcategory code="CHTN"/>
+    <subcategory code="DIPS"/>
+    <subcategory code="GHRK"/>
+    <subcategory code="OVES"/>
+    <subcategory code="PION"/>
+    <subcategory code="RLSH"/>
+    <subcategory code="SDRS"/>
+    <subcategory code="SWTP"/>
+    <subcategory code="CUBE"/>
+    <subcategory code="MTRD"/>
+    <subcategory code="C007"/>
+    <subcategory code="MAYN"/>
+    <subcategory code="CREM"/>
+  </category>
+  <category code="C007" description="Sauces" hidden="false">
+    <food code="APSE"/>
+    <food code="SEAS"/>
+    <food code="TARS"/>
     <food code="TKET"/>
+    <food code="MNTS"/>
+    <food code="HOTS"/>
+    <food code="CRNB"/>
+    <food code="HORS"/>
+    <subcategory code="SDCM"/>
+    <subcategory code="CHIS"/>
+    <subcategory code="BBFS"/>
+  </category>
+  <category code="COND" description="Sauces/condiments/gravy/stock" hidden="false">
     <food code="SORS"/>
     <food code="TKRS"/>
     <food code="SOYS"/>
     <food code="TGCP"/>
     <food code="TRCP"/>
-    <food code="HOTS"/>
-    <food code="APSE"/>
-    <food code="MNTS"/>
     <food code="WRCT"/>
     <food code="HOLS"/>
-    <food code="CRNB"/>
+    <food code="APSE"/>
     <food code="SEAS"/>
-    <food code="HORS"/>
     <food code="TARS"/>
-    <subcategory code="BBFS"/>
-    <subcategory code="CHIS"/>
-    <subcategory code="CUBE"/>
-    <subcategory code="MAYN"/>
-    <subcategory code="MTRD"/>
-    <subcategory code="SDCM"/>
+    <food code="TKET"/>
+    <food code="MNTS"/>
+    <food code="HOTS"/>
+    <food code="CRNB"/>
+    <food code="HORS"/>
     <subcategory code="VNGR"/>
     <subcategory code="WHTE"/>
+    <subcategory code="CUBE"/>
+    <subcategory code="MTRD"/>
+    <subcategory code="SDCM"/>
+    <subcategory code="MAYN"/>
+    <subcategory code="CHIS"/>
+    <subcategory code="BBFS"/>
   </category>
   <category code="SSGS" description="Sausages" hidden="false">
     <food code="BPBO"/>
@@ -1785,17 +1897,17 @@
     <food code="CBPS"/>
     <food code="CHPS"/>
     <food code="CRYS"/>
-    <food code="GPTO"/>
     <food code="SSCS"/>
     <food code="TMPS"/>
     <food code="HOCS"/>
-    <food code="RPTO"/>
     <food code="BLKB"/>
     <food code="BSPS"/>
     <food code="PASA"/>
     <food code="STFS"/>
     <food code="TGCP"/>
     <food code="TRCP"/>
+    <food code="RPTO"/>
+    <food code="GPTO"/>
   </category>
   <category code="SUGA" description="Sugar" hidden="false">
     <food code="BSGR"/>
