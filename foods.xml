@@ -8862,19 +8862,14 @@
     </portion-size>
   </food>
   <food code="POTD" description="Potato salad" ndnsCode="7862">
-    <portion-size method="guide-image" description="No description" imageUrl="portion/placeholder.jpg">
-      <param name="guide-image-id" value="Gspn"/>
+    <portion-size method="as-served" description="No description" imageUrl="portion/placeholder.jpg">
+      <param name="serving-image-set" value="potatoes_boiled_new"/>
+      <param name="leftovers-image-set" value="potatoes_boiled_new_leftovers"/>
     </portion-size>
   </food>
   <food code="POTH" description="Potted hough" ndnsCode="1256">
     <portion-size method="as-served" description="No description" imageUrl="portion/placeholder.jpg">
       <param name="serving-image-set" value="cream_cheese_spread"/>
-    </portion-size>
-  </food>
-  <food code="POTS" description="Potato salad" ndnsCode="7862">
-    <portion-size method="as-served" description="No description" imageUrl="portion/placeholder.jpg">
-      <param name="serving-image-set" value="potatoes_boiled_new"/>
-      <param name="leftovers-image-set" value="potatoes_boiled_new_leftovers"/>
     </portion-size>
   </food>
   <food code="PPDM" description="Poppadums" ndnsCode="153">
@@ -9848,14 +9843,6 @@
   <food code="SAMS" description="Vegetable samosas" ndnsCode="2623">
     <portion-size method="guide-image" description="No description" imageUrl="portion/placeholder.jpg">
       <param name="guide-image-id" value="Gtur"/>
-    </portion-size>
-  </food>
-  <food code="SAND" description="Sandwich (list ingredients individually)" ndnsCode="-1">
-    <portion-size method="standard-portion" description="No description" imageUrl="portion/placeholder.jpg">
-      <param name="units-count" value="1"/>
-      <param name="unit0-name" value="dummy"/>
-      <param name="unit0-weight" value="1.0"/>
-      <param name="unit0-omit-food-description" value="false"/>
     </portion-size>
   </food>
   <food code="SAPN" description="Savoury popcorn" ndnsCode="4408">
