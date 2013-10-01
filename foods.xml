@@ -5852,12 +5852,6 @@
       <param name="guide-image-id" value="Gcake"/>
     </portion-size>
   </food>
-  <food code="ILTC" description="Iceberg lettuce" ndnsCode="7855">
-    <portion-size method="as-served" description="No description" imageUrl="portion/placeholder.jpg">
-      <param name="serving-image-set" value="lettuce"/>
-      <param name="leftovers-image-set" value="lettuce_leftovers"/>
-    </portion-size>
-  </food>
   <food 
   code="ILVC" description="Ice lollies, made with real fruit juice e.g. Fruit Pastilles, Del Monte" ndnsCode="2262">
     <portion-size method="guide-image" description="No description" imageUrl="portion/placeholder.jpg">
