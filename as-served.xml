@@ -1,18 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
 <as-served-sets>
-  <as-served-set description="Apple FIXME" id="apple">
-    <as-served-image weight="0.0" url="Gapl.jpg"/>
-  </as-served-set>
-  <as-served-set description="Apple FIXME (leftovers)" id="apple_leftovers">
-    <as-served-image weight="8.0" url="1008.jpg"/>
-    <as-served-image weight="16.0" url="1007.jpg"/>
-    <as-served-image weight="24.0" url="1006.jpg"/>
-    <as-served-image weight="32.0" url="1005.jpg"/>
-    <as-served-image weight="40.0" url="1004.jpg"/>
-    <as-served-image weight="48.0" url="1003.jpg"/>
-    <as-served-image weight="56.0" url="1002.jpg"/>
-    <as-served-image weight="64.0" url="1001.jpg"/>
-  </as-served-set>
   <as-served-set description="Stewed apple" id="apple_stewed">
     <as-served-image weight="51.3" url="PStApl1.jpg"/>
     <as-served-image weight="66.96" url="PStApl2.jpg"/>
@@ -135,20 +122,20 @@
   </as-served-set>
   <as-served-set description="Pasta, in sauce, bows, plate" id="bowsau1">
     <as-served-image weight="18.0" url="pasta/bowsau1.jpg"/>
-    <as-served-image weight="28.0" url="pasta/bowsau1.jpg"/>
-    <as-served-image weight="45.0" url="pasta/bowsau1.jpg"/>
-    <as-served-image weight="71.0" url="pasta/bowsau1.jpg"/>
-    <as-served-image weight="113.0" url="pasta/bowsau1.jpg"/>
-    <as-served-image weight="180.0" url="pasta/bowsau1.jpg"/>
-    <as-served-image weight="287.0" url="pasta/bowsau1.jpg"/>
+    <as-served-image weight="28.0" url="pasta/bowsau2.jpg"/>
+    <as-served-image weight="45.0" url="pasta/bowsau3.jpg"/>
+    <as-served-image weight="71.0" url="pasta/bowsau4.jpg"/>
+    <as-served-image weight="113.0" url="pasta/bowsau5.jpg"/>
+    <as-served-image weight="180.0" url="pasta/bowsau6.jpg"/>
+    <as-served-image weight="287.0" url="pasta/bowsau7.jpg"/>
   </as-served-set>
   <as-served-set description="Pasta, in sauce, bows, plate" id="bowsau1_leftovers">
-    <as-served-image weight="1.0" url="pasta/bowsau1.jpg"/>
-    <as-served-image weight="2.0" url="pasta/bowsau1.jpg"/>
-    <as-served-image weight="3.0" url="pasta/bowsau1.jpg"/>
-    <as-served-image weight="4.0" url="pasta/bowsau1.jpg"/>
-    <as-served-image weight="7.0" url="pasta/bowsau1.jpg"/>
-    <as-served-image weight="11.0" url="pasta/bowsau1.jpg"/>
+    <as-served-image weight="1.0" url="pasta/bowsau8.jpg"/>
+    <as-served-image weight="2.0" url="pasta/bowsau9.jpg"/>
+    <as-served-image weight="3.0" url="pasta/bowsau10.jpg"/>
+    <as-served-image weight="4.0" url="pasta/bowsau11.jpg"/>
+    <as-served-image weight="7.0" url="pasta/bowsau12.jpg"/>
+    <as-served-image weight="11.0" url="pasta/bowsau13.jpg"/>
   </as-served-set>
   <as-served-set description="Pasta, in sauce, bows, bowl" id="bowsaub">
     <as-served-image weight="18.0" url="pasta/bowsaub1.jpg"/>
@@ -2198,20 +2185,20 @@
   </as-served-set>
   <as-served-set description="Pasta, in sauce, spaghetti, plate" id="spagsau1">
     <as-served-image weight="18.0" url="pasta/spagsau1.jpg"/>
-    <as-served-image weight="28.0" url="pasta/spagsau1.jpg"/>
-    <as-served-image weight="45.0" url="pasta/spagsau1.jpg"/>
-    <as-served-image weight="71.0" url="pasta/spagsau1.jpg"/>
-    <as-served-image weight="113.0" url="pasta/spagsau1.jpg"/>
-    <as-served-image weight="180.0" url="pasta/spagsau1.jpg"/>
-    <as-served-image weight="287.0" url="pasta/spagsau1.jpg"/>
+    <as-served-image weight="28.0" url="pasta/spagsau2.jpg"/>
+    <as-served-image weight="45.0" url="pasta/spagsau3.jpg"/>
+    <as-served-image weight="71.0" url="pasta/spagsau4.jpg"/>
+    <as-served-image weight="113.0" url="pasta/spagsau5.jpg"/>
+    <as-served-image weight="180.0" url="pasta/spagsau6.jpg"/>
+    <as-served-image weight="287.0" url="pasta/spagsau7.jpg"/>
   </as-served-set>
   <as-served-set description="Pasta, in sauce, spaghetti, plate" id="spagsau1_leftovers">
-    <as-served-image weight="1.0" url="pasta/spagsau1.jpg"/>
-    <as-served-image weight="2.0" url="pasta/spagsau1.jpg"/>
-    <as-served-image weight="3.0" url="pasta/spagsau1.jpg"/>
-    <as-served-image weight="4.0" url="pasta/spagsau1.jpg"/>
-    <as-served-image weight="7.0" url="pasta/spagsau1.jpg"/>
-    <as-served-image weight="11.0" url="pasta/spagsau1.jpg"/>
+    <as-served-image weight="1.0" url="pasta/spagsau8.jpg"/>
+    <as-served-image weight="2.0" url="pasta/spagsau9.jpg"/>
+    <as-served-image weight="3.0" url="pasta/spagsau10.jpg"/>
+    <as-served-image weight="4.0" url="pasta/spagsau11.jpg"/>
+    <as-served-image weight="7.0" url="pasta/spagsau12.jpg"/>
+    <as-served-image weight="11.0" url="pasta/spagsau13.jpg"/>
   </as-served-set>
   <as-served-set description="Pasta, in sauce, spaghetti, bowl" id="spagsaub">
     <as-served-image weight="18.0" url="pasta/spagsaub1.jpg"/>
