@@ -143,6 +143,8 @@
     <food code="WSUB"/>
     <food code="WHBN"/>
     <food code="WHSB"/>
+    <food code="CTRO"/>
+    <food code="TIGR"/>
   </category>
   <category code="BRED" description="Bread/crumpets/pancakes/yorkshire puddings" hidden="false">
     <subcategory code="BCHS"/>
@@ -458,7 +460,6 @@
     <food code="HOCI"/>
   </category>
   <category code="BARS" description="Chocolate bars" hidden="false">
-    <food code="BLOK"/>
     <food code="KTKT"/>
     <food code="MNCH"/>
     <food code="TOPC"/>
@@ -508,9 +509,9 @@
     <food code="CEGG"/>
     <food code="CRWB"/>
     <food code="BUBB"/>
-    <subcategory code="BARS"/>
     <subcategory code="CHCS"/>
     <subcategory code="CSWT"/>
+    <subcategory code="BARS"/>
   </category>
   <category code="CHSB" description="Chocolate covered biscuits" hidden="false">
     <food code="CHMH"/>
