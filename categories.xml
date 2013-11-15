@@ -17,19 +17,19 @@
   <category code="APLS" description="Apples" hidden="false">
     <food code="APST"/>
     <food code="EAPF"/>
-    <food code="EAPL"/>
     <food code="GALA"/>
-    <food code="BRAE"/>
-    <food code="GSMI"/>
-    <food code="PINK"/>
-    <food code="GOLD"/>
-    <food code="PINS"/>
     <food code="GANS"/>
     <food code="GONS"/>
-    <food code="BRAS"/>
+    <food code="GOLD"/>
+    <food code="GSMI"/>
     <food code="GSNS"/>
-    <food code="RENS"/>
+    <food code="PINK"/>
+    <food code="PINS"/>
     <food code="REDD"/>
+    <food code="RENS"/>
+    <food code="BRAE"/>
+    <food code="BRAS"/>
+    <food code="EAPL"/>
   </category>
   <category code="BCNS" description="Bacon" hidden="false">
     <food code="BNSF"/>
@@ -39,7 +39,6 @@
   </category>
   <category code="BBNS" description="Baked beans &amp; pulses" hidden="false">
     <food code="LNTL"/>
-    <food code="SOYB"/>
     <food code="PLBL"/>
     <food code="MUNG"/>
     <food code="BEBE"/>
@@ -55,6 +54,7 @@
     <food code="BRBN"/>
     <food code="HBNS"/>
     <food code="HBRS"/>
+    <food code="SOYB"/>
   </category>
   <category code="BKDP" description="Baked potatoes" hidden="false">
     <food code="OPFS"/>
@@ -107,8 +107,8 @@
   </category>
   <category code="BSCT" description="Biscuits &amp; crackers" hidden="false">
     <subcategory code="BCHS"/>
-    <subcategory code="SWBC"/>
     <subcategory code="SYBT"/>
+    <subcategory code="SWBC"/>
   </category>
   <category code="BOLP" description="Boiled potatoes" hidden="false">
     <food code="NPBS"/>
@@ -152,10 +152,10 @@
     <subcategory code="BBRD"/>
     <subcategory code="BRDR"/>
     <subcategory code="CRUM"/>
-    <subcategory code="FJTA"/>
     <subcategory code="FTBD"/>
     <subcategory code="GBRD"/>
     <subcategory code="WBRD"/>
+    <subcategory code="FJTA"/>
   </category>
   <category code="BCHS" description="Breadsticks" hidden="false">
     <food code="BRDS"/>
@@ -177,9 +177,9 @@
     <food code="OATC"/>
     <food code="POPT"/>
     <food code="CHCR"/>
-    <food code="STCR"/>
     <food code="MPCR"/>
     <food code="GRAN"/>
+    <food code="STCR"/>
     <subcategory code="CRBR"/>
     <subcategory code="FCRL"/>
     <subcategory code="HPCR"/>
@@ -282,13 +282,13 @@
     <food code="BTNB"/>
     <food code="CHMR"/>
     <food code="CHSL"/>
-    <food code="CTSL"/>
     <food code="ILSL"/>
     <food code="FRFA"/>
     <food code="CCAS"/>
     <food code="CHOB"/>
     <food code="RKYR"/>
     <food code="MDCK"/>
+    <food code="CTSL"/>
   </category>
   <category code="CAKE" description="Cakes/buns/pastries/fruit pies" hidden="false">
     <food code="CKRC"/>
@@ -325,7 +325,6 @@
     <food code="PRNC"/>
     <food code="PRNJ"/>
     <food code="GFRS"/>
-    <food code="GFRU"/>
     <food code="FSSF"/>
     <food code="FTSS"/>
     <food code="APRC"/>
@@ -335,6 +334,7 @@
     <food code="PNAJ"/>
     <food code="PRSJ"/>
     <food code="PSCS"/>
+    <food code="GFRU"/>
   </category>
   <category code="CAPU" description="Cappuccino" hidden="false">
     <food code="CASE"/>
@@ -547,12 +547,13 @@
     <food code="CFAF"/>
     <food code="LIND"/>
     <food code="THNT"/>
-    <food code="CELE"/>
-    <food code="HERO"/>
     <food code="SEGG"/>
     <food code="ELSH"/>
     <food code="MATC"/>
     <food code="MATO"/>
+    <food code="TCHO"/>
+    <food code="HERO"/>
+    <food code="CELE"/>
   </category>
   <category code="CHTN" description="Chutney" hidden="false">
     <food code="MCHS"/>
@@ -569,11 +570,6 @@
     <food code="FRCI"/>
   </category>
   <category code="CFFS" description="Coffee" hidden="false">
-    <food code="COWM"/>
-    <food code="COSS"/>
-    <food code="COSO"/>
-    <food code="CORM"/>
-    <food code="COSM"/>
     <food code="CFFB"/>
     <subcategory code="MOCA"/>
     <subcategory code="LATE"/>
@@ -735,6 +731,7 @@
     <food code="GNGR"/>
     <food code="WHBP"/>
     <food code="HODI"/>
+    <food code="MALM"/>
   </category>
   <category code="DIPS" description="Dips" hidden="false">
     <food code="TARA"/>
@@ -854,6 +851,7 @@
     <food code="KPBK"/>
     <food code="SMOK"/>
     <food code="WBFR"/>
+    <food code="TUNS"/>
   </category>
   <category code="FPCS" description="Fish fingers &amp; fish in breadcrumbs" hidden="false">
     <food code="FFFO"/>
@@ -896,6 +894,7 @@
     <food code="REDC"/>
     <food code="GINB"/>
     <food code="DCLA"/>
+    <food code="DAND"/>
   </category>
   <category code="FCRL" description="Flake cereals" hidden="false">
     <food code="BRNF"/>
@@ -904,22 +903,20 @@
     <food code="CNTC"/>
     <food code="CRNF"/>
     <food code="FRFB"/>
-    <food code="SLTB"/>
     <food code="WTAF"/>
     <food code="WTFR"/>
     <food code="FRST"/>
     <food code="OATF"/>
     <food code="COCF"/>
     <food code="ALLB"/>
-    <food code="SULB"/>
     <food code="HNCF"/>
     <food code="SPCK"/>
     <food code="FITN"/>
+    <food code="SULB"/>
   </category>
   <category code="FLPJ" description="Flapjacks" hidden="false">
-    <food code="FLJB"/>
-    <food code="FLJH"/>
     <food code="CCFJ"/>
+    <food code="FLJB"/>
   </category>
   <category code="FBNS" description="French/green/runner beans" hidden="false">
     <food code="FRBB"/>
@@ -969,6 +966,7 @@
     <food code="MANF"/>
     <food code="RASF"/>
     <food code="PEAF"/>
+    <food code="MIXB"/>
   </category>
   <category code="FRTB" description="Fruit biscuits e.g. garibaldi" hidden="false">
     <food code="FBNW"/>
@@ -980,9 +978,8 @@
     <food code="FRBD"/>
   </category>
   <category code="FTCA" description="Fruit cake" hidden="false">
-    <food code="DUND"/>
     <food code="FTCK"/>
-    <food code="DUNH"/>
+    <food code="DUND"/>
   </category>
   <category code="FRTC" description="Fruit crumble" hidden="false">
     <food code="ACNW"/>
@@ -1004,7 +1001,6 @@
     <food code="LOCJ"/>
     <food code="CRYJ"/>
     <food code="TOMB"/>
-    <food code="COPE"/>
     <food code="TROP"/>
   </category>
   <category code="FTYG" description="Fruit yoghurt" hidden="false">
@@ -1096,13 +1092,6 @@
     <food code="SPHP"/>
     <food code="MGHP"/>
   </category>
-  <category code="HORL" description="Horlicks" hidden="false">
-    <food code="HRRC"/>
-    <food code="HRLS"/>
-    <food code="HRLM"/>
-    <food code="HRLW"/>
-    <food code="HRSM"/>
-  </category>
   <category code="HTCL" description="Hot cereals, e.g. porridge, ready brek" hidden="false">
     <food code="PRDW"/>
     <food code="PRSS"/>
@@ -1116,27 +1105,19 @@
     <food code="RDWM"/>
     <food code="PRHW"/>
   </category>
-  <category code="HCHO" description="Hot chocolate" hidden="false">
-    <food code="DCRM"/>
-    <food code="DCSM"/>
-    <food code="DCSO"/>
-    <food code="DCWM"/>
+  <category code="DCHO" description="Hot chocolate" hidden="false">
     <food code="DCSS"/>
+    <food code="DCSM"/>
+    <food code="DCWA"/>
+    <food code="DCWM"/>
+    <food code="DCRM"/>
+    <food code="DCSO"/>
   </category>
   <category code="HCHC" description="Hot chocolate &amp; malted drinks" hidden="false">
     <food code="DCHS"/>
     <food code="HRLK"/>
+    <subcategory code="DCHO"/>
     <subcategory code="HORL"/>
-    <subcategory code="HCLC"/>
-    <subcategory code="HCHO"/>
-  </category>
-  <category code="HCLC" description="Hot chocolate (low calorie)" hidden="false">
-    <food code="DCLW"/>
-    <food code="DCLC"/>
-    <food code="DCLS"/>
-    <food code="DCLM"/>
-    <food code="DCLO"/>
-    <food code="DCLR"/>
   </category>
   <category code="ICEC" description="Ice cream" hidden="false">
     <food code="CICD"/>
@@ -1186,10 +1167,10 @@
   </category>
   <category code="JAMS" description="Jam/marmalade/curd" hidden="false">
     <food code="CURD"/>
-    <food code="JAME"/>
+    <food code="MARM"/>
     <food code="JAMF"/>
     <food code="JAMN"/>
-    <food code="MARM"/>
+    <food code="JAME"/>
   </category>
   <category code="JLLY" description="Jelly" hidden="false">
     <food code="JELS"/>
@@ -1230,6 +1211,13 @@
   <category code="LEEK" description="Leeks" hidden="false">
     <food code="LKSB"/>
     <food code="LKSF"/>
+  </category>
+  <category code="HORL" description="Malted drinks e.g. Horlicks" hidden="false">
+    <food code="HOWM"/>
+    <food code="HOSS"/>
+    <food code="HOSK"/>
+    <food code="HOSO"/>
+    <food code="HORM"/>
   </category>
   <category code="MRGN" description="Margarine" hidden="false">
     <food code="SMAR"/>
@@ -1330,6 +1318,7 @@
     <subcategory code="MCRL"/>
     <subcategory code="SHKS"/>
     <subcategory code="CREM"/>
+    <subcategory code="MHDK"/>
   </category>
   <category code="MDNK" description="Milk as a drink" hidden="false">
     <food code="KMLK"/>
@@ -1337,6 +1326,15 @@
     <food code="WMLK"/>
     <food code="SOYM"/>
     <food code="RIML"/>
+  </category>
+  <category code="MHDK" description="Milk in a hot drink" hidden="true">
+    <food code="CTSS"/>
+    <food code="CTSM"/>
+    <food code="CTSY"/>
+    <food code="CTWM"/>
+    <food code="CTRM"/>
+    <portion-size method="milk-in-a-hot-drink" description="No description" imageUrl="portion/placeholder.jpg">
+    </portion-size>
   </category>
   <category code="MCRL" description="Milk on cereal" hidden="false">
     <food code="CSML"/>
@@ -1388,8 +1386,9 @@
     <food code="GMST"/>
   </category>
   <category code="NTYG" description="Natural yoghurt" hidden="false">
-    <food code="FFNT"/>
     <food code="LFNP"/>
+    <food code="FFNT"/>
+    <food code="GRKY"/>
   </category>
   <category code="PCHS" description="Nectarines/peaches" hidden="false">
     <food code="NCTF"/>
@@ -1583,8 +1582,10 @@
     <food code="VEGK"/>
     <food code="CPTK"/>
     <food code="MTTK"/>
-    <food code="PEPI"/>
-    <food code="PHTP"/>
+    <food code="PEPP"/>
+    <food code="PEPS"/>
+    <food code="VGPI"/>
+    <food code="HAWP"/>
   </category>
   <category code="PLUM" description="Plums" hidden="false">
     <food code="PLMA"/>
@@ -1759,7 +1760,6 @@
     <food code="LMNC"/>
     <food code="LMPC"/>
     <food code="MBCN"/>
-    <food code="CRNC"/>
     <food code="CSLC"/>
     <food code="SLMI"/>
     <food code="TSLC"/>
@@ -1767,15 +1767,16 @@
     <food code="PSTR"/>
     <food code="HPCG"/>
     <food code="MATT"/>
+    <food code="CRNC"/>
   </category>
   <category code="SW01" description="Sandwich wizard 1 (bread)" hidden="true">
     <subcategory code="BBRD"/>
     <subcategory code="BRDR"/>
     <subcategory code="CRUM"/>
-    <subcategory code="FJTA"/>
     <subcategory code="FTBD"/>
     <subcategory code="GBRD"/>
     <subcategory code="WBRD"/>
+    <subcategory code="FJTA"/>
   </category>
   <category code="SW02" description="Sandwich wizard 2 (spreads)" hidden="true">
     <subcategory code="BUTR"/>
@@ -2143,13 +2144,8 @@
   </category>
   <category code="TEAS" description="Tea" hidden="false">
     <food code="ICET"/>
-    <food code="BTEA"/>
     <food code="HTEA"/>
-    <food code="TERM"/>
-    <food code="TESS"/>
-    <food code="TESM"/>
-    <food code="TESO"/>
-    <food code="TEWM"/>
+    <food code="BTEA"/>
   </category>
   <category code="TFFS" description="Toffee/fudge/nougat" hidden="false">
     <food code="CFUG"/>
@@ -2232,6 +2228,7 @@
     <food code="WASB"/>
     <food code="CCMB"/>
     <food code="LTTC"/>
+    <food code="ROCT"/>
     <subcategory code="BBNS"/>
     <subcategory code="BEET"/>
     <subcategory code="BRCL"/>
@@ -2262,11 +2259,11 @@
     <food code="MVGR"/>
   </category>
   <category code="WTRS" description="Water" hidden="false">
-    <food code="TWTR"/>
     <food code="SMWB"/>
     <food code="VOLV"/>
     <food code="EVIA"/>
     <food code="BUXT"/>
+    <food code="TWTR"/>
   </category>
   <category code="WTBI" description="Weetabix" hidden="false">
     <food code="WTBM"/>
@@ -2317,9 +2314,9 @@
     <subcategory code="TWIN"/>
   </category>
   <category code="YGRT" description="Yoghurt/fromage frais/dairy desserts" hidden="false">
-    <food code="SOYP"/>
     <food code="PBYD"/>
     <food code="PBLD"/>
+    <food code="SOYP"/>
     <subcategory code="FFRS"/>
     <subcategory code="MOUS"/>
     <subcategory code="YOGU"/>
