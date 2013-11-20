@@ -775,18 +775,18 @@
     <food code="ICET"/>
     <food code="COCM"/>
     <subcategory code="ALCL"/>
-    <subcategory code="CFFS"/>
     <subcategory code="ENDK"/>
     <subcategory code="FJCE"/>
     <subcategory code="SMTH"/>
     <subcategory code="SQDK"/>
-    <subcategory code="TEAS"/>
     <subcategory code="WTRS"/>
     <subcategory code="SOFT"/>
     <subcategory code="VGTJ"/>
     <subcategory code="HCHC"/>
     <subcategory code="MDNK"/>
     <subcategory code="SHKS"/>
+    <subcategory code="CFFS"/>
+    <subcategory code="TEAS"/>
   </category>
   <category code="EGGD" description="Egg &amp; egg dishes" hidden="false">
     <food code="MFSE"/>
@@ -1333,8 +1333,7 @@
     <food code="CTSY"/>
     <food code="CTWM"/>
     <food code="CTRM"/>
-    <portion-size method="milk-in-a-hot-drink" description="No description" imageUrl="portion/placeholder.jpg">
-    </portion-size>
+    <portion-size method="milk-in-a-hot-drink" description="No description" imageUrl="portion/placeholder.jpg"> </portion-size>
   </category>
   <category code="MCRL" description="Milk on cereal" hidden="false">
     <food code="CSML"/>
@@ -1983,9 +1982,9 @@
     <food code="PIMS"/>
     <food code="PORT"/>
     <food code="SHRY"/>
-    <food code="SPRT"/>
     <food code="APER"/>
     <food code="STLI"/>
+    <food code="SPRT"/>
   </category>
   <category code="SPNG" description="Sponge cake" hidden="false">
     <food code="GSCA"/>
@@ -2142,7 +2141,7 @@
     <food code="FRGI"/>
     <food code="CSTL"/>
   </category>
-  <category code="TEAS" description="Tea" hidden="false">
+  <category sameAsBeforeOption="true" code="TEAS" description="Tea" hidden="false">
     <food code="ICET"/>
     <food code="HTEA"/>
     <food code="BTEA"/>

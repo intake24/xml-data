@@ -384,44 +384,29 @@
 
   <food code="CFFB">
     <prompt category="SUGA" text="Did you have any sugar in your coffee?" linkAsMain="false"/>
+    <prompt category="MHDK" text="Did you have any milk in your coffee?" linkAsMain="false"/>
   </food>
   <food code="CORM">
     <prompt category="SUGA" text="Did you have any sugar in your coffee?" linkAsMain="false"/>
+    <prompt category="MHDK" text="Did you have any milk in your coffee?" linkAsMain="false"/>
   </food>
   <food code="COSM">
     <prompt category="SUGA" text="Did you have any sugar in your coffee?" linkAsMain="false"/>
+    <prompt category="MHDK" text="Did you have any milk in your coffee?" linkAsMain="false"/>
   </food>
   <food code="COSO">
     <prompt category="SUGA" text="Did you have any sugar in your coffee?" linkAsMain="false"/>
+    <prompt category="MHDK" text="Did you have any milk in your coffee?" linkAsMain="false"/>
   </food>
   <food code="COSS">
     <prompt category="SUGA" text="Did you have any sugar in your coffee?" linkAsMain="false"/>
+    <prompt category="MHDK" text="Did you have any milk in your coffee?" linkAsMain="false"/>
   </food>
   <food code="COWM">
     <prompt category="SUGA" text="Did you have any sugar in your coffee?" linkAsMain="false"/>
+    <prompt category="MHDK" text="Did you have any milk in your coffee?" linkAsMain="false"/>
   </food>
-
-  <!-- milk in coffee -->
-  <food code="CFFB">
-    <prompt category="MHDK" text="Did you have any sugar in your coffee?" linkAsMain="false"/>
-  </food>
-  <food code="CORM">
-    <prompt category="MHDK" text="Did you have any sugar in your coffee?" linkAsMain="false"/>
-  </food>
-  <food code="COSM">
-    <prompt category="MHDK" text="Did you have any sugar in your coffee?" linkAsMain="false"/>
-  </food>
-  <food code="COSO">
-    <prompt category="MHDK" text="Did you have any sugar in your coffee?" linkAsMain="false"/>
-  </food>
-  <food code="COSS">
-    <prompt category="MHDK" text="Did you have any sugar in your coffee?" linkAsMain="false"/>
-  </food>
-  <food code="COWM">
-    <prompt category="MHDK" text="Did you have any sugar in your coffee?" linkAsMain="false"/>
-  </food>
-
-
+ 
   <food code="LASK">
     <prompt category="SUGA" text="Did you have any sugar in your latte?" linkAsMain="false"/>
   </food>
@@ -1107,45 +1092,32 @@
     <prompt category="BTTR" text="Did you have any butter or margarine on your teacake?" linkAsMain="false"/>
     <prompt category="SUGR" text="Did you have any jam/spread on your teacake?" linkAsMain="false"/>
   </food>
+
   <food code="BTEA">
     <prompt category="SUGA" text="Did you have any sugar in your tea?" linkAsMain="false"/>
+    <prompt category="MHDK" text="Did you have any milk in your tea?" linkAsMain="false"/>
   </food>
   <food code="TERM">
     <prompt category="SUGA" text="Did you have any sugar in your tea?" linkAsMain="false"/>
-  </food>
-  <food code="TESM">
-    <prompt category="SUGA" text="Did you have any sugar in your tea?" linkAsMain="false"/>
-  </food>
-  <food code="TESO">
-    <prompt category="SUGA" text="Did you have any sugar in your tea?" linkAsMain="false"/>
-  </food>
-  <food code="TESS">
-    <prompt category="SUGA" text="Did you have any sugar in your tea?" linkAsMain="false"/>
-  </food>
-  <food code="TEWM">
-    <prompt category="SUGA" text="Did you have any sugar in your tea?" linkAsMain="false"/>
-  </food>
-
-  <!-- milk in tea drinks -->
-  <food code="BTEA">
-    <prompt category="MHDK" text="Did you have any milk in your tea?" linkAsMain="false"/>
-  </food>
-  <food code="TERM">
     <prompt category="MHDK" text="Did you have any milk in your tea?" linkAsMain="false"/>
   </food>
   <food code="TESM">
+    <prompt category="SUGA" text="Did you have any sugar in your tea?" linkAsMain="false"/>
     <prompt category="MHDK" text="Did you have any milk in your tea?" linkAsMain="false"/>
   </food>
   <food code="TESO">
+    <prompt category="SUGA" text="Did you have any sugar in your tea?" linkAsMain="false"/>
     <prompt category="MHDK" text="Did you have any milk in your tea?" linkAsMain="false"/>
   </food>
   <food code="TESS">
+    <prompt category="SUGA" text="Did you have any sugar in your tea?" linkAsMain="false"/>
     <prompt category="MHDK" text="Did you have any milk in your tea?" linkAsMain="false"/>
   </food>
   <food code="TEWM">
+    <prompt category="SUGA" text="Did you have any sugar in your tea?" linkAsMain="false"/>
     <prompt category="MHDK" text="Did you have any milk in your tea?" linkAsMain="false"/>
   </food>
-
+         
   <food code="CYVT">
     <prompt category="RICE" text="Did you have any rice with your curry?" linkAsMain="false"/>
     <prompt category="FJTA" text="Did you have any naan bread with your curry?" linkAsMain="false"/>

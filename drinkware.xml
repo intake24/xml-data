@@ -681,7 +681,7 @@
 			<overlayImage>glasses/glass10_fill.png</overlayImage>
 		</scale>
 		<scale choice-id="8">
-			<dimensions width="400" height="600" emptyLevel="600" fullLevel="600"/>
+			<dimensions width="400" height="600" emptyLevel="300" fullLevel="535"/>
 			<volume-function>
 				<value fill="0.09433962264150944" volume="6.3"/>
 				<value fill="0.18867924528301888" volume="18.3"/>
