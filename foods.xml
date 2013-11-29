@@ -26,7 +26,7 @@
       <param name="unit0-omit-food-description" value="false"/>
     </portion-size>
   </food>
-  <food code="AJCS" description="Apple juice, sparkling" ndnsCode="2320" groupCode="85">
+  <food sameAsBeforeOption="true" code="AJCS" description="Apple juice, sparkling" ndnsCode="2320" groupCode="85">
     <portion-size method="drink-scale" description="in a glass" imageUrl="portion/gsoftdrnk.jpg">
       <param name="drinkware-id" value="glasses_soft"/>
       <param name="initial-fill-level" value="0.9"/>
@@ -47,7 +47,7 @@
       <param name="unit0-omit-food-description" value="true"/>
     </portion-size>
   </food>
-  <food code="ALFR" description="Alcopop not spirit based e.g. Hooch" ndnsCode="5142" groupCode="94">
+  <food sameAsBeforeOption="true" code="ALFR" description="Alcopop not spirit based e.g. Hooch" ndnsCode="5142" groupCode="94">
     <portion-size method="guide-image" description="in a bottle" imageUrl="portion/Gbeerbot.jpg">
       <param name="guide-image-id" value="Gbeerbot"/>
     </portion-size>
@@ -82,7 +82,7 @@
       <param name="unit3-omit-food-description" value="false"/>
     </portion-size>
   </food>
-  <food code="ALSD" description="Alcoholic soft drink e.g. Crabbies ginger beer" ndnsCode="5507" groupCode="94">
+  <food sameAsBeforeOption="true" code="ALSD" description="Alcoholic soft drink e.g. Crabbies ginger beer" ndnsCode="5507" groupCode="94">
     <portion-size method="guide-image" description="in a bottle" imageUrl="portion/Gbeerbot.jpg">
       <param name="guide-image-id" value="Gbeerbot"/>
     </portion-size>
@@ -121,7 +121,7 @@
       <param name="guide-image-id" value="Gcanfish"/>
     </portion-size>
   </food>
-  <food code="APER" description="Aperitifs e.g. Martini, Cinzano, Dubonnet" ndnsCode="2395" groupCode="94">
+  <food sameAsBeforeOption="true" code="APER" description="Aperitifs e.g. Martini, Cinzano, Dubonnet" ndnsCode="2395" groupCode="94">
     <portion-size method="standard-portion" description="standard measure" imageUrl="standard-portion.jpg">
       <param name="units-count" value="3"/>
       <param name="unit0-name" value="single measures"/>
@@ -140,7 +140,7 @@
       <param name="skip-fill-level" value="false"/>
     </portion-size>
   </food>
-  <food code="APJC" description="Apple juice" ndnsCode="2317" groupCode="86">
+  <food sameAsBeforeOption="true" code="APJC" description="Apple juice" ndnsCode="2317" groupCode="86">
     <portion-size method="drink-scale" description="in a glass" imageUrl="portion/gsoftdrnk.jpg">
       <param name="drinkware-id" value="glasses_soft"/>
       <param name="initial-fill-level" value="0.9"/>
@@ -153,7 +153,7 @@
       <param name="guide-image-id" value="Gpopbottle"/>
     </portion-size>
   </food>
-  <food code="APOP" description="Alcopop e.g. Bacardi Breezer" ndnsCode="5396" groupCode="94">
+  <food sameAsBeforeOption="true" code="APOP" description="Alcopop e.g. Bacardi Breezer" ndnsCode="5396" groupCode="94">
     <portion-size method="guide-image" description="in a bottle" imageUrl="portion/Gbeerbot.jpg">
       <param name="guide-image-id" value="Gbeerbot"/>
     </portion-size>
@@ -222,7 +222,7 @@
       <param name="leftovers-image-set" value="apple_stewed_leftovers"/>
     </portion-size>
   </food>
-  <food code="APTZ" description="Appletizer" ndnsCode="2320" groupCode="85">
+  <food sameAsBeforeOption="true" code="APTZ" description="Appletizer" ndnsCode="2320" groupCode="85">
     <portion-size method="drink-scale" description="in a glass" imageUrl="portion/gsoftdrnk.jpg">
       <param name="drinkware-id" value="glasses_soft"/>
       <param name="initial-fill-level" value="0.9"/>
@@ -265,6 +265,22 @@
       <param name="units-count" value="1"/>
       <param name="unit0-name" value="spears"/>
       <param name="unit0-weight" value="25.0"/>
+      <param name="unit0-omit-food-description" value="true"/>
+    </portion-size>
+  </food>
+  <food code="AUBG" description="Aubergine, boiled" ndnsCode="8471" groupCode="70">
+    <portion-size method="standard-portion" description="No description" imageUrl="portion/placeholder.jpg">
+      <param name="units-count" value="1"/>
+      <param name="unit0-name" value="aubergine"/>
+      <param name="unit0-weight" value="260.0"/>
+      <param name="unit0-omit-food-description" value="true"/>
+    </portion-size>
+  </food>
+  <food code="AUFR" description="Aubergine, fried" ndnsCode="1659" groupCode="70">
+    <portion-size method="standard-portion" description="No description" imageUrl="portion/placeholder.jpg">
+      <param name="units-count" value="1"/>
+      <param name="unit0-name" value="aubergine"/>
+      <param name="unit0-weight" value="260.0"/>
       <param name="unit0-omit-food-description" value="true"/>
     </portion-size>
   </food>
@@ -326,7 +342,7 @@
       <param name="guide-image-id" value="Gbur"/>
     </portion-size>
   </food>
-  <food code="BBNC" description="Best bitter, e.g. Boddingtons" ndnsCode="8336" groupCode="94">
+  <food sameAsBeforeOption="true" code="BBNC" description="Best bitter, e.g. Boddingtons" ndnsCode="8336" groupCode="94">
     <portion-size method="guide-image" description="in a bottle" imageUrl="portion/Gbeerbot.jpg">
       <param name="guide-image-id" value="Gbeerbot"/>
     </portion-size>
@@ -524,7 +540,7 @@
       <param name="unit0-omit-food-description" value="true"/>
     </portion-size>
   </food>
-  <food code="BENC" description="Beer" ndnsCode="8339" groupCode="94">
+  <food sameAsBeforeOption="true" code="BENC" description="Beer" ndnsCode="8339" groupCode="94">
     <portion-size method="guide-image" description="in a bottle" imageUrl="portion/Gbeerbot.jpg">
       <param name="guide-image-id" value="Gbeerbot"/>
     </portion-size>
@@ -594,6 +610,14 @@
   <food readyMealOption="true" code="BGSF" description="Beef grillsteaks, fried or grilled" ndnsCode="1289" groupCode="47">
     <portion-size method="guide-image" description="No description" imageUrl="portion/placeholder.jpg">
       <param name="guide-image-id" value="Gbur"/>
+    </portion-size>
+  </food>
+  <food code="BIYO" description="Bio yoghurt" ndnsCode="8488" groupCode="18">
+    <portion-size method="guide-image" description="in a pot" imageUrl="portion/Gyog.jpg">
+      <param name="guide-image-id" value="Gyog"/>
+    </portion-size>
+    <portion-size method="guide-image" description="spoonfuls" imageUrl="portion/Gspn.jpg">
+      <param name="guide-image-id" value="Gspn"/>
     </portion-size>
   </food>
   <food code="BJIC" description="Ben and Jerrys, any flavour" ndnsCode="8663" groupCode="79">
@@ -1148,7 +1172,7 @@
       <param name="guide-image-id" value="Gbur"/>
     </portion-size>
   </food>
-  <food code="BUFW" description="Buckfast wine" ndnsCode="10766" groupCode="94">
+  <food sameAsBeforeOption="true" code="BUFW" description="Buckfast wine" ndnsCode="10766" groupCode="94">
     <portion-size method="guide-image" description="size of bottle" imageUrl="portion/Gwinebottle.jpg">
       <param name="guide-image-id" value="Gwinebottle"/>
     </portion-size>
@@ -1245,7 +1269,7 @@
       <param name="unit1-omit-food-description" value="false"/>
     </portion-size>
   </food>
-  <food code="CANT" description="Melon, canteloupe-type" ndnsCode="2081" groupCode="73">
+  <food reasonableAmount="1100" code="CANT" description="Melon, canteloupe-type" ndnsCode="2081" groupCode="73">
     <portion-size method="as-served" description="No description" imageUrl="portion/placeholder.jpg">
       <param name="serving-image-set" value="melon"/>
       <param name="leftovers-image-set" value="melon_leftovers"/>
@@ -1270,7 +1294,7 @@
       <param name="leftovers-image-set" value="ice_cream_leftovers"/>
     </portion-size>
   </food>
-  <food code="CASE" description="Cappuccino made with semi-skimmed milk" ndnsCode="10577" groupCode="92">
+  <food sameAsBeforeOption="true" code="CASE" description="Cappuccino made with semi-skimmed milk" ndnsCode="10577" groupCode="92">
     <portion-size method="drink-scale" description="in a mug" imageUrl="portion/mugs.jpg">
       <param name="drinkware-id" value="mugs"/>
       <param name="initial-fill-level" value="0.9"/>
@@ -1282,7 +1306,7 @@
       <param name="skip-fill-level" value="true"/>
     </portion-size>
   </food>
-  <food code="CASK" description="Cappuccino made with skimmed milk" ndnsCode="8048" groupCode="92">
+  <food sameAsBeforeOption="true" code="CASK" description="Cappuccino made with skimmed milk" ndnsCode="8048" groupCode="92">
     <portion-size method="drink-scale" description="in a mug" imageUrl="portion/mugs.jpg">
       <param name="drinkware-id" value="mugs"/>
       <param name="initial-fill-level" value="0.9"/>
@@ -1317,7 +1341,7 @@
       <param name="leftovers-image-set" value="chicken_sauce_leftovers"/>
     </portion-size>
   </food>
-  <food code="CAWM" description="Cappuccino made with whole milk" ndnsCode="8042" groupCode="92">
+  <food sameAsBeforeOption="true" code="CAWM" description="Cappuccino made with whole milk" ndnsCode="8042" groupCode="92">
     <portion-size method="drink-scale" description="in a mug" imageUrl="portion/mugs.jpg">
       <param name="drinkware-id" value="mugs"/>
       <param name="initial-fill-level" value="0.9"/>
@@ -1381,7 +1405,7 @@
       <param name="guide-image-id" value="Gbur"/>
     </portion-size>
   </food>
-  <food code="CCAN" description="Continental lager, e.g. Grolsch" ndnsCode="2370" groupCode="94">
+  <food sameAsBeforeOption="true" code="CCAN" description="Continental lager, e.g. Grolsch" ndnsCode="2370" groupCode="94">
     <portion-size method="guide-image" description="in a bottle" imageUrl="portion/Gbeerbot.jpg">
       <param name="guide-image-id" value="Gbeerbot"/>
     </portion-size>
@@ -1695,6 +1719,14 @@
   <food code="CDNT" description="Doughnut filled with custard" ndnsCode="7678" groupCode="16">
     <portion-size method="guide-image" description="No description" imageUrl="portion/placeholder.jpg">
       <param name="guide-image-id" value="Gdou"/>
+    </portion-size>
+  </food>
+  <food code="CDPN" description="Duck pancakes (meat, sauce and onion)" ndnsCode="5421" groupCode="50">
+    <portion-size method="standard-portion" description="No description" imageUrl="portion/placeholder.jpg">
+      <param name="units-count" value="1"/>
+      <param name="unit0-name" value="1 pancake "/>
+      <param name="unit0-weight" value="40.0"/>
+      <param name="unit0-omit-food-description" value="true"/>
     </portion-size>
   </food>
   <food readyMealOption="true" code="CDSG" description="Cod steaks grilled" ndnsCode="7798" groupCode="55">
@@ -2043,7 +2075,7 @@
       <param name="guide-image-id" value="Gfjta"/>
     </portion-size>
   </food>
-  <food code="CHPR" description="Champagne &amp; Prosecco" ndnsCode="2389" groupCode="94">
+  <food sameAsBeforeOption="true" code="CHPR" description="Champagne &amp; Prosecco" ndnsCode="2389" groupCode="94">
     <portion-size method="guide-image" description="size of bottle" imageUrl="portion/Gwinebottle.jpg">
       <param name="guide-image-id" value="Gwinebottle"/>
     </portion-size>
@@ -2059,7 +2091,7 @@
       <param name="leftovers-image-set" value="tomato_sauce_leftovers"/>
     </portion-size>
   </food>
-  <food code="CHRD" description="Cherryade " ndnsCode="7901" groupCode="85">
+  <food sameAsBeforeOption="true" code="CHRD" description="Cherryade " ndnsCode="7901" groupCode="85">
     <portion-size method="drink-scale" description="in a glass" imageUrl="portion/gsoftdrnk.jpg">
       <param name="drinkware-id" value="glasses_soft"/>
       <param name="initial-fill-level" value="0.9"/>
@@ -2250,7 +2282,7 @@
       <param name="unit0-omit-food-description" value="false"/>
     </portion-size>
   </food>
-  <food code="CLUC" description="Fizzy energy drink, e.g. Relentless, Red bull" ndnsCode="5545" groupCode="85">
+  <food sameAsBeforeOption="true" code="CLUC" description="Fizzy energy drink, e.g. Relentless, Red bull" ndnsCode="5545" groupCode="85">
     <portion-size method="drink-scale" description="in a glass" imageUrl="portion/gsoftdrnk.jpg">
       <param name="drinkware-id" value="glasses_soft"/>
       <param name="initial-fill-level" value="0.9"/>
@@ -2297,7 +2329,7 @@
       <param name="unit3-omit-food-description" value="false"/>
     </portion-size>
   </food>
-  <food code="CMLI" description="Cream liqueur e.g. Baileys" ndnsCode="2397" groupCode="94">
+  <food sameAsBeforeOption="true" code="CMLI" description="Cream liqueur e.g. Baileys" ndnsCode="2397" groupCode="94">
     <portion-size method="standard-portion" description="standard measure" imageUrl="standard-portion.jpg">
       <param name="units-count" value="3"/>
       <param name="unit0-name" value="single measures"/>
@@ -2450,7 +2482,7 @@
       <param name="unit1-omit-food-description" value="false"/>
     </portion-size>
   </food>
-  <food code="COLA" description="Cola, not diet, any flavour e.g. cherry cola" ndnsCode="7895" groupCode="85">
+  <food sameAsBeforeOption="true" code="COLA" description="Cola, not diet, any flavour e.g. cherry cola" ndnsCode="7895" groupCode="85">
     <portion-size method="drink-scale" description="in a glass" imageUrl="portion/gsoftdrnk.jpg">
       <param name="drinkware-id" value="glasses_soft"/>
       <param name="initial-fill-level" value="0.9"/>
@@ -2793,7 +2825,7 @@
       <param name="leftovers-image-set" value="cucs_leftovers"/>
     </portion-size>
   </food>
-  <food code="CRSO" description="Cream soda" ndnsCode="7901" groupCode="85">
+  <food sameAsBeforeOption="true" code="CRSO" description="Cream soda" ndnsCode="7901" groupCode="85">
     <portion-size method="drink-scale" description="in a glass" imageUrl="portion/gsoftdrnk.jpg">
       <param name="drinkware-id" value="glasses_soft"/>
       <param name="initial-fill-level" value="0.9"/>
@@ -3152,7 +3184,7 @@
       <param name="guide-image-id" value="Gcdmc"/>
     </portion-size>
   </food>
-  <food code="DALC" description="Diet alcopop e.g. Diet Bacardi Breezer" ndnsCode="7006" groupCode="94">
+  <food sameAsBeforeOption="true" code="DALC" description="Diet alcopop e.g. Diet Bacardi Breezer" ndnsCode="7006" groupCode="94">
     <portion-size method="guide-image" description="in a bottle" imageUrl="portion/Gbeerbot.jpg">
       <param name="guide-image-id" value="Gbeerbot"/>
     </portion-size>
@@ -3165,7 +3197,7 @@
       <param name="skip-fill-level" value="false"/>
     </portion-size>
   </food>
-  <food code="DAND" description="Dandelion and Burdock" ndnsCode="7901" groupCode="85">
+  <food sameAsBeforeOption="true" code="DAND" description="Dandelion and Burdock" ndnsCode="7901" groupCode="85">
     <portion-size method="drink-scale" description="in a glass" imageUrl="portion/gsoftdrnk.jpg">
       <param name="drinkware-id" value="glasses_soft"/>
       <param name="initial-fill-level" value="0.9"/>
@@ -3231,7 +3263,19 @@
       <param name="guide-image-id" value="Gchse"/>
     </portion-size>
   </food>
-  <food code="DCCN" description="Dry cider e.g. Strongbow" ndnsCode="2379" groupCode="94">
+  <food sameAsBeforeOption="true" code="DCCA" description="Decaf Cappuccino made with semi-skimmed milk" ndnsCode="10577" groupCode="92">
+    <portion-size method="drink-scale" description="in a mug" imageUrl="portion/mugs.jpg">
+      <param name="drinkware-id" value="mugs"/>
+      <param name="initial-fill-level" value="0.9"/>
+      <param name="skip-fill-level" value="false"/>
+    </portion-size>
+    <portion-size method="drink-scale" description="in a takeaway cup" imageUrl="portion/hotdrinks.jpg">
+      <param name="drinkware-id" value="takeaway_cups_hot"/>
+      <param name="initial-fill-level" value="0.9"/>
+      <param name="skip-fill-level" value="true"/>
+    </portion-size>
+  </food>
+  <food sameAsBeforeOption="true" code="DCCN" description="Dry cider e.g. Strongbow" ndnsCode="2379" groupCode="94">
     <portion-size method="guide-image" description="in a bottle" imageUrl="portion/Gciderbot.jpg">
       <param name="guide-image-id" value="Gciderbot"/>
     </portion-size>
@@ -3244,7 +3288,31 @@
       <param name="skip-fill-level" value="false"/>
     </portion-size>
   </food>
-  <food code="DCLA" description="Diet cola, any flavour e.g. diet cherry coke" ndnsCode="7897" groupCode="84">
+  <food sameAsBeforeOption="true" code="DCCS" description="Decaf Cappuccino made with skimmed milk" ndnsCode="8048" groupCode="92">
+    <portion-size method="drink-scale" description="in a mug" imageUrl="portion/mugs.jpg">
+      <param name="drinkware-id" value="mugs"/>
+      <param name="initial-fill-level" value="0.9"/>
+      <param name="skip-fill-level" value="false"/>
+    </portion-size>
+    <portion-size method="drink-scale" description="in a takeaway cup" imageUrl="portion/hotdrinks.jpg">
+      <param name="drinkware-id" value="takeaway_cups_hot"/>
+      <param name="initial-fill-level" value="0.9"/>
+      <param name="skip-fill-level" value="true"/>
+    </portion-size>
+  </food>
+  <food sameAsBeforeOption="true" code="DCCW" description="Decaf Cappuccino made with whole milk" ndnsCode="8042" groupCode="92">
+    <portion-size method="drink-scale" description="in a mug" imageUrl="portion/mugs.jpg">
+      <param name="drinkware-id" value="mugs"/>
+      <param name="initial-fill-level" value="0.9"/>
+      <param name="skip-fill-level" value="false"/>
+    </portion-size>
+    <portion-size method="drink-scale" description="in a takeaway cup" imageUrl="portion/hotdrinks.jpg">
+      <param name="drinkware-id" value="takeaway_cups_hot"/>
+      <param name="initial-fill-level" value="0.9"/>
+      <param name="skip-fill-level" value="true"/>
+    </portion-size>
+  </food>
+  <food sameAsBeforeOption="true" code="DCLA" description="Diet cola, any flavour e.g. diet cherry coke" ndnsCode="7897" groupCode="84">
     <portion-size method="drink-scale" description="in a glass" imageUrl="portion/gsoftdrnk.jpg">
       <param name="drinkware-id" value="glasses_soft"/>
       <param name="initial-fill-level" value="0.9"/>
@@ -3279,6 +3347,54 @@
       <param name="drinkware-id" value="takeaway_cups_hot"/>
       <param name="initial-fill-level" value="0.85"/>
       <param name="skip-fill-level" value="false"/>
+    </portion-size>
+  </food>
+  <food sameAsBeforeOption="true" code="DCLW" description="Decaf Latte made with whole milk" ndnsCode="8053" groupCode="92">
+    <portion-size method="drink-scale" description="in a mug" imageUrl="portion/mugs.jpg">
+      <param name="drinkware-id" value="mugs"/>
+      <param name="initial-fill-level" value="0.9"/>
+      <param name="skip-fill-level" value="false"/>
+    </portion-size>
+    <portion-size method="drink-scale" description="in a takeaway cup" imageUrl="portion/hotdrinks.jpg">
+      <param name="drinkware-id" value="takeaway_cups_hot"/>
+      <param name="initial-fill-level" value="0.9"/>
+      <param name="skip-fill-level" value="true"/>
+    </portion-size>
+  </food>
+  <food sameAsBeforeOption="true" code="DCMC" description="Decaf Mocha with cream" ndnsCode="8061" groupCode="92">
+    <portion-size method="drink-scale" description="in a mug" imageUrl="portion/mugs.jpg">
+      <param name="drinkware-id" value="mugs"/>
+      <param name="initial-fill-level" value="0.9"/>
+      <param name="skip-fill-level" value="false"/>
+    </portion-size>
+    <portion-size method="drink-scale" description="in a takeaway cup" imageUrl="portion/hotdrinks.jpg">
+      <param name="drinkware-id" value="takeaway_cups_hot"/>
+      <param name="initial-fill-level" value="0.9"/>
+      <param name="skip-fill-level" value="true"/>
+    </portion-size>
+  </food>
+  <food sameAsBeforeOption="true" code="DCMS" description="Decaf Mocha made with skimmed milk (no cream)" ndnsCode="8060" groupCode="92">
+    <portion-size method="drink-scale" description="in a mug" imageUrl="portion/mugs.jpg">
+      <param name="drinkware-id" value="mugs"/>
+      <param name="initial-fill-level" value="0.9"/>
+      <param name="skip-fill-level" value="false"/>
+    </portion-size>
+    <portion-size method="drink-scale" description="in a takeaway cup" imageUrl="portion/hotdrinks.jpg">
+      <param name="drinkware-id" value="takeaway_cups_hot"/>
+      <param name="initial-fill-level" value="0.9"/>
+      <param name="skip-fill-level" value="true"/>
+    </portion-size>
+  </food>
+  <food sameAsBeforeOption="true" code="DCMW" description="Decaf Mocha made with whole milk (no cream)" ndnsCode="8059" groupCode="92">
+    <portion-size method="drink-scale" description="in a mug" imageUrl="portion/mugs.jpg">
+      <param name="drinkware-id" value="mugs"/>
+      <param name="initial-fill-level" value="0.9"/>
+      <param name="skip-fill-level" value="false"/>
+    </portion-size>
+    <portion-size method="drink-scale" description="in a takeaway cup" imageUrl="portion/hotdrinks.jpg">
+      <param name="drinkware-id" value="takeaway_cups_hot"/>
+      <param name="initial-fill-level" value="0.9"/>
+      <param name="skip-fill-level" value="true"/>
     </portion-size>
   </food>
   <food code="DCRM" description="Hot chocolate made with rice milk" ndnsCode="10724" groupCode="93">
@@ -3338,6 +3454,18 @@
       <param name="skip-fill-level" value="false"/>
     </portion-size>
   </food>
+  <food code="DCTE" description="Decaf Tea" ndnsCode="2314" groupCode="91">
+    <portion-size method="drink-scale" description="in a mug" imageUrl="portion/mugs.jpg">
+      <param name="drinkware-id" value="mugs"/>
+      <param name="initial-fill-level" value="0.85"/>
+      <param name="skip-fill-level" value="false"/>
+    </portion-size>
+    <portion-size method="drink-scale" description="in a takeaway cup" imageUrl="portion/hotdrinks.jpg">
+      <param name="drinkware-id" value="takeaway_cups_hot"/>
+      <param name="initial-fill-level" value="0.85"/>
+      <param name="skip-fill-level" value="true"/>
+    </portion-size>
+  </food>
   <food code="DCWA" description="Hot chocolate made with water" ndnsCode="2640" groupCode="93">
     <portion-size method="drink-scale" description="in a mug" imageUrl="portion/mugs.jpg">
       <param name="drinkware-id" value="mugs"/>
@@ -3360,6 +3488,18 @@
       <param name="drinkware-id" value="takeaway_cups_hot"/>
       <param name="initial-fill-level" value="0.85"/>
       <param name="skip-fill-level" value="false"/>
+    </portion-size>
+  </food>
+  <food sameAsBeforeOption="true" code="DECO" description="Decaf Coffee" ndnsCode="2307" groupCode="92">
+    <portion-size method="drink-scale" description="in a mug" imageUrl="portion/mugs.jpg">
+      <param name="drinkware-id" value="mugs"/>
+      <param name="initial-fill-level" value="0.85"/>
+      <param name="skip-fill-level" value="false"/>
+    </portion-size>
+    <portion-size method="drink-scale" description="in a takeaway cup" imageUrl="portion/hotdrinks.jpg">
+      <param name="drinkware-id" value="takeaway_cups_hot"/>
+      <param name="initial-fill-level" value="0.85"/>
+      <param name="skip-fill-level" value="true"/>
     </portion-size>
   </food>
   <food code="DEKR" description="Double Decker" ndnsCode="7978" groupCode="81">
@@ -3420,7 +3560,7 @@
       <param name="guide-image-id" value="Gspn"/>
     </portion-size>
   </food>
-  <food code="DINB" description="Diet irn bru" ndnsCode="8327" groupCode="84">
+  <food sameAsBeforeOption="true" code="DINB" description="Diet irn bru" ndnsCode="8327" groupCode="84">
     <portion-size method="drink-scale" description="in a glass" imageUrl="portion/gsoftdrnk.jpg">
       <param name="drinkware-id" value="glasses_soft"/>
       <param name="initial-fill-level" value="0.9"/>
@@ -3442,6 +3582,18 @@
       <param name="guide-image-id" value="Gcri"/>
     </portion-size>
   </food>
+  <food sameAsBeforeOption="true" code="DLAS" description="Decaf Latte made with skimmed milk (skinny latte)" ndnsCode="8058" groupCode="92">
+    <portion-size method="drink-scale" description="in a mug" imageUrl="portion/mugs.jpg">
+      <param name="drinkware-id" value="mugs"/>
+      <param name="initial-fill-level" value="0.9"/>
+      <param name="skip-fill-level" value="false"/>
+    </portion-size>
+    <portion-size method="drink-scale" description="in a takeaway cup" imageUrl="portion/hotdrinks.jpg">
+      <param name="drinkware-id" value="takeaway_cups_hot"/>
+      <param name="initial-fill-level" value="0.9"/>
+      <param name="skip-fill-level" value="true"/>
+    </portion-size>
+  </food>
   <food code="DLDU" description="Dairylea dunker" ndnsCode="10055" groupCode="100">
     <portion-size method="standard-portion" description="No description" imageUrl="portion/placeholder.jpg">
       <param name="units-count" value="1"/>
@@ -3450,7 +3602,7 @@
       <param name="unit0-omit-food-description" value="true"/>
     </portion-size>
   </food>
-  <food code="DLMD" description="Diet lemonade" ndnsCode="7899" groupCode="84">
+  <food sameAsBeforeOption="true" code="DLMD" description="Diet lemonade" ndnsCode="7899" groupCode="84">
     <portion-size method="drink-scale" description="in a glass" imageUrl="portion/gsoftdrnk.jpg">
       <param name="drinkware-id" value="glasses_soft"/>
       <param name="initial-fill-level" value="0.9"/>
@@ -3461,6 +3613,42 @@
     </portion-size>
     <portion-size method="guide-image" description="in a bottle" imageUrl="portion/Gpopbottle.jpg">
       <param name="guide-image-id" value="Gpopbottle"/>
+    </portion-size>
+  </food>
+  <food sameAsBeforeOption="true" code="DLSO" description="Decaf Latte made with soya milk" ndnsCode="10727" groupCode="92">
+    <portion-size method="drink-scale" description="in a mug" imageUrl="portion/mugs.jpg">
+      <param name="drinkware-id" value="mugs"/>
+      <param name="initial-fill-level" value="0.9"/>
+      <param name="skip-fill-level" value="false"/>
+    </portion-size>
+    <portion-size method="drink-scale" description="in a takeaway cup" imageUrl="portion/hotdrinks.jpg">
+      <param name="drinkware-id" value="takeaway_cups_hot"/>
+      <param name="initial-fill-level" value="0.9"/>
+      <param name="skip-fill-level" value="true"/>
+    </portion-size>
+  </food>
+  <food sameAsBeforeOption="true" code="DLSS" description="Decaf Latte made with semi-skimmed milk" ndnsCode="10729" groupCode="92">
+    <portion-size method="drink-scale" description="in a mug" imageUrl="portion/mugs.jpg">
+      <param name="drinkware-id" value="mugs"/>
+      <param name="initial-fill-level" value="0.9"/>
+      <param name="skip-fill-level" value="false"/>
+    </portion-size>
+    <portion-size method="drink-scale" description="in a takeaway cup" imageUrl="portion/hotdrinks.jpg">
+      <param name="drinkware-id" value="takeaway_cups_hot"/>
+      <param name="initial-fill-level" value="0.9"/>
+      <param name="skip-fill-level" value="true"/>
+    </portion-size>
+  </food>
+  <food sameAsBeforeOption="true" code="DMSS" description="Decaf Mocha made with semi-skimmed milk (no cream)" ndnsCode="10785" groupCode="92">
+    <portion-size method="drink-scale" description="in a mug" imageUrl="portion/mugs.jpg">
+      <param name="drinkware-id" value="mugs"/>
+      <param name="initial-fill-level" value="0.9"/>
+      <param name="skip-fill-level" value="false"/>
+    </portion-size>
+    <portion-size method="drink-scale" description="in a takeaway cup" imageUrl="portion/hotdrinks.jpg">
+      <param name="drinkware-id" value="takeaway_cups_hot"/>
+      <param name="initial-fill-level" value="0.9"/>
+      <param name="skip-fill-level" value="true"/>
     </portion-size>
   </food>
   <food code="DOLM" description="Dolmio bolognese sauce" ndnsCode="8358" groupCode="97">
@@ -3562,7 +3750,7 @@
       <param name="unit3-omit-food-description" value="false"/>
     </portion-size>
   </food>
-  <food code="DRPR" description="Dr Pepper " ndnsCode="7901" groupCode="85">
+  <food sameAsBeforeOption="true" code="DRPR" description="Dr Pepper " ndnsCode="7901" groupCode="85">
     <portion-size method="drink-scale" description="in a glass" imageUrl="portion/gsoftdrnk.jpg">
       <param name="drinkware-id" value="glasses_soft"/>
       <param name="initial-fill-level" value="0.9"/>
@@ -3623,7 +3811,7 @@
       <param name="unit1-omit-food-description" value="true"/>
     </portion-size>
   </food>
-  <food code="DWWN" description="Dry white wine" ndnsCode="8354" groupCode="94">
+  <food sameAsBeforeOption="true" code="DWWN" description="Dry white wine" ndnsCode="8354" groupCode="94">
     <portion-size method="guide-image" description="size of bottle" imageUrl="portion/Gwinebottle.jpg">
       <param name="guide-image-id" value="Gwinebottle"/>
     </portion-size>
@@ -3701,7 +3889,7 @@
       <param name="guide-image-id" value="Gchse"/>
     </portion-size>
   </food>
-  <food code="EDLC" description="Energy drink, sugar free" ndnsCode="4176" groupCode="84">
+  <food sameAsBeforeOption="true" code="EDLC" description="Energy drink, sugar free" ndnsCode="4176" groupCode="84">
     <portion-size method="drink-scale" description="in a glass" imageUrl="portion/gsoftdrnk.jpg">
       <param name="drinkware-id" value="glasses_soft"/>
       <param name="initial-fill-level" value="0.9"/>
@@ -3902,7 +4090,7 @@
       <param name="guide-image-id" value="Gice1"/>
     </portion-size>
   </food>
-  <food code="FANT" description="Fanta" ndnsCode="7901" groupCode="85">
+  <food sameAsBeforeOption="true" code="FANT" description="Fanta" ndnsCode="7901" groupCode="85">
     <portion-size method="drink-scale" description="in a glass" imageUrl="portion/gsoftdrnk.jpg">
       <param name="drinkware-id" value="glasses_soft"/>
       <param name="initial-fill-level" value="0.9"/>
@@ -4100,7 +4288,7 @@
       <param name="guide-image-id" value="Gice1"/>
     </portion-size>
   </food>
-  <food code="FFJD" description="Fizzy fruit juice drink" ndnsCode="8444" groupCode="85">
+  <food sameAsBeforeOption="true" code="FFJD" description="Fizzy fruit juice drink" ndnsCode="8444" groupCode="85">
     <portion-size method="drink-scale" description="in a glass" imageUrl="portion/gsoftdrnk.jpg">
       <param name="drinkware-id" value="glasses_soft"/>
       <param name="initial-fill-level" value="0.9"/>
@@ -4210,7 +4398,7 @@
       <param name="type" value="flake"/>
     </portion-size>
   </food>
-  <food code="FIVI" description="Vimto, fizzy" ndnsCode="8444" groupCode="85">
+  <food sameAsBeforeOption="true" code="FIVI" description="Vimto, fizzy" ndnsCode="8444" groupCode="85">
     <portion-size method="drink-scale" description="in a glass" imageUrl="portion/gsoftdrnk.jpg">
       <param name="drinkware-id" value="glasses_soft"/>
       <param name="initial-fill-level" value="0.9"/>
@@ -4301,6 +4489,19 @@
       <param name="guide-image-id" value="Gdes"/>
     </portion-size>
   </food>
+  <food code="FNBN" description="Fruit and barley, ready to drink, diluted, no added sugar" ndnsCode="5110" groupCode="89">
+    <portion-size method="drink-scale" description="in a glass" imageUrl="portion/gsoftdrnk.jpg">
+      <param name="drinkware-id" value="glasses_soft"/>
+      <param name="initial-fill-level" value="0.9"/>
+      <param name="skip-fill-level" value="false"/>
+    </portion-size>
+    <portion-size method="guide-image" description="in a carton" imageUrl="portion/Gpopcarton.jpg">
+      <param name="guide-image-id" value="Gpopcarton"/>
+    </portion-size>
+    <portion-size method="guide-image" description="in a bottle" imageUrl="portion/Gpopbottle.jpg">
+      <param name="guide-image-id" value="Gpopbottle"/>
+    </portion-size>
+  </food>
   <food code="FNFR" description="Walkers French Fries (crisps)" ndnsCode="8030" groupCode="61">
     <portion-size method="guide-image" description="No description" imageUrl="portion/placeholder.jpg">
       <param name="guide-image-id" value="Gcri"/>
@@ -4386,7 +4587,7 @@
       <param name="guide-image-id" value="Gsli"/>
     </portion-size>
   </food>
-  <food code="FRCI" description="Fruit cider" ndnsCode="8349" groupCode="94">
+  <food sameAsBeforeOption="true" code="FRCI" description="Fruit cider" ndnsCode="8349" groupCode="94">
     <portion-size method="guide-image" description="in a bottle" imageUrl="portion/Gciderbot.jpg">
       <param name="guide-image-id" value="Gciderbot"/>
     </portion-size>
@@ -4763,6 +4964,21 @@
       <param name="guide-image-id" value="Gapl"/>
     </portion-size>
   </food>
+  <food code="GASA" description="Garlic Sauce/Mayo" ndnsCode="6847" groupCode="97">
+    <portion-size method="as-served" description="dollops" imageUrl="portion/421.jpg">
+      <param name="serving-image-set" value="sauce_dollop"/>
+      <param name="leftovers-image-set" value="sauce_dollop_leftovers"/>
+    </portion-size>
+    <portion-size method="standard-portion" description="spoonfuls" imageUrl="standard-portion.jpg">
+      <param name="units-count" value="2"/>
+      <param name="unit0-name" value="teaspoons"/>
+      <param name="unit0-weight" value="8.9"/>
+      <param name="unit0-omit-food-description" value="false"/>
+      <param name="unit1-name" value="tablespoons"/>
+      <param name="unit1-weight" value="36.3"/>
+      <param name="unit1-omit-food-description" value="false"/>
+    </portion-size>
+  </food>
   <food code="GFJU" description="Grapefruit juice" ndnsCode="2329" groupCode="86">
     <portion-size method="drink-scale" description="in a glass" imageUrl="portion/gsoftdrnk.jpg">
       <param name="drinkware-id" value="glasses_soft"/>
@@ -4799,7 +5015,7 @@
       <param name="guide-image-id" value="Gpiesaus"/>
     </portion-size>
   </food>
-  <food code="GINB" description="Ginger beer (non-alcoholic)" ndnsCode="7901" groupCode="85">
+  <food sameAsBeforeOption="true" code="GINB" description="Ginger beer (non-alcoholic)" ndnsCode="7901" groupCode="85">
     <portion-size method="drink-scale" description="in a glass" imageUrl="portion/gsoftdrnk.jpg">
       <param name="drinkware-id" value="glasses_soft"/>
       <param name="initial-fill-level" value="0.9"/>
@@ -4812,7 +5028,7 @@
       <param name="guide-image-id" value="Gpopbottle"/>
     </portion-size>
   </food>
-  <food code="GMLN" description="Melon, galia" ndnsCode="2083" groupCode="73">
+  <food reasonableAmount="1100" code="GMLN" description="Melon, galia" ndnsCode="2083" groupCode="73">
     <portion-size method="as-served" description="No description" imageUrl="portion/placeholder.jpg">
       <param name="serving-image-set" value="melon"/>
       <param name="leftovers-image-set" value="melon_leftovers"/>
@@ -5451,13 +5667,13 @@
       <param name="unit1-omit-food-description" value="false"/>
     </portion-size>
   </food>
-  <food code="HMLN" description="Melon, honeydew" ndnsCode="2083" groupCode="73">
+  <food reasonableAmount="1400" code="HMLN" description="Melon, honeydew" ndnsCode="2083" groupCode="73">
     <portion-size method="as-served" description="No description" imageUrl="portion/placeholder.jpg">
       <param name="serving-image-set" value="melon"/>
       <param name="leftovers-image-set" value="melon_leftovers"/>
     </portion-size>
   </food>
-  <food code="HMWN" description="Homemade wine, any type" ndnsCode="9246" groupCode="94">
+  <food sameAsBeforeOption="true" code="HMWN" description="Homemade wine, any type" ndnsCode="9246" groupCode="94">
     <portion-size method="guide-image" description="size of bottle" imageUrl="portion/Gwinebottle.jpg">
       <param name="guide-image-id" value="Gwinebottle"/>
     </portion-size>
@@ -5561,7 +5777,7 @@
       <param name="unit1-omit-food-description" value="false"/>
     </portion-size>
   </food>
-  <food code="HOME" description="Home brew (homemade beer)" ndnsCode="9247" groupCode="94">
+  <food sameAsBeforeOption="true" code="HOME" description="Home brew (homemade beer)" ndnsCode="9247" groupCode="94">
     <portion-size method="guide-image" description="in a bottle" imageUrl="portion/Gbeerbot.jpg">
       <param name="guide-image-id" value="Gbeerbot"/>
     </portion-size>
@@ -5749,7 +5965,7 @@
       <param name="guide-image-id" value="Gwaf"/>
     </portion-size>
   </food>
-  <food code="HTEA" description="Herbal tea" ndnsCode="7000" groupCode="91">
+  <food code="HTEA" description="Herbal/Fruit tea" ndnsCode="7000" groupCode="91">
     <portion-size method="drink-scale" description="in a mug" imageUrl="portion/mugs.jpg">
       <param name="drinkware-id" value="mugs"/>
       <param name="initial-fill-level" value="0.85"/>
@@ -5907,7 +6123,7 @@
       <param name="leftovers-image-set" value="white_sauce_leftovers"/>
     </portion-size>
   </food>
-  <food code="IRNB" description="Irn bru" ndnsCode="8325" groupCode="85">
+  <food sameAsBeforeOption="true" code="IRNB" description="Irn bru" ndnsCode="8325" groupCode="85">
     <portion-size method="drink-scale" description="in a glass" imageUrl="portion/gsoftdrnk.jpg">
       <param name="drinkware-id" value="glasses_soft"/>
       <param name="initial-fill-level" value="0.9"/>
@@ -6240,7 +6456,7 @@
       <param name="leftovers-image-set" value="chicken_sauce_leftovers"/>
     </portion-size>
   </food>
-  <food code="LASK" description="Latte made with skimmed milk (skinny latte)" ndnsCode="8058" groupCode="92">
+  <food sameAsBeforeOption="true" code="LASK" description="Latte made with skimmed milk (skinny latte)" ndnsCode="8058" groupCode="92">
     <portion-size method="drink-scale" description="in a mug" imageUrl="portion/mugs.jpg">
       <param name="drinkware-id" value="mugs"/>
       <param name="initial-fill-level" value="0.9"/>
@@ -6252,7 +6468,7 @@
       <param name="skip-fill-level" value="true"/>
     </portion-size>
   </food>
-  <food code="LASS" description="Latte made with semi-skimmed milk" ndnsCode="10729" groupCode="92">
+  <food sameAsBeforeOption="true" code="LASS" description="Latte made with semi-skimmed milk" ndnsCode="10729" groupCode="92">
     <portion-size method="drink-scale" description="in a mug" imageUrl="portion/mugs.jpg">
       <param name="drinkware-id" value="mugs"/>
       <param name="initial-fill-level" value="0.9"/>
@@ -6264,7 +6480,7 @@
       <param name="skip-fill-level" value="true"/>
     </portion-size>
   </food>
-  <food code="LASY" description="Latte made with soya milk" ndnsCode="10727" groupCode="92">
+  <food sameAsBeforeOption="true" code="LASY" description="Latte made with soya milk" ndnsCode="10727" groupCode="92">
     <portion-size method="drink-scale" description="in a mug" imageUrl="portion/mugs.jpg">
       <param name="drinkware-id" value="mugs"/>
       <param name="initial-fill-level" value="0.9"/>
@@ -6276,7 +6492,7 @@
       <param name="skip-fill-level" value="true"/>
     </portion-size>
   </food>
-  <food code="LAWM" description="Latte made with whole milk" ndnsCode="8053" groupCode="92">
+  <food sameAsBeforeOption="true" code="LAWM" description="Latte made with whole milk" ndnsCode="8053" groupCode="92">
     <portion-size method="drink-scale" description="in a mug" imageUrl="portion/mugs.jpg">
       <param name="drinkware-id" value="mugs"/>
       <param name="initial-fill-level" value="0.9"/>
@@ -6293,7 +6509,7 @@
       <param name="guide-image-id" value="Gice2"/>
     </portion-size>
   </food>
-  <food code="LCNC" description="Low carb lager e.g. Pils" ndnsCode="8344" groupCode="94">
+  <food sameAsBeforeOption="true" code="LCNC" description="Low carb lager e.g. Pils" ndnsCode="8344" groupCode="94">
     <portion-size method="guide-image" description="in a bottle" imageUrl="portion/Gbeerbot.jpg">
       <param name="guide-image-id" value="Gbeerbot"/>
     </portion-size>
@@ -6311,7 +6527,7 @@
       <param name="type" value="hoop"/>
     </portion-size>
   </food>
-  <food code="LCZD" description="Lucozade" ndnsCode="3893" groupCode="85">
+  <food sameAsBeforeOption="true" code="LCZD" description="Lucozade" ndnsCode="3893" groupCode="85">
     <portion-size method="drink-scale" description="in a glass" imageUrl="portion/gsoftdrnk.jpg">
       <param name="drinkware-id" value="glasses_soft"/>
       <param name="initial-fill-level" value="0.9"/>
@@ -6466,7 +6682,7 @@
       <param name="guide-image-id" value="Gspn"/>
     </portion-size>
   </food>
-  <food code="LILT" description="Lilt" ndnsCode="7901" groupCode="85">
+  <food sameAsBeforeOption="true" code="LILT" description="Lilt" ndnsCode="7901" groupCode="85">
     <portion-size method="drink-scale" description="in a glass" imageUrl="portion/gsoftdrnk.jpg">
       <param name="drinkware-id" value="glasses_soft"/>
       <param name="initial-fill-level" value="0.9"/>
@@ -6479,7 +6695,7 @@
       <param name="guide-image-id" value="Gpopbottle"/>
     </portion-size>
   </food>
-  <food code="LIMA" description="Limeade " ndnsCode="7901" groupCode="85">
+  <food sameAsBeforeOption="true" code="LIMA" description="Limeade " ndnsCode="7901" groupCode="85">
     <portion-size method="drink-scale" description="in a glass" imageUrl="portion/gsoftdrnk.jpg">
       <param name="drinkware-id" value="glasses_soft"/>
       <param name="initial-fill-level" value="0.9"/>
@@ -6529,12 +6745,7 @@
       <param name="leftovers-image-set" value="sauce_dollop_leftovers"/>
     </portion-size>
   </food>
-  <food readyMealOption="true" code="LIVR" description="Liver pate" ndnsCode="1257" groupCode="46">
-    <portion-size method="as-served" description="No description" imageUrl="portion/placeholder.jpg">
-      <param name="serving-image-set" value="cream_cheese_spread"/>
-    </portion-size>
-  </food>
-  <food code="LJSB" description="Lime juice cordial, ready to drink already diluted" ndnsCode="8453" groupCode="89">
+  <food code="LISB" description="Lime juice cordial, ready to drink already diluted" ndnsCode="8453" groupCode="89">
     <portion-size method="drink-scale" description="in a glass" imageUrl="portion/gsoftdrnk.jpg">
       <param name="drinkware-id" value="glasses_soft"/>
       <param name="initial-fill-level" value="0.9"/>
@@ -6545,6 +6756,11 @@
     </portion-size>
     <portion-size method="guide-image" description="in a bottle" imageUrl="portion/Gpopbottle.jpg">
       <param name="guide-image-id" value="Gpopbottle"/>
+    </portion-size>
+  </food>
+  <food readyMealOption="true" code="LIVR" description="Liver pate" ndnsCode="1257" groupCode="46">
+    <portion-size method="as-served" description="No description" imageUrl="portion/placeholder.jpg">
+      <param name="serving-image-set" value="cream_cheese_spread"/>
     </portion-size>
   </food>
   <food code="LKSB" description="Leeks, boiled / steamed / microwaved" ndnsCode="1756" groupCode="70">
@@ -6588,7 +6804,7 @@
       <param name="guide-image-id" value="Gmeatcan"/>
     </portion-size>
   </food>
-  <food code="LMND" description="Lemonade " ndnsCode="2322" groupCode="85">
+  <food sameAsBeforeOption="true" code="LMND" description="Lemonade " ndnsCode="2322" groupCode="85">
     <portion-size method="drink-scale" description="in a glass" imageUrl="portion/gsoftdrnk.jpg">
       <param name="drinkware-id" value="glasses_soft"/>
       <param name="initial-fill-level" value="0.9"/>
@@ -7004,7 +7220,7 @@
       <param name="unit0-omit-food-description" value="true"/>
     </portion-size>
   </food>
-  <food code="MELI" description="Medium liqueur e.g. Tia Maria, Creme de menthe" ndnsCode="2399" groupCode="94">
+  <food sameAsBeforeOption="true" code="MELI" description="Medium liqueur e.g. Tia Maria, Creme de menthe" ndnsCode="2399" groupCode="94">
     <portion-size method="standard-portion" description="standard measure" imageUrl="standard-portion.jpg">
       <param name="units-count" value="3"/>
       <param name="unit0-name" value="single measures"/>
@@ -7317,7 +7533,7 @@
       <param name="unit0-omit-food-description" value="false"/>
     </portion-size>
   </food>
-  <food code="MONS" description="Monster energy drink" ndnsCode="5545" groupCode="85">
+  <food sameAsBeforeOption="true" code="MONS" description="Monster energy drink" ndnsCode="5545" groupCode="85">
     <portion-size method="drink-scale" description="in a glass" imageUrl="portion/gsoftdrnk.jpg">
       <param name="drinkware-id" value="glasses_soft"/>
       <param name="initial-fill-level" value="0.9"/>
@@ -7327,7 +7543,7 @@
       <param name="guide-image-id" value="Gpopcans"/>
     </portion-size>
   </food>
-  <food code="MOSK" description="Mocha made with skimmed milk (no cream)" ndnsCode="8060" groupCode="92">
+  <food sameAsBeforeOption="true" code="MOSK" description="Mocha made with skimmed milk (no cream)" ndnsCode="8060" groupCode="92">
     <portion-size method="drink-scale" description="in a mug" imageUrl="portion/mugs.jpg">
       <param name="drinkware-id" value="mugs"/>
       <param name="initial-fill-level" value="0.9"/>
@@ -7339,7 +7555,7 @@
       <param name="skip-fill-level" value="true"/>
     </portion-size>
   </food>
-  <food code="MOSS" description="Mocha made with semi-skimmed milk (no cream)" ndnsCode="10785" groupCode="92">
+  <food sameAsBeforeOption="true" code="MOSS" description="Mocha made with semi-skimmed milk (no cream)" ndnsCode="10785" groupCode="92">
     <portion-size method="drink-scale" description="in a mug" imageUrl="portion/mugs.jpg">
       <param name="drinkware-id" value="mugs"/>
       <param name="initial-fill-level" value="0.9"/>
@@ -7351,7 +7567,7 @@
       <param name="skip-fill-level" value="true"/>
     </portion-size>
   </food>
-  <food code="MOWC" description="Mocha with cream" ndnsCode="8061" groupCode="92">
+  <food sameAsBeforeOption="true" code="MOWC" description="Mocha with cream" ndnsCode="8061" groupCode="92">
     <portion-size method="drink-scale" description="in a mug" imageUrl="portion/mugs.jpg">
       <param name="drinkware-id" value="mugs"/>
       <param name="initial-fill-level" value="0.9"/>
@@ -7363,7 +7579,7 @@
       <param name="skip-fill-level" value="true"/>
     </portion-size>
   </food>
-  <food code="MOWM" description="Mocha made with whole milk (no cream)" ndnsCode="8059" groupCode="92">
+  <food sameAsBeforeOption="true" code="MOWM" description="Mocha made with whole milk (no cream)" ndnsCode="8059" groupCode="92">
     <portion-size method="drink-scale" description="in a mug" imageUrl="portion/mugs.jpg">
       <param name="drinkware-id" value="mugs"/>
       <param name="initial-fill-level" value="0.9"/>
@@ -7573,7 +7789,7 @@
       <param name="guide-image-id" value="Gpik"/>
     </portion-size>
   </food>
-  <food code="MULW" description="Mulled wine" ndnsCode="10402" groupCode="94">
+  <food sameAsBeforeOption="true" code="MULW" description="Mulled wine" ndnsCode="10402" groupCode="94">
     <portion-size method="guide-image" description="size of bottle" imageUrl="portion/Gwinebottle.jpg">
       <param name="guide-image-id" value="Gwinebottle"/>
     </portion-size>
@@ -7657,7 +7873,7 @@
       <param name="leftovers-image-set" value="chipth_leftovers"/>
     </portion-size>
   </food>
-  <food code="MWWN" description="Medium white wine" ndnsCode="8355" groupCode="94">
+  <food sameAsBeforeOption="true" code="MWWN" description="Medium white wine" ndnsCode="8355" groupCode="94">
     <portion-size method="guide-image" description="size of bottle" imageUrl="portion/Gwinebottle.jpg">
       <param name="guide-image-id" value="Gwinebottle"/>
     </portion-size>
@@ -7710,7 +7926,7 @@
       <param name="leftovers-image-set" value="potatoes_boiled_new_leftovers"/>
     </portion-size>
   </food>
-  <food code="NPCN" description="Non-premium lager, e.g. Carlsberg" ndnsCode="2368" groupCode="94">
+  <food sameAsBeforeOption="true" code="NPCN" description="Non-premium lager, e.g. Carlsberg" ndnsCode="2368" groupCode="94">
     <portion-size method="guide-image" description="in a bottle" imageUrl="portion/Gbeerbot.jpg">
       <param name="guide-image-id" value="Gbeerbot"/>
     </portion-size>
@@ -7861,7 +8077,7 @@
       <param name="leftovers-image-set" value="grate_leftovers"/>
     </portion-size>
   </food>
-  <food code="OFDD" description="Other fizzy diet drink" ndnsCode="7903" groupCode="84">
+  <food sameAsBeforeOption="true" code="OFDD" description="Other fizzy diet drink" ndnsCode="7903" groupCode="84">
     <portion-size method="drink-scale" description="in a glass" imageUrl="portion/gsoftdrnk.jpg">
       <param name="drinkware-id" value="glasses_soft"/>
       <param name="initial-fill-level" value="0.9"/>
@@ -8255,7 +8471,7 @@
       <param name="unit0-omit-food-description" value="true"/>
     </portion-size>
   </food>
-  <food code="PALE" description="Pale ale &amp; mild ale" ndnsCode="2362" groupCode="94">
+  <food sameAsBeforeOption="true" code="PALE" description="Pale ale &amp; mild ale" ndnsCode="2362" groupCode="94">
     <portion-size method="guide-image" description="in a bottle" imageUrl="portion/Gbeerbot.jpg">
       <param name="guide-image-id" value="Gbeerbot"/>
     </portion-size>
@@ -8626,7 +8842,7 @@
       <param name="guide-image-id" value="Gcanfish"/>
     </portion-size>
   </food>
-  <food code="PIMS" description="Pimms" ndnsCode="2406" groupCode="94">
+  <food sameAsBeforeOption="true" code="PIMS" description="Pimms" ndnsCode="2406" groupCode="94">
     <portion-size method="standard-portion" description="No description" imageUrl="standard-portion.jpg">
       <param name="units-count" value="3"/>
       <param name="unit0-name" value="single measures"/>
@@ -8919,7 +9135,7 @@
       <param name="leftovers-image-set" value="chicken_sauce_leftovers"/>
     </portion-size>
   </food>
-  <food code="PORT" description="Port" ndnsCode="2390" groupCode="94">
+  <food sameAsBeforeOption="true" code="PORT" description="Port" ndnsCode="2390" groupCode="94">
     <portion-size method="standard-portion" description="standard measure" imageUrl="standard-portion.jpg">
       <param name="units-count" value="3"/>
       <param name="unit0-name" value="single measures"/>
@@ -9023,7 +9239,7 @@
       <param name="unit0-omit-food-description" value="true"/>
     </portion-size>
   </food>
-  <food code="PRCI" description="Pear cider" ndnsCode="8349" groupCode="94">
+  <food sameAsBeforeOption="true" code="PRCI" description="Pear cider" ndnsCode="8349" groupCode="94">
     <portion-size method="guide-image" description="in a bottle" imageUrl="portion/Gciderbot.jpg">
       <param name="guide-image-id" value="Gciderbot"/>
     </portion-size>
@@ -9036,7 +9252,7 @@
       <param name="skip-fill-level" value="false"/>
     </portion-size>
   </food>
-  <food code="PRCN" description="Premium lager e.g. Amstel" ndnsCode="2369" groupCode="94">
+  <food sameAsBeforeOption="true" code="PRCN" description="Premium lager e.g. Amstel" ndnsCode="2369" groupCode="94">
     <portion-size method="guide-image" description="in a bottle" imageUrl="portion/Gbeerbot.jpg">
       <param name="guide-image-id" value="Gbeerbot"/>
     </portion-size>
@@ -9440,7 +9656,7 @@
       <param name="unit0-omit-food-description" value="false"/>
     </portion-size>
   </food>
-  <food code="RANC" description="Real ales &amp; strong bitters" ndnsCode="8338" groupCode="94">
+  <food sameAsBeforeOption="true" code="RANC" description="Real ales &amp; strong bitters" ndnsCode="8338" groupCode="94">
     <portion-size method="guide-image" description="in a bottle" imageUrl="portion/Gbeerbot.jpg">
       <param name="guide-image-id" value="Gbeerbot"/>
     </portion-size>
@@ -9604,7 +9820,7 @@
       <param name="leftovers-image-set" value="porridge_leftovers"/>
     </portion-size>
   </food>
-  <food code="RDWN" description="Red wine" ndnsCode="8352" groupCode="94">
+  <food sameAsBeforeOption="true" code="RDWN" description="Red wine" ndnsCode="8352" groupCode="94">
     <portion-size method="guide-image" description="size of bottle" imageUrl="portion/Gwinebottle.jpg">
       <param name="guide-image-id" value="Gwinebottle"/>
     </portion-size>
@@ -9614,7 +9830,7 @@
       <param name="skip-fill-level" value="false"/>
     </portion-size>
   </food>
-  <food code="REDC" description="Red Cola" ndnsCode="7901" groupCode="85">
+  <food sameAsBeforeOption="true" code="REDC" description="Red Cola" ndnsCode="7901" groupCode="85">
     <portion-size method="drink-scale" description="in a glass" imageUrl="portion/gsoftdrnk.jpg">
       <param name="drinkware-id" value="glasses_soft"/>
       <param name="initial-fill-level" value="0.9"/>
@@ -9826,7 +10042,7 @@
       <param name="guide-image-id" value="Gswts"/>
     </portion-size>
   </food>
-  <food code="ROWN" description="Rose wine" ndnsCode="8353" groupCode="94">
+  <food sameAsBeforeOption="true" code="ROWN" description="Rose wine" ndnsCode="8353" groupCode="94">
     <portion-size method="guide-image" description="size of bottle" imageUrl="portion/Gwinebottle.jpg">
       <param name="guide-image-id" value="Gwinebottle"/>
     </portion-size>
@@ -10054,7 +10270,7 @@
       <param name="unit1-omit-food-description" value="false"/>
     </portion-size>
   </food>
-  <food code="SCLZ" description="Still energy drink, eg Lucozade Hydroactive, Gatorade, Powerade " ndnsCode="8888" groupCode="87">
+  <food sameAsBeforeOption="true" code="SCLZ" description="Still energy drink, eg Lucozade Hydroactive, Gatorade, Powerade " ndnsCode="8888" groupCode="87">
     <portion-size method="drink-scale" description="in a glass" imageUrl="portion/gsoftdrnk.jpg">
       <param name="drinkware-id" value="glasses_soft"/>
       <param name="initial-fill-level" value="0.9"/>
@@ -10240,7 +10456,7 @@
       <param name="leftovers-image-set" value="puffed_cereals_leftovers"/>
     </portion-size>
   </food>
-  <food code="SHAN" description="Shandy" ndnsCode="2378" groupCode="94">
+  <food sameAsBeforeOption="true" code="SHAN" description="Shandy" ndnsCode="2378" groupCode="94">
     <portion-size method="guide-image" description="in a bottle" imageUrl="portion/Gbeerbot.jpg">
       <param name="guide-image-id" value="Gbeerbot"/>
     </portion-size>
@@ -10358,7 +10574,7 @@
       <param name="guide-image-id" value="Gbisc"/>
     </portion-size>
   </food>
-  <food code="SHRY" description="Sherry" ndnsCode="2392" groupCode="94">
+  <food sameAsBeforeOption="true" code="SHRY" description="Sherry" ndnsCode="2392" groupCode="94">
     <portion-size method="standard-portion" description="standard measure" imageUrl="standard-portion.jpg">
       <param name="units-count" value="3"/>
       <param name="unit0-name" value="single measures"/>
@@ -10659,7 +10875,7 @@
       <param name="leftovers-image-set" value="runner_beans_leftovers"/>
     </portion-size>
   </food>
-  <food code="SNUP" description="Sprite/ 7 up" ndnsCode="9991" groupCode="85">
+  <food sameAsBeforeOption="true" code="SNUP" description="Sprite/ 7 up" ndnsCode="9991" groupCode="85">
     <portion-size method="drink-scale" description="in a glass" imageUrl="portion/gsoftdrnk.jpg">
       <param name="drinkware-id" value="glasses_soft"/>
       <param name="initial-fill-level" value="0.9"/>
@@ -10821,7 +11037,7 @@
       <param name="leftovers-image-set" value="popcorn_leftovers"/>
     </portion-size>
   </food>
-  <food code="SPOR" description="Sports drink " ndnsCode="8888" groupCode="87">
+  <food sameAsBeforeOption="true" code="SPOR" description="Sports drink " ndnsCode="8888" groupCode="87">
     <portion-size method="drink-scale" description="in a glass" imageUrl="portion/gsoftdrnk.jpg">
       <param name="drinkware-id" value="glasses_soft"/>
       <param name="initial-fill-level" value="0.9"/>
@@ -10853,7 +11069,7 @@
       <param name="unit1-omit-food-description" value="true"/>
     </portion-size>
   </food>
-  <food reasonableAmount="200" code="SPRT" description="Spirits e.g. whisky, gin, brandy, rum, vodka, bacardi, malibu" ndnsCode="2402" groupCode="94">
+  <food reasonableAmount="200" sameAsBeforeOption="true" code="SPRT" description="Spirits e.g. whisky, gin, brandy, rum, vodka, bacardi, malibu" ndnsCode="2402" groupCode="94">
     <portion-size method="standard-portion" description="standard measure" imageUrl="standard-portion.jpg">
       <param name="units-count" value="3"/>
       <param name="unit0-name" value="single measures"/>
@@ -10949,7 +11165,7 @@
       <param name="guide-image-id" value="Gcanfish"/>
     </portion-size>
   </food>
-  <food code="SSBC" description="Lager, special strong brew" ndnsCode="2371" groupCode="94">
+  <food sameAsBeforeOption="true" code="SSBC" description="Lager, special strong brew" ndnsCode="2371" groupCode="94">
     <portion-size method="guide-image" description="in a bottle" imageUrl="portion/Gbeerbot.jpg">
       <param name="guide-image-id" value="Gbeerbot"/>
     </portion-size>
@@ -11138,7 +11354,7 @@
       <param name="leftovers-image-set" value="gravy_leftovers"/>
     </portion-size>
   </food>
-  <food code="STLI" description="Strong liqueur e.g. Pernod, Drambuie, Cointreau, Grand Marnier" ndnsCode="2400" groupCode="94">
+  <food sameAsBeforeOption="true" code="STLI" description="Strong liqueur e.g. Pernod, Drambuie, Cointreau, Grand Marnier" ndnsCode="2400" groupCode="94">
     <portion-size method="standard-portion" description="standard measure" imageUrl="standard-portion.jpg">
       <param name="units-count" value="3"/>
       <param name="unit0-name" value="single measures"/>
@@ -11157,7 +11373,7 @@
       <param name="skip-fill-level" value="false"/>
     </portion-size>
   </food>
-  <food code="STNC" description="Stout not canned, e.g. Guinness" ndnsCode="8334" groupCode="94">
+  <food sameAsBeforeOption="true" code="STNC" description="Stout not canned, e.g. Guinness" ndnsCode="8334" groupCode="94">
     <portion-size method="guide-image" description="in a bottle" imageUrl="portion/Gbeerbot.jpg">
       <param name="guide-image-id" value="Gbeerbot"/>
     </portion-size>
@@ -11249,7 +11465,7 @@
       <param name="leftovers-image-set" value="rice_leftovers"/>
     </portion-size>
   </food>
-  <food code="SWCD" description="Sweet/medium cider e.g. Woodpecker" ndnsCode="8349" groupCode="94">
+  <food sameAsBeforeOption="true" code="SWCD" description="Sweet/medium cider e.g. Woodpecker" ndnsCode="8349" groupCode="94">
     <portion-size method="guide-image" description="in a bottle" imageUrl="portion/Gciderbot.jpg">
       <param name="guide-image-id" value="Gciderbot"/>
     </portion-size>
@@ -11274,7 +11490,7 @@
       <param name="leftovers-image-set" value="potatoes_mashed_leftovers"/>
     </portion-size>
   </food>
-  <food code="SWEW" description="Sweet white wine" ndnsCode="8356" groupCode="94">
+  <food sameAsBeforeOption="true" code="SWEW" description="Sweet white wine" ndnsCode="8356" groupCode="94">
     <portion-size method="guide-image" description="size of bottle" imageUrl="portion/Gwinebottle.jpg">
       <param name="guide-image-id" value="Gwinebottle"/>
     </portion-size>
@@ -11312,7 +11528,7 @@
       <param name="leftovers-image-set" value="white_sauce_leftovers"/>
     </portion-size>
   </food>
-  <food code="SWWN" description="Sparkling white wine" ndnsCode="8357" groupCode="94">
+  <food sameAsBeforeOption="true" code="SWWN" description="Sparkling white wine" ndnsCode="8357" groupCode="94">
     <portion-size method="guide-image" description="size of bottle" imageUrl="portion/Gwinebottle.jpg">
       <param name="guide-image-id" value="Gwinebottle"/>
     </portion-size>
@@ -11568,7 +11784,7 @@
       <param name="guide-image-id" value="Gorg"/>
     </portion-size>
   </food>
-  <food code="TNIC" description="Tonic water" ndnsCode="8378" groupCode="85">
+  <food sameAsBeforeOption="true" code="TNIC" description="Tonic water" ndnsCode="8378" groupCode="85">
     <portion-size method="drink-scale" description="in a glass" imageUrl="portion/gsoftdrnk.jpg">
       <param name="drinkware-id" value="glasses_soft"/>
       <param name="initial-fill-level" value="0.9"/>
@@ -12215,7 +12431,7 @@
       <param name="unit0-omit-food-description" value="true"/>
     </portion-size>
   </food>
-  <food code="WATR" description="Melon, watermelon ( red with seeds)" ndnsCode="2085" groupCode="73">
+  <food reasonableAmount="2000" code="WATR" description="Melon, watermelon (red with seeds)" ndnsCode="2085" groupCode="73">
     <portion-size method="as-served" description="No description" imageUrl="portion/placeholder.jpg">
       <param name="serving-image-set" value="melon"/>
       <param name="leftovers-image-set" value="melon_leftovers"/>
@@ -12404,7 +12620,7 @@
       <param name="guide-image-id" value="Gsli"/>
     </portion-size>
   </food>
-  <food code="WHMC" description="Whisky Mac" ndnsCode="2393" groupCode="94">
+  <food sameAsBeforeOption="true" code="WHMC" description="Whisky Mac" ndnsCode="2393" groupCode="94">
     <portion-size method="drink-scale" description="No description" imageUrl="portion/gspirits.jpg">
       <param name="drinkware-id" value="glasses_spirits"/>
       <param name="initial-fill-level" value="0.9"/>
@@ -12687,7 +12903,7 @@
       <param name="unit0-omit-food-description" value="true"/>
     </portion-size>
   </food>
-  <food code="WWLA" description="White wine, low alcohol" ndnsCode="9596" groupCode="94">
+  <food sameAsBeforeOption="true" code="WWLA" description="White wine, low alcohol" ndnsCode="9596" groupCode="94">
     <portion-size method="guide-image" description="size of bottle" imageUrl="portion/Gwinebottle.jpg">
       <param name="guide-image-id" value="Gwinebottle"/>
     </portion-size>

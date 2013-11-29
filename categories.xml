@@ -1,18 +1,18 @@
 <?xml version='1.0' encoding='utf-8'?>
 <categories>
   <category code="ALCL" description="Alcohol" hidden="false">
-    <subcategory code="ALCO"/>
-    <subcategory code="BEER"/>
     <subcategory code="CIDR"/>
+    <subcategory code="BEER"/>
     <subcategory code="LAGR"/>
-    <subcategory code="SPLI"/>
     <subcategory code="WINE"/>
+    <subcategory code="SPLI"/>
+    <subcategory code="ALCO"/>
   </category>
-  <category code="ALCO" description="Alcopops" hidden="false">
-    <food code="ALFR"/>
-    <food code="APOP"/>
-    <food code="DALC"/>
+  <category reasonableAmount="5000" code="ALCO" description="Alcopops" hidden="false">
     <food code="ALSD"/>
+    <food code="APOP"/>
+    <food code="ALFR"/>
+    <food code="DALC"/>
   </category>
   <category code="APLS" description="Apples" hidden="false">
     <food code="APST"/>
@@ -83,16 +83,17 @@
     <food code="BSLM"/>
     <food code="BENH"/>
   </category>
-  <category code="BEER" description="Beer/stout" hidden="false">
+  <category reasonableAmount="5780" code="BEER" description="Beer/stout" hidden="false">
     <food code="BENC"/>
+    <food code="BBNC"/>
+    <food code="HOME"/>
     <food code="PALE"/>
     <food code="RANC"/>
     <food code="STNC"/>
-    <food code="BBNC"/>
-    <food code="HOME"/>
     <portion-size method="drink-scale" description="No description" imageUrl="portion/placeholder.jpg">
       <param name="drinkware-id" value="mugs"/>
       <param name="initial-fill-level" value="0.85"/>
+      <param name="skip-fill-level" value="false"/>
     </portion-size>
   </category>
   <category code="BEET" description="Beetroot" hidden="false">
@@ -340,6 +341,9 @@
     <food code="CASE"/>
     <food code="CASK"/>
     <food code="CAWM"/>
+    <food code="DCCA"/>
+    <food code="DCCS"/>
+    <food code="DCCW"/>
   </category>
   <category code="CARR" description="Carrot cake" hidden="false">
     <food code="CROT"/>
@@ -563,14 +567,15 @@
     <food code="VCHS"/>
     <food code="LIPI"/>
   </category>
-  <category code="CIDR" description="Cider" hidden="false">
-    <food code="PRCI"/>
+  <category reasonableAmount="5780" code="CIDR" description="Cider" hidden="false">
     <food code="DCCN"/>
-    <food code="SWCD"/>
     <food code="FRCI"/>
+    <food code="PRCI"/>
+    <food code="SWCD"/>
   </category>
   <category code="CFFS" description="Coffee" hidden="false">
     <food code="CFFB"/>
+    <food code="DECO"/>
     <subcategory code="MOCA"/>
     <subcategory code="LATE"/>
     <subcategory code="CAPU"/>
@@ -771,22 +776,22 @@
     <food code="DRMA"/>
     <food code="DRPI"/>
   </category>
-  <category code="DRNK" description="Drinks" hidden="false">
+  <category sameAsBeforeOption="true" code="DRNK" description="Drinks" hidden="false">
     <food code="ICET"/>
     <food code="COCM"/>
     <subcategory code="ALCL"/>
     <subcategory code="ENDK"/>
-    <subcategory code="FJCE"/>
-    <subcategory code="SMTH"/>
-    <subcategory code="SQDK"/>
-    <subcategory code="WTRS"/>
-    <subcategory code="SOFT"/>
-    <subcategory code="VGTJ"/>
-    <subcategory code="HCHC"/>
-    <subcategory code="MDNK"/>
-    <subcategory code="SHKS"/>
     <subcategory code="CFFS"/>
     <subcategory code="TEAS"/>
+    <subcategory code="MDNK"/>
+    <subcategory code="FJCE"/>
+    <subcategory code="HCHC"/>
+    <subcategory code="SHKS"/>
+    <subcategory code="SQDK"/>
+    <subcategory code="VGTJ"/>
+    <subcategory code="WTRS"/>
+    <subcategory code="SMTH"/>
+    <subcategory code="SOFT"/>
   </category>
   <category code="EGGD" description="Egg &amp; egg dishes" hidden="false">
     <food code="MFSE"/>
@@ -803,11 +808,11 @@
     <food code="PIEG"/>
   </category>
   <category code="ENDK" description="Energy drinks" hidden="false">
-    <food code="CLUC"/>
-    <food code="SCLZ"/>
     <food code="EDLC"/>
-    <food code="SPOR"/>
+    <food code="CLUC"/>
     <food code="MONS"/>
+    <food code="SPOR"/>
+    <food code="SCLZ"/>
   </category>
   <category code="FISH" description="Fish &amp; fish products" hidden="false">
     <subcategory code="CODB"/>
@@ -871,30 +876,30 @@
     <food code="FSBD"/>
     <food code="FSBG"/>
   </category>
-  <category code="SOFT" description="Fizzy drinks" hidden="false">
+  <category sameAsBeforeOption="true" code="SOFT" description="Fizzy drinks" hidden="false">
     <food code="AJCS"/>
-    <food code="COLA"/>
-    <food code="DINB"/>
-    <food code="DLMD"/>
-    <food code="FFJD"/>
-    <food code="IRNB"/>
-    <food code="LCZD"/>
-    <food code="LMND"/>
-    <food code="OFDD"/>
-    <food code="SNUP"/>
-    <food code="DRPR"/>
-    <food code="TNIC"/>
-    <food code="FIVI"/>
-    <food code="FANT"/>
-    <food code="LILT"/>
     <food code="APTZ"/>
     <food code="CHRD"/>
-    <food code="LIMA"/>
-    <food code="CRSO"/>
-    <food code="REDC"/>
-    <food code="GINB"/>
-    <food code="DCLA"/>
+    <food code="COLA"/>
     <food code="DAND"/>
+    <food code="DCLA"/>
+    <food code="DINB"/>
+    <food code="DLMD"/>
+    <food code="DRPR"/>
+    <food code="FANT"/>
+    <food code="FFJD"/>
+    <food code="GINB"/>
+    <food code="IRNB"/>
+    <food code="LMND"/>
+    <food code="LILT"/>
+    <food code="LIMA"/>
+    <food code="LCZD"/>
+    <food code="OFDD"/>
+    <food code="REDC"/>
+    <food code="SNUP"/>
+    <food code="TNIC"/>
+    <food code="FIVI"/>
+    <food code="CRSO"/>
   </category>
   <category code="FCRL" description="Flake cereals" hidden="false">
     <food code="BRNF"/>
@@ -918,7 +923,7 @@
     <food code="CCFJ"/>
     <food code="FLJB"/>
   </category>
-  <category code="FBNS" description="French/green/runner beans" hidden="false">
+  <category code="FGRB" description="French/green/runner beans" hidden="false">
     <food code="FRBB"/>
     <food code="RBFB"/>
   </category>
@@ -986,9 +991,8 @@
     <food code="FCNW"/>
     <food code="RHCR"/>
   </category>
-  <category code="FJCE" description="Fruit juice" hidden="false">
+  <category sameAsBeforeOption="true" code="FJCE" description="Fruit juice" hidden="false">
     <food code="ORJB"/>
-    <food code="APJC"/>
     <food code="CNJC"/>
     <food code="OJCB"/>
     <food code="OJCC"/>
@@ -1002,6 +1006,7 @@
     <food code="CRYJ"/>
     <food code="TOMB"/>
     <food code="TROP"/>
+    <food code="APJC"/>
   </category>
   <category code="FTYG" description="Fruit yoghurt" hidden="false">
     <food code="FYFP"/>
@@ -1113,7 +1118,7 @@
     <food code="DCRM"/>
     <food code="DCSO"/>
   </category>
-  <category code="HCHC" description="Hot chocolate &amp; malted drinks" hidden="false">
+  <category sameAsBeforeOption="true" code="HCHC" description="Hot chocolate &amp; malted drinks" hidden="false">
     <food code="DCHS"/>
     <food code="HRLK"/>
     <subcategory code="DCHO"/>
@@ -1186,12 +1191,12 @@
     <food code="HARI"/>
     <food code="JBAB"/>
   </category>
-  <category code="LAGR" description="Lager" hidden="false">
+  <category reasonableAmount="5780" code="LAGR" description="Lager" hidden="false">
     <food code="CCAN"/>
+    <food code="SSBC"/>
     <food code="LCNC"/>
     <food code="NPCN"/>
     <food code="PRCN"/>
-    <food code="SSBC"/>
     <food code="SHAN"/>
   </category>
   <category code="LDSH" description="Lamb dishes" hidden="false">
@@ -1207,6 +1212,10 @@
     <food code="LASK"/>
     <food code="LASY"/>
     <food code="LAWM"/>
+    <food code="DCLW"/>
+    <food code="DLSS"/>
+    <food code="DLAS"/>
+    <food code="DLSO"/>
   </category>
   <category code="LEEK" description="Leeks" hidden="false">
     <food code="LKSB"/>
@@ -1244,6 +1253,7 @@
     <food code="HMEL"/>
     <food code="HMLI"/>
     <food code="MYOL"/>
+    <food code="GASA"/>
   </category>
   <category code="MEAT" description="Meat &amp; meat dishes" hidden="false">
     <food code="PRIB"/>
@@ -1267,6 +1277,7 @@
     <food code="MMUS"/>
     <food code="MSPR"/>
     <food code="MTBL"/>
+    <food code="CDPN"/>
     <subcategory code="BDSH"/>
     <subcategory code="CDSH"/>
     <subcategory code="LDSH"/>
@@ -1305,29 +1316,29 @@
     <food code="VEMB"/>
   </category>
   <category code="MLNS" description="Melons" hidden="false">
+    <food code="WATR"/>
     <food code="CANT"/>
     <food code="GMLN"/>
     <food code="HMLN"/>
-    <food code="WATR"/>
   </category>
   <category code="MILK" description="Milk &amp; cream" hidden="false">
     <food code="CCNM"/>
     <food code="RFCM"/>
     <food code="CNDM"/>
-    <subcategory code="MDNK"/>
     <subcategory code="MCRL"/>
-    <subcategory code="SHKS"/>
     <subcategory code="CREM"/>
+    <subcategory code="MDNK"/>
+    <subcategory code="SHKS"/>
     <subcategory code="MHDK"/>
   </category>
-  <category code="MDNK" description="Milk as a drink" hidden="false">
+  <category sameAsBeforeOption="true" code="MDNK" description="Milk as a drink" hidden="false">
     <food code="KMLK"/>
     <food code="SMLK"/>
     <food code="WMLK"/>
     <food code="SOYM"/>
     <food code="RIML"/>
   </category>
-  <category code="MHDK" description="Milk in a hot drink" hidden="true">
+  <category sameAsBeforeOption="true" code="MHDK" description="Milk in a hot drink" hidden="true">
     <food code="CTSS"/>
     <food code="CTSM"/>
     <food code="CTSY"/>
@@ -1343,7 +1354,7 @@
     <food code="CKML"/>
     <portion-size method="milk-on-cereal" description="No description" imageUrl="portion/placeholder.jpg"> </portion-size>
   </category>
-  <category code="SHKS" description="Milkshakes" hidden="false">
+  <category sameAsBeforeOption="true" code="SHKS" description="Milkshakes" hidden="false">
     <food code="SHIC"/>
     <food code="SHTH"/>
     <food code="KMSH"/>
@@ -1367,6 +1378,10 @@
     <food code="MOSK"/>
     <food code="MOWM"/>
     <food code="MOWC"/>
+    <food code="DMSS"/>
+    <food code="DCMS"/>
+    <food code="DCMW"/>
+    <food code="DCMC"/>
   </category>
   <category code="FRYC" description="Muffins &amp; fairy cakes" hidden="false">
     <food code="CFCI"/>
@@ -1388,6 +1403,7 @@
     <food code="LFNP"/>
     <food code="FFNT"/>
     <food code="GRKY"/>
+    <food code="BIYO"/>
   </category>
   <category code="PCHS" description="Nectarines/peaches" hidden="false">
     <food code="NCTF"/>
@@ -1934,7 +1950,7 @@
     <food code="SHRD"/>
     <food code="MAWH"/>
   </category>
-  <category code="SMTH" description="Smoothies" hidden="false">
+  <category sameAsBeforeOption="true" code="SMTH" description="Smoothies" hidden="false">
     <food code="SMTB"/>
     <food code="YOGB"/>
     <food code="INNO"/>
@@ -1975,16 +1991,16 @@
     <food code="SPNB"/>
     <food code="SPNR"/>
   </category>
-  <category code="SPLI" description="Spirits &amp; liqueurs" hidden="false">
-    <food code="WHMC"/>
+  <category reasonableAmount="500" code="SPLI" description="Spirits &amp; liqueurs" hidden="false">
+    <food code="APER"/>
     <food code="CMLI"/>
     <food code="MELI"/>
     <food code="PIMS"/>
     <food code="PORT"/>
     <food code="SHRY"/>
-    <food code="APER"/>
-    <food code="STLI"/>
     <food code="SPRT"/>
+    <food code="STLI"/>
+    <food code="WHMC"/>
   </category>
   <category code="SPNG" description="Sponge cake" hidden="false">
     <food code="GSCA"/>
@@ -2014,13 +2030,11 @@
     <food code="CLOO"/>
     <food code="CHRI"/>
   </category>
-  <category code="SQDK" description="Squash/cordial/fruit flavour drinks" hidden="false">
-    <food code="LISB"/>
+  <category sameAsBeforeOption="true" code="SQDK" description="Squash/cordial/fruit flavour drinks" hidden="false">
     <food code="BWSQ"/>
     <food code="FFJT"/>
     <food code="HJCB"/>
     <food code="OSQB"/>
-    <food code="LJSB"/>
     <food code="CPJB"/>
     <food code="BCJC"/>
     <food code="BJNS"/>
@@ -2036,6 +2050,8 @@
     <food code="OASI"/>
     <food code="CPSN"/>
     <food code="KWEN"/>
+    <food code="LISB"/>
+    <food code="FNBN"/>
   </category>
   <category code="STEK" description="Steaks and chops" hidden="false">
     <food code="BEFF"/>
@@ -2143,8 +2159,9 @@
   </category>
   <category sameAsBeforeOption="true" code="TEAS" description="Tea" hidden="false">
     <food code="ICET"/>
-    <food code="HTEA"/>
     <food code="BTEA"/>
+    <food code="HTEA"/>
+    <food code="DCTE"/>
   </category>
   <category code="TFFS" description="Toffee/fudge/nougat" hidden="false">
     <food code="CFUG"/>
@@ -2200,7 +2217,7 @@
     <food code="VEGT"/>
     <food code="VGEN"/>
   </category>
-  <category code="VGTJ" description="Vegetable juice" hidden="false">
+  <category sameAsBeforeOption="true" code="VGTJ" description="Vegetable juice" hidden="false">
     <food code="CARJ"/>
     <food code="TOMB"/>
     <food code="VGJU"/>
@@ -2228,6 +2245,8 @@
     <food code="CCMB"/>
     <food code="LTTC"/>
     <food code="ROCT"/>
+    <food code="AUBG"/>
+    <food code="AUFR"/>
     <subcategory code="BBNS"/>
     <subcategory code="BEET"/>
     <subcategory code="BRCL"/>
@@ -2235,7 +2254,6 @@
     <subcategory code="COLE"/>
     <subcategory code="COUR"/>
     <subcategory code="CRTS"/>
-    <subcategory code="FBNS"/>
     <subcategory code="LEEK"/>
     <subcategory code="MXDV"/>
     <subcategory code="ONIO"/>
@@ -2250,6 +2268,7 @@
     <subcategory code="C000"/>
     <subcategory code="C001"/>
     <subcategory code="TMTO"/>
+    <subcategory code="FGRB"/>
   </category>
   <category code="VNGR" description="Vinegars" hidden="false">
     <food code="BVGR"/>
@@ -2257,7 +2276,7 @@
     <food code="WVGR"/>
     <food code="MVGR"/>
   </category>
-  <category code="WTRS" description="Water" hidden="false">
+  <category sameAsBeforeOption="true" code="WTRS" description="Water" hidden="false">
     <food code="SMWB"/>
     <food code="VOLV"/>
     <food code="EVIA"/>
@@ -2284,18 +2303,18 @@
     <food code="SWSS"/>
     <food code="CHPS"/>
   </category>
-  <category code="WINE" description="Wine" hidden="false">
+  <category reasonableAmount="2286" code="WINE" description="Wine" hidden="false">
+    <food code="BUFW"/>
+    <food code="CHPR"/>
     <food code="DWWN"/>
     <food code="HMWN"/>
     <food code="MWWN"/>
+    <food code="MULW"/>
     <food code="RDWN"/>
     <food code="ROWN"/>
-    <food code="SWEW"/>
     <food code="SWWN"/>
+    <food code="SWEW"/>
     <food code="WWLA"/>
-    <food code="CHPR"/>
-    <food code="BUFW"/>
-    <food code="MULW"/>
   </category>
   <category code="FJTA" description="Wraps, pitta, naan" hidden="false">
     <food code="BPTB"/>
