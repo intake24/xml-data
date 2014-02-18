@@ -7108,7 +7108,6 @@
   <food code="MCBP" description="McCains Baked potato / Jacket potato, skin eaten" ndnsCode="1834" groupCode="66">
     <portion-size method="as-served" description="No description" imageUrl="portion/placeholder.jpg">
       <param name="serving-image-set" value="potato_jacket"/>
-      <param name="leftovers-image-set" value="potato_jacket_leftovers"/>
     </portion-size>
   </food>
   <food code="MCCB" description="McDonalds Cheeseburger" ndnsCode="1333" groupCode="47">
@@ -7161,7 +7160,6 @@
   <food code="MCNS" description="McCains Baked Potato / Jacket potato, no skin eaten" ndnsCode="1835" groupCode="66">
     <portion-size method="as-served" description="No description" imageUrl="portion/placeholder.jpg">
       <param name="serving-image-set" value="potato_jacket"/>
-      <param name="leftovers-image-set" value="potato_jacket_leftovers"/>
     </portion-size>
   </food>
   <food code="MCNU" description="McNuggets" ndnsCode="8254" groupCode="43">
@@ -8289,7 +8287,6 @@
   <food readyMealOption="true" code="OPFS" description="Baked potato / Jacket potato, skin eaten" ndnsCode="1834" groupCode="64">
     <portion-size method="as-served" description="No description" imageUrl="portion/placeholder.jpg">
       <param name="serving-image-set" value="potato_jacket"/>
-      <param name="leftovers-image-set" value="potato_jacket_leftovers"/>
     </portion-size>
   </food>
   <food readyMealOption="true" code="OPMM" description="Mashed Potato" ndnsCode="1833" groupCode="65">
@@ -8301,7 +8298,6 @@
   <food readyMealOption="true" code="OPSK" description="Baked Potato / Jacket potato, no skin eaten" ndnsCode="1835" groupCode="64">
     <portion-size method="as-served" description="No description" imageUrl="portion/placeholder.jpg">
       <param name="serving-image-set" value="potato_jacket"/>
-      <param name="leftovers-image-set" value="potato_jacket_leftovers"/>
     </portion-size>
   </food>
   <food readyMealOption="true" code="OPTB" description="Potatoes, boiled / steamed / microwaved" ndnsCode="1829" groupCode="65">
@@ -8997,13 +8993,11 @@
   <food code="PNBC" description="Peanut butter, crunchy (with bits)" ndnsCode="2196" groupCode="75">
     <portion-size method="as-served" description="No description" imageUrl="portion/placeholder.jpg">
       <param name="serving-image-set" value="peanut_butter_spread"/>
-      <param name="leftovers-image-set" value="peanut_butter_spread_leftovers"/>
     </portion-size>
   </food>
   <food code="PNBS" description="Peanut butter, smooth" ndnsCode="2195" groupCode="75">
     <portion-size method="as-served" description="No description" imageUrl="portion/placeholder.jpg">
       <param name="serving-image-set" value="peanut_butter_spread"/>
-      <param name="leftovers-image-set" value="peanut_butter_spread_leftovers"/>
     </portion-size>
   </food>
   <food code="PNJB" description="Pineapple juice " ndnsCode="2342" groupCode="86">
@@ -9425,7 +9419,6 @@
   <food code="PSEP" description="Pease pudding" ndnsCode="1819" groupCode="69">
     <portion-size method="as-served" description="No description" imageUrl="portion/placeholder.jpg">
       <param name="serving-image-set" value="peanut_butter_spread"/>
-      <param name="leftovers-image-set" value="peanut_butter_spread_leftovers"/>
     </portion-size>
   </food>
   <food code="PSFB" description="Peas, boiled / steamed / microwaved" ndnsCode="1807" groupCode="69">
@@ -9507,7 +9500,6 @@
   <food code="PSWT" description="Sweet potato, baked" ndnsCode="10553" groupCode="64">
     <portion-size method="as-served" description="No description" imageUrl="portion/placeholder.jpg">
       <param name="serving-image-set" value="potato_jacket"/>
-      <param name="leftovers-image-set" value="potato_jacket_leftovers"/>
     </portion-size>
   </food>
   <food readyMealOption="true" code="PTLK" description="Potato and leek soup" ndnsCode="9738" groupCode="99">
@@ -12034,7 +12026,6 @@
   <food readyMealOption="true" code="TUNS" description="Tuna steak" ndnsCode="9932" groupCode="54">
     <portion-size method="as-served" description="No description" imageUrl="portion/placeholder.jpg">
       <param name="serving-image-set" value="salmon_steak"/>
-      <param name="leftovers-image-set" value="salmon_steak_leftovers"/>
     </portion-size>
   </food>
   <food code="TUNW" description="Tuna in springwater, tinned" ndnsCode="3960" groupCode="55">
