@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema">
+	<xs:element name="drinkware">
+		<xs:complexType>
+			<xs:sequence>
+				<xs:element name="choice">
+					<xs:complexType>
+						<xs:attribute name="guide-id" type="xs:string" use="required" />
+					</xs:complexType>
+				</xs:element>
+				<xs:element name="scale" maxOccurs="unbounded">
+					<xs:complexType>
+						<xs:all>
+							<xs:element name="dimensions">
+								<xs:complexType>
+									<xs:attribute name="width" type="xs:int" use="required" />
+									<xs:attribute name="height" type="xs:int" use="required" />
+									<xs:attribute name="emptyLevel" type="xs:int" use="required" />
+									<xs:attribute name="fullLevel" type="xs:int" use="required" />
+								</xs:complexType>
+							</xs:element>
+							<xs:element name="volume-function">
+								<xs:complexType>
+									<xs:sequence>
+										<xs:element name="value" maxOccurs="unbounded">
+											<xs:complexType>
+												<xs:attribute name="fill" type="xs:double" use="required" />
+												<xs:attribute name="volume" type="xs:double"
+													use="required" />
+											</xs:complexType>
+										</xs:element>
+									</xs:sequence>
+								</xs:complexType>
+							</xs:element>
+							<xs:element name="baseImage" type="xs:anyURI" />
+							<xs:element name="overlayImage" type="xs:anyURI" />
+						</xs:all>
+						<xs:attribute name="choice-id" type="xs:int" use="required" />
+					</xs:complexType>
+				</xs:element>
+			</xs:sequence>
+			<xs:attribute name="description" type="xs:string" use="required" />
+			<xs:attribute name="id" type="xs:string" use="required" />
+		</xs:complexType>
+	</xs:element>
+
+	<xs:element name="scran24-drinkware">
+		<xs:complexType>
+			<xs:sequence minOccurs="1" maxOccurs="unbounded">
+				<xs:element ref="drinkware" />
+			</xs:sequence>
+		</xs:complexType>
+	</xs:element>
+</xs:schema>

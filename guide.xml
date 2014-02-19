@@ -1,5 +1,6 @@
 <?xml version='1.0' encoding='utf-8'?>
-<guide-images>
+<guide-images xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:noNamespaceSchemaLocation="./Schemas/guide.xsd">
   <guide-image id="Gaero" description="No description">
     <weight id="1" description="Aero - Bubbles bag" value="135.0"/>
     <weight id="2" description="Aero - standard Bubbles bag" value="39.0"/>

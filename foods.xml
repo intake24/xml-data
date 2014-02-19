@@ -1,5 +1,6 @@
 <?xml version='1.0' encoding='utf-8'?>
-<foods>
+<foods xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:noNamespaceSchemaLocation="./Schemas/foods.xsd">
   <food code="ABBS" description="Abernethy biscuits" ndnsCode="270" groupCode="14">
     <portion-size method="guide-image" description="No description" imageUrl="portion/placeholder.jpg">
       <param name="guide-image-id" value="Gbisc"/>

@@ -1,5 +1,6 @@
 <?xml version="1.0"?>
-<scran24-drinkware>
+<scran24-drinkware xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:noNamespaceSchemaLocation="./Schemas/drinkware.xsd">
 	<drinkware id="mugs" description="Mugs">
 		<choice guide-id="Gmug"/>
 		<scale choice-id="1">

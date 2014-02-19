@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema">
+	<xs:element name="weight">
+		<xs:complexType>
+			<xs:attribute name="id" type="xs:int" use="required" />
+			<xs:attribute name="value" type="xs:double" use="required" />
+			<xs:attribute name="description" type="xs:string" use="required" />
+		</xs:complexType>
+	</xs:element>
+
+	<xs:element name="guide-image">
+		<xs:complexType>
+			<xs:sequence minOccurs="1" maxOccurs="unbounded">
+				<xs:element ref="weight" />
+			</xs:sequence>
+
+			<xs:attribute name="description" type="xs:string" use="required" />
+			<xs:attribute name="id" type="xs:string" use="required" />
+		</xs:complexType>
+	</xs:element>
+
+	<xs:element name="guide-images">
+		<xs:complexType>
+			<xs:sequence minOccurs="1" maxOccurs="unbounded">
+				<xs:element ref="guide-image" />
+			</xs:sequence>
+		</xs:complexType>
+	</xs:element>
+</xs:schema>
