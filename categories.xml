@@ -1,5 +1,6 @@
 <?xml version='1.0' encoding='utf-8'?>
-<categories>
+<categories xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:noNamespaceSchemaLocation="./Schemas/categories.xsd">
   <category code="ALCL" description="Alcohol" hidden="false">
     <subcategory code="CIDR"/>
     <subcategory code="BEER"/>

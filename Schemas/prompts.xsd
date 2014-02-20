@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema">
+	<xs:element name="scran24-food-prompts">
+		<xs:complexType>
+			<xs:sequence>
+				<xs:element name="food" minOccurs="0" maxOccurs="unbounded">
+					<xs:complexType>
+						<xs:sequence>
+							<xs:element name="prompt" minOccurs="1" maxOccurs="unbounded">
+							 <xs:complexType>
+							 		<xs:attribute name="category" type="xs:string" use="required"/>
+							 		<xs:attribute name="text" type="xs:string" use="required"/>
+							 		<xs:attribute name="linkAsMain" type="xs:boolean" use="required"/>
+							 </xs:complexType>
+							</xs:element>
+						</xs:sequence>
+						<xs:attribute name="code" type="xs:string" use="required"/>
+					</xs:complexType>
+				</xs:element>
+			</xs:sequence>
+		</xs:complexType>
+	</xs:element>
+</xs:schema>

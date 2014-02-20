@@ -1,32 +1,24 @@
 <?xml version='1.0' encoding='utf-8'?>
-<food-groups>
+<food-groups xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:noNamespaceSchemaLocation="./Schemas/food-groups.xsd">
   <group id="0" description="Unassigned"/>
   <group id="1" description="White bread/rolls"/>
   <group id="2" description="Brown and wholemeal bread/rolls"/>
   <group id="3" description="Sweet breads: malt bread, currant bread"/>
-  <group 
-  id="4" description="Other breads &lt;8g/100g fat: bagel, chapatis (made without fat), milk bread, grilled papadums, pitta, rye bread, soda, flour tortillas, crumpets">
-</group>
+  <group id="4" description="Other breads &lt;8g/100g fat: bagel, chapatis (made without fat), milk bread, grilled papadums, pitta, rye bread, soda, flour tortillas, crumpets"/>
   <group id="5" description="Sugar coated breakfast cereals: sugar puffs, frosties"/>
   <group id="6" description="High sugar breakfast cereals: sugar content above 30g total sugar per 100g"/>
   <group id="7" description="Other breakfast cereals: muesli, bran flakes"/>
   <group id="8" description="Breakfast alternatives: nutrigrain bar, pop tart, breakfast cereal bars"/>
   <group id="9" description="Rice"/>
   <group id="10" description="Pasta"/>
-  <group id="11" description="Dehydrated convenience foods etc: supernoodles, pasta ‘n’ sauce, pot noodle, taste breaks">
-  </group>
+  <group id="11" description="Dehydrated convenience foods etc: supernoodles, pasta ‘n’ sauce, pot noodle, taste breaks"/>
   <group id="12" description="Tinned cereals: spaghetti in tomato sauce"/>
   <group id="13" description="Cereal based savouries: dumplings, yorkshire puddings"/>
   <group id="14" description="Sweet biscuits: excludes full coated biscuits"/>
-  <group 
-  id="15" description="Savoury biscuits and baked goods eg crackers, oatcakes, water biscuits, cheddars, cheese/savoury scones">
-</group>
-  <group 
-  id="16" description="Cakes: sweet buns, sweet pastries, fruit scones and custard tart (sweet but not savoury based items)">
-</group>
-  <group 
-  id="17" description="Milk based sweet puddings: (excluding yoghurts and canned/stewed fruits) e.g. rice pudding, semolina, blancmange, custard, trifles">
-</group>
+  <group id="15" description="Savoury biscuits and baked goods eg crackers, oatcakes, water biscuits, cheddars, cheese/savoury scones"/>
+  <group id="16" description="Cakes: sweet buns, sweet pastries, fruit scones and custard tart (sweet but not savoury based items)"/>
+  <group id="17" description="Milk based sweet puddings: (excluding yoghurts and canned/stewed fruits) e.g. rice pudding, semolina, blancmange, custard, trifles"/>
   <group id="18" description="Low fat yoghurt/fromage frais"/>
   <group id="19" description="Whole milk yoghurt/fromage frais"/>
   <group id="20" description="Canned/stewed fruit"/>
@@ -34,9 +26,7 @@
   <group id="22" description="Skimmed milks: includes dried and longlife skimmed"/>
   <group id="23" description="Whole milks: includes longlife whole, dried whole &amp; any soya or goats milk"/>
   <group id="24" description="Milkshakes: includes purchased &amp; made from powder mix, made with all milk types"/>
-  <group 
-  id="25" description="Cream: single, double whipping &amp; sterilised canned cream (excludes artificial creams &amp; toppings)">
-</group>
+  <group id="25" description="Cream: single, double whipping &amp; sterilised canned cream (excludes artificial creams &amp; toppings)"/>
   <group id="26" description="Lower fat cheese: cottage cheese, reduced fat, low fat cheese spreads"/>
   <group id="27" description="Processed cheese"/>
   <group id="28" description="Other cheese: edam, cheddar"/>
@@ -81,27 +71,19 @@
   <group id="67" description="Baked beans"/>
   <group id="68" description="Baked beans with sausages/burgers"/>
   <group id="69" description="Peas: frozen, fresh, canned, dried &amp; split"/>
-  <group 
-  id="70" description="Other vegetables (excluding potato): carrots, green beans, pulses, cabbage, tomato base sauce, mushrooms, sweetcorn, stir fried vegetables, green salad">
-</group>
+  <group id="70" description="Other vegetables (excluding potato): carrots, green beans, pulses, cabbage, tomato base sauce, mushrooms, sweetcorn, stir fried vegetables, green salad"/>
   <group id="71" description="Vegetable dishes: vegetable curry, vegetable stew"/>
   <group id="72" description="Dressed salad dishes: potato salad, Greek salad, waldorf salad"/>
   <group id="73" description="Fresh fruit"/>
   <group id="74" description="Dried fruit"/>
   <group id="75" description="Nuts"/>
   <group id="76" description="Seeds"/>
-  <group 
-  id="77" description="Sweets (non-chocolate): toffee, boiled sweets, gums/jellies, mints, liquorice, raw jelly, popcorn">
-</group>
+  <group id="77" description="Sweets (non-chocolate): toffee, boiled sweets, gums/jellies, mints, liquorice, raw jelly, popcorn"/>
   <group id="78" description="Chewing gum"/>
   <group id="79" description="Ice cream, ice cream desserts and lollies"/>
   <group id="80" description="Chocolate covered ice cream bars"/>
-  <group 
-  id="81" description="Chocolate: includes all plain, milk &amp; white chocolate bars &amp; coated bars e.g. caramels &amp; wafers and full coated chocolate biscuits">
-</group>
-  <group 
-  id="82" description="Preserves and syrups: glace cherries, honey, jam, marmalade, lemon curd, marzipan, mincemeat, chocolate spread, ice cream topping">
-</group>
+  <group id="81" description="Chocolate: includes all plain, milk &amp; white chocolate bars &amp; coated bars e.g. caramels &amp; wafers and full coated chocolate biscuits"/>
+  <group id="82" description="Preserves and syrups: glace cherries, honey, jam, marmalade, lemon curd, marzipan, mincemeat, chocolate spread, ice cream topping"/>
   <group id="83" description="Table sugar: demerara, white"/>
   <group id="84" description="Diet carbonated drinks (includes low calorie drinks)"/>
   <group id="85" description="Other carbonated drinks (not diet)"/>
@@ -120,9 +102,7 @@
   <group id="98" description="Salt"/>
   <group id="99" description="Soups"/>
   <group id="100" description="Misc"/>
-  <group 
-  id="101" description="Other breads with &gt;8g/100g fat: naan, chapatis (made with fat), fried papadums, croissants, fried bread">
-</group>
+  <group id="101" description="Other breads with &gt;8g/100g fat: naan, chapatis (made with fat), fried papadums, croissants, fried bread"/>
   <group id="102" description="Vegetables based rice dishes"/>
   <group id="103" description="Meat based rice dishes"/>
   <group id="104" description="Couscous, bulgar wheat"/>
@@ -131,19 +111,13 @@
   <group id="107" description="Meat based pasta dishes"/>
   <group id="108" description="Meat and potato dishes"/>
   <group id="109" description="Non meat and potato dishes"/>
-  <group 
-  id="110" description="Cereal based savouries with vegetable or meat additions: bhajis, samosas, pakora, prawn toasts, spring rolls, meat filled spring roll">
-</group>
-  <group 
-  id="111" description="Non milk based sweet puddings: (excluding yoghurts and canned/stewed fruits) e.g. meringue, cheesecake, gateaux, jelly, fruit pies (pastry), crumble">
-</group>
+  <group id="110" description="Cereal based savouries with vegetable or meat additions: bhajis, samosas, pakora, prawn toasts, spring rolls, meat filled spring roll"/>
+  <group id="111" description="Non milk based sweet puddings: (excluding yoghurts and canned/stewed fruits) e.g. meringue, cheesecake, gateaux, jelly, fruit pies (pastry), crumble"/>
   <group id="112" description="Pizza"/>
   <group id="113" description="Non meat containing savoury pies and pastries"/>
   <group id="114" description="Pulses and lentils"/>
   <group id="115" description="Quorn/TVP and dishes"/>
   <group id="116" description="Infant foods"/>
   <group id="117" description="Herbs and spices"/>
-  <group 
-  id="118" description="Reduced fat/ calorie dressings and accompaniments: reduced fat: mayonnaise, salad cream, French dressing">
-</group>
+  <group id="118" description="Reduced fat/ calorie dressings and accompaniments: reduced fat: mayonnaise, salad cream, French dressing"/>
 </food-groups>

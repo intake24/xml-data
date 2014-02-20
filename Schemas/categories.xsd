@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema">
+	<xs:element name="categories">
+		<xs:complexType>
+			<xs:sequence>
+				<xs:element name="category" minOccurs="0" maxOccurs="unbounded">
+					<xs:complexType>
+						<xs:sequence>
+							<xs:element name="food" minOccurs="0" maxOccurs="unbounded">
+								<xs:complexType>
+									<xs:attribute name="code" type="xs:string" use="required" />
+								</xs:complexType>
+							</xs:element>
+
+							<xs:element name="subcategory" minOccurs="0"
+								maxOccurs="unbounded">
+								<xs:complexType>
+									<xs:attribute name="code" type="xs:string" use="required" />
+								</xs:complexType>
+							</xs:element>
+
+							<xs:element name="portion-size" minOccurs="0"
+								maxOccurs="unbounded">
+								<xs:complexType>
+									<xs:sequence>
+										<xs:element name="param" minOccurs="0" maxOccurs="unbounded">
+											<xs:complexType>
+												<xs:attribute name="name" type="xs:string" use="required" />
+												<xs:attribute name="value" type="xs:string"
+													use="required" />
+											</xs:complexType>
+										</xs:element>
+									</xs:sequence>
+									<xs:attribute name="method" type="xs:string" use="required" />
+									<xs:attribute name="description" type="xs:string"
+										use="required" />
+									<xs:attribute name="imageUrl" type="xs:string"
+										use="required" />
+								</xs:complexType>
+							</xs:element>
+						</xs:sequence>
+
+						<xs:attribute name="code" type="xs:string" use="required" />
+						<xs:attribute name="description" type="xs:string"
+							use="required" />
+						<xs:attribute name="hidden" type="xs:boolean" use="required" />
+						<xs:attribute name="sameAsBeforeOption" type="xs:boolean"
+							use="optional" />
+						<xs:attribute name="readyMealOption" type="xs:boolean"
+							use="optional" />
+						<xs:attribute name="reasonableAmount" type="xs:double"
+							use="optional" />
+					</xs:complexType>
+				</xs:element>
+			</xs:sequence>
+		</xs:complexType>
+	</xs:element>
+</xs:schema>

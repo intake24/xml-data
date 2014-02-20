@@ -1,5 +1,6 @@
 <?xml version='1.0' encoding='utf-8'?>
-<scran24-food-prompts>
+<scran24-food-prompts xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:noNamespaceSchemaLocation="./Schemas/prompts.xsd">
   <food code="BFPS">
     <prompt category="BRED" text="Did you have your beef paste on some bread or toast?" linkAsMain="true"/>
   </food>
