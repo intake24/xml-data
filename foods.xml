@@ -1250,6 +1250,14 @@
       <param name="guide-image-id" value="Gice1"/>
     </portion-size>
   </food>
+  <food code="CALO" description="Caramel log" ndnsCode="8057" groupCode="81">
+    <portion-size method="standard-portion" description="No description" imageUrl="portion/placeholder.jpg">
+      <param name="units-count" value="1"/>
+      <param name="unit0-name" value="1 biscuit"/>
+      <param name="unit0-weight" value="32.0"/>
+      <param name="unit0-omit-food-description" value="false"/>
+    </portion-size>
+  </food>
   <food readyMealOption="true" code="CALS" description="Cock a leekie soup" ndnsCode="4338" groupCode="99">
     <portion-size method="guide-image" description="size of tin" imageUrl="portion/Gallcans.jpg">
       <param name="guide-image-id" value="Gallcans"/>
@@ -1563,6 +1571,11 @@
     </portion-size>
   </food>
   <food code="CCMU" description="Chocolate muffins " ndnsCode="6597" groupCode="16">
+    <portion-size method="guide-image" description="No description" imageUrl="portion/placeholder.jpg">
+      <param name="guide-image-id" value="Gcake"/>
+    </portion-size>
+  </food>
+  <food code="CCNI" description="Cupcake, no icing" ndnsCode="8367" groupCode="16">
     <portion-size method="guide-image" description="No description" imageUrl="portion/placeholder.jpg">
       <param name="guide-image-id" value="Gcake"/>
     </portion-size>
@@ -2076,6 +2089,11 @@
       <param name="guide-image-id" value="Gfjta"/>
     </portion-size>
   </food>
+  <food readyMealOption="true" code="CHPK" description="Chicken pakora" ndnsCode="4094" groupCode="43">
+    <portion-size method="guide-image" description="No description" imageUrl="portion/placeholder.jpg">
+      <param name="guide-image-id" value="Gtur"/>
+    </portion-size>
+  </food>
   <food sameAsBeforeOption="true" code="CHPR" description="Champagne &amp; Prosecco" ndnsCode="2389" groupCode="94">
     <portion-size method="guide-image" description="size of bottle" imageUrl="portion/Gwinebottle.jpg">
       <param name="guide-image-id" value="Gwinebottle"/>
@@ -2125,6 +2143,11 @@
       <param name="unit1-name" value="handfuls"/>
       <param name="unit1-weight" value="20.0"/>
       <param name="unit1-omit-food-description" value="false"/>
+    </portion-size>
+  </food>
+  <food code="CHSA" description="Chocolate sauce" ndnsCode="2227" groupCode="82">
+    <portion-size method="guide-image" description="No description" imageUrl="portion/placeholder.jpg">
+      <param name="guide-image-id" value="Gspn"/>
     </portion-size>
   </food>
   <food code="CHSC" description="Cheese scone" ndnsCode="367" groupCode="15">
@@ -2749,6 +2772,11 @@
     </portion-size>
   </food>
   <food code="CRIM" description="Rice milk (on cereal)" ndnsCode="10572" groupCode="23"> </food>
+  <food code="CRMI" description="Crunch bar, milk chocolate" ndnsCode="7974" groupCode="81">
+    <portion-size method="guide-image" description="No description" imageUrl="portion/placeholder.jpg">
+      <param name="guide-image-id" value="Gcdmc"/>
+    </portion-size>
+  </food>
   <food code="CRMP" description="Crumpets/ pikelets toasted" ndnsCode="148" groupCode="4">
     <portion-size method="guide-image" description="No description" imageUrl="portion/placeholder.jpg">
       <param name="guide-image-id" value="Gpik"/>
@@ -2852,6 +2880,11 @@
       <param name="unit0-omit-food-description" value="true"/>
     </portion-size>
   </food>
+  <food code="CRWH" description="Crunch bar, white chocolate" ndnsCode="7975" groupCode="81">
+    <portion-size method="guide-image" description="No description" imageUrl="portion/placeholder.jpg">
+      <param name="guide-image-id" value="Gcdmc"/>
+    </portion-size>
+  </food>
   <food code="CRYJ" description="Cherry juice" ndnsCode="8144" groupCode="86">
     <portion-size method="drink-scale" description="in a glass" imageUrl="portion/gsoftdrnk.jpg">
       <param name="drinkware-id" value="glasses_soft"/>
@@ -2877,8 +2910,8 @@
     </portion-size>
   </food>
   <food code="CSBF" description="Chocolate coated biscuit e.g. Rocky bar, Club, Breakaway" ndnsCode="253" groupCode="81">
-    <portion-size method="as-served" description="No description" imageUrl="portion/placeholder.jpg">
-      <param name="serving-image-set" value="choc_bisc"/>
+    <portion-size method="guide-image" description="No description" imageUrl="portion/placeholder.jpg">
+      <param name="guide-image-id" value="Gcbisc1"/>
     </portion-size>
   </food>
   <food code="CSBW" description="Chocolate coated wafer e.g. Blue Ribband, Taxi" ndnsCode="8194" groupCode="81">
@@ -3090,6 +3123,11 @@
     <portion-size method="pizza" description="No description" imageUrl="portion/placeholder.jpg"> </portion-size>
   </food>
   <food code="CTWM" description="Whole milk" ndnsCode="602" groupCode="23"> </food>
+  <food code="CUPC" description="Cupcake, with icing" ndnsCode="7689" groupCode="16">
+    <portion-size method="guide-image" description="No description" imageUrl="portion/placeholder.jpg">
+      <param name="guide-image-id" value="Gcake"/>
+    </portion-size>
+  </food>
   <food code="CURC" description="Curiously Cinnamon" ndnsCode="9032" groupCode="5">
     <portion-size method="as-served" description="No description" imageUrl="portion/placeholder.jpg">
       <param name="serving-image-set" value="shreddies"/>
@@ -4412,7 +4450,7 @@
       <param name="guide-image-id" value="Gpopbottle"/>
     </portion-size>
   </food>
-  <food code="FJWH" description="White wrap / Fajita / Tortilla" ndnsCode="6838" groupCode="4">
+  <food code="FJWH" description="White wrap/Tortilla" ndnsCode="6838" groupCode="4">
     <portion-size method="guide-image" description="No description" imageUrl="portion/placeholder.jpg">
       <param name="guide-image-id" value="Gfjta"/>
     </portion-size>
@@ -4483,6 +4521,16 @@
       <param name="unit0-name" value="flumps"/>
       <param name="unit0-weight" value="5.0"/>
       <param name="unit0-omit-food-description" value="true"/>
+    </portion-size>
+  </food>
+  <food code="FLWA" description="Flavoured water, still or fizzy" ndnsCode="5343" groupCode="90">
+    <portion-size method="drink-scale" description="in a glass" imageUrl="portion/gsoftdrnk.jpg">
+      <param name="drinkware-id" value="glasses_soft"/>
+      <param name="initial-fill-level" value="0.9"/>
+      <param name="skip-fill-level" value="false"/>
+    </portion-size>
+    <portion-size method="guide-image" description="in a bottle" imageUrl="portion/Gwatbottle.jpg">
+      <param name="guide-image-id" value="Gwatbottle"/>
     </portion-size>
   </food>
   <food code="FMSE" description="Fruit flavoured mousse" ndnsCode="7753" groupCode="111">
@@ -4763,6 +4811,14 @@
       <param name="units-count" value="1"/>
       <param name="unit0-name" value="bagels"/>
       <param name="unit0-weight" value="70.0"/>
+      <param name="unit0-omit-food-description" value="true"/>
+    </portion-size>
+  </food>
+  <food code="FRWI" description="Fruit winder" ndnsCode="3763" groupCode="74">
+    <portion-size method="standard-portion" description="No description" imageUrl="portion/placeholder.jpg">
+      <param name="units-count" value="1"/>
+      <param name="unit0-name" value="winders"/>
+      <param name="unit0-weight" value="18.0"/>
       <param name="unit0-omit-food-description" value="true"/>
     </portion-size>
   </food>
@@ -5313,8 +5369,9 @@
     </portion-size>
   </food>
   <food readyMealOption="true" code="GSLI" description="Gammon joint, slices" ndnsCode="904" groupCode="39">
-    <portion-size method="guide-image" description="No description" imageUrl="portion/placeholder.jpg">
-      <param name="guide-image-id" value="Gham"/>
+    <portion-size method="as-served" description="No description" imageUrl="portion/placeholder.jpg">
+      <param name="serving-image-set" value="chicken_breast_slices"/>
+      <param name="leftovers-image-set" value="chicken_breast_slices_leftovers"/>
     </portion-size>
   </food>
   <food code="GSMI" description="Granny Smith apple - skin was eaten" ndnsCode="1952" groupCode="73">
@@ -6148,6 +6205,19 @@
       <param name="guide-image-id" value="Gice2"/>
     </portion-size>
   </food>
+  <food sameAsBeforeOption="true" code="ISOT" description="Isotonic drink " ndnsCode="8888" groupCode="87">
+    <portion-size method="drink-scale" description="in a glass" imageUrl="portion/gsoftdrnk.jpg">
+      <param name="drinkware-id" value="glasses_soft"/>
+      <param name="initial-fill-level" value="0.9"/>
+      <param name="skip-fill-level" value="false"/>
+    </portion-size>
+    <portion-size method="guide-image" description="in a can" imageUrl="portion/Gpopcans.jpg">
+      <param name="guide-image-id" value="Gpopcans"/>
+    </portion-size>
+    <portion-size method="guide-image" description="in a bottle" imageUrl="portion/Gpopbottle.jpg">
+      <param name="guide-image-id" value="Gpopbottle"/>
+    </portion-size>
+  </food>
   <food readyMealOption="true" code="ISTP" description="Individual steak pie" ndnsCode="1378" groupCode="49">
     <portion-size method="guide-image" description="No description" imageUrl="portion/placeholder.jpg">
       <param name="guide-image-id" value="gpie"/>
@@ -6681,6 +6751,12 @@
     </portion-size>
     <portion-size method="guide-image" description="spoonfuls" imageUrl="portion/Gspn.jpg">
       <param name="guide-image-id" value="Gspn"/>
+    </portion-size>
+  </food>
+  <food readyMealOption="true" code="LHOP" description="Lamb Hot  pot/cassserole" ndnsCode="9822" groupCode="42">
+    <portion-size method="as-served" description="No description" imageUrl="portion/placeholder.jpg">
+      <param name="serving-image-set" value="chicken_sauce"/>
+      <param name="leftovers-image-set" value="chicken_sauce_leftovers"/>
     </portion-size>
   </food>
   <food sameAsBeforeOption="true" code="LILT" description="Lilt" ndnsCode="7901" groupCode="85">
@@ -7413,6 +7489,14 @@
       <param name="unit1-name" value="marshmallows"/>
       <param name="unit1-weight" value="7.0"/>
       <param name="unit1-omit-food-description" value="true"/>
+    </portion-size>
+  </food>
+  <food code="MMPI" description="Sweet mince pie" ndnsCode="9698" groupCode="16">
+    <portion-size method="standard-portion" description="No description" imageUrl="portion/placeholder.jpg">
+      <param name="units-count" value="1"/>
+      <param name="unit0-name" value="pie"/>
+      <param name="unit0-weight" value="60.0"/>
+      <param name="unit0-omit-food-description" value="true"/>
     </portion-size>
   </food>
   <food readyMealOption="true" code="MMUS" description="Mousakka made with meat" ndnsCode="6491" groupCode="42">
@@ -9070,6 +9154,17 @@
       <param name="unit1-omit-food-description" value="false"/>
     </portion-size>
   </food>
+  <food code="POLY" description="Polony" ndnsCode="1273" groupCode="48">
+    <portion-size method="standard-portion" description="No description" imageUrl="portion/placeholder.jpg">
+      <param name="units-count" value="2"/>
+      <param name="unit0-name" value="small slices"/>
+      <param name="unit0-weight" value="5.0"/>
+      <param name="unit0-omit-food-description" value="false"/>
+      <param name="unit1-name" value="large slices"/>
+      <param name="unit1-weight" value="12.0"/>
+      <param name="unit1-omit-food-description" value="false"/>
+    </portion-size>
+  </food>
   <food code="POMG" description="Pomegranate seeds" ndnsCode="8115" groupCode="73">
     <portion-size method="standard-portion" description="No description" imageUrl="portion/placeholder.jpg">
       <param name="units-count" value="1"/>
@@ -9590,6 +9685,11 @@
       <param name="guide-image-id" value="Gbur"/>
     </portion-size>
   </food>
+  <food code="QUAV" description="Quavers" ndnsCode="10072" groupCode="62">
+    <portion-size method="guide-image" description="Quavers in a bag" imageUrl="portion/Gquav.jpg">
+      <param name="guide-image-id" value="Gquav"/>
+    </portion-size>
+  </food>
   <food readyMealOption="true" code="QUCO" description="Cheese and Onion Quiche " ndnsCode="8779" groupCode="113">
     <portion-size method="standard-portion" description="No description" imageUrl="portion/placeholder.jpg">
       <param name="units-count" value="3"/>
@@ -9636,6 +9736,14 @@
     <portion-size method="as-served" description="No description" imageUrl="portion/placeholder.jpg">
       <param name="serving-image-set" value="tomato_sauce"/>
       <param name="leftovers-image-set" value="tomato_sauce_leftovers"/>
+    </portion-size>
+  </food>
+  <food code="RAIN" description="Rainbow drops" ndnsCode="4331" groupCode="77">
+    <portion-size method="standard-portion" description="No description" imageUrl="portion/placeholder.jpg">
+      <param name="units-count" value="1"/>
+      <param name="unit0-name" value="1 bag"/>
+      <param name="unit0-weight" value="33.0"/>
+      <param name="unit0-omit-food-description" value="false"/>
     </portion-size>
   </food>
   <food readyMealOption="true" code="RAIT" description="Raita" ndnsCode="1741" groupCode="100">
@@ -9823,6 +9931,14 @@
       <param name="skip-fill-level" value="false"/>
     </portion-size>
   </food>
+  <food code="RECU" description="Reeses Cups" ndnsCode="10427" groupCode="81">
+    <portion-size method="standard-portion" description="No description" imageUrl="portion/placeholder.jpg">
+      <param name="units-count" value="1"/>
+      <param name="unit0-name" value="1 cup"/>
+      <param name="unit0-weight" value="17.0"/>
+      <param name="unit0-omit-food-description" value="true"/>
+    </portion-size>
+  </food>
   <food sameAsBeforeOption="true" code="REDC" description="Red Cola" ndnsCode="7901" groupCode="85">
     <portion-size method="drink-scale" description="in a glass" imageUrl="portion/gsoftdrnk.jpg">
       <param name="drinkware-id" value="glasses_soft"/>
@@ -9881,6 +9997,14 @@
       <param name="unit2-name" value="large slices"/>
       <param name="unit2-weight" value="50.0"/>
       <param name="unit2-omit-food-description" value="false"/>
+    </portion-size>
+  </food>
+  <food code="REPI" description="Reeses Pieces" ndnsCode="2275" groupCode="81">
+    <portion-size method="standard-portion" description="No description" imageUrl="portion/placeholder.jpg">
+      <param name="units-count" value="1"/>
+      <param name="unit0-name" value="1 bag"/>
+      <param name="unit0-weight" value="43.0"/>
+      <param name="unit0-omit-food-description" value="true"/>
     </portion-size>
   </food>
   <food code="REVE" description="Revels" ndnsCode="2275" groupCode="81">
@@ -11300,6 +11424,19 @@
       <param name="leftovers-image-set" value="shreddies_leftovers"/>
     </portion-size>
   </food>
+  <food sameAsBeforeOption="true" code="STDR" description="Sports drink" ndnsCode="8888" groupCode="87">
+    <portion-size method="drink-scale" description="in a glass" imageUrl="portion/gsoftdrnk.jpg">
+      <param name="drinkware-id" value="glasses_soft"/>
+      <param name="initial-fill-level" value="0.9"/>
+      <param name="skip-fill-level" value="false"/>
+    </portion-size>
+    <portion-size method="guide-image" description="in a can" imageUrl="portion/Gpopcans.jpg">
+      <param name="guide-image-id" value="Gpopcans"/>
+    </portion-size>
+    <portion-size method="guide-image" description="in a bottle" imageUrl="portion/Gpopbottle.jpg">
+      <param name="guide-image-id" value="Gpopbottle"/>
+    </portion-size>
+  </food>
   <food readyMealOption="true" code="STFR" description="Stir fried vegetables" ndnsCode="8390" groupCode="70">
     <portion-size method="as-served" description="No description" imageUrl="portion/placeholder.jpg">
       <param name="serving-image-set" value="mix_veg_boiled"/>
@@ -11398,6 +11535,11 @@
       <param name="unit1-name" value="tablespoons"/>
       <param name="unit1-weight" value="33.0"/>
       <param name="unit1-omit-food-description" value="false"/>
+    </portion-size>
+  </food>
+  <food code="STSA" description="Strawberry sauce" ndnsCode="2227" groupCode="82">
+    <portion-size method="guide-image" description="No description" imageUrl="portion/placeholder.jpg">
+      <param name="guide-image-id" value="Gspn"/>
     </portion-size>
   </food>
   <food code="STSP" description="Sponge pudding" ndnsCode="567" groupCode="111">
@@ -11767,7 +11909,7 @@
       <param name="guide-image-id" value="Gcanfish"/>
     </portion-size>
   </food>
-  <food code="TNCW" description="Tunnocks caramel wafer" ndnsCode="8194" groupCode="81">
+  <food code="TNCW" description="Tunnocks caramel wafer" ndnsCode="8057" groupCode="81">
     <portion-size method="as-served" description="No description" imageUrl="portion/placeholder.jpg">
       <param name="serving-image-set" value="choc_bisc"/>
     </portion-size>
@@ -12682,7 +12824,7 @@
       <param name="guide-image-id" value="Gwalk"/>
     </portion-size>
   </food>
-  <food code="WLML" description="Wholemeal wrap/ Fajita/ Tortilla" ndnsCode="10754" groupCode="4">
+  <food code="WLML" description="Wholemeal wrap/Tortilla" ndnsCode="10754" groupCode="4">
     <portion-size method="guide-image" description="No description" imageUrl="portion/placeholder.jpg">
       <param name="guide-image-id" value="Gfjta"/>
     </portion-size>

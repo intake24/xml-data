@@ -428,6 +428,7 @@
     <food code="SSCK"/>
     <food code="SATY"/>
     <food code="ENCH"/>
+    <food code="CHPK"/>
   </category>
   <category code="MFGR" description="Chicken/turkey nuggets, fingers, goujons" hidden="false">
     <food code="CFFO"/>
@@ -509,6 +510,9 @@
     <food code="GNBL"/>
     <food code="GNBP"/>
     <food code="BOUN"/>
+    <food code="CRWH"/>
+    <food code="CRMI"/>
+    <food code="RECU"/>
   </category>
   <category code="CBAR" description="Chocolate bars/chocolate sweets" hidden="false">
     <food code="CEGG"/>
@@ -525,8 +529,8 @@
     <food code="KTKT"/>
     <food code="FING"/>
     <food code="CHTC"/>
-    <food code="CSBF"/>
     <food code="CBSN"/>
+    <food code="CSBF"/>
     <food code="TNCW"/>
   </category>
   <category code="CSWT" description="Chocolate covered sweets/nuts/raisins" hidden="false">
@@ -542,6 +546,7 @@
     <food code="MCRS"/>
     <food code="CCNT"/>
     <food code="REVE"/>
+    <food code="REPI"/>
   </category>
   <category code="CHOS" description="Chocolate spread" hidden="false">
     <food code="CHNT"/>
@@ -588,6 +593,7 @@
   <category code="CONF" description="Confectionery/sweets" hidden="false">
     <food code="SHER"/>
     <food code="MARZ"/>
+    <food code="RAIN"/>
     <subcategory code="BOIL"/>
     <subcategory code="CHEW"/>
     <subcategory code="GUMS"/>
@@ -695,6 +701,7 @@
     <food code="WKLI"/>
     <food code="WKSB"/>
     <food code="VELV"/>
+    <food code="QUAV"/>
   </category>
   <category code="CRPS" description="Crisps/snacks/nuts" hidden="false">
     <subcategory code="PMPC"/>
@@ -776,6 +783,7 @@
     <food code="TOSD"/>
     <food code="DRMA"/>
     <food code="DRPI"/>
+    <food code="FRWI"/>
   </category>
   <category sameAsBeforeOption="true" code="DRNK" description="Drinks" hidden="false">
     <food code="ICET"/>
@@ -814,6 +822,8 @@
     <food code="MONS"/>
     <food code="SPOR"/>
     <food code="SCLZ"/>
+    <food code="ISOT"/>
+    <food code="STDR"/>
   </category>
   <category code="FISH" description="Fish &amp; fish products" hidden="false">
     <subcategory code="CODB"/>
@@ -1118,6 +1128,10 @@
     <food code="DCWM"/>
     <food code="DCRM"/>
     <food code="DCSO"/>
+    <food code="HCSK"/>
+    <food code="DCLS"/>
+    <food code="DCLC"/>
+    <food code="HCWH"/>
   </category>
   <category sameAsBeforeOption="true" code="HCHC" description="Hot chocolate &amp; malted drinks" hidden="false">
     <food code="DCHS"/>
@@ -1140,6 +1154,8 @@
     <food code="ARCT"/>
     <food code="ICRM"/>
     <food code="SORB"/>
+    <food code="STSA"/>
+    <food code="CHSA"/>
     <subcategory code="CHOI"/>
     <subcategory code="ICEC"/>
     <subcategory code="ILOL"/>
@@ -1207,6 +1223,7 @@
     <food code="MBST"/>
     <food code="SPFR"/>
     <food code="SPHM"/>
+    <food code="LHOP"/>
   </category>
   <category code="LATE" description="Latte" hidden="false">
     <food code="LASS"/>
@@ -1395,6 +1412,8 @@
     <food code="LEMM"/>
     <food code="BLUM"/>
     <food code="HOMF"/>
+    <food code="CUPC"/>
+    <food code="CCNI"/>
   </category>
   <category code="MTRD" description="Mustard" hidden="false">
     <food code="SMST"/>
@@ -1524,6 +1543,7 @@
     <food code="PARA"/>
     <food code="ALCR"/>
     <food code="CCCR"/>
+    <food code="MMPI"/>
   </category>
   <category code="PTES" description="Pates" hidden="false">
     <food code="SMNP"/>
@@ -1784,6 +1804,7 @@
     <food code="HPCG"/>
     <food code="MATT"/>
     <food code="CRNC"/>
+    <food code="POLY"/>
   </category>
   <category code="SW01" description="Sandwich wizard 1 (bread)" hidden="true">
     <subcategory code="BBRD"/>
@@ -2125,6 +2146,7 @@
     <food code="HCRY"/>
     <food code="KBIS"/>
     <food code="OREO"/>
+    <food code="CALO"/>
     <subcategory code="CHSB"/>
     <subcategory code="CKES"/>
     <subcategory code="DGST"/>
@@ -2283,6 +2305,7 @@
     <food code="EVIA"/>
     <food code="BUXT"/>
     <food code="TWTR"/>
+    <food code="FLWA"/>
   </category>
   <category code="WTBI" description="Weetabix" hidden="false">
     <food code="WTBM"/>
@@ -2320,11 +2343,11 @@
   <category code="FJTA" description="Wraps, pitta, naan" hidden="false">
     <food code="BPTB"/>
     <food code="CHPF"/>
-    <food code="FJWH"/>
-    <food code="WLML"/>
     <food code="WPTB"/>
     <food code="GNNB"/>
     <food code="PNNB"/>
+    <food code="FJWH"/>
+    <food code="WLML"/>
   </category>
   <category code="YOGU" description="Yoghurt" hidden="false">
     <food code="DFDY"/>
