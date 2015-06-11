@@ -1139,8 +1139,8 @@
     <food code="DCSO"/>
     <food code="HCSK"/>
     <food code="DCLS"/>
-    <food code="DCLC"/>
     <food code="HCWH"/>
+    <food code="DCLC"/>
   </category>
   <category sameAsBeforeOption="true" code="HCHC" description="Hot chocolate &amp; malted drinks" hidden="false">
     <subcategory code="DCHO"/>

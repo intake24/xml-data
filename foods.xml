@@ -3478,7 +3478,7 @@
       <param name="guide-image-id" value="Gpopbottle"/>
     </portion-size>
   </food>
-  <food code="DCLC" description="Hot chocolate, low calorie, made with water" ndnsCode="-1" groupCode="93">
+  <food code="DCLC" description="Hot chocolate, low calorie, made with water" ndnsCode="2640" groupCode="93">
     <portion-size method="drink-scale" description="in a mug" imageUrl="portion/mugs.jpg" useForRecipes="false">
       <param name="drinkware-id" value="mugs"/>
       <param name="initial-fill-level" value="0.85"/>
@@ -3490,7 +3490,7 @@
       <param name="skip-fill-level" value="false"/>
     </portion-size>
   </food>
-  <food code="DCLS" description="Hot chocolate, low calorie, made with skimmed milk" ndnsCode="-1" groupCode="93">
+  <food code="DCLS" description="Hot chocolate, low calorie, made with skimmed milk" ndnsCode="8064" groupCode="93">
     <portion-size method="drink-scale" description="in a mug" imageUrl="portion/mugs.jpg" useForRecipes="false">
       <param name="drinkware-id" value="mugs"/>
       <param name="initial-fill-level" value="0.85"/>
@@ -5724,7 +5724,7 @@
       <param name="unit1-omit-food-description" value="false"/>
     </portion-size>
   </food>
-  <food code="HCSK" description="Hot chocolate, low calorie, made with semi-skimmed milk" ndnsCode="-1" groupCode="93">
+  <food code="HCSK" description="Hot chocolate, low calorie, made with semi-skimmed milk" ndnsCode="10724" groupCode="93">
     <portion-size method="drink-scale" description="in a mug" imageUrl="portion/mugs.jpg" useForRecipes="false">
       <param name="drinkware-id" value="mugs"/>
       <param name="initial-fill-level" value="0.85"/>
@@ -5736,7 +5736,7 @@
       <param name="skip-fill-level" value="false"/>
     </portion-size>
   </food>
-  <food code="HCWH" description="Hot chocolate, low calorie, made with whole milk" ndnsCode="-1" groupCode="93">
+  <food code="HCWH" description="Hot chocolate, low calorie, made with whole milk" ndnsCode="8063" groupCode="93">
     <portion-size method="drink-scale" description="in a mug" imageUrl="portion/mugs.jpg" useForRecipes="false">
       <param name="drinkware-id" value="mugs"/>
       <param name="initial-fill-level" value="0.85"/>
