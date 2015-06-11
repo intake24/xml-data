@@ -2377,7 +2377,7 @@
 		<as-served-image weight="21.0" url="m608.jpg" />
 		<as-served-image weight="30.0" url="m611.jpg" />
 	</as-served-set>
-	<as-served-set description="Yorkshire pudding " id="yorp">
+	<as-served-set description="Yorkshire pudding" id="yorp">
 		<as-served-image weight="16.0" url="yorkshire_pud/yorp1.jpg" />
 		<as-served-image weight="23.0" url="yorkshire_pud/yorp2.jpg" />
 		<as-served-image weight="33.0" url="yorkshire_pud/yorp3.jpg" />
@@ -2386,11 +2386,101 @@
 		<as-served-image weight="100.0" url="yorkshire_pud/yorp6.jpg" />
 		<as-served-image weight="145.0" url="yorkshire_pud/yorp7.jpg" />
 	</as-served-set>
-	<as-served-set description="Yorkshire pudding " id="yorp_leftovers">
+	<as-served-set description="Yorkshire pudding (leftovers)" id="yorp_leftovers">
 		<as-served-image weight="5.0" url="yorkshire_pud/yorp8.jpg" />
 		<as-served-image weight="7.0" url="yorkshire_pud/yorp9.jpg" />
 		<as-served-image weight="9.0" url="yorkshire_pud/yorp10.jpg" />
 		<as-served-image weight="11.0" url="yorkshire_pud/yorp11.jpg" />
 		<as-served-image weight="13.0" url="yorkshire_pud/yorp12.jpg" />
+	</as-served-set>
+	<as-served-set description="Blackberry" id="Blackberry_asserved">
+		<as-served-image weight="13.0" url="blkb21.jpg" />
+		<as-served-image weight="20.0" url="blkb22.jpg" />
+		<as-served-image weight="30.0" url="blkb23.jpg" />
+		<as-served-image weight="45.0" url="blkb24.jpg" />
+		<as-served-image weight="67.0" url="blkb25.jpg" />
+		<as-served-image weight="101.0" url="blkb26.jpg" />
+		<as-served-image weight="151.0" url="blkb27.jpg" />
+	</as-served-set>
+	<as-served-set description="Blackberry (leftovers)" id="Blackberry_left">
+		<as-served-image weight="2.0" url="blkb28.jpg" />
+		<as-served-image weight="4.0" url="blkb30.jpg" />
+		<as-served-image weight="7.0" url="blkb32.jpg" />
+		<as-served-image weight="13.0" url="blkb34.jpg" />
+		<as-served-image weight="20.0" url="blkb22.jpg" />
+		<as-served-image weight="30.0" url="blkb23.jpg" />
+		<as-served-image weight="45.0" url="blkb24.jpg" />
+	</as-served-set>
+	<as-served-set description="Raspberry" id="Raspberry_asserved">
+		<as-served-image weight="13.0" url="rasp21.jpg" />
+		<as-served-image weight="20.0" url="rasp22.jpg" />
+		<as-served-image weight="30.0" url="rasp23.jpg" />
+		<as-served-image weight="45.0" url="rasp24.jpg" />
+		<as-served-image weight="67.0" url="rasp25.jpg" />
+		<as-served-image weight="101.0" url="rasp26.jpg" />
+		<as-served-image weight="151.0" url="rasp27.jpg" />
+	</as-served-set>
+	<as-served-set description="Raspberry (leftovers)" id="Raspberry_left">
+		<as-served-image weight="2.0" url="rasp28.jpg" />
+		<as-served-image weight="4.0" url="rasp30.jpg" />
+		<as-served-image weight="7.0" url="rasp32.jpg" />
+		<as-served-image weight="13.0" url="rasp34.jpg" />
+		<as-served-image weight="20.0" url="rasp22.jpg" />
+		<as-served-image weight="30.0" url="rasp23.jpg" />
+		<as-served-image weight="45.0" url="rasp24.jpg" />
+	</as-served-set>
+	<as-served-set description="Strawberry" id="Strawb_asserved">
+		<as-served-image weight="8.0" url="straw21.jpg" />
+		<as-served-image weight="17.0" url="straw22.jpg" />
+		<as-served-image weight="30.0" url="straw23.jpg" />
+		<as-served-image weight="45.0" url="straw24.jpg" />
+		<as-served-image weight="67.0" url="straw25.jpg" />
+		<as-served-image weight="107.0" url="straw26.jpg" />
+		<as-served-image weight="150.0" url="straw27.jpg" />
+	</as-served-set>
+	<as-served-set description="Strawbberry (leftovers)" id="Strawb_left">
+		<as-served-image weight="2.0" url="straw28.jpg" />
+		<as-served-image weight="4.0" url="straw30.jpg" />
+		<as-served-image weight="6.0" url="straw32.jpg" />
+		<as-served-image weight="8.0" url="straw34.jpg" />
+		<as-served-image weight="17.0" url="straw22.jpg" />
+		<as-served-image weight="30.0" url="straw23.jpg" />
+		<as-served-image weight="45.0" url="straw24.jpg" />
+	</as-served-set>
+	<as-served-set description="Kiwi" id="Kiwi_asserved">
+		<as-served-image weight="6.0" url="kiwi21.jpg" />
+		<as-served-image weight="14.0" url="kiwi22.jpg" />
+		<as-served-image weight="21.0" url="kiwi23.jpg" />
+		<as-served-image weight="31.0" url="kiwi24.jpg" />
+		<as-served-image weight="44.0" url="kiwi25.jpg" />
+		<as-served-image weight="63.0" url="kiwi26.jpg" />
+		<as-served-image weight="91.0" url="kiwi27.jpg" />
+	</as-served-set>
+	<as-served-set description="Kiwi (leftovers)" id="Kiwi_left">
+		<as-served-image weight="1.0" url="kiwi28.jpg" />
+		<as-served-image weight="6.0" url="kiwi34.jpg" />
+		<as-served-image weight="14.0" url="kiwi22.jpg" />
+		<as-served-image weight="21.0" url="kiwi23.jpg" />
+		<as-served-image weight="31.0" url="kiwi24.jpg" />
+		<as-served-image weight="44.0" url="kiwi25.jpg" />
+		<as-served-image weight="63.0" url="kiwi26.jpg" />
+	</as-served-set>
+		<as-served-set description="Coleslaw" id="Coleslaw_asserved">
+		<as-served-image weight="10.0" url="cole21.jpg" />
+		<as-served-image weight="15.0" url="cole22.jpg" />
+		<as-served-image weight="21.0" url="cole23.jpg" />
+		<as-served-image weight="31.0" url="cole24.jpg" />
+		<as-served-image weight="44.0" url="cole25.jpg" />
+		<as-served-image weight="63.0" url="cole26.jpg" />
+		<as-served-image weight="91.0" url="cole27.jpg" />
+	</as-served-set>
+	<as-served-set description="Coleslaw (leftovers)" id="Coleslaw_left">
+		<as-served-image weight="2.0" url="cole28.jpg" />
+		<as-served-image weight="5.0" url="cole30.jpg" />
+		<as-served-image weight="7.0" url="cole32.jpg" />
+		<as-served-image weight="10.0" url="cole34.jpg" />
+		<as-served-image weight="15.0" url="cole22.jpg" />
+		<as-served-image weight="21.0" url="cole23.jpg" />
+		<as-served-image weight="31.0" url="cole24.jpg" />
 	</as-served-set>
 </as-served-sets>

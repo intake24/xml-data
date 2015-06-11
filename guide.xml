@@ -879,4 +879,11 @@
     <weight id="11" description="Rectangular pie in foil" value="229.0"/>
     <weight id="12" description="Semi circle pasty" value="167.0"/>
   </guide-image>
+  <guide-image id="Gflap" description="(no description for guide image Gflap)">
+    <weight id="1" description="Flapjack" value="15.0"/>
+    <weight id="2" description="Flapjack" value="32.0"/>
+    <weight id="3" description="Flapjack" value="49.0"/>
+    <weight id="4" description="Flapjack" value="59.0"/>
+    <weight id="5" description="Flapjack" value="115.0"/>
+   </guide-image>
 </guide-images>
