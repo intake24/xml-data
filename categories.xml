@@ -102,8 +102,8 @@
     <food code="BTBS"/>
   </category>
   <category code="BERR" description="Berries" hidden="false">
-    <food code="BLAB"/>
     <food code="BLUE"/>
+    <food code="BLAB"/>
     <food code="RASP"/>
     <food code="STBR"/>
   </category>
@@ -952,7 +952,6 @@
     <food code="FIGS"/>
     <food code="SALH"/>
     <food code="GOSB"/>
-    <food code="KWIN"/>
     <food code="KUMQ"/>
     <food code="LIME"/>
     <food code="LYCE"/>
@@ -964,6 +963,7 @@
     <food code="RHUB"/>
     <food code="SHAR"/>
     <food code="LEMO"/>
+    <food code="KWIN"/>
     <subcategory code="APLS"/>
     <subcategory code="BERR"/>
     <subcategory code="GRPS"/>

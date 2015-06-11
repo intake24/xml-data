@@ -664,11 +664,10 @@
     </portion-size>
   </food>
   <food code="BLAB" description="Blackberries" ndnsCode="1985" groupCode="73">
-    <portion-size 
-    method="as-served" description="Blackberry" imageUrl="VITK additional photos Strawberry raspberry kiwi blackberry coleslaw/Blackberry_asserved/BlkB24.jpg" useForRecipes="true">
+    <portion-size method="as-served" description="Blackberry" imageUrl="portion/blkb24.jpg" useForRecipes="true">
       <param name="serving-image-set" value="Blackberry_asserved"/>
       <param name="leftovers-image-set" value="Blackberry_left"/>
-</portion-size>
+    </portion-size>
   </food>
   <food sameAsBeforeOption="true" code="BLEM" description="Copy of Fizzy energy drink, e.g. Relentless, Red bull, Blue emerge" ndnsCode="5545" groupCode="85">
     <portion-size method="drink-scale" description="in a glass" imageUrl="portion/gsoftdrnk.jpg" useForRecipes="false">
@@ -4636,7 +4635,7 @@
       <param name="unit2-omit-food-description" value="true"/>
     </portion-size>
     <portion-size method="guide-image" description="Guide image" imageUrl="portion/Gflap.jpg" useForRecipes="false">
-      <param name="guide-image-id" value="GFlapJ"/>
+      <param name="guide-image-id" value="Gflap"/>
     </portion-size>
   </food>
   <food code="FLLI" description="Fruit lolly with ice cream filling" ndnsCode="729" groupCode="79">
@@ -10045,11 +10044,10 @@
     </portion-size>
   </food>
   <food code="RASP" description="Raspberries" ndnsCode="2143" groupCode="73">
-    <portion-size 
-    method="as-served" description="Raspberries" imageUrl="VITK additional photos Strawberry raspberry kiwi blackberry coleslaw/Raspberry_asserved/Rasp24.jpg" useForRecipes="true">
+    <portion-size method="as-served" description="Raspberries" imageUrl="portion/rasp24.jpg" useForRecipes="true">
       <param name="serving-image-set" value="Raspberry_asserved"/>
       <param name="leftovers-image-set" value="Raspberry_left"/>
-</portion-size>
+    </portion-size>
   </food>
   <food readyMealOption="true" code="RATA" description="Ratatouille" ndnsCode="2625" groupCode="71">
     <portion-size method="as-served" description="No description" imageUrl="portion/placeholder.jpg" useForRecipes="false">
@@ -11646,11 +11644,10 @@
     </portion-size>
   </food>
   <food code="STBR" description="Strawberries" ndnsCode="2153" groupCode="73">
-    <portion-size 
-    method="as-served" description="Strawberries" imageUrl="VITK additional photos Strawberry raspberry kiwi blackberry coleslaw/Strawb_asserved/Straw25.jpg" useForRecipes="true">
+    <portion-size method="as-served" description="Strawberries" imageUrl="portion/straw25.jpg" useForRecipes="true">
       <param name="serving-image-set" value="Strawb_asserved"/>
       <param name="leftovers-image-set" value="Strawb_left"/>
-</portion-size>
+    </portion-size>
   </food>
   <food code="STCK" description="Crabsticks" ndnsCode="7831" groupCode="53">
     <portion-size method="standard-portion" description="No description" imageUrl="portion/placeholder.jpg" useForRecipes="true">
