@@ -61,7 +61,7 @@
     </portion-size>
   </food>
   <food code="ALLB" description="All bran" ndnsCode="202" groupCode="7">
-    <portion-size method="cereal" description="no description" imageUrl="portion/cereal.jpg" useForRecipes="false">
+    <portion-size method="cereal" description="Use an image" imageUrl="portion/cereal.jpg" useForRecipes="false">
       <param name="type" value="flake"/>
     </portion-size>
   </food>
@@ -1175,12 +1175,12 @@
     </portion-size>
   </food>
   <food code="BRNF" description="Branflakes" ndnsCode="202" groupCode="7">
-    <portion-size method="cereal" description="no description" imageUrl="portion/cereal.jpg" useForRecipes="false">
+    <portion-size method="cereal" description="Use an image" imageUrl="portion/cereal.jpg" useForRecipes="false">
       <param name="type" value="flake"/>
     </portion-size>
   </food>
   <food code="BRNS" description="Branflakes with sultanas" ndnsCode="7624" groupCode="7">
-    <portion-size method="cereal" description="no description" imageUrl="portion/cereal.jpg" useForRecipes="false">
+    <portion-size method="cereal" description="Use an image" imageUrl="portion/cereal.jpg" useForRecipes="false">
       <param name="type" value="flake"/>
     </portion-size>
   </food>
@@ -2332,7 +2332,7 @@
     </portion-size>
   </food>
   <food code="CHCF" description="Choco flakes" ndnsCode="8427" groupCode="5">
-    <portion-size method="cereal" description="no description" imageUrl="portion/cereal.jpg" useForRecipes="false">
+    <portion-size method="cereal" description="Use an image" imageUrl="portion/cereal.jpg" useForRecipes="false">
       <param name="type" value="flake"/>
     </portion-size>
   </food>
@@ -2593,7 +2593,7 @@
     </portion-size>
   </food>
   <food code="CHRO" description="Cheerios" ndnsCode="7637" groupCode="5">
-    <portion-size method="cereal" description="no description" imageUrl="portion/cereal.jpg" useForRecipes="false">
+    <portion-size method="cereal" description="Use an image" imageUrl="portion/cereal.jpg" useForRecipes="false">
       <param name="type" value="hoop"/>
     </portion-size>
   </food>
@@ -2946,7 +2946,7 @@
     </portion-size>
   </food>
   <food code="CNTC" description="Crunchy nut cornflakes" ndnsCode="10512" groupCode="6">
-    <portion-size method="cereal" description="no description" imageUrl="portion/cereal.jpg" useForRecipes="true">
+    <portion-size method="cereal" description="Use an image" imageUrl="portion/cereal.jpg" useForRecipes="true">
       <param name="type" value="flake"/>
     </portion-size>
   </food>
@@ -2970,7 +2970,7 @@
     </portion-size>
   </food>
   <food code="COCF" description="Chocolate cornflakes" ndnsCode="8427" groupCode="5">
-    <portion-size method="cereal" description="no description" imageUrl="portion/cereal.jpg" useForRecipes="true">
+    <portion-size method="cereal" description="Use an image" imageUrl="portion/cereal.jpg" useForRecipes="true">
       <param name="type" value="flake"/>
     </portion-size>
   </food>
@@ -2993,7 +2993,7 @@
     </portion-size>
   </food>
   <food code="COCO" description="Coco Pops" ndnsCode="8483" groupCode="6">
-    <portion-size method="cereal" description="no description" imageUrl="portion/cereal.jpg" useForRecipes="false">
+    <portion-size method="cereal" description="Use an image" imageUrl="portion/cereal.jpg" useForRecipes="false">
       <param name="type" value="rkris"/>
     </portion-size>
   </food>
@@ -3357,7 +3357,7 @@
     </portion-size>
   </food>
   <food code="CRNF" description="Cornflakes" ndnsCode="206" groupCode="7">
-    <portion-size method="cereal" description="no description" imageUrl="portion/cereal.jpg" useForRecipes="true">
+    <portion-size method="cereal" description="Use an image" imageUrl="portion/cereal.jpg" useForRecipes="true">
       <param name="type" value="flake"/>
     </portion-size>
   </food>
@@ -5109,7 +5109,7 @@
     </portion-size>
   </food>
   <food code="FITN" description="Fitnesse cereal" ndnsCode="223" groupCode="8">
-    <portion-size method="cereal" description="no description" imageUrl="portion/cereal.jpg" useForRecipes="false">
+    <portion-size method="cereal" description="Use an image" imageUrl="portion/cereal.jpg" useForRecipes="false">
       <param name="type" value="flake"/>
     </portion-size>
   </food>
@@ -5351,7 +5351,7 @@
     </portion-size>
   </food>
   <food code="FRFB" description="Fruit 'n' fibre" ndnsCode="5327" groupCode="7">
-    <portion-size method="cereal" description="no description" imageUrl="portion/cereal.jpg" useForRecipes="false">
+    <portion-size method="cereal" description="Use an image" imageUrl="portion/cereal.jpg" useForRecipes="false">
       <param name="type" value="flake"/>
     </portion-size>
   </food>
@@ -5413,7 +5413,7 @@
     </portion-size>
   </food>
   <food code="FRLP" description="Fruit Loops" ndnsCode="10885" groupCode="5">
-    <portion-size method="cereal" description="no description" imageUrl="portion/cereal.jpg" useForRecipes="false">
+    <portion-size method="cereal" description="Use an image" imageUrl="portion/cereal.jpg" useForRecipes="false">
       <param name="type" value="hoop"/>
     </portion-size>
   </food>
@@ -5470,7 +5470,7 @@
     </portion-size>
   </food>
   <food code="FRST" description="Frosties" ndnsCode="227" groupCode="6">
-    <portion-size method="cereal" description="no description" imageUrl="portion/cereal.jpg" useForRecipes="true">
+    <portion-size method="cereal" description="Use an image" imageUrl="portion/cereal.jpg" useForRecipes="true">
       <param name="type" value="flake"/>
     </portion-size>
   </food>
@@ -5822,7 +5822,7 @@
     </portion-size>
   </food>
   <food code="GFCF" description="Gluten free cornflakes" ndnsCode="206" groupCode="7">
-    <portion-size method="cereal" description="no description" imageUrl="portion/cereal.jpg" useForRecipes="true">
+    <portion-size method="cereal" description="Use an image" imageUrl="portion/cereal.jpg" useForRecipes="true">
       <param name="type" value="flake"/>
     </portion-size>
   </food>
@@ -5855,7 +5855,7 @@
     </portion-size>
   </food>
   <food code="GFCP" description="Gluten free Coco Pops" ndnsCode="8483" groupCode="6">
-    <portion-size method="cereal" description="no description" imageUrl="portion/cereal.jpg" useForRecipes="false">
+    <portion-size method="cereal" description="Use an image" imageUrl="portion/cereal.jpg" useForRecipes="false">
       <param name="type" value="rkris"/>
     </portion-size>
   </food>
@@ -6105,7 +6105,7 @@
     </portion-size>
   </food>
   <food code="GFRC" description="Gluten free rice snaps" ndnsCode="220" groupCode="7">
-    <portion-size method="cereal" description="no description" imageUrl="portion/cereal.jpg" useForRecipes="false">
+    <portion-size method="cereal" description="Use an image" imageUrl="portion/cereal.jpg" useForRecipes="false">
       <param name="type" value="rkris"/>
     </portion-size>
   </food>
@@ -7038,7 +7038,7 @@
     </portion-size>
   </food>
   <food code="HNCF" description="Honey nut cornflakes" ndnsCode="10512" groupCode="6">
-    <portion-size method="cereal" description="no description" imageUrl="portion/cereal.jpg" useForRecipes="false">
+    <portion-size method="cereal" description="Use an image" imageUrl="portion/cereal.jpg" useForRecipes="false">
       <param name="type" value="flake"/>
     </portion-size>
   </food>
@@ -7048,7 +7048,7 @@
     </portion-size>
   </food>
   <food code="HNUT" description="Honey Nut Loops" ndnsCode="9275" groupCode="5">
-    <portion-size method="cereal" description="no description" imageUrl="portion/cereal.jpg" useForRecipes="false">
+    <portion-size method="cereal" description="Use an image" imageUrl="portion/cereal.jpg" useForRecipes="false">
       <param name="type" value="hoop"/>
     </portion-size>
   </food>
@@ -8862,7 +8862,7 @@
     </portion-size>
   </food>
   <food code="MGHP" description="Multigrain hoops/loops" ndnsCode="7637" groupCode="5">
-    <portion-size method="cereal" description="no description" imageUrl="portion/cereal.jpg" useForRecipes="false">
+    <portion-size method="cereal" description="Use an image" imageUrl="portion/cereal.jpg" useForRecipes="false">
       <param name="type" value="hoop"/>
     </portion-size>
   </food>
@@ -11836,7 +11836,7 @@
     </portion-size>
   </food>
   <food code="RCKP" description="Rice Krispies" ndnsCode="220" groupCode="7">
-    <portion-size method="cereal" description="no description" imageUrl="portion/cereal.jpg" useForRecipes="true">
+    <portion-size method="cereal" description="Use an image" imageUrl="portion/cereal.jpg" useForRecipes="true">
       <param name="type" value="rkris"/>
     </portion-size>
   </food>
@@ -12072,7 +12072,7 @@
     </portion-size>
   </food>
   <food code="RICI" description="Ricicles" ndnsCode="4331" groupCode="5">
-    <portion-size method="cereal" description="no description" imageUrl="portion/cereal.jpg" useForRecipes="false">
+    <portion-size method="cereal" description="Use an image" imageUrl="portion/cereal.jpg" useForRecipes="false">
       <param name="type" value="rkris"/>
     </portion-size>
   </food>
@@ -12096,12 +12096,12 @@
     </portion-size>
   </food>
   <food code="RIPF" description="Rice puffs" ndnsCode="220" groupCode="7">
-    <portion-size method="cereal" description="no description" imageUrl="portion/cereal.jpg" useForRecipes="false">
+    <portion-size method="cereal" description="Use an image" imageUrl="portion/cereal.jpg" useForRecipes="false">
       <param name="type" value="rkris"/>
     </portion-size>
   </food>
   <food code="RISN" description="Rice snaps" ndnsCode="220" groupCode="7">
-    <portion-size method="cereal" description="no description" imageUrl="portion/cereal.jpg" useForRecipes="false">
+    <portion-size method="cereal" description="Use an image" imageUrl="portion/cereal.jpg" useForRecipes="false">
       <param name="type" value="rkris"/>
     </portion-size>
   </food>
@@ -13216,7 +13216,7 @@
     </portion-size>
   </food>
   <food code="SPCK" description="Special K cereal" ndnsCode="223" groupCode="7">
-    <portion-size method="cereal" description="no description" imageUrl="portion/cereal.jpg" useForRecipes="false">
+    <portion-size method="cereal" description="Use an image" imageUrl="portion/cereal.jpg" useForRecipes="false">
       <param name="type" value="flake"/>
     </portion-size>
   </food>
@@ -13254,7 +13254,7 @@
     </portion-size>
   </food>
   <food code="SPHP" description="Super hoops" ndnsCode="7637" groupCode="5">
-    <portion-size method="cereal" description="no description" imageUrl="portion/cereal.jpg" useForRecipes="false">
+    <portion-size method="cereal" description="Use an image" imageUrl="portion/cereal.jpg" useForRecipes="false">
       <param name="type" value="hoop"/>
     </portion-size>
   </food>
@@ -13800,7 +13800,7 @@
     </portion-size>
   </food>
   <food code="SULB" description="Sultana bran" ndnsCode="7624" groupCode="7">
-    <portion-size method="cereal" description="no description" imageUrl="portion/cereal.jpg" useForRecipes="false">
+    <portion-size method="cereal" description="Use an image" imageUrl="portion/cereal.jpg" useForRecipes="false">
       <param name="type" value="flake"/>
     </portion-size>
   </food>
@@ -15051,7 +15051,7 @@
     </portion-size>
   </food>
   <food code="WETO" description="Chocolate hoops, e.g. Weetos" ndnsCode="7632" groupCode="5">
-    <portion-size method="cereal" description="no description" imageUrl="portion/cereal.jpg" useForRecipes="false">
+    <portion-size method="cereal" description="Use an image" imageUrl="portion/cereal.jpg" useForRecipes="false">
       <param name="type" value="hoop"/>
     </portion-size>
   </food>
@@ -15397,7 +15397,7 @@
     </portion-size>
   </food>
   <food code="WTAF" description="Weetaflake" ndnsCode="6823" groupCode="7">
-    <portion-size method="cereal" description="no description" imageUrl="portion/cereal.jpg" useForRecipes="false">
+    <portion-size method="cereal" description="Use an image" imageUrl="portion/cereal.jpg" useForRecipes="false">
       <param name="type" value="flake"/>
     </portion-size>
   </food>
@@ -15429,7 +15429,7 @@
     </portion-size>
   </food>
   <food code="WTFR" description="Weetaflake 'n' raisin" ndnsCode="8760" groupCode="7">
-    <portion-size method="cereal" description="no description" imageUrl="portion/cereal.jpg" useForRecipes="false">
+    <portion-size method="cereal" description="Use an image" imageUrl="portion/cereal.jpg" useForRecipes="false">
       <param name="type" value="flake"/>
     </portion-size>
   </food>
@@ -15552,7 +15552,7 @@
     </portion-size>
   </food>
   <food readyMealOption="true" code="YPDF" description="Yorkshire pudding, shop bought" ndnsCode="10712" groupCode="13">
-    <portion-size method="guide-image" description="no description" imageUrl="portion/Gyor.jpg" useForRecipes="false">
+    <portion-size method="guide-image" description="Use an image" imageUrl="portion/Gyor.jpg" useForRecipes="false">
       <param name="guide-image-id" value="Gyor"/>
     </portion-size>
   </food>
