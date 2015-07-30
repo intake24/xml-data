@@ -15,10 +15,6 @@
     <prompt category="RICE" text="Did you have any rice with your chilli?" linkAsMain="false" genericName="rice"/>
     <prompt category="SCRM" text="Did you have any sour cream/creme fraiche with your chilli?" linkAsMain="false" genericName="sour cream/creme fraiche"/>
   </food>
-  <food code="COSO">
-    <prompt category="SUGA" text="Did you have any sugar in your coffee?" linkAsMain="false" genericName="sugar"/>
-    <prompt category="MHDK" text="Did you have any milk in your coffee?" linkAsMain="false" genericName="milk"/>
-  </food>
   <food code="SULB">
     <prompt category="MCRL" text="Did you have milk on your cereal?" linkAsMain="false" genericName="milk"/>
     <prompt category="SUGA" text="Did you add any sugar on your cereal?" linkAsMain="false" genericName="sugar"/>
@@ -50,10 +46,6 @@
   </food>
   <food code="TAFF">
     <prompt category="COND" text="Did you have any sauce on your chips?" linkAsMain="false" genericName="sauce"/>
-  </food>
-  <food code="TERM">
-    <prompt category="SUGA" text="Did you have any sugar in your tea?" linkAsMain="false" genericName="sugar"/>
-    <prompt category="MHDK" text="Did you have any milk in your tea?" linkAsMain="false" genericName="milk"/>
   </food>
   <food code="CURD">
     <prompt category="BRED" text="Did you have your lemon curd on some bread or toast?" linkAsMain="true" genericName="bread"/>
@@ -377,17 +369,9 @@
     <prompt category="ICEC" text="Did you have any ice cream with your crumble?" linkAsMain="false" genericName="ice cream"/>
     <prompt category="CSTD" text="Did you have any custard with your crumble?" linkAsMain="false" genericName="custard"/>
   </food>
-  <food code="SLTB">
-    <prompt category="MCRL" text="Did you have milk on your cereal?" linkAsMain="false" genericName="milk"/>
-    <prompt category="SUGA" text="Did you add any sugar on your cereal?" linkAsMain="false" genericName="sugar"/>
-  </food>
   <food code="BOUR">
     <prompt category="BRED" text="Did you have bread or a roll with your cheese?" linkAsMain="true" genericName="bread"/>
     <prompt category="SYBT" text="Did you have any crackers or crispbreads with your cheese?" linkAsMain="true" genericName="crackers or crispbreads"/>
-  </food>
-  <food code="COWM">
-    <prompt category="SUGA" text="Did you have any sugar in your coffee?" linkAsMain="false" genericName="sugar"/>
-    <prompt category="MHDK" text="Did you have any milk in your coffee?" linkAsMain="false" genericName="milk"/>
   </food>
   <food code="CBFO">
     <prompt category="COND" text="Did you have any sauce on your fish?" linkAsMain="false" genericName="sauce"/>
@@ -398,10 +382,6 @@
   </food>
   <food code="WHTG">
     <prompt category="BTTR" text="Did you have any butter or margarine on your bread?" linkAsMain="false" genericName="butter or margarine"/>
-  </food>
-  <food code="TESM">
-    <prompt category="SUGA" text="Did you have any sugar in your tea?" linkAsMain="false" genericName="sugar"/>
-    <prompt category="MHDK" text="Did you have any milk in your tea?" linkAsMain="false" genericName="milk"/>
   </food>
   <food code="BNSF">
     <prompt category="COND" text="Did you have any sauce with your bacon?" linkAsMain="false" genericName="sauce"/>
@@ -526,10 +506,6 @@
     <prompt category="MCRL" text="Did you have milk on your cereal?" linkAsMain="false" genericName="milk"/>
     <prompt category="SUGA" text="Did you add any sugar on your cereal?" linkAsMain="false" genericName="sugar"/>
   </food>
-  <food code="COSS">
-    <prompt category="SUGA" text="Did you have any sugar in your coffee?" linkAsMain="false" genericName="sugar"/>
-    <prompt category="MHDK" text="Did you have any milk in your coffee?" linkAsMain="false" genericName="milk"/>
-  </food>
   <food code="LASS">
     <prompt category="SUGA" text="Did you have any sugar in your latte?" linkAsMain="false" genericName="sugar"/>
   </food>
@@ -539,10 +515,6 @@
   </food>
   <food code="SBPK">
     <prompt category="RICE" text="Did you have any rice with your sweet &amp; sour pork?" linkAsMain="false" genericName="rice"/>
-  </food>
-  <food code="TESS">
-    <prompt category="SUGA" text="Did you have any sugar in your tea?" linkAsMain="false" genericName="sugar"/>
-    <prompt category="MHDK" text="Did you have any milk in your tea?" linkAsMain="false" genericName="milk"/>
   </food>
   <food code="BUTT">
     <prompt category="SUGR" text="Did you have any jam/spread on your rowie?" linkAsMain="false" genericName="jam/spread"/>
@@ -728,10 +700,6 @@
     <prompt category="MCRL" text="Did you have milk on your cereal?" linkAsMain="false" genericName="milk"/>
     <prompt category="SUGA" text="Did you add any sugar on your cereal?" linkAsMain="false" genericName="sugar"/>
   </food>
-  <food code="TEWM">
-    <prompt category="SUGA" text="Did you have any sugar in your tea?" linkAsMain="false" genericName="sugar"/>
-    <prompt category="MHDK" text="Did you have any milk in your tea?" linkAsMain="false" genericName="milk"/>
-  </food>
   <food code="TPBG">
     <prompt category="COND" text="Did you have any sauce on your turkey fingers/goujons?" linkAsMain="false" genericName="sauce"/>
   </food>
@@ -783,10 +751,6 @@
   <food code="CTCY">
     <prompt category="RICE" text="Did you have any rice with your curry?" linkAsMain="false" genericName="rice"/>
     <prompt category="FJTA" text="Did you have any naan bread with your curry?" linkAsMain="false" genericName="naan bread"/>
-  </food>
-  <food code="CORM">
-    <prompt category="SUGA" text="Did you have any sugar in your coffee?" linkAsMain="false" genericName="sugar"/>
-    <prompt category="MHDK" text="Did you have any milk in your coffee?" linkAsMain="false" genericName="milk"/>
   </food>
   <food code="MPCR">
     <prompt category="MCRL" text="Did you have milk on your cereal?" linkAsMain="false" genericName="milk"/>
@@ -1049,16 +1013,8 @@
     <prompt category="MCRL" text="Did you have milk on your cereal?" linkAsMain="false" genericName="milk"/>
     <prompt category="SUGA" text="Did you add any sugar on your cereal?" linkAsMain="false" genericName="sugar"/>
   </food>
-  <food code="TESO">
-    <prompt category="SUGA" text="Did you have any sugar in your tea?" linkAsMain="false" genericName="sugar"/>
-    <prompt category="MHDK" text="Did you have any milk in your tea?" linkAsMain="false" genericName="milk"/>
-  </food>
   <food code="WSUB">
     <prompt category="BTTR" text="Did you have any butter or margarine on your bread?" linkAsMain="false" genericName="butter or margarine"/>
-  </food>
-  <food code="COSM">
-    <prompt category="SUGA" text="Did you have any sugar in your coffee?" linkAsMain="false" genericName="sugar"/>
-    <prompt category="MHDK" text="Did you have any milk in your coffee?" linkAsMain="false" genericName="milk"/>
   </food>
   <food code="ORNS">
     <prompt category="BRED" text="Did you have bread with your soup?" linkAsMain="false" genericName="bread"/>

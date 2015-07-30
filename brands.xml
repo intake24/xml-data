@@ -1506,16 +1506,6 @@
     <brand name="Other"/>
     <brand name="I don't know"/>
   </food>
-  <food code="LJSB">
-    <brand name="ASDA"/>
-    <brand name="Co-op"/>
-    <brand name="Morrisons"/>
-    <brand name="Roses"/>
-    <brand name="Sainsbury's "/>
-    <brand name="Tesco"/>
-    <brand name="Other"/>
-    <brand name="I don't know"/>
-  </food>
   <food code="LIMA">
     <brand name="ASDA"/>
     <brand name="Barrs"/>
