@@ -187,10 +187,6 @@
     <prompt category="SUGR" text="Did you have any jam/spread on your scone?" linkAsMain="false" genericName="jam/spread"/>
     <prompt category="CREM" text="Did you have any cream with your scone?" linkAsMain="false" genericName="cream"/>
   </food>
-  <food code="CCFT">
-    <prompt category="RICE" text="Did you have any rice with your curry?" linkAsMain="false" genericName="rice"/>
-    <prompt category="FJTA" text="Did you have any naan bread with your curry?" linkAsMain="false" genericName="naan bread"/>
-  </food>
   <food code="WHTT">
     <prompt category="BTTR" text="Did you have any butter or margarine on your toast?" linkAsMain="false" genericName="butter or margarine"/>
     <prompt category="SUGR" text="Did you have any jam/preserve on your toast?" linkAsMain="false" genericName="jam/preserve"/>
@@ -747,10 +743,6 @@
   <food code="BANF">
     <prompt category="CREM" text="Did you have any cream with your banoffee pie?" linkAsMain="false" genericName="cream"/>
     <prompt category="ICEC" text="Did you have any ice cream with your banoffee pie?" linkAsMain="false" genericName="ice cream"/>
-  </food>
-  <food code="CTCY">
-    <prompt category="RICE" text="Did you have any rice with your curry?" linkAsMain="false" genericName="rice"/>
-    <prompt category="FJTA" text="Did you have any naan bread with your curry?" linkAsMain="false" genericName="naan bread"/>
   </food>
   <food code="MPCR">
     <prompt category="MCRL" text="Did you have milk on your cereal?" linkAsMain="false" genericName="milk"/>
