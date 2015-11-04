@@ -929,9 +929,6 @@
   <food code="CBGF">
     <prompt category="COND" text="Did you have any sauce on your chicken burger?" linkAsMain="false" genericName="sauce"/>
   </food>
-  <food code="SODA">
-    <prompt category="BTTR" text="Did you have any butter or margarine on your bread?" linkAsMain="false" genericName="butter or margarine"/>
-  </food>
   <food code="NPTC">
     <prompt category="BTTR" text="Did you have any butter or margarine on your potatoes?" linkAsMain="false" genericName="butter or margarine"/>
   </food>

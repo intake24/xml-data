@@ -705,16 +705,6 @@
     <brand name="Other"/>
     <brand name="I don't know"/>
   </food>
-  <food code="FRFA">
-    <brand name="ASDA"/>
-    <brand name="Co-op"/>
-    <brand name="Morrisons "/>
-    <brand name="Mr Kipling"/>
-    <brand name="Sainsbury's"/>
-    <brand name="Tesco"/>
-    <brand name="Other"/>
-    <brand name="I don't know"/>
-  </food>
   <food code="FRBN">
     <brand name="ASDA"/>
     <brand name="Co-op"/>
@@ -1434,17 +1424,6 @@
     <brand name="Co-op"/>
     <brand name="Morrisons"/>
     <brand name="Robinsons"/>
-    <brand name="Sainsbury's "/>
-    <brand name="Tesco"/>
-    <brand name="Other"/>
-    <brand name="I don't know"/>
-  </food>
-  <food code="SMTB">
-    <brand name="ASDA"/>
-    <brand name="Co-op"/>
-    <brand name="Innocent"/>
-    <brand name="Marks and Spencer"/>
-    <brand name="Morrisons"/>
     <brand name="Sainsbury's "/>
     <brand name="Tesco"/>
     <brand name="Other"/>
