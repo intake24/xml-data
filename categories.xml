@@ -948,8 +948,8 @@
     <subcategory code="NUTS"/>
   </category>
   <category code="CROU" description="Croutons" hidden="false">
-    <food code="WCRO"/>
     <food code="CRWI"/>
+    <food code="WCRO"/>
   </category>
   <category code="CRUM" description="Crumpets, muffins &amp; pancakes" hidden="false">
     <food code="CRMP"/>
@@ -1937,6 +1937,7 @@
     <food code="NCTF"/>
     <food code="PCHF"/>
     <food code="PCHA"/>
+    <food code="PCHS"/>
   </category>
   <category code="NDLS" description="Noodles" hidden="false">
     <food code="BFCM"/>

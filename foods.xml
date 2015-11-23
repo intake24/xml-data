@@ -5507,14 +5507,6 @@
       <param name="leftovers-image-set" value="gateau_leftovers"/>
     </portion-size>
   </food>
-  <food code="CROU" description="Croutons, white" ndnsCode="123" groupCode="1">
-    <portion-size method="standard-portion" description="choose a standard portion" imageUrl="portion/standard-portion.jpg" useForRecipes="true">
-      <param name="units-count" value="1"/>
-      <param name="unit0-name" value="tablespoons"/>
-      <param name="unit0-weight" value="10.0"/>
-      <param name="unit0-omit-food-description" value="false"/>
-    </portion-size>
-  </food>
   <food readyMealOption="true" code="CRPA" description="Crab pate" ndnsCode="1563" groupCode="53">
     <portion-size method="as-served" description="Use an image" imageUrl="portion/cream_cheese_spread.jpg" useForRecipes="false">
       <param name="serving-image-set" value="cream_cheese_spread"/>
@@ -5599,7 +5591,7 @@
     </portion-size>
   </food>
   <food code="CRWI" description="Croutons, white" ndnsCode="123" groupCode="1">
-    <portion-size method="standard-portion" description="choose a standard portion" imageUrl="portion/placeholder.jpg" useForRecipes="true">
+    <portion-size method="standard-portion" description="Choose a standard portion" imageUrl="standard-portion.jpg" useForRecipes="true">
       <param name="units-count" value="1"/>
       <param name="unit0-name" value="tablespoons"/>
       <param name="unit0-weight" value="10.0"/>
@@ -22260,7 +22252,7 @@
     </portion-size>
   </food>
   <food code="WCRO" description="Croutons, wholemeal" ndnsCode="135" groupCode="2">
-    <portion-size method="standard-portion" description="choose a standard portion" imageUrl="portion/placeholder.jpg" useForRecipes="true">
+    <portion-size method="standard-portion" description="Choose a standard portion" imageUrl="standard-portion.jpg" useForRecipes="true">
       <param name="units-count" value="1"/>
       <param name="unit0-name" value="tablespoons"/>
       <param name="unit0-weight" value="10.0"/>
