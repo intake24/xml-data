@@ -5098,7 +5098,7 @@
       <param name="guide-image-id" value="Gcake"/>
     </portion-size>
   </food>
-  <food readyMealOption="true" code="COTP" description="Cottage pie (includes homemade)" ndnsCode="1357" groupCode="40">
+  <food readyMealOption="true" code="COTP" description="Cottage pie (includes homemade)" ndnsCode="1357" groupCode="108">
     <portion-size method="as-served" description="Use an image" imageUrl="portion/shepherds_pie.jpg" useForRecipes="false">
       <param name="serving-image-set" value="shepherds_pie"/>
       <param name="leftovers-image-set" value="shepherds_pie_leftovers"/>
@@ -5188,7 +5188,7 @@
       <param name="leftovers-image-set" value="popcorn_leftovers"/>
     </portion-size>
   </food>
-  <food readyMealOption="true" code="CPRF" description="Cottage pie, reduced fat (includes homemade)" ndnsCode="4283" groupCode="40">
+  <food readyMealOption="true" code="CPRF" description="Cottage pie, reduced fat (includes homemade)" ndnsCode="4283" groupCode="108">
     <portion-size method="as-served" description="Use an image" imageUrl="portion/shepherds_pie.jpg" useForRecipes="false">
       <param name="serving-image-set" value="shepherds_pie"/>
       <param name="leftovers-image-set" value="shepherds_pie_leftovers"/>
@@ -9765,6 +9765,19 @@
       <param name="guide-image-id" value="Gspn"/>
     </portion-size>
   </food>
+  <food code="GRAP" description="Pink grapefruit juice" ndnsCode="2329" groupCode="86">
+    <portion-size method="drink-scale" description="In a glass" imageUrl="portion/gsoftdrnk.jpg" useForRecipes="false">
+      <param name="drinkware-id" value="glasses_soft"/>
+      <param name="initial-fill-level" value="0.9"/>
+      <param name="skip-fill-level" value="false"/>
+    </portion-size>
+    <portion-size method="guide-image" description="In a carton" imageUrl="portion/Gpopcarton.jpg" useForRecipes="false">
+      <param name="guide-image-id" value="Gpopcarton"/>
+    </portion-size>
+    <portion-size method="guide-image" description="In a bottle" imageUrl="portion/Gpopbottle.jpg" useForRecipes="false">
+      <param name="guide-image-id" value="Gpopbottle"/>
+    </portion-size>
+  </food>
   <food code="GREG" description="Greggs cheese and onion pasty" ndnsCode="5047" groupCode="113">
     <portion-size method="guide-image" description="Use an image" imageUrl="portion/gpie.jpg" useForRecipes="false">
       <param name="guide-image-id" value="gpie"/>
@@ -11731,14 +11744,6 @@
       <param name="leftovers-image-set" value="chicken_sauce_leftovers"/>
     </portion-size>
   </food>
-  <food code="LATO" description="Lamb tongue" ndnsCode="1245" groupCode="50">
-    <portion-size method="standard-portion" description="Choose a standard portion" imageUrl="portion/standard-portion.jpg" useForRecipes="true">
-      <param name="units-count" value="1"/>
-      <param name="unit0-name" value="slices"/>
-      <param name="unit0-weight" value="25.0"/>
-      <param name="unit0-omit-food-description" value="false"/>
-    </portion-size>
-  </food>
   <food sameAsBeforeOption="true" code="LAWM" description="Latte made with whole milk" ndnsCode="8053" groupCode="92">
     <portion-size method="drink-scale" description="in a mug" imageUrl="portion/mugs.jpg" useForRecipes="false">
       <param name="drinkware-id" value="mugs"/>
@@ -11919,20 +11924,20 @@
     <portion-size method="as-served" description="spread on bread" imageUrl="portion/Gcsp04.jpg" useForRecipes="false">
       <param name="serving-image-set" value="cream_cheese_spread"/>
     </portion-size>
-    <portion-size method="standard-portion" description="spoons or tubs" imageUrl="standard-portion.jpg" useForRecipes="true">
-      <param name="units-count" value="4"/>
-      <param name="unit0-name" value="tablespoons"/>
-      <param name="unit0-weight" value="30.6"/>
+    <portion-size method="standard-portion" description="choose in tubs" imageUrl="standard-portion.jpg" useForRecipes="true">
+      <param name="units-count" value="3"/>
+      <param name="unit0-name" value="mini tubs"/>
+      <param name="unit0-weight" value="120.0"/>
       <param name="unit0-omit-food-description" value="false"/>
-      <param name="unit1-name" value="mini tubs"/>
-      <param name="unit1-weight" value="120.0"/>
+      <param name="unit1-name" value="medium tubs"/>
+      <param name="unit1-weight" value="200.0"/>
       <param name="unit1-omit-food-description" value="false"/>
-      <param name="unit2-name" value="medium tubs"/>
-      <param name="unit2-weight" value="200.0"/>
+      <param name="unit2-name" value="large tubs"/>
+      <param name="unit2-weight" value="300.0"/>
       <param name="unit2-omit-food-description" value="false"/>
-      <param name="unit3-name" value="large tubs"/>
-      <param name="unit3-weight" value="300.0"/>
-      <param name="unit3-omit-food-description" value="false"/>
+    </portion-size>
+    <portion-size method="guide-image" description="Choose by spoonful" imageUrl="Gspns.jpg" useForRecipes="false">
+      <param name="guide-image-id" value="Gspns"/>
     </portion-size>
   </food>
   <food code="LFCP" description="Low fat crisps" ndnsCode="2691" groupCode="60">
@@ -16706,6 +16711,14 @@
       <param name="unit0-omit-food-description" value="false"/>
     </portion-size>
   </food>
+  <food code="PROB" description="Promax protein bar, any flavour " ndnsCode="10354" groupCode="100">
+    <portion-size method="standard-portion" description="choose a standard portion" imageUrl="Images/portion/standard-portion.jpg" useForRecipes="false">
+      <param name="units-count" value="1"/>
+      <param name="unit0-name" value="bars"/>
+      <param name="unit0-weight" value="75.0"/>
+      <param name="unit0-omit-food-description" value="true"/>
+    </portion-size>
+  </food>
   <food code="PROS" description="Prosciutto" ndnsCode="8089" groupCode="39">
     <portion-size method="standard-portion" description="choose a standard portion" imageUrl="portion/standard-portion.jpg" useForRecipes="true">
       <param name="units-count" value="1"/>
@@ -17194,6 +17207,14 @@
       <param name="unit0-name" value="packets"/>
       <param name="unit0-weight" value="450.0"/>
       <param name="unit0-omit-food-description" value="false"/>
+    </portion-size>
+  </food>
+  <food code="QUES" description="Quest protein bar, any flavour " ndnsCode="10354" groupCode="100">
+    <portion-size method="standard-portion" description="choose a standard portion" imageUrl="Images/portion/standard-portion.jpg" useForRecipes="false">
+      <param name="units-count" value="1"/>
+      <param name="unit0-name" value="bars"/>
+      <param name="unit0-weight" value="60.0"/>
+      <param name="unit0-omit-food-description" value="true"/>
     </portion-size>
   </food>
   <food code="QUIC" description="Quinces" ndnsCode="2141" groupCode="73">
@@ -18873,7 +18894,7 @@
       <param name="guide-image-id" value="Gbisc"/>
     </portion-size>
   </food>
-  <food readyMealOption="true" code="SHEP" description="Shepherds pie (includes homemade)" ndnsCode="5322" groupCode="42">
+  <food readyMealOption="true" code="SHEP" description="Shepherds pie (includes homemade)" ndnsCode="5322" groupCode="108">
     <portion-size method="as-served" description="Use an image" imageUrl="portion/shepherds_pie.jpg" useForRecipes="false">
       <param name="serving-image-set" value="shepherds_pie"/>
       <param name="leftovers-image-set" value="shepherds_pie_leftovers"/>
@@ -22641,6 +22662,12 @@
     <portion-size method="as-served" description="in a bowl" imageUrl="portion/plspagb5.jpg" useForRecipes="true">
       <param name="serving-image-set" value="plspagb"/>
       <param name="leftovers-image-set" value="plspagb_leftovers"/>
+    </portion-size>
+  </food>
+  <food code="WOOP" description="Whoopie pie" ndnsCode="10307" groupCode="16">
+    <portion-size method="as-served" description="Use an image" imageUrl="portion/gateau.jpg" useForRecipes="false">
+      <param name="serving-image-set" value="gateau"/>
+      <param name="leftovers-image-set" value="gateau_leftovers"/>
     </portion-size>
   </food>
   <food code="WOPA" description="Wholemeal paratha" ndnsCode="8595" groupCode="101">
