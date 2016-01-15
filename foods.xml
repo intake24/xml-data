@@ -1182,6 +1182,14 @@
       <param name="leftovers-image-set" value="chicken_breast_slices_leftovers"/>
     </portion-size>
   </food>
+  <food code="BESW" description="Beef sandwich" ndnsCode="100011" groupCode="4">
+    <portion-size method="standard-portion" description="choose a standard portion" imageUrl="Images/portion/standard-portion.jpg" useForRecipes="false">
+      <param name="units-count" value="1"/>
+      <param name="unit0-name" value="sandwiches (made with two slices of bread)"/>
+      <param name="unit0-weight" value="160.0"/>
+      <param name="unit0-omit-food-description" value="false"/>
+    </portion-size>
+  </food>
   <food readyMealOption="true" code="BFBA" description="Beef balti, curry (includes homemade)" ndnsCode="6262" groupCode="40">
     <portion-size method="as-served" description="Use an image" imageUrl="portion/chicken_sauce.jpg" useForRecipes="false">
       <param name="serving-image-set" value="chicken_sauce"/>
@@ -1283,6 +1291,14 @@
     <portion-size method="as-served" description="Use an image" imageUrl="portion/chicken_sauce.jpg" useForRecipes="false">
       <param name="serving-image-set" value="chicken_sauce"/>
       <param name="leftovers-image-set" value="chicken_sauce_leftovers"/>
+    </portion-size>
+  </food>
+  <food code="BFSW" description="Breakfast sandwich (with egg, bacon, sausage and ketchup)" ndnsCode="100010" groupCode="4">
+    <portion-size method="standard-portion" description="choose a standard portion" imageUrl="Images/portion/standard-portion.jpg" useForRecipes="false">
+      <param name="units-count" value="1"/>
+      <param name="unit0-name" value="sandwiches (made with two slices of bread)"/>
+      <param name="unit0-weight" value="200.0"/>
+      <param name="unit0-omit-food-description" value="false"/>
     </portion-size>
   </food>
   <food readyMealOption="true" code="BFTM" description="Beef tikka masala, curry (includes homemade)" ndnsCode="6262" groupCode="40">
@@ -1411,6 +1427,18 @@
       <param name="guide-image-id" value="Gpopbottle"/>
     </portion-size>
   </food>
+  <food code="BKCH" description="Bok choi" ndnsCode="1705" groupCode="70">
+    <portion-size method="as-served" description="Use an image" imageUrl="portion/cabbage.jpg" useForRecipes="false">
+      <param name="serving-image-set" value="cabbage"/>
+      <param name="leftovers-image-set" value="cabbage_leftovers"/>
+    </portion-size>
+    <portion-size method="standard-portion" description="Choose a standard portion" imageUrl="portion/standard-portion.jpg" useForRecipes="true">
+      <param name="units-count" value="1"/>
+      <param name="unit0-name" value="tablespoons"/>
+      <param name="unit0-weight" value="40.0"/>
+      <param name="unit0-omit-food-description" value="false"/>
+    </portion-size>
+  </food>
   <food code="BLAB" description="Blackberries, fresh" ndnsCode="1985" groupCode="73">
     <portion-size method="as-served" description="Blackberries" imageUrl="portion/blkb24.jpg" useForRecipes="false">
       <param name="serving-image-set" value="Blackberry_asserved"/>
@@ -1510,6 +1538,14 @@
   <food code="BLOR" description="Blood orange" ndnsCode="2092" groupCode="73">
     <portion-size method="guide-image" description="Use an image" imageUrl="portion/Gorg.jpg" useForRecipes="true">
       <param name="guide-image-id" value="Gorg"/>
+    </portion-size>
+  </food>
+  <food code="BLTS" description="Bacon lettuce and tomato sandwich" ndnsCode="100005" groupCode="4">
+    <portion-size method="standard-portion" description="choose a standard portion" imageUrl="Images/portion/standard-portion.jpg" useForRecipes="false">
+      <param name="units-count" value="1"/>
+      <param name="unit0-name" value="sandwiches (made with two slices of bread)"/>
+      <param name="unit0-weight" value="165.0"/>
+      <param name="unit0-omit-food-description" value="false"/>
     </portion-size>
   </food>
   <food code="BLUC" description="Blue cheese" ndnsCode="679" groupCode="28">
@@ -1643,6 +1679,14 @@
       <param name="units-count" value="1"/>
       <param name="unit0-name" value="tablespoon"/>
       <param name="unit0-weight" value="37.0"/>
+      <param name="unit0-omit-food-description" value="false"/>
+    </portion-size>
+  </food>
+  <food code="BNSW" description="Bacon sandwich" ndnsCode="100004" groupCode="4">
+    <portion-size method="standard-portion" description="choose a standard portion" imageUrl="Images/portion/standard-portion.jpg" useForRecipes="false">
+      <param name="units-count" value="1"/>
+      <param name="unit0-name" value="sandwiches (made with two slices of bread)"/>
+      <param name="unit0-weight" value="152.0"/>
       <param name="unit0-omit-food-description" value="false"/>
     </portion-size>
   </food>
@@ -3156,6 +3200,14 @@
       <param name="guide-image-id" value="Gcbisc2"/>
     </portion-size>
   </food>
+  <food code="CBSW" description="Chicken and bacon sandwich" ndnsCode="100012" groupCode="4">
+    <portion-size method="standard-portion" description="choose a standard portion" imageUrl="Images/portion/standard-portion.jpg" useForRecipes="false">
+      <param name="units-count" value="1"/>
+      <param name="unit0-name" value="sandwiches (made with two slices of bread)"/>
+      <param name="unit0-weight" value="175.0"/>
+      <param name="unit0-omit-food-description" value="false"/>
+    </portion-size>
+  </food>
   <food code="CBTA" description="Cheese burger takeaway" ndnsCode="1333" groupCode="47">
     <portion-size method="guide-image" description="Use an image" imageUrl="portion/Gbur.jpg" useForRecipes="false">
       <param name="guide-image-id" value="Gbur"/>
@@ -4571,6 +4623,14 @@
       <param name="guide-image-id" value="Gbisc"/>
     </portion-size>
   </food>
+  <food code="CKSW" description="Chicken salad sandwich" ndnsCode="100006" groupCode="4">
+    <portion-size method="standard-portion" description="choose a standard portion" imageUrl="Images/portion/standard-portion.jpg" useForRecipes="false">
+      <param name="units-count" value="1"/>
+      <param name="unit0-name" value="sandwiches (made with two slices of bread)"/>
+      <param name="unit0-weight" value="200.0"/>
+      <param name="unit0-omit-food-description" value="false"/>
+    </portion-size>
+  </food>
   <food readyMealOption="true" code="CLAF" description="Clafoutis" ndnsCode="5618" groupCode="16">
     <portion-size method="guide-image" description="Use an image" imageUrl="portion/Gcake.jpg" useForRecipes="false">
       <param name="guide-image-id" value="Gcake"/>
@@ -5031,7 +5091,7 @@
       <param name="leftovers-image-set" value="chicken_sauce_leftovers"/>
     </portion-size>
   </food>
-  <food code="CORB" description="Courgette, boiled" ndnsCode="1734" groupCode="70">
+  <food code="CORB" description="Courgette / zucchini, boiled" ndnsCode="1734" groupCode="70">
     <portion-size method="as-served" description="Use an image" imageUrl="portion/cucs.jpg" useForRecipes="false">
       <param name="serving-image-set" value="cucs"/>
       <param name="leftovers-image-set" value="cucs_leftovers"/>
@@ -5043,7 +5103,7 @@
       <param name="unit0-omit-food-description" value="false"/>
     </portion-size>
   </food>
-  <food code="CORF" description="Courgette, fried" ndnsCode="9569" groupCode="70">
+  <food code="CORF" description="Courgette / zucchini, fried" ndnsCode="9569" groupCode="70">
     <portion-size method="as-served" description="Use an image" imageUrl="portion/cucs.jpg" useForRecipes="false">
       <param name="serving-image-set" value="cucs"/>
       <param name="leftovers-image-set" value="cucs_leftovers"/>
@@ -5083,7 +5143,7 @@
       <param name="guide-image-id" value="Gquav"/>
     </portion-size>
   </food>
-  <food readyMealOption="true" code="COSP" description="Courgette spaghetti, no oil" ndnsCode="1734" groupCode="70">
+  <food readyMealOption="true" code="COSP" description="Courgette / zucchini spaghetti, no oil" ndnsCode="1734" groupCode="70">
     <portion-size method="as-served" description="On a plate" imageUrl="portion/plspag5.jpg" useForRecipes="true">
       <param name="serving-image-set" value="plspag"/>
       <param name="leftovers-image-set" value="plspag_leftovers"/>
@@ -5520,7 +5580,7 @@
       <param name="unit0-omit-food-description" value="true"/>
     </portion-size>
   </food>
-  <food code="CRRW" description="Courgette, raw" ndnsCode="1733" groupCode="70">
+  <food code="CRRW" description="Courgette / zucchini, raw" ndnsCode="1733" groupCode="70">
     <portion-size method="as-served" description="Use an image" imageUrl="portion/cucs.jpg" useForRecipes="false">
       <param name="serving-image-set" value="cucs"/>
       <param name="leftovers-image-set" value="cucs_leftovers"/>
@@ -5765,6 +5825,14 @@
       <param name="unit0-name" value="croissants"/>
       <param name="unit0-weight" value="49.0"/>
       <param name="unit0-omit-food-description" value="true"/>
+    </portion-size>
+  </food>
+  <food code="CSSW" description="Cheese sandwich" ndnsCode="100001" groupCode="4">
+    <portion-size method="standard-portion" description="choose a standard portion" imageUrl="Images/portion/standard-portion.jpg" useForRecipes="false">
+      <param name="units-count" value="1"/>
+      <param name="unit0-name" value="sandwiches (made with two slices of bread)"/>
+      <param name="unit0-weight" value="157.0"/>
+      <param name="unit0-omit-food-description" value="false"/>
     </portion-size>
   </food>
   <food readyMealOption="false" code="CSTI" description="Chicken stir fry (meat and vegetables, no noodles / rice)" ndnsCode="5286" groupCode="45">
@@ -7312,6 +7380,14 @@
       <param name="unit2-name" value="large tubs"/>
       <param name="unit2-weight" value="400.0"/>
       <param name="unit2-omit-food-description" value="false"/>
+    </portion-size>
+  </food>
+  <food code="EMSW" description="Egg mayo sandwich" ndnsCode="100007" groupCode="4">
+    <portion-size method="standard-portion" description="choose a standard portion" imageUrl="Images/portion/standard-portion.jpg" useForRecipes="false">
+      <param name="units-count" value="1"/>
+      <param name="unit0-name" value="sandwiches (made with two slices of bread)"/>
+      <param name="unit0-weight" value="150.0"/>
+      <param name="unit0-omit-food-description" value="false"/>
     </portion-size>
   </food>
   <food readyMealOption="true" code="ENCH" description="Chicken enchiladas (includes homemade)" ndnsCode="2717" groupCode="45">
@@ -10288,6 +10364,14 @@
       <param name="skip-fill-level" value="false"/>
     </portion-size>
   </food>
+  <food code="HCSW" description="Ham and cheese sandwich" ndnsCode="100002" groupCode="4">
+    <portion-size method="standard-portion" description="choose a standard portion" imageUrl="Images/portion/standard-portion.jpg" useForRecipes="false">
+      <param name="units-count" value="1"/>
+      <param name="unit0-name" value="sandwiches (made with two slices of bread)"/>
+      <param name="unit0-weight" value="172.0"/>
+      <param name="unit0-omit-food-description" value="false"/>
+    </portion-size>
+  </food>
   <food code="HCWH" description="Hot chocolate, low calorie, made with whole milk" ndnsCode="8063" groupCode="93">
     <portion-size method="drink-scale" description="in a mug" imageUrl="portion/mugs.jpg" useForRecipes="false">
       <param name="drinkware-id" value="mugs"/>
@@ -10470,6 +10554,14 @@
       <param name="unit0-name" value="scoops of powder"/>
       <param name="unit0-weight" value="29.0"/>
       <param name="unit0-omit-food-description" value="true"/>
+    </portion-size>
+  </food>
+  <food code="HMSW" description="Ham sandwich" ndnsCode="100003" groupCode="4">
+    <portion-size method="standard-portion" description="choose a standard portion" imageUrl="Images/portion/standard-portion.jpg" useForRecipes="false">
+      <param name="units-count" value="1"/>
+      <param name="unit0-name" value="sandwiches (made with two slices of bread)"/>
+      <param name="unit0-weight" value="141.0"/>
+      <param name="unit0-omit-food-description" value="false"/>
     </portion-size>
   </food>
   <food sameAsBeforeOption="true" code="HMWN" description="Homemade wine, any type" ndnsCode="9246" groupCode="94">
@@ -13031,7 +13123,7 @@
       <param name="leftovers-image-set" value="rice_leftovers"/>
     </portion-size>
   </food>
-  <food readyMealOption="true" code="MEDS" description="Meat Dim Sum (Chinese dumplings)" ndnsCode="6156" groupCode="53">
+  <food readyMealOption="true" code="MEDS" description="Meat Dim Sum (Chinese dumplings)" ndnsCode="6156" groupCode="41">
     <portion-size method="standard-portion" description="Choose a standard portion" imageUrl="portion/standard-portion.jpg" useForRecipes="false">
       <param name="units-count" value="1"/>
       <param name="unit0-name" value="average dim sum"/>
@@ -14827,6 +14919,18 @@
       <param name="unit3-omit-food-description" value="true"/>
     </portion-size>
   </food>
+  <food code="OOLT" description="Oolong tea" ndnsCode="7000" groupCode="91">
+    <portion-size method="drink-scale" description="in a mug" imageUrl="portion/mugs.jpg" useForRecipes="false">
+      <param name="drinkware-id" value="mugs"/>
+      <param name="initial-fill-level" value="0.85"/>
+      <param name="skip-fill-level" value="false"/>
+    </portion-size>
+    <portion-size method="drink-scale" description="in a takeaway cup" imageUrl="portion/hotdrinks.jpg" useForRecipes="false">
+      <param name="drinkware-id" value="takeaway_cups_hot"/>
+      <param name="initial-fill-level" value="0.85"/>
+      <param name="skip-fill-level" value="true"/>
+    </portion-size>
+  </food>
   <food readyMealOption="true" code="OPFS" description="Baked potato / Jacket potato, skin eaten" ndnsCode="1834" groupCode="64">
     <portion-size method="as-served" description="Use an image" imageUrl="portion/potato_jacket.jpg" useForRecipes="false">
       <param name="serving-image-set" value="potato_jacket"/>
@@ -16099,12 +16203,22 @@
     </portion-size>
   </food>
   <food code="PMBR" description="Pom Bears, all flavours" ndnsCode="10000" groupCode="61">
-    <portion-size method="as-served" description="in a bowl" imageUrl="portion/crsp4.jpg" useForRecipes="false">
-      <param name="serving-image-set" value="crsp"/>
-      <param name="leftovers-image-set" value="crsp_leftovers"/>
+    <portion-size method="standard-portion" description="choose a standard portion" imageUrl="Images/portion/standard-portion.jpg" useForRecipes="false">
+      <param name="units-count" value="2"/>
+      <param name="unit0-name" value="multipack size bag"/>
+      <param name="unit0-weight" value="15.0"/>
+      <param name="unit0-omit-food-description" value="false"/>
+      <param name="unit1-name" value="standard single bag size"/>
+      <param name="unit1-weight" value="19.0"/>
+      <param name="unit1-omit-food-description" value="false"/>
     </portion-size>
-    <portion-size method="guide-image" description="in a bag" imageUrl="portion/Gcri.jpg" useForRecipes="false">
-      <param name="guide-image-id" value="Gcri"/>
+  </food>
+  <food code="PMSW" description="Prawn mayo sandwich" ndnsCode="100009" groupCode="4">
+    <portion-size method="standard-portion" description="choose a standard portion" imageUrl="Images/portion/standard-portion.jpg" useForRecipes="false">
+      <param name="units-count" value="1"/>
+      <param name="unit0-name" value="sandwiches (made with two slices of bread)"/>
+      <param name="unit0-weight" value="150.0"/>
+      <param name="unit0-omit-food-description" value="false"/>
     </portion-size>
   </food>
   <food code="PNAJ" description="Pineapple, tinned in juice" ndnsCode="2121" groupCode="20">
@@ -21036,6 +21150,14 @@
       <param name="units-count" value="1"/>
       <param name="unit0-name" value="tablespoons"/>
       <param name="unit0-weight" value="30.0"/>
+      <param name="unit0-omit-food-description" value="false"/>
+    </portion-size>
+  </food>
+  <food code="TMSW" description="Tuna mayo sandwich" ndnsCode="100008" groupCode="4">
+    <portion-size method="standard-portion" description="choose a standard portion" imageUrl="Images/portion/standard-portion.jpg" useForRecipes="false">
+      <param name="units-count" value="1"/>
+      <param name="unit0-name" value="sandwiches (made with two slices of bread)"/>
+      <param name="unit0-weight" value="150.0"/>
       <param name="unit0-omit-food-description" value="false"/>
     </portion-size>
   </food>

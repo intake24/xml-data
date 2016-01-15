@@ -389,6 +389,7 @@
     <food code="GCAB"/>
     <food code="WCBB"/>
     <food code="CAFR"/>
+    <food code="BKCH"/>
   </category>
   <category code="SLBC" description="Cake slices &amp; mini rolls" hidden="false">
     <food code="BTNB"/>
@@ -842,10 +843,10 @@
     <food code="CTCH"/>
   </category>
   <category code="COUR" description="Courgette" hidden="false">
-    <food code="CORB"/>
-    <food code="CORF"/>
-    <food code="COSP"/>
     <food code="CRRW"/>
+    <food code="COSP"/>
+    <food code="CORF"/>
+    <food code="CORB"/>
   </category>
   <category code="CRAB" description="Crab" hidden="false">
     <food code="STCK"/>
@@ -933,12 +934,12 @@
     <food code="FRAZ"/>
     <food code="LFCP"/>
     <food code="NIKN"/>
-    <food code="PMBR"/>
     <food code="WAKS"/>
     <food code="WALK"/>
     <food code="NACH"/>
     <food code="CHPU"/>
     <food code="RICR"/>
+    <food code="PMBR"/>
   </category>
   <category code="CRPS" description="Crisps / snacks / nuts" hidden="false">
     <food code="BOMB"/>
@@ -1820,11 +1821,11 @@
     <food code="CCNM"/>
     <food code="GTMK"/>
     <food code="COCR"/>
-    <subcategory code="MCRL"/>
     <subcategory code="CREM"/>
     <subcategory code="SHKS"/>
     <subcategory code="MHDK"/>
     <subcategory code="MDNK"/>
+    <subcategory code="MCRL"/>
   </category>
   <category sameAsBeforeOption="true" code="MDNK" description="Milk as a drink" hidden="false">
     <food code="OMLK"/>
@@ -1851,7 +1852,7 @@
     <food code="WMIH"/>
     <portion-size method="milk-in-a-hot-drink" description="No description" imageUrl="portion/placeholder.jpg" useForRecipes="false"> </portion-size>
   </category>
-  <category code="MCRL" description="Milk on cereal" hidden="false">
+  <category code="MCRL" description="Milk on cereal" hidden="true">
     <food code="CCNM"/>
     <food code="OMLK"/>
     <food code="LFSM"/>
@@ -2697,6 +2698,20 @@
     <subcategory code="PCKL"/>
     <subcategory code="COND"/>
   </category>
+  <category code="SAND" description="Sandwiches" hidden="false">
+    <food code="CSSW"/>
+    <food code="HMSW"/>
+    <food code="HCSW"/>
+    <food code="BNSW"/>
+    <food code="BLTS"/>
+    <food code="CKSW"/>
+    <food code="EMSW"/>
+    <food code="TMSW"/>
+    <food code="PMSW"/>
+    <food code="BFSW"/>
+    <food code="CBSW"/>
+    <food code="BESW"/>
+  </category>
   <category code="COND" description="Sauces / condiments / gravy / stock" hidden="false">
     <food code="APSE"/>
     <food code="CRNB"/>
@@ -3171,6 +3186,7 @@
     <food code="HTEA"/>
     <food code="CHAI"/>
     <food code="DCTE"/>
+    <food code="OOLT"/>
   </category>
   <category code="TFFS" description="Toffee / fudge / nougat" hidden="false">
     <food code="CFUG"/>

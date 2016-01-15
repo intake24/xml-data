@@ -1491,21 +1491,21 @@
 		<as-served-image weight="29.7" url="RstMt14.jpg" />
 	</as-served-set>
 	<as-served-set description="Melon" id="melon">
-		<as-served-image weight="58.05" url="Mel1.jpg" />
-		<as-served-image weight="83.45" url="Mel2.jpg" />
-		<as-served-image weight="119.96" url="Mel3.jpg" />
-		<as-served-image weight="172.44" url="Mel4.jpg" />
-		<as-served-image weight="247.89" url="Mel5.jpg" />
-		<as-served-image weight="356.34" url="Mel6.jpg" />
+		<as-served-image weight="46.4" url="Mel1.jpg" />
+		<as-served-image weight="66.7" url="Mel2.jpg" />
+		<as-served-image weight="95.8" url="Mel3.jpg" />
+		<as-served-image weight="137.8" url="Mel4.jpg" />
+		<as-served-image weight="198.1" url="Mel5.jpg" />
+		<as-served-image weight="284.7" url="Mel6.jpg" />
 	</as-served-set>
 	<as-served-set description="Melon (leftovers)" id="melon_leftovers">
-		<as-served-image weight="5.0" url="Mel8.jpg" />
-		<as-served-image weight="7.52" url="Mel9.jpg" />
-		<as-served-image weight="11.32" url="Mel10.jpg" />
-		<as-served-image weight="17.04" url="Mel11.jpg" />
-		<as-served-image weight="25.64" url="Mel12.jpg" />
-		<as-served-image weight="38.58" url="Mel13.jpg" />
-		<as-served-image weight="58.05" url="Mel14.jpg" />
+		<as-served-image weight="4.0" url="Mel8.jpg" />
+		<as-served-image weight="6.00" url="Mel9.jpg" />
+		<as-served-image weight="9.00" url="Mel10.jpg" />
+		<as-served-image weight="13.60" url="Mel11.jpg" />
+		<as-served-image weight="20.5" url="Mel12.jpg" />
+		<as-served-image weight="30.8" url="Mel13.jpg" />
+		<as-served-image weight="46.4" url="Mel14.jpg" />
 	</as-served-set>
 	<as-served-set description="Milk on cereal" id="milk_on_cereal">
 		<as-served-image weight="1.56" url="141.jpg" />

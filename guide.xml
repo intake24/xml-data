@@ -31,17 +31,17 @@
     <weight id="12" description="Morrisons mushy peas" value="145.0"/>
   </guide-image>
   <guide-image id="Gapl" description="(no description for guide image Gapl)">
-    <weight id="1" description="Apples" value="185.0"/>
-    <weight id="2" description="Apples" value="155.0"/>
-    <weight id="3" description="Apples" value="125.0"/>
-    <weight id="4" description="Apples" value="94.0"/>
+    <weight id="1" description="Apples" value="161.0"/>
+    <weight id="2" description="Apples" value="135.0"/>
+    <weight id="3" description="Apples" value="109.0"/>
+    <weight id="4" description="Apples" value="82.0"/>
   </guide-image>
   <guide-image id="Gban" description="(no description for guide image Gban)">
-    <weight id="1" description="Bananas 1 (smallest)" value="126.0"/>
-    <weight id="2" description="Bananas 2" value="176.0"/>
-    <weight id="3" description="Bananas 3" value="186.0"/>
-    <weight id="4" description="Bananas 4" value="218.0"/>
-    <weight id="5" description="Bananas 5 (largest)" value="242.0"/>
+    <weight id="1" description="Bananas 1 (smallest)" value="86.0"/>
+    <weight id="2" description="Bananas 2" value="120.0"/>
+    <weight id="3" description="Bananas 3" value="126.0"/>
+    <weight id="4" description="Bananas 4" value="148.0"/>
+    <weight id="5" description="Bananas 5 (largest)" value="165.0"/>
   </guide-image>
   <guide-image id="Gbcn" description="(no description for guide image Gbcn)">
     <weight id="1" description="Bacon" value="11.0"/>
@@ -528,11 +528,11 @@
     <weight id="4" description="Tea Cup 4" value="300.0"/>
   </guide-image>
   <guide-image id="Gorg" description="(no description for guide image Gorg)">
-    <weight id="1" description="Orange/Tangerines/Mandarins/Clementines 1 (smallest)" value="66.0"/>
-    <weight id="2" description="Orange/Tangerines/Mandarins/Clementines 2" value="98.0"/>
-    <weight id="3" description="Orange/Tangerines/Mandarins/Clementines 3" value="132.0"/>
-    <weight id="4" description="Orange/Tangerines/Mandarins/Clementines 4" value="222.0"/>
-    <weight id="5" description="Orange/Tangerines/Mandarins/Clementines 5 (largest)" value="294.0"/>
+    <weight id="1" description="Orange/Tangerines/Mandarins/Clementines 1 (smallest)" value="48.0"/>
+    <weight id="2" description="Orange/Tangerines/Mandarins/Clementines 2" value="71.0"/>
+    <weight id="3" description="Orange/Tangerines/Mandarins/Clementines 3" value="95.0"/>
+    <weight id="4" description="Orange/Tangerines/Mandarins/Clementines 4" value="160.0"/>
+    <weight id="5" description="Orange/Tangerines/Mandarins/Clementines 5 (largest)" value="212.0"/>
   </guide-image>
   <guide-image id="Gpiesaus" description="(no description for guide image Gpiesaus)">
     <weight id="1" description="Pies" value="148.0"/>
@@ -588,11 +588,11 @@
     <weight id="2" description="Pringles- small tube" value="43.0"/>
   </guide-image>
   <guide-image id="Gprs" description="(no description for guide image Gprs)">
-    <weight id="1" description="Pears" value="96.0"/>
-    <weight id="2" description="Pears" value="102.0"/>
-    <weight id="3" description="Pears" value="112.0"/>
-    <weight id="4" description="Pears" value="138.0"/>
-    <weight id="5" description="Pears" value="158.0"/>
+    <weight id="1" description="Pears" value="91.0"/>
+    <weight id="2" description="Pears" value="97.0"/>
+    <weight id="3" description="Pears" value="106.0"/>
+    <weight id="4" description="Pears" value="131.0"/>
+    <weight id="5" description="Pears" value="150.0"/>
   </guide-image>
   <guide-image id="Gquav" description="No description">
     <weight id="1" description="Quavers - Big Eat" value="34.0"/>
