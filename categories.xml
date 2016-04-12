@@ -12,105 +12,88 @@
   <category reasonableAmount="5000" code="ALCO" description="Alcopops" hidden="false">
     <food code="ALSD"/>
     <food code="APOP"/>
-    <food code="ALFR"/>
     <food code="DALC"/>
   </category>
   <category code="APLS" description="Apples" hidden="false">
+    <food code="EAPF"/>
+    <food code="APST"/>
     <food code="BRAE"/>
     <food code="BRAS"/>
     <food code="EAPL"/>
-    <food code="EAPF"/>
     <food code="GALA"/>
     <food code="GANS"/>
-    <food code="GONS"/>
     <food code="GOLD"/>
+    <food code="GONS"/>
     <food code="GSMI"/>
     <food code="GSNS"/>
     <food code="PINK"/>
     <food code="PINS"/>
     <food code="REDD"/>
     <food code="RENS"/>
-    <food code="APST"/>
   </category>
   <category code="BCNS" description="Bacon" hidden="false">
     <food code="VEGB"/>
+    <food code="BCGR"/>
+    <food code="SERR"/>
     <food code="BNSF"/>
     <food code="BNSG"/>
     <food code="BRKF"/>
     <food code="BRKG"/>
     <food code="PAND"/>
+    <food code="PARH"/>
     <food code="PNCE"/>
     <food code="PROS"/>
-    <food code="BCGR"/>
-    <food code="PARH"/>
-    <food code="SERR"/>
   </category>
   <category code="BBNS" description="Baked beans &amp; pulses" hidden="false">
-    <food code="BBCT"/>
     <food code="BBSS"/>
     <food code="BBTL"/>
-    <food code="BRDB"/>
-    <food code="BTBN"/>
-    <food code="HARB"/>
-    <food code="HEIN"/>
-    <food code="HBRS"/>
-    <food code="LNTL"/>
     <food code="MUNG"/>
-    <food code="PLBL"/>
     <food code="HBNS"/>
     <food code="ADUK"/>
-    <food code="BRLE"/>
-    <food code="PUL"/>
-    <food code="CANB"/>
     <food code="SPTP"/>
-    <food code="YLEN"/>
-    <food code="BOBE"/>
-    <food code="KDBN"/>
-    <food code="PINT"/>
-    <food code="BRBN"/>
     <food code="BEBE"/>
-    <food code="GRLE"/>
-    <food code="SOYB"/>
+    <food code="BBCT"/>
+    <food code="BRBN"/>
+    <food code="BRDB"/>
     <food code="CKPS"/>
+    <food code="HARB"/>
+    <food code="HBRS"/>
+    <food code="HEIN"/>
+    <food code="KDBN"/>
+    <food code="LNTL"/>
+    <food code="PLBL"/>
+    <food code="BOBE"/>
+    <food code="BRLE"/>
+    <food code="BTBN"/>
+    <food code="CANB"/>
+    <food code="GRLE"/>
+    <food code="PINT"/>
+    <food code="PULE"/>
+    <food code="SOYB"/>
+    <food code="YLEN"/>
   </category>
   <category code="BKDP" description="Baked potatoes" hidden="false">
-    <food code="OPFS"/>
-    <food code="OPSK"/>
+    <food code="PSWT"/>
     <food code="MCBP"/>
     <food code="MCNS"/>
-    <food code="CASA"/>
+    <food code="OPFS"/>
+    <food code="OPSK"/>
     <food code="YAMM"/>
-    <food code="PSWT"/>
+    <food code="CASA"/>
   </category>
   <category code="BBRG" description="Beef burgers" hidden="false">
-    <food code="BGSF"/>
-    <food code="BBFG"/>
     <food code="PPBU"/>
     <food code="BABU"/>
     <food code="LFBB"/>
-    <food code="BABB"/>
+    <food code="BBFG"/>
+    <food code="BGSF"/>
   </category>
   <category code="BDSH" description="Beef dishes" hidden="false">
     <food code="MBGV"/>
-    <food code="MBST"/>
-    <food code="SLGV"/>
-    <food code="STOV"/>
-    <food code="BFCY"/>
-    <food code="BFBA"/>
-    <food code="BFKO"/>
-    <food code="BFTM"/>
-    <food code="BFRJ"/>
-    <food code="BFJA"/>
-    <food code="BFMA"/>
-    <food code="BFDH"/>
-    <food code="BFPA"/>
-    <food code="MLAS"/>
     <food code="CHLI"/>
     <food code="BENH"/>
     <food code="BBUR"/>
-    <food code="BRKB"/>
     <food code="MMUS"/>
-    <food code="PRIB"/>
     <food code="BFCA"/>
     <food code="BEBO"/>
     <food code="CALF"/>
@@ -120,26 +103,39 @@
     <food code="BEST"/>
     <food code="BFWE"/>
     <food code="BEEF"/>
-    <food code="BCYC"/>
-    <food code="BFSF"/>
-    <food code="BFSM"/>
-    <food code="BFBU"/>
     <food code="BSLM"/>
-    <food code="PANB"/>
     <food code="CPRF"/>
     <food code="COTP"/>
     <food code="HPWW"/>
+    <food code="MBST"/>
+    <food code="MLAS"/>
+    <food code="PRIB"/>
+    <food code="SLGV"/>
+    <food code="BCYC"/>
+    <food code="BFBA"/>
+    <food code="BFBU"/>
+    <food code="BFCY"/>
+    <food code="BFDH"/>
+    <food code="BFJA"/>
+    <food code="BFKO"/>
+    <food code="BFMA"/>
+    <food code="BFPA"/>
+    <food code="BFRJ"/>
+    <food code="BFSF"/>
+    <food code="BFSM"/>
+    <food code="BFTM"/>
+    <food code="BRKB"/>
     <food code="CHCU"/>
   </category>
   <category reasonableAmount="5780" code="BEER" description="Beer/stout" hidden="false">
-    <food code="BENC"/>
     <food code="BBNC"/>
+    <food code="BENC"/>
+    <food code="GFBE"/>
     <food code="HOME"/>
+    <food code="IPAP"/>
     <food code="PALE"/>
     <food code="RANC"/>
     <food code="STNC"/>
-    <food code="IPAP"/>
-    <food code="GFBE"/>
     <portion-size method="drink-scale" description="No description" imageUrl="portion/placeholder.jpg" useForRecipes="false">
       <param name="drinkware-id" value="mugs"/>
       <param name="initial-fill-level" value="0.85"/>
@@ -152,23 +148,22 @@
     <food code="BTSA"/>
   </category>
   <category code="BERR" description="Berries" hidden="false">
-    <food code="STBR"/>
+    <food code="PHYS"/>
     <food code="BLUE"/>
+    <food code="GOOS"/>
     <food code="RASP"/>
-    <food code="BILB"/>
+    <food code="STBR"/>
+    <food code="BLAB"/>
+    <food code="BLKC"/>
+    <food code="CRAF"/>
     <food code="ELDE"/>
     <food code="LOGA"/>
-    <food code="GOOS"/>
-    <food code="PHYS"/>
     <food code="MULB"/>
-    <food code="CRAF"/>
-    <food code="BLKC"/>
     <food code="RDCU"/>
-    <food code="BLAB"/>
   </category>
   <category code="BSCT" description="Biscuits &amp; crackers" hidden="false">
-    <food code="MUCR"/>
     <food code="KCPS"/>
+    <food code="MUCR"/>
     <subcategory code="BCHS"/>
     <subcategory code="SYBT"/>
     <subcategory code="SWBC"/>
@@ -176,24 +171,24 @@
   <category code="BOLP" description="Boiled potatoes" hidden="false">
     <food code="NPBS"/>
     <food code="NPTB"/>
-    <food code="OPTB"/>
-    <food code="TATT"/>
-    <food code="YAMB"/>
     <food code="NPTC"/>
+    <food code="OPTB"/>
+    <food code="YAMB"/>
     <food code="SWPB"/>
+    <food code="BCAS"/>
   </category>
   <category code="BOIL" description="Boiled sweets" hidden="false">
-    <food code="BDSW"/>
+    <food code="FIFR"/>
     <food code="BDSS"/>
-    <food code="WERT"/>
-    <food code="PEDR"/>
+    <food code="BDSW"/>
+    <food code="CRGI"/>
+    <food code="HUMB"/>
     <food code="KOLA"/>
     <food code="MURM"/>
-    <food code="HUMB"/>
-    <food code="CRGI"/>
+    <food code="PEDR"/>
     <food code="RHCU"/>
+    <food code="WERT"/>
     <food code="LOLL"/>
-    <food code="FIFR"/>
   </category>
   <category code="BRED" description="Bread / crumpets / pancakes / yorkshire puddings" hidden="false">
     <food code="WELS"/>
@@ -210,39 +205,38 @@
     <subcategory code="CROU"/>
   </category>
   <category code="BRDR" description="Bread rolls &amp; bagels" hidden="false">
-    <food code="CIAB"/>
-    <food code="CRST"/>
-    <food code="HAMB"/>
-    <food code="SRLL"/>
-    <food code="WBUN"/>
-    <food code="WSUB"/>
-    <food code="TIGR"/>
-    <food code="BRIO"/>
-    <food code="GFCI"/>
     <food code="GFBG"/>
-    <food code="GFWR"/>
-    <food code="GFRB"/>
-    <food code="WHBN"/>
-    <food code="WHRL"/>
-    <food code="WHSB"/>
     <food code="FRUT"/>
     <food code="PLAI"/>
     <food code="SAVY"/>
     <food code="BAGS"/>
-    <food code="WRLL"/>
     <food code="GFBR"/>
-    <food code="SOUR"/>
     <food code="CTRO"/>
+    <food code="BRIO"/>
+    <food code="CIAB"/>
+    <food code="CRST"/>
+    <food code="GFCI"/>
+    <food code="GFRB"/>
+    <food code="GFWR"/>
+    <food code="HAMB"/>
+    <food code="SRLL"/>
+    <food code="WBUN"/>
+    <food code="WHBN"/>
+    <food code="WHRL"/>
+    <food code="WHSB"/>
+    <food code="WRLL"/>
+    <food code="WSUB"/>
+    <food code="SOUR"/>
   </category>
   <category code="BCHS" description="Breadsticks" hidden="false">
     <food code="BRDS"/>
-    <food code="CHST"/>
-    <food code="DLDU"/>
-    <food code="CHDI"/>
     <food code="GRIS"/>
     <food code="GFBS"/>
-    <food code="CHSW"/>
     <food code="CHTW"/>
+    <food code="CHDI"/>
+    <food code="CHST"/>
+    <food code="CHSW"/>
+    <food code="DLDU"/>
   </category>
   <category code="CRLS" description="Breakfast cereals" hidden="false">
     <subcategory code="CRBR"/>
@@ -260,97 +254,123 @@
   <category code="BRCL" description="Broccoli" hidden="false">
     <food code="BRCR"/>
     <food code="BRFB"/>
+    <food code="BFMI"/>
+    <food code="BCFL"/>
   </category>
   <category code="TBBR" description="Brown bread toasted" hidden="false">
-    <food code="BRWT"/>
-    <food code="GRNT"/>
     <food code="WHTT"/>
     <food code="TBOB"/>
+    <food code="BRWT"/>
+    <food code="GRNT"/>
     <food code="WHLT"/>
     <food code="GBTS"/>
   </category>
   <category code="BBFS" description="Brown, bbq, fruity sauces" hidden="false">
+    <food code="BBQS"/>
+    <food code="BRSA"/>
     <food code="DADD"/>
-    <food code="HPSA"/>
-    <food code="FTSC"/>
     <food code="JDSA"/>
     <food code="REGE"/>
-    <food code="BWNS"/>
-    <food code="BRSA"/>
-    <food code="BBQS"/>
   </category>
   <category code="BBRD" description="Brown, wholemeal &amp; 50:50 bread" hidden="false">
-    <food code="RYEB"/>
     <food code="SORE"/>
+    <food code="FFTY"/>
+    <food code="MALT"/>
+    <food code="WHTG"/>
+    <food code="SODB"/>
+    <food code="BSLC"/>
     <food code="GFBB"/>
     <food code="GFGB"/>
-    <food code="FFTY"/>
-    <food code="WSLC"/>
-    <food code="BSLC"/>
     <food code="GSLC"/>
-    <food code="SPLT"/>
-    <food code="MALT"/>
-    <food code="OABR"/>
-    <food code="WHTG"/>
+    <food code="RYEB"/>
+    <food code="WSLC"/>
     <food code="GFSE"/>
-    <food code="SODB"/>
-    <food code="WFSW"/>
-    <food code="WBSW"/>
-    <food code="BSWW"/>
+    <food code="OABR"/>
+    <food code="SPLT"/>
+    <food code="NZVB"/>
+    <food code="NZMB"/>
+    <food code="NZFB"/>
+    <food code="NZYA"/>
+    <food code="NZRM"/>
+    <food code="NZRY"/>
+    <food code="NZQU"/>
+    <food code="NZBV"/>
+    <food code="NZUI"/>
+    <food code="NZNF"/>
+    <food code="NZLM"/>
+    <food code="NZSI"/>
+    <food code="NZLN"/>
+    <food code="NZHS"/>
+    <food code="NZCB"/>
+    <food code="NZLI"/>
+    <food code="NZSU"/>
+    <food code="NZSL"/>
+    <food code="NZLB"/>
+    <food code="NZWN"/>
+    <food code="NZWB"/>
+    <food code="NZWP"/>
+    <food code="NZWS"/>
+    <food code="NZFW"/>
+    <food code="NZWF"/>
     <subcategory code="TBBR"/>
   </category>
   <category code="BUNS" description="Buns and teacakes" hidden="false">
-    <food code="HCRB"/>
     <food code="ROCK"/>
-    <food code="TTCK"/>
-    <food code="IBUN"/>
-    <food code="ECFH"/>
     <food code="CHCA"/>
-    <food code="ECFN"/>
     <food code="FRBN"/>
-    <food code="COMA"/>
-    <food code="BRIO"/>
     <food code="LARC"/>
-    <food code="MACA"/>
+    <food code="BANB"/>
     <food code="BELG"/>
+    <food code="BRIO"/>
     <food code="CHEB"/>
     <food code="CNTB"/>
+    <food code="COMA"/>
+    <food code="ECFH"/>
+    <food code="ECFN"/>
     <food code="ECLE"/>
-    <food code="BANB"/>
+    <food code="HCRB"/>
+    <food code="IBUN"/>
+    <food code="TTCK"/>
     <food code="BUTF"/>
+    <food code="MACA"/>
     <food code="WHOO"/>
+    <food code="NZSB"/>
   </category>
   <category code="BRGB" description="Burger in a bun" hidden="false">
+    <food code="BGMA"/>
+    <food code="BMWH"/>
+    <food code="BUBN"/>
     <food code="CBTA"/>
     <food code="HBTA"/>
+    <food code="MCCB"/>
     <food code="QPHC"/>
     <food code="QPTA"/>
-    <food code="BGMA"/>
-    <food code="MCCB"/>
-    <food code="BUBN"/>
     <food code="RUST"/>
-    <food code="BMWH"/>
     <food code="FIOF"/>
   </category>
   <category code="BRGS" description="Burgers" hidden="false">
-    <food code="PBLF"/>
     <food code="BEBU"/>
     <food code="LABB"/>
+    <food code="PBLF"/>
     <subcategory code="BBRG"/>
     <subcategory code="BRGB"/>
     <subcategory code="BRGO"/>
   </category>
   <category code="BUTR" description="Butter" hidden="false">
-    <food code="BTST"/>
-    <food code="BTUS"/>
-    <food code="LURP"/>
-    <food code="LPKU"/>
-    <food code="GHEE"/>
     <food code="BRAN"/>
     <food code="ALBU"/>
     <food code="CHNB"/>
     <food code="HZLB"/>
+    <food code="BTST"/>
+    <food code="BTUS"/>
+    <food code="LPKU"/>
+    <food code="LURP"/>
+    <food code="GHEE"/>
     <food code="SESB"/>
+    <food code="NZBF"/>
+    <food code="NZSW"/>
+    <food code="NZWA"/>
+    <food code="NZSF"/>
   </category>
   <category code="BTTR" description="Butter / margarine / oils" hidden="false">
     <subcategory code="MRGN"/>
@@ -360,54 +380,51 @@
   </category>
   <category code="CBBG" description="Cabbage" hidden="false">
     <food code="RCBP"/>
-    <food code="RCBR"/>
-    <food code="CHCB"/>
-    <food code="PKCH"/>
     <food code="SAUK"/>
     <food code="KALB"/>
     <food code="KALE"/>
-    <food code="RACA"/>
-    <food code="BOCA"/>
-    <food code="GCAR"/>
-    <food code="GCAB"/>
+    <food code="RCBR"/>
     <food code="WCBB"/>
     <food code="BKCH"/>
+    <food code="BOCA"/>
+    <food code="CHCB"/>
+    <food code="GCAB"/>
+    <food code="GCAR"/>
+    <food code="PKCH"/>
+    <food code="RACA"/>
   </category>
   <category code="SLBC" description="Cake slices &amp; mini rolls" hidden="false">
-    <food code="BTNB"/>
-    <food code="CHMR"/>
     <food code="CHSL"/>
-    <food code="ILSL"/>
     <food code="CCAS"/>
-    <food code="MDCK"/>
-    <food code="CTSL"/>
-    <food code="GFMC"/>
-    <food code="LMDR"/>
-    <food code="GFLM"/>
-    <food code="SNOM"/>
     <food code="LFCS"/>
     <food code="PIDA"/>
-    <food code="ANSL"/>
-    <food code="BLON"/>
     <food code="CNUB"/>
     <food code="CHOB"/>
-    <food code="TIFF"/>
-    <food code="FOND"/>
     <food code="GFCB"/>
-    <food code="GFRR"/>
-    <food code="RKYR"/>
     <food code="MOON"/>
+    <food code="CHMR"/>
+    <food code="GFLM"/>
+    <food code="GFMC"/>
+    <food code="GFRR"/>
+    <food code="ILSL"/>
+    <food code="LMDR"/>
+    <food code="MDCK"/>
+    <food code="RKYR"/>
     <food code="ALSL"/>
+    <food code="ANSL"/>
+    <food code="BLON"/>
+    <food code="SNOM"/>
+    <food code="TIFF"/>
     <food code="TUNI"/>
   </category>
   <category code="CAKE" description="Cakes / buns / pastries / fruit pies" hidden="false">
-    <food code="APPC"/>
     <food code="EVEP"/>
     <food code="CKRC"/>
     <food code="PLCA"/>
+    <food code="COFF"/>
+    <food code="APPC"/>
     <food code="CATC"/>
     <food code="CHFF"/>
-    <food code="COFF"/>
     <subcategory code="BUNS"/>
     <subcategory code="FRTP"/>
     <subcategory code="FRYC"/>
@@ -419,50 +436,55 @@
     <subcategory code="DGNT"/>
   </category>
   <category code="OILY" description="Canned fish" hidden="false">
-    <food code="ANCT"/>
+    <food code="MKTS"/>
+    <food code="MKTB"/>
+    <food code="PILB"/>
+    <food code="PILO"/>
+    <food code="TUNM"/>
     <food code="ANCH"/>
+    <food code="ANCT"/>
+    <food code="MKTO"/>
+    <food code="PILC"/>
     <food code="SMNB"/>
     <food code="SMNO"/>
-    <food code="SRBR"/>
     <food code="SROI"/>
     <food code="SRTM"/>
     <food code="TNAB"/>
     <food code="TNAO"/>
     <food code="TUNW"/>
-    <food code="MKTS"/>
-    <food code="MKTB"/>
-    <food code="MKTO"/>
-    <food code="PILB"/>
-    <food code="PILO"/>
-    <food code="PILC"/>
-    <food code="TUNM"/>
     <food code="CRCA"/>
+    <food code="NZKA"/>
+    <food code="SCNZ"/>
+    <food code="SANZ"/>
+    <food code="TSNZ"/>
+    <food code="CSNZ"/>
+    <food code="SRBR"/>
   </category>
   <category code="CAND" description="Canned fruit" hidden="false">
-    <food code="APRJ"/>
-    <food code="APRC"/>
-    <food code="GFRS"/>
-    <food code="PCHJ"/>
-    <food code="PNAJ"/>
-    <food code="PAPS"/>
     <food code="GFRU"/>
-    <food code="FPFI"/>
-    <food code="CAMA"/>
-    <food code="CAPL"/>
-    <food code="BRCA"/>
-    <food code="CPCH"/>
     <food code="PRNJ"/>
     <food code="PRNC"/>
-    <food code="CARC"/>
-    <food code="PSCS"/>
-    <food code="PRSJ"/>
-    <food code="CBLA"/>
-    <food code="CABL"/>
-    <food code="CACH"/>
-    <food code="CAST"/>
-    <food code="CAGO"/>
+    <food code="APRC"/>
+    <food code="APRJ"/>
+    <food code="CPCH"/>
     <food code="FSSF"/>
     <food code="FTSS"/>
+    <food code="GFRS"/>
+    <food code="PAPS"/>
+    <food code="PCHJ"/>
+    <food code="PNAJ"/>
+    <food code="PRSJ"/>
+    <food code="PSCS"/>
+    <food code="BRCA"/>
+    <food code="CABL"/>
+    <food code="CACH"/>
+    <food code="CAGO"/>
+    <food code="CAMA"/>
+    <food code="CAPL"/>
+    <food code="CARC"/>
+    <food code="CAST"/>
+    <food code="CBLA"/>
+    <food code="FPFI"/>
   </category>
   <category code="CAPU" description="Cappuccino" hidden="false">
     <food code="CASE"/>
@@ -478,34 +500,33 @@
     <food code="CANC"/>
   </category>
   <category code="CRTS" description="Carrots &amp; parsnips" hidden="false">
-    <food code="YCRR"/>
-    <food code="YCFB"/>
+    <food code="PSNR"/>
+    <food code="OCRO"/>
+    <food code="OCFB"/>
     <food code="OCRR"/>
     <food code="PSNB"/>
-    <food code="PSNR"/>
-    <food code="PRSR"/>
-    <food code="OCFB"/>
+    <food code="YCFB"/>
+    <food code="YCRR"/>
     <food code="CARF"/>
-    <food code="OCRO"/>
     <food code="CASM"/>
+    <food code="PRSR"/>
   </category>
   <category code="CRBR" description="Cereal bars" hidden="false">
-    <food code="BELV"/>
     <food code="NUTR"/>
     <food code="HOCB"/>
-    <food code="CHWC"/>
-    <food code="NVCB"/>
-    <food code="JDCB"/>
-    <food code="CPCB"/>
-    <food code="FRCB"/>
-    <food code="CNCB"/>
+    <food code="SQUB"/>
+    <food code="OATB"/>
+    <food code="BELV"/>
+    <food code="CCSB"/>
     <food code="CFCB"/>
+    <food code="CHWC"/>
+    <food code="CNCB"/>
+    <food code="CPCB"/>
     <food code="CRCB"/>
     <food code="ELEV"/>
-    <food code="SQUB"/>
-    <food code="CCSB"/>
+    <food code="FRCB"/>
+    <food code="NVCB"/>
     <food code="RKCB"/>
-    <food code="OATB"/>
   </category>
   <category code="CHSE" description="Cheese &amp; cheese products" hidden="false">
     <food code="BCGR"/>
@@ -532,9 +553,9 @@
   </category>
   <category code="SPRD" description="Cheese spreads, triangles, slices &amp; strings" hidden="false">
     <food code="CTRF"/>
+    <food code="CSTR"/>
     <food code="CHSP"/>
     <food code="CSLF"/>
-    <food code="CSTR"/>
     <food code="CSLI"/>
     <food code="CSPL"/>
   </category>
@@ -544,33 +565,32 @@
     <food code="FROZ"/>
   </category>
   <category code="GUMS" description="Chewing gum" hidden="false">
-    <food code="CGMS"/>
     <food code="CGUM"/>
     <food code="WGCG"/>
     <food code="AIRW"/>
+    <food code="CGMS"/>
   </category>
   <category code="CHEW" description="Chewy sweets" hidden="false">
-    <food code="SKIT"/>
-    <food code="STAR"/>
-    <food code="LQRC"/>
-    <food code="LALS"/>
-    <food code="PCRM"/>
     <food code="CHYB"/>
     <food code="FRLA"/>
-    <food code="VIMS"/>
+    <food code="LALS"/>
+    <food code="LQRC"/>
+    <food code="PCRM"/>
+    <food code="SKIT"/>
+    <food code="STAR"/>
     <food code="PNMX"/>
   </category>
   <category code="MFGR" description="Chicken / turkey nuggets, fingers, goujons" hidden="false">
-    <food code="CPTA"/>
     <food code="TPBG"/>
-    <food code="MCNU"/>
-    <food code="PCCH"/>
-    <food code="CSEL"/>
-    <food code="CPBG"/>
-    <food code="GFBC"/>
-    <food code="GFNT"/>
     <food code="CFFO"/>
     <food code="CHFG"/>
+    <food code="CPBG"/>
+    <food code="CPTA"/>
+    <food code="CSEL"/>
+    <food code="GFBC"/>
+    <food code="GFNT"/>
+    <food code="MCNU"/>
+    <food code="PCCH"/>
   </category>
   <category code="CDSH" description="Chicken dishes" hidden="false">
     <food code="KIEV"/>
@@ -578,46 +598,46 @@
     <food code="SATY"/>
     <food code="CHPK"/>
     <food code="CHCH"/>
-    <food code="CCVB"/>
-    <food code="CCBC"/>
     <food code="ENCH"/>
     <food code="FAJI"/>
-    <food code="CCDH"/>
     <food code="CHGR"/>
     <food code="CBUR"/>
-    <food code="CHKE"/>
-    <food code="CHLV"/>
     <food code="CHSG"/>
-    <food code="CKCS"/>
     <food code="PAEL"/>
-    <food code="MKIE"/>
     <food code="CHHO"/>
     <food code="COQA"/>
     <food code="CHKF"/>
-    <food code="CCCB"/>
+    <food code="CKCS"/>
     <food code="CCBA"/>
+    <food code="CCBC"/>
     <food code="CCBH"/>
-    <food code="KUNG"/>
-    <food code="CSTI"/>
-    <food code="CHSF"/>
+    <food code="CCCB"/>
+    <food code="CCDH"/>
     <food code="CCJA"/>
-    <food code="CHKB"/>
     <food code="CCKO"/>
     <food code="CCMA"/>
     <food code="CCPA"/>
     <food code="CCRJ"/>
-    <food code="CCTM"/>
-    <food code="FAJC"/>
     <food code="CCST"/>
+    <food code="CCTM"/>
+    <food code="CCVB"/>
+    <food code="CHKB"/>
+    <food code="CHKE"/>
+    <food code="CHLV"/>
+    <food code="CHSF"/>
+    <food code="CSTI"/>
+    <food code="FAJC"/>
+    <food code="KUNG"/>
+    <food code="MKIE"/>
   </category>
   <category code="BRGO" description="Chicken/turkey/vegetable burger" hidden="false">
     <food code="CBBL"/>
     <food code="CBGF"/>
-    <food code="TBSF"/>
     <food code="VBGF"/>
     <food code="MACH"/>
     <food code="MCCS"/>
     <food code="QQPO"/>
+    <food code="TBSF"/>
   </category>
   <category code="CHIS" description="Chilli sauce" hidden="false">
     <food code="CHLL"/>
@@ -625,144 +645,136 @@
     <food code="PERI"/>
   </category>
   <category code="C001" description="Chips" hidden="false">
+    <food code="SWPF"/>
+    <food code="CASF"/>
+    <food code="CRFG"/>
+    <food code="MCCH"/>
+    <food code="MWCH"/>
+    <food code="FCOB"/>
     <food code="HOOC"/>
     <food code="FCFO"/>
-    <food code="FCOB"/>
-    <food code="MWCH"/>
-    <food code="MCCH"/>
-    <food code="CASF"/>
-    <food code="SWPF"/>
-    <food code="CRFG"/>
     <subcategory code="TCHI"/>
   </category>
   <category code="CHOI" description="Choc ices" hidden="false">
-    <food code="LCHC"/>
-    <food code="CHCI"/>
     <food code="HOCI"/>
+    <food code="CHCI"/>
+    <food code="LCHC"/>
   </category>
   <category code="BARS" description="Chocolate bars" hidden="false">
     <food code="MNCH"/>
-    <food code="BLOC"/>
-    <food code="FRDO"/>
-    <food code="KBNO"/>
-    <food code="LION"/>
-    <food code="MWAY"/>
-    <food code="ROLO"/>
-    <food code="SNIC"/>
-    <food code="CWHB"/>
-    <food code="TOBL"/>
     <food code="CCPR"/>
-    <food code="FTNT"/>
-    <food code="MKYB"/>
-    <food code="CDMB"/>
-    <food code="CDMS"/>
-    <food code="MIKA"/>
-    <food code="HERS"/>
-    <food code="GNBL"/>
-    <food code="GNBP"/>
-    <food code="BOUN"/>
-    <food code="RECU"/>
-    <food code="FRCA"/>
-    <food code="MARS"/>
-    <food code="KTKT"/>
     <food code="KKPB"/>
     <food code="KKCH"/>
-    <food code="BOST"/>
-    <food code="BNTI"/>
     <food code="FUDG"/>
-    <food code="CNUT"/>
+    <food code="DAIM"/>
+    <food code="DFMB"/>
+    <food code="DRFT"/>
+    <food code="GALC"/>
+    <food code="TWIX"/>
+    <food code="DIAB"/>
+    <food code="AERO"/>
+    <food code="BLOC"/>
+    <food code="BNTI"/>
+    <food code="BOST"/>
+    <food code="BOUN"/>
+    <food code="CDMB"/>
+    <food code="CDMS"/>
     <food code="CHOM"/>
+    <food code="CNCH"/>
+    <food code="CNUT"/>
+    <food code="CPLN"/>
     <food code="CRMI"/>
     <food code="CRWH"/>
-    <food code="CNCH"/>
-    <food code="CWRL"/>
-    <food code="DAIM"/>
-    <food code="DAIR"/>
-    <food code="DFMB"/>
-    <food code="DEKR"/>
-    <food code="DRFT"/>
-    <food code="FLAK"/>
-    <food code="GALC"/>
-    <food code="GALX"/>
-    <food code="PCNC"/>
-    <food code="CPLN"/>
-    <food code="TFFE"/>
-    <food code="TWRL"/>
-    <food code="TOPC"/>
-    <food code="TWIX"/>
+    <food code="CWHB"/>
     <food code="CWHS"/>
+    <food code="CWRL"/>
+    <food code="DAIR"/>
+    <food code="FLAK"/>
+    <food code="FRDO"/>
+    <food code="FTNT"/>
+    <food code="GALX"/>
+    <food code="GNBL"/>
+    <food code="GNBP"/>
+    <food code="HERS"/>
+    <food code="KTKT"/>
+    <food code="LION"/>
+    <food code="MARS"/>
+    <food code="MIKA"/>
+    <food code="MKYB"/>
+    <food code="MWAY"/>
+    <food code="PCNC"/>
+    <food code="RECU"/>
+    <food code="ROLO"/>
+    <food code="SNIC"/>
+    <food code="TFFE"/>
+    <food code="TOBL"/>
+    <food code="TWRL"/>
     <food code="WMKY"/>
-    <food code="AERO"/>
     <food code="YOIE"/>
-    <food code="KIND"/>
-    <food code="DIAB"/>
+    <food code="FRCA"/>
   </category>
   <category code="CBAR" description="Chocolate bars / chocolate sweets" hidden="false">
-    <food code="CRWB"/>
     <food code="BUBB"/>
-    <food code="CEGM"/>
-    <food code="CAEG"/>
     <food code="CEGG"/>
+    <food code="CAEG"/>
+    <food code="CEGM"/>
     <subcategory code="CHCS"/>
     <subcategory code="BARS"/>
     <subcategory code="CSWT"/>
   </category>
   <category code="CHSB" description="Chocolate covered biscuits" hidden="false">
-    <food code="CHTC"/>
-    <food code="FING"/>
-    <food code="CBSN"/>
-    <food code="CHMH"/>
-    <food code="CSBF"/>
     <food code="CSBC"/>
-    <food code="CSBW"/>
     <food code="TNCW"/>
     <food code="MIKD"/>
-    <food code="CLBB"/>
-    <food code="KTKT"/>
     <food code="CHCO"/>
+    <food code="CBSN"/>
+    <food code="CHMH"/>
+    <food code="CHTC"/>
+    <food code="CSBF"/>
+    <food code="CSBW"/>
+    <food code="FING"/>
+    <food code="KTKT"/>
+    <food code="NZMA"/>
+    <food code="NZMI"/>
+    <food code="NZSQ"/>
   </category>
   <category code="CSWT" description="Chocolate covered sweets / nuts / raisins" hidden="false">
+    <food code="MCRS"/>
+    <food code="MALB"/>
+    <food code="CCNT"/>
     <food code="CSHP"/>
-    <food code="MNMP"/>
-    <food code="SMRT"/>
-    <food code="WSHP"/>
     <food code="MBTN"/>
     <food code="MLTR"/>
+    <food code="MNMP"/>
     <food code="MNMS"/>
     <food code="MNST"/>
-    <food code="WBTN"/>
-    <food code="REVE"/>
     <food code="REPI"/>
-    <food code="MCRS"/>
-    <food code="CCNT"/>
-    <food code="MALB"/>
+    <food code="REVE"/>
+    <food code="SMRT"/>
+    <food code="WBTN"/>
+    <food code="WSHP"/>
   </category>
   <category code="CHOS" description="Chocolate spread" hidden="false">
-    <food code="CHNT"/>
     <food code="CHOC"/>
+    <food code="CHNT"/>
     <food code="PBAC"/>
   </category>
   <category code="CHCS" description="Chocolates e.g. roses, quality street" hidden="false">
-    <food code="EIGT"/>
-    <food code="CFAF"/>
-    <food code="LIND"/>
-    <food code="THNT"/>
-    <food code="SEGG"/>
-    <food code="MATC"/>
-    <food code="MATO"/>
-    <food code="TCHO"/>
-    <food code="HERO"/>
-    <food code="CELE"/>
-    <food code="LNBL"/>
     <food code="ELSH"/>
+    <food code="CELE"/>
+    <food code="CFAF"/>
+    <food code="HERO"/>
+    <food code="LIND"/>
+    <food code="LNBL"/>
+    <food code="SEGG"/>
   </category>
   <category code="CHTN" description="Chutney" hidden="false">
     <food code="MCHS"/>
-    <food code="TCHS"/>
-    <food code="CCHS"/>
     <food code="OCHT"/>
-    <food code="VCHS"/>
     <food code="LIPI"/>
+    <food code="CCHS"/>
+    <food code="TCHS"/>
+    <food code="VCHS"/>
   </category>
   <category reasonableAmount="5780" code="CIDR" description="Cider" hidden="false">
     <food code="DCCN"/>
@@ -771,25 +783,25 @@
     <food code="SWCD"/>
   </category>
   <category code="CFFS" description="Coffee" hidden="false">
-    <food code="CFFB"/>
     <food code="ICED"/>
     <food code="DECO"/>
+    <food code="CFFB"/>
     <subcategory code="MOCA"/>
     <subcategory code="LATE"/>
     <subcategory code="CAPU"/>
   </category>
   <category code="COLE" description="Coleslaw" hidden="false">
-    <food code="CLWL"/>
     <food code="CLWH"/>
+    <food code="CLWL"/>
   </category>
   <category code="CONF" description="Confectionery / sweets" hidden="false">
-    <food code="SHER"/>
+    <food code="HALV"/>
+    <food code="TURD"/>
     <food code="MARZ"/>
     <food code="RAIN"/>
-    <food code="HNCB"/>
-    <food code="HALV"/>
+    <food code="SHER"/>
     <food code="FLOS"/>
-    <food code="TURD"/>
+    <food code="HNCB"/>
     <subcategory code="BOIL"/>
     <subcategory code="CHEW"/>
     <subcategory code="GUMS"/>
@@ -799,29 +811,29 @@
     <subcategory code="TFFS"/>
   </category>
   <category code="CKES" description="Cookies" hidden="false">
+    <food code="CKSO"/>
     <food code="CKSC"/>
     <food code="CKSN"/>
-    <food code="CKSO"/>
-    <food code="ORCO"/>
     <food code="GFCO"/>
     <food code="GFOC"/>
+    <food code="ORCO"/>
   </category>
   <category code="CKGO" description="Cooking oils" hidden="false">
     <food code="COIL"/>
+    <food code="GRAO"/>
     <food code="GOOD"/>
     <food code="OLVE"/>
     <food code="PALM"/>
-    <food code="RPOI"/>
     <food code="ROIL"/>
+    <food code="RPOI"/>
     <food code="SNFL"/>
     <food code="VEGO"/>
     <food code="CHOL"/>
-    <food code="SESO"/>
-    <food code="NUTO"/>
-    <food code="LINO"/>
     <food code="HAZO"/>
-    <food code="GRAO"/>
+    <food code="LINO"/>
+    <food code="NUTO"/>
     <food code="POPO"/>
+    <food code="SESO"/>
   </category>
   <category code="COTC" description="Cottage cheese" hidden="false">
     <food code="CCFL"/>
@@ -829,104 +841,107 @@
     <food code="CTCH"/>
   </category>
   <category code="COUR" description="Courgette" hidden="false">
-    <food code="CRRW"/>
     <food code="COSP"/>
     <food code="CORF"/>
     <food code="CORB"/>
+    <food code="CRRW"/>
   </category>
   <category code="CRAB" description="Crab" hidden="false">
-    <food code="STCK"/>
     <food code="CRBO"/>
+    <food code="STCK"/>
+    <food code="RWCR"/>
   </category>
   <category code="CRKS" description="Crackers" hidden="false">
+    <food code="WCRC"/>
+    <food code="EXLC"/>
     <food code="CHDS"/>
     <food code="CRCR"/>
+    <food code="GFCK"/>
     <food code="JACB"/>
+    <food code="JPRC"/>
     <food code="RITZ"/>
     <food code="SLTN"/>
-    <food code="TUCO"/>
+    <food code="SPCR"/>
     <food code="WAFR"/>
     <food code="WTRB"/>
-    <food code="WCRC"/>
-    <food code="SPCR"/>
-    <food code="JPRC"/>
-    <food code="GFCK"/>
+    <food code="CRBR"/>
     <food code="FARC"/>
     <food code="MATZ"/>
-    <food code="EXLC"/>
-    <food code="CRBR"/>
-    <food code="WHCR"/>
     <food code="RCRB"/>
-    <food code="TUCS"/>
+    <food code="WHCR"/>
+    <food code="NZWC"/>
+    <food code="NZCR"/>
+    <food code="NZCS"/>
+    <food code="NZSE"/>
+    <food code="NZCM"/>
+    <food code="NZSA"/>
+    <food code="NZHP"/>
+    <food code="NZSN"/>
+    <food code="NZRA"/>
+    <food code="NZRV"/>
+    <food code="BZCB"/>
   </category>
   <category code="CREM" description="Cream" hidden="false">
-    <food code="SCRM"/>
-    <food code="HFFR"/>
+    <food code="LFCR"/>
+    <food code="CRFR"/>
     <food code="DBCR"/>
     <food code="ELML"/>
     <food code="ELMS"/>
-    <food code="WCRF"/>
+    <food code="HFFR"/>
+    <food code="SCRM"/>
     <food code="SNCR"/>
     <food code="SRCR"/>
     <food code="WCRA"/>
+    <food code="WCRF"/>
     <food code="CHCM"/>
-    <food code="LFCR"/>
-    <food code="CRFR"/>
     <food code="COCR"/>
+    <food code="NZCW"/>
+    <food code="NZDB"/>
   </category>
   <category code="CRMC" description="Cream cheese" hidden="false">
     <food code="BOUR"/>
     <food code="BSLI"/>
     <food code="CCGH"/>
     <food code="FFCC"/>
-    <food code="PHSS"/>
     <food code="LFCC"/>
+    <food code="PHSS"/>
+    <food code="NZEE"/>
   </category>
   <category code="CRSP" description="Crisps &amp; snacks" hidden="false">
-    <food code="CPST"/>
-    <food code="FNFR"/>
-    <food code="PRZL"/>
-    <food code="PTPF"/>
-    <food code="TWIG"/>
-    <food code="WCRN"/>
-    <food code="MCSP"/>
-    <food code="PRNG"/>
-    <food code="BDCP"/>
     <food code="PKSC"/>
-    <food code="PRIN"/>
-    <food code="CCSP"/>
-    <food code="DCSP"/>
-    <food code="PCSP"/>
-    <food code="SCSP"/>
-    <food code="TCCP"/>
-    <food code="TTCP"/>
-    <food code="MNCD"/>
-    <food code="MNCR"/>
-    <food code="SPRA"/>
     <food code="SKIP"/>
-    <food code="WOTS"/>
-    <food code="CHEE"/>
-    <food code="COSN"/>
-    <food code="HPSC"/>
-    <food code="SEAB"/>
-    <food code="KETT"/>
-    <food code="TYRE"/>
     <food code="WKLI"/>
-    <food code="WKSB"/>
     <food code="VELV"/>
     <food code="QUAV"/>
-    <food code="VEGC"/>
+    <food code="NACH"/>
+    <food code="CHEE"/>
+    <food code="CPST"/>
+    <food code="DCSP"/>
+    <food code="KETT"/>
+    <food code="MNCD"/>
+    <food code="MNCR"/>
+    <food code="PMBR"/>
+    <food code="PRIN"/>
+    <food code="PRZL"/>
+    <food code="PTPF"/>
+    <food code="TTCP"/>
+    <food code="WCRN"/>
+    <food code="CHPU"/>
+    <food code="RICR"/>
     <food code="SPCP"/>
-    <food code="DISC"/>
+    <food code="BDCP"/>
+    <food code="CCSP"/>
+    <food code="FNFR"/>
     <food code="FRAZ"/>
     <food code="LFCP"/>
     <food code="NIKN"/>
-    <food code="WAKS"/>
+    <food code="PCSP"/>
+    <food code="PRNG"/>
+    <food code="SCSP"/>
+    <food code="TCCP"/>
+    <food code="TYRE"/>
+    <food code="VEGC"/>
     <food code="WALK"/>
-    <food code="NACH"/>
-    <food code="CHPU"/>
-    <food code="RICR"/>
-    <food code="PMBR"/>
   </category>
   <category code="CRPS" description="Crisps / snacks / nuts" hidden="false">
     <food code="BOMB"/>
@@ -940,133 +955,148 @@
     <food code="WCRO"/>
   </category>
   <category code="CRUM" description="Crumpets, muffins &amp; pancakes" hidden="false">
-    <food code="CRMP"/>
-    <food code="PANC"/>
-    <food code="MUFN"/>
     <food code="ESWM"/>
-    <food code="CREP"/>
     <food code="POCA"/>
-    <food code="GFCR"/>
-    <food code="PASS"/>
     <food code="PCRE"/>
     <food code="FRFR"/>
+    <food code="CREP"/>
+    <food code="CRMP"/>
+    <food code="GFCR"/>
+    <food code="MUFN"/>
+    <food code="PASS"/>
+    <food code="NZFM"/>
   </category>
   <category code="CCGM" description="Crunchy cereals, granola and museli" hidden="false">
-    <food code="CHCR"/>
-    <food code="OATC"/>
     <food code="GRAN"/>
+    <food code="GFGR"/>
+    <food code="CHCR"/>
+    <food code="GFMU"/>
+    <food code="MNAS"/>
     <food code="MPCR"/>
     <food code="MSLI"/>
-    <food code="MNAS"/>
-    <food code="GFMU"/>
+    <food code="OATC"/>
     <food code="OATS"/>
     <food code="STCR"/>
-    <food code="GFGR"/>
   </category>
   <category code="CSTD" description="Custard" hidden="false">
-    <food code="CPSS"/>
-    <food code="FCUS"/>
     <food code="CURF"/>
     <food code="DFCU"/>
-    <food code="FLCU"/>
-    <food code="CUST"/>
     <food code="CNAS"/>
-    <food code="CCUS"/>
     <food code="CUUS"/>
+    <food code="CCUS"/>
+    <food code="CPSS"/>
+    <food code="CUST"/>
+    <food code="FCUS"/>
+    <food code="FLCU"/>
   </category>
   <category code="MOUS" description="Dairy desserts" hidden="false">
-    <food code="CHMS"/>
-    <food code="CRDS"/>
-    <food code="FMSE"/>
-    <food code="RMSE"/>
-    <food code="SOYC"/>
     <food code="STMO"/>
     <food code="CREM"/>
     <food code="PANA"/>
     <food code="PANN"/>
     <food code="AERM"/>
     <food code="CDDC"/>
+    <food code="CHMS"/>
+    <food code="CRDS"/>
+    <food code="FMSE"/>
+    <food code="RMSE"/>
     <food code="CCDD"/>
+    <food code="SOYC"/>
   </category>
   <category code="DGST" description="Digestives, hob nobs &amp; gingernuts" hidden="false">
+    <food code="HODI"/>
     <food code="CHBN"/>
     <food code="CRBC"/>
     <food code="DGSC"/>
-    <food code="WHBP"/>
-    <food code="MALM"/>
-    <food code="HODI"/>
-    <food code="DGSP"/>
-    <food code="GNGR"/>
     <food code="DGSO"/>
-    <food code="GFOB"/>
-    <food code="GIBI"/>
+    <food code="DGSP"/>
     <food code="GFDI"/>
+    <food code="GFOB"/>
+    <food code="GNGR"/>
+    <food code="MALM"/>
+    <food code="WHBP"/>
+    <food code="GIBI"/>
+    <food code="NZBA"/>
+    <food code="NZAG"/>
+    <food code="NZAC"/>
+    <food code="NZCT"/>
+    <food code="NZTA"/>
+    <food code="NZFA"/>
+    <food code="NZAW"/>
+    <food code="NZDA"/>
+    <food code="NZOT"/>
+    <food code="NZCC"/>
+    <food code="NZSC"/>
+    <food code="NZCD"/>
+    <food code="NZWH"/>
+    <food code="NZTT"/>
+    <food code="NZAB"/>
+    <food code="NZWG"/>
+    <food code="NAEA"/>
   </category>
   <category code="DIPS" description="Dips" hidden="false">
-    <food code="TARA"/>
     <food code="TZKI"/>
-    <food code="YOGH"/>
-    <food code="HUMS"/>
     <food code="RFHU"/>
-    <food code="RAIT"/>
-    <food code="SCRM"/>
+    <food code="OLTA"/>
     <food code="GUAC"/>
-    <food code="TAHI"/>
+    <food code="HUMS"/>
+    <food code="SCRM"/>
     <food code="GURF"/>
     <food code="SCBD"/>
-    <food code="OLTA"/>
+    <food code="TAHI"/>
+    <food code="YOGH"/>
   </category>
   <category code="DGNT" description="Doughnuts and waffles" hidden="false">
     <food code="AMWA"/>
     <food code="CDNT"/>
     <food code="JDNT"/>
+    <food code="WASW"/>
+    <food code="WHOD"/>
     <food code="IDNT"/>
     <food code="RDNT"/>
-    <food code="WASW"/>
-    <food code="CARW"/>
-    <food code="WHOD"/>
     <food code="BERL"/>
+    <food code="CARW"/>
     <food code="CHUR"/>
   </category>
   <category code="DRIF" description="Dried fruit" hidden="false">
-    <food code="CRGI"/>
-    <food code="DATR"/>
     <food code="DRAP"/>
-    <food code="APRD"/>
     <food code="DRBA"/>
-    <food code="DRCR"/>
-    <food code="DRFG"/>
     <food code="GOJI"/>
     <food code="DRMA"/>
-    <food code="DRMF"/>
     <food code="DRPI"/>
-    <food code="PRND"/>
     <food code="DRST"/>
     <food code="MCRS"/>
+    <food code="DCSW"/>
+    <food code="KPPR"/>
+    <food code="TRAI"/>
+    <food code="DRIC"/>
+    <food code="APRD"/>
+    <food code="CRGI"/>
+    <food code="DATR"/>
+    <food code="DRCR"/>
+    <food code="DRFG"/>
+    <food code="DRMF"/>
+    <food code="FRWI"/>
+    <food code="PRND"/>
     <food code="RASN"/>
     <food code="SULT"/>
     <food code="TOSD"/>
-    <food code="YCRA"/>
     <food code="YCFP"/>
+    <food code="YCRA"/>
     <food code="DESC"/>
-    <food code="DCSW"/>
-    <food code="GLAC"/>
-    <food code="KPPR"/>
-    <food code="SCHO"/>
-    <food code="FRWI"/>
-    <food code="TRAI"/>
-    <food code="NAKD"/>
-    <food code="DRIC"/>
     <food code="DRAS"/>
+    <food code="GLAC"/>
+    <food code="NAKD"/>
+    <food code="SCHO"/>
   </category>
   <category sameAsBeforeOption="true" code="DRNK" description="Drinks" hidden="false">
-    <food code="ICET"/>
-    <food code="COCM"/>
-    <food code="BVRL"/>
     <food code="PRSH"/>
     <food code="FYBO"/>
-    <food code="CFSY"/>
     <food code="COMM"/>
+    <food code="BVRL"/>
+    <food code="CFSY"/>
+    <food code="COCM"/>
+    <food code="ICET"/>
     <subcategory code="ALCL"/>
     <subcategory code="ENDK"/>
     <subcategory code="CFFS"/>
@@ -1092,26 +1122,26 @@
     <subcategory code="EGGS"/>
   </category>
   <category code="EGGS" description="Eggs" hidden="false">
-    <food code="PEGG"/>
-    <food code="PIEG"/>
-    <food code="BEGG"/>
     <food code="BDEG"/>
     <food code="QUAI"/>
+    <food code="FEGY"/>
+    <food code="BEGG"/>
+    <food code="EOIL"/>
+    <food code="PEGG"/>
+    <food code="PIEG"/>
+    <food code="SEGS"/>
     <food code="BEGW"/>
     <food code="BEGY"/>
-    <food code="EOIL"/>
-    <food code="FEGY"/>
     <food code="FEGW"/>
-    <food code="SEGS"/>
   </category>
   <category code="ENDK" description="Energy drinks" hidden="false">
     <food code="EDLC"/>
     <food code="CLUC"/>
     <food code="MONS"/>
-    <food code="SPOR"/>
-    <food code="ISOT"/>
     <food code="BLEM"/>
+    <food code="ISOT"/>
     <food code="SCLZ"/>
+    <food code="SPOR"/>
   </category>
   <category code="FISH" description="Fish &amp; fish products" hidden="false">
     <subcategory code="CODB"/>
@@ -1125,27 +1155,24 @@
     <subcategory code="C002"/>
   </category>
   <category code="FDSH" description="Fish dishes" hidden="false">
-    <food code="FPIE"/>
-    <food code="FCRY"/>
     <food code="TUNP"/>
     <food code="TUPB"/>
     <food code="SEAP"/>
     <food code="MPAE"/>
-    <food code="KEDG"/>
-    <food code="FICH"/>
-    <food code="FSFC"/>
-    <food code="SMHC"/>
     <food code="OPWW"/>
     <food code="SOPI"/>
     <food code="PRBH"/>
-    <food code="FCCC"/>
     <food code="PCCC"/>
     <food code="PCVB"/>
+    <food code="FPIE"/>
+    <food code="FCCC"/>
+    <food code="FCRY"/>
+    <food code="FICH"/>
+    <food code="FSFC"/>
+    <food code="KEDG"/>
+    <food code="SMHC"/>
   </category>
   <category code="FFLT" description="Fish fillets" hidden="false">
-    <food code="CDFB"/>
-    <food code="CDFP"/>
-    <food code="CDSG"/>
     <food code="HDSM"/>
     <food code="HDST"/>
     <food code="HBST"/>
@@ -1153,154 +1180,274 @@
     <food code="HRGR"/>
     <food code="KPBK"/>
     <food code="LSST"/>
-    <food code="MKFR"/>
     <food code="SMKD"/>
     <food code="PLST"/>
     <food code="SHBO"/>
     <food code="SHPM"/>
     <food code="SHMB"/>
     <food code="SHPW"/>
-    <food code="TRST"/>
     <food code="TUNS"/>
     <food code="WBFR"/>
     <food code="WHST"/>
-    <food code="SMSM"/>
-    <food code="DVSL"/>
-    <food code="EELS"/>
     <food code="SEBA"/>
-    <food code="MONK"/>
-    <food code="RTRO"/>
-    <food code="GRIL"/>
     <food code="SMSD"/>
-    <food code="HOKG"/>
     <food code="HAKE"/>
     <food code="SPRS"/>
     <food code="PLCT"/>
     <food code="SMOK"/>
+    <food code="CDFB"/>
+    <food code="CDSG"/>
+    <food code="MKFR"/>
+    <food code="SMSM"/>
+    <food code="TRST"/>
+    <food code="EELS"/>
+    <food code="HOKG"/>
     <food code="REDS"/>
+    <food code="RTRO"/>
+    <food code="NZFL"/>
+    <food code="NZPH"/>
+    <food code="NZSP"/>
+    <food code="GRIL"/>
+    <food code="MONK"/>
+    <food code="NZTY"/>
+    <food code="NZVL"/>
+    <food code="NZTV"/>
+    <food code="NZTW"/>
+    <food code="NZKH"/>
+    <food code="NZKD"/>
+    <food code="NZKW"/>
+    <food code="KANZ"/>
+    <food code="NZDR"/>
+    <food code="EENZ"/>
+    <food code="ESNZ"/>
+    <food code="YBNZ"/>
+    <food code="NZBD"/>
+    <food code="LSNZ"/>
+    <food code="BFNZ"/>
+    <food code="FFNZ"/>
+    <food code="GRNZ"/>
+    <food code="MFNZ"/>
+    <food code="HONZ"/>
+    <food code="FHNZ"/>
+    <food code="GHNZ"/>
+    <food code="MHNZ"/>
+    <food code="TKNZ"/>
+    <food code="FTNZ"/>
+    <food code="GTNZ"/>
+    <food code="GNNZ"/>
+    <food code="GUNZ"/>
+    <food code="CDFP"/>
+    <food code="GDNZ"/>
+    <food code="TNNZ"/>
+    <food code="ORNZ"/>
+    <food code="FONZ"/>
+    <food code="GONZ"/>
+    <food code="MONZ"/>
+    <food code="BSNZ"/>
+    <food code="FSNZ"/>
+    <food code="GSNZ"/>
+    <food code="MSNZ"/>
+    <food code="BTNZ"/>
+    <food code="ATNZ"/>
+    <food code="BWNZ"/>
+    <food code="FENZ"/>
+    <food code="FLNZ"/>
+    <food code="NWDL"/>
+    <food code="GFNZ"/>
+    <food code="HKNZ"/>
+    <food code="NZBC"/>
+    <food code="NZDF"/>
+    <food code="NZBL"/>
+    <food code="NZBN"/>
+    <food code="NZBT"/>
+    <food code="NZCN"/>
+    <food code="NZGR"/>
+    <food code="NZKI"/>
+    <food code="NZSV"/>
+    <food code="NZBU"/>
+    <food code="NZRC"/>
+    <food code="FRNZ"/>
+    <food code="RCNZ"/>
+    <food code="NZRE"/>
+    <food code="NZSY"/>
+    <food code="NZJD"/>
+    <food code="NWZE"/>
+    <food code="SFNZ"/>
+    <food code="NZEL"/>
+    <food code="NZEF"/>
+    <food code="NZFS"/>
+    <food code="NZGF"/>
+    <food code="NZGM"/>
+    <food code="NZGE"/>
+    <food code="NZGU"/>
+    <food code="NZRH"/>
+    <food code="NZHI"/>
+    <food code="NZJA"/>
+    <food code="RWNZ"/>
+    <food code="NZKF"/>
+    <food code="NZLJ"/>
+    <food code="NZLG"/>
+    <food code="NZMK"/>
+    <food code="NZGH"/>
+    <food code="NZMO"/>
+    <food code="NZMN"/>
+    <food code="NZYM"/>
+    <food code="NZOR"/>
+    <food code="NZOD"/>
+    <food code="ODNZ"/>
+    <food code="NZBB"/>
+    <food code="NZPP"/>
+    <food code="NZPR"/>
+    <food code="NZRT"/>
+    <food code="NZRR"/>
+    <food code="NZSR"/>
+    <food code="NZRU"/>
+    <food code="NZRB"/>
+    <food code="NZRI"/>
+    <food code="NZRD"/>
+    <food code="NZAT"/>
+    <food code="NZQS"/>
+    <food code="NZKS"/>
+    <food code="NZPC"/>
+    <food code="NZSH"/>
+    <food code="NZGS"/>
+    <food code="SHNZ"/>
+    <food code="NZSD"/>
+    <food code="NZBK"/>
+    <food code="NZSK"/>
+    <food code="NZSS"/>
+    <food code="NZRS"/>
+    <food code="SONZ"/>
+    <food code="NZWR"/>
     <food code="SWOR"/>
+    <food code="TANZ"/>
+    <food code="NZTD"/>
+    <food code="TYNZ"/>
+    <food code="TRNZ"/>
+    <food code="RTNZ"/>
+    <food code="NZTU"/>
+    <food code="NZFT"/>
+    <food code="NZFR"/>
+    <food code="SWNZ"/>
+    <food code="NZWW"/>
+    <food code="NZPS"/>
   </category>
   <category code="FPCS" description="Fish fingers &amp; fish in breadcrumbs" hidden="false">
-    <food code="FFFO"/>
-    <food code="FFGR"/>
     <food code="SACR"/>
-    <food code="FISH"/>
     <food code="SCAF"/>
     <food code="HBCG"/>
     <food code="CBCG"/>
     <food code="SCMP"/>
+    <food code="FFFO"/>
+    <food code="FFGR"/>
     <food code="FIOF"/>
+    <food code="FISH"/>
   </category>
   <category code="CODB" description="Fish in batter" hidden="false">
-    <food code="BCTA"/>
     <food code="CBFB"/>
-    <food code="CBFO"/>
     <food code="LSOB"/>
     <food code="SABA"/>
     <food code="PFIL"/>
+    <food code="BCTA"/>
+    <food code="CBFO"/>
   </category>
   <category code="FSCK" description="Fishcakes &amp; fish shapes" hidden="false">
-    <food code="FCBD"/>
-    <food code="FSBD"/>
     <food code="FSBG"/>
+    <food code="FCBD"/>
+    <food code="FCBG"/>
+    <food code="FSBD"/>
     <food code="GFFC"/>
     <food code="GFFF"/>
-    <food code="FCBG"/>
     <food code="SFIS"/>
   </category>
   <category sameAsBeforeOption="true" code="SOFT" description="Fizzy drinks" hidden="false">
     <food code="AJCS"/>
     <food code="APTZ"/>
-    <food code="CHRD"/>
-    <food code="DAND"/>
     <food code="DCLA"/>
-    <food code="DINB"/>
+    <food code="FFJD"/>
+    <food code="BITT"/>
+    <food code="COLI"/>
+    <food code="CHRD"/>
+    <food code="COLA"/>
+    <food code="CRSO"/>
+    <food code="DAND"/>
     <food code="DLMD"/>
     <food code="DRPR"/>
-    <food code="FFJD"/>
-    <food code="GINB"/>
-    <food code="IRNB"/>
-    <food code="LMND"/>
-    <food code="LILT"/>
-    <food code="LCZD"/>
-    <food code="OFDD"/>
-    <food code="TNIC"/>
-    <food code="FIVI"/>
-    <food code="CRSO"/>
-    <food code="ORAD"/>
-    <food code="ROOT"/>
-    <food code="BITT"/>
-    <food code="REDC"/>
-    <food code="LIMA"/>
-    <food code="SNUP"/>
-    <food code="STON"/>
     <food code="FANT"/>
+    <food code="GINB"/>
+    <food code="LIMA"/>
+    <food code="LMND"/>
+    <food code="OFDD"/>
+    <food code="ORAD"/>
+    <food code="REDC"/>
+    <food code="SNUP"/>
+    <food code="LCZD"/>
+    <food code="TNIC"/>
     <food code="FAZE"/>
-    <food code="COLA"/>
-    <food code="COLI"/>
+    <food code="ROOT"/>
+    <food code="STON"/>
   </category>
   <category code="FCRL" description="Flake cereals" hidden="false">
-    <food code="BRNF"/>
-    <food code="BRNS"/>
     <food code="CHCF"/>
     <food code="FRFB"/>
-    <food code="OATF"/>
-    <food code="ALLB"/>
     <food code="HNCF"/>
     <food code="SPCK"/>
     <food code="FITN"/>
-    <food code="SULB"/>
     <food code="CRNF"/>
     <food code="COCF"/>
     <food code="CNTC"/>
-    <food code="FRST"/>
-    <food code="GFCF"/>
     <food code="SPFL"/>
     <food code="CURC"/>
     <food code="CURS"/>
+    <food code="WCBC"/>
+    <food code="ALLB"/>
+    <food code="BRNF"/>
+    <food code="BRNS"/>
+    <food code="FRST"/>
+    <food code="GFCF"/>
+    <food code="OATF"/>
+    <food code="SULB"/>
     <food code="WTAF"/>
     <food code="WTFR"/>
-    <food code="WCBC"/>
   </category>
   <category code="FLPJ" description="Flapjacks" hidden="false">
+    <food code="CCFJ"/>
     <food code="FLJB"/>
     <food code="GFFJ"/>
-    <food code="CCFJ"/>
   </category>
   <category code="FGRB" description="French / green / runner beans" hidden="false">
     <food code="FRBB"/>
     <food code="RBFB"/>
   </category>
   <category code="FREF" description="Fresh fruit" hidden="false">
-    <food code="FIGS"/>
     <food code="SALH"/>
-    <food code="PINE"/>
     <food code="POMG"/>
-    <food code="SHAR"/>
-    <food code="RAWA"/>
+    <food code="KUMQ"/>
+    <food code="MXBE"/>
+    <food code="FRFR"/>
     <food code="AVOC"/>
     <food code="BANA"/>
+    <food code="CHRY"/>
+    <food code="COCN"/>
+    <food code="FIGS"/>
     <food code="GPFT"/>
-    <food code="KUMQ"/>
+    <food code="KWIN"/>
     <food code="LEMO"/>
     <food code="LIME"/>
     <food code="LYCE"/>
-    <food code="PAPY"/>
-    <food code="PAFR"/>
-    <food code="RHUB"/>
-    <food code="GUAV"/>
-    <food code="KWIN"/>
-    <food code="CHRY"/>
-    <food code="MXBE"/>
-    <food code="PEMX"/>
-    <food code="ORPE"/>
-    <food code="DRFR"/>
-    <food code="LEMJ"/>
-    <food code="LIMJ"/>
-    <food code="COCN"/>
-    <food code="LEPE"/>
-    <food code="FRFR"/>
     <food code="MNGO"/>
+    <food code="PAFR"/>
+    <food code="PAPY"/>
+    <food code="PINE"/>
+    <food code="RAWA"/>
+    <food code="RHUB"/>
+    <food code="DRFR"/>
+    <food code="GUAV"/>
+    <food code="LIMJ"/>
+    <food code="LEMJ"/>
+    <food code="LEPE"/>
+    <food code="ORPE"/>
+    <food code="PEMX"/>
     <subcategory code="APLS"/>
     <subcategory code="BERR"/>
     <subcategory code="GRPS"/>
@@ -1313,48 +1460,49 @@
     <subcategory code="ORNG"/>
   </category>
   <category code="FFRS" description="Fromage frais" hidden="false">
-    <food code="FRFP"/>
-    <food code="FRTT"/>
     <food code="LFFT"/>
     <food code="LFFP"/>
+    <food code="FRFP"/>
+    <food code="FRTT"/>
     <food code="MUBU"/>
     <food code="PETF"/>
     <food code="PFTU"/>
   </category>
   <category code="FFRU" description="Frozen fruit" hidden="false">
-    <food code="MANF"/>
     <food code="MIXB"/>
+    <food code="MANF"/>
     <food code="PEAF"/>
     <food code="RASF"/>
     <food code="FROS"/>
   </category>
   <category code="FRTB" description="Fruit biscuits e.g. garibaldi" hidden="false">
-    <food code="FBNW"/>
     <food code="FIGR"/>
+    <food code="FBNW"/>
   </category>
   <category code="FTBD" description="Fruit bread" hidden="false">
+    <food code="FRUT"/>
+    <food code="DWLO"/>
+    <food code="BARB"/>
+    <food code="BNBD"/>
     <food code="CRNT"/>
+    <food code="FRBD"/>
     <food code="GFFB"/>
     <food code="FRUB"/>
-    <food code="FRUT"/>
-    <food code="BNBD"/>
-    <food code="BRBT"/>
-    <food code="DWLO"/>
-    <food code="FRBD"/>
-    <food code="BARB"/>
     <food code="PUBR"/>
+    <food code="NZCU"/>
+    <food code="NZBS"/>
   </category>
   <category code="FTCA" description="Fruit cake" hidden="false">
-    <food code="FTCK"/>
-    <food code="DUND"/>
-    <food code="GFFT"/>
     <food code="PANT"/>
-    <food code="CHCE"/>
     <food code="PUSD"/>
     <food code="SIMN"/>
     <food code="APCA"/>
     <food code="PLCA"/>
     <food code="DIFC"/>
+    <food code="DUND"/>
+    <food code="FTCK"/>
+    <food code="GFFT"/>
+    <food code="CHCE"/>
   </category>
   <category code="FRTC" description="Fruit crumble" hidden="false">
     <food code="ACNW"/>
@@ -1363,39 +1511,39 @@
     <food code="RCOA"/>
   </category>
   <category sameAsBeforeOption="true" code="FJCE" description="Fruit juice" hidden="false">
-    <food code="ORJB"/>
+    <food code="PRUJ"/>
+    <food code="ACJU"/>
+    <food code="APJC"/>
+    <food code="BLJU"/>
+    <food code="CNJC"/>
+    <food code="COCW"/>
+    <food code="CRYJ"/>
+    <food code="GFJU"/>
+    <food code="LOCJ"/>
+    <food code="MNGJ"/>
     <food code="OJCB"/>
     <food code="OJCC"/>
+    <food code="ORJB"/>
     <food code="PNJB"/>
     <food code="POMJ"/>
-    <food code="GFJU"/>
-    <food code="MNGJ"/>
-    <food code="TROJ"/>
-    <food code="PRUJ"/>
-    <food code="LOCJ"/>
-    <food code="CRYJ"/>
-    <food code="TROP"/>
-    <food code="APJC"/>
-    <food code="COCW"/>
-    <food code="GRPJ"/>
-    <food code="PRJC"/>
-    <food code="BLJU"/>
-    <food code="ACJU"/>
-    <food code="CNJC"/>
     <food code="TOMB"/>
-    <food code="OAMA"/>
+    <food code="TROJ"/>
+    <food code="TROP"/>
     <food code="AAMA"/>
-    <food code="GRAP"/>
     <food code="APEL"/>
+    <food code="GRAP"/>
+    <food code="GRPJ"/>
+    <food code="OAMA"/>
+    <food code="PRJC"/>
   </category>
   <category code="FTYG" description="Fruit yoghurt" hidden="false">
+    <food code="YGLS"/>
+    <food code="FFFT"/>
     <food code="FYFP"/>
     <food code="FYLP"/>
     <food code="LFYP"/>
-    <food code="VLFP"/>
-    <food code="FFFT"/>
-    <food code="YGLS"/>
     <food code="MUBU"/>
+    <food code="VLFP"/>
   </category>
   <category code="FRTS" description="Fruits" hidden="false">
     <food code="QUIC"/>
@@ -1405,15 +1553,15 @@
     <subcategory code="FFRU"/>
   </category>
   <category code="GBRD" description="Garlic bread" hidden="false">
-    <food code="GPIZ"/>
-    <food code="GRLC"/>
     <food code="HOGB"/>
     <food code="FOCC"/>
     <food code="DGHB"/>
+    <food code="GPIZ"/>
+    <food code="GRLC"/>
   </category>
   <category code="GATX" description="Gateau" hidden="false">
-    <food code="CHGT"/>
     <food code="WAGA"/>
+    <food code="CHGT"/>
     <food code="FTGT"/>
   </category>
   <category code="GHRK" description="Gherkins, capers &amp; jalapenos" hidden="false">
@@ -1432,135 +1580,145 @@
   </category>
   <category code="CUBE" description="Gravy" hidden="false">
     <food code="GYRE"/>
-    <food code="STKW"/>
-    <food code="GRHM"/>
     <food code="GRGR"/>
+    <food code="GRHM"/>
+    <food code="STKW"/>
   </category>
   <category code="HAMS" description="Ham / gammon" hidden="false">
-    <food code="GSLI"/>
     <food code="BGRF"/>
     <food code="BGRG"/>
-    <food code="HUSM"/>
+    <food code="GSLI"/>
     <food code="HCAN"/>
+    <food code="HUSM"/>
   </category>
   <category code="HRDC" description="Hard cheese" hidden="false">
-    <food code="CCLT"/>
-    <food code="CHED"/>
     <food code="HOCD"/>
     <food code="DBGL"/>
-    <food code="EDAM"/>
     <food code="LEIC"/>
-    <food code="LOWC"/>
     <food code="WENS"/>
-    <food code="EMME"/>
-    <food code="GOUD"/>
-    <food code="GORG"/>
     <food code="ROQE"/>
-    <food code="GRUY"/>
-    <food code="MANC"/>
     <food code="PANE"/>
-    <food code="PECO"/>
     <food code="SMCH"/>
     <food code="HALO"/>
-    <food code="BLUC"/>
-    <food code="STIL"/>
-    <food code="PODS"/>
     <food code="EDRF"/>
     <food code="SOCH"/>
-    <food code="MONC"/>
-    <food code="VECH"/>
-    <food code="CCYC"/>
     <food code="CHES"/>
-    <food code="PARM"/>
     <food code="DOLE"/>
-    <food code="LFHC"/>
     <food code="HALL"/>
+    <food code="CCLT"/>
+    <food code="EDAM"/>
+    <food code="LFHC"/>
+    <food code="LOWC"/>
+    <food code="MANC"/>
+    <food code="PARM"/>
+    <food code="STIL"/>
+    <food code="BLUC"/>
+    <food code="EMME"/>
+    <food code="GORG"/>
+    <food code="GOUD"/>
+    <food code="GRUY"/>
+    <food code="MONC"/>
+    <food code="PECO"/>
+    <food code="PODS"/>
+    <food code="VECH"/>
+    <food code="NZED"/>
+    <food code="NZML"/>
+    <food code="NZAN"/>
+    <food code="NZAR"/>
+    <food code="NZCO"/>
+    <food code="NZCV"/>
+    <food code="NZMC"/>
+    <food code="NZCA"/>
+    <food code="NZCH"/>
+    <food code="NZCE"/>
+    <food code="NZTC"/>
+    <food code="NZTS"/>
+    <food code="CHED"/>
+    <food code="NZEG"/>
   </category>
   <category code="HRBS" description="Herbs" hidden="false">
+    <food code="CILA"/>
+    <food code="DHRB"/>
+    <food code="MARJ"/>
+    <food code="OREG"/>
+    <food code="MINT"/>
+    <food code="FHRB"/>
     <food code="BADR"/>
     <food code="BASI"/>
     <food code="BAYL"/>
     <food code="CHIV"/>
-    <food code="CILA"/>
-    <food code="DHRB"/>
-    <food code="FHRB"/>
-    <food code="MARJ"/>
-    <food code="OREG"/>
-    <food code="PARS"/>
     <food code="FRPA"/>
-    <food code="SAFF"/>
+    <food code="LETH"/>
+    <food code="PARS"/>
+    <food code="ROSE"/>
     <food code="SADR"/>
+    <food code="SAFF"/>
     <food code="SAGE"/>
     <food code="TARR"/>
     <food code="THYM"/>
-    <food code="ROSE"/>
-    <food code="LETH"/>
-    <food code="MINT"/>
   </category>
   <category code="HRSP" description="Herbs / spices" hidden="false">
-    <food code="STUF"/>
+    <food code="MXSP"/>
+    <food code="STAN"/>
+    <food code="POPS"/>
+    <food code="CHIL"/>
     <food code="SALT"/>
+    <food code="STUF"/>
+    <food code="ALLS"/>
+    <food code="CAJN"/>
+    <food code="CAPE"/>
+    <food code="CARA"/>
     <food code="CARD"/>
+    <food code="CARO"/>
+    <food code="CHER"/>
+    <food code="CHFS"/>
+    <food code="CINA"/>
+    <food code="CLOV"/>
     <food code="CUMI"/>
+    <food code="CURR"/>
     <food code="DILL"/>
     <food code="GARM"/>
-    <food code="JERK"/>
-    <food code="CAJN"/>
-    <food code="MXSP"/>
-    <food code="MISO"/>
-    <food code="JUNI"/>
-    <food code="NUTM"/>
-    <food code="CINA"/>
-    <food code="PAPR"/>
-    <food code="TUME"/>
-    <food code="ALLS"/>
-    <food code="STAN"/>
     <food code="GING"/>
-    <food code="SESA"/>
-    <food code="CLOV"/>
-    <food code="CHER"/>
+    <food code="JERK"/>
+    <food code="JUNI"/>
     <food code="MACE"/>
-    <food code="POPS"/>
-    <food code="CARA"/>
-    <food code="CARO"/>
-    <food code="CAPE"/>
-    <food code="CHIL"/>
-    <food code="CURR"/>
-    <food code="CHFS"/>
+    <food code="MISO"/>
+    <food code="NUTM"/>
+    <food code="PAPR"/>
+    <food code="SESA"/>
+    <food code="TUME"/>
     <subcategory code="HRBS"/>
     <subcategory code="PEPR"/>
     <subcategory code="GING"/>
   </category>
   <category code="HONI" description="Honey" hidden="false">
+    <food code="AGAV"/>
     <food code="HNEY"/>
     <food code="HONY"/>
-    <food code="AGAV"/>
   </category>
   <category code="HPCR" description="Hoop/loop cereals" hidden="false">
-    <food code="CHRO"/>
     <food code="FRLP"/>
+    <food code="CHRO"/>
     <food code="HNUT"/>
-    <food code="WETO"/>
-    <food code="SPHP"/>
     <food code="MGHP"/>
+    <food code="WETO"/>
   </category>
   <category code="HTCL" description="Hot cereals, e.g. porridge, ready brek" hidden="false">
     <food code="PRDW"/>
-    <food code="PRSS"/>
-    <food code="PRSM"/>
     <food code="PRSO"/>
     <food code="PRWM"/>
+    <food code="PRHW"/>
+    <food code="PRSM"/>
+    <food code="PRSS"/>
     <food code="RDBW"/>
     <food code="RDSM"/>
     <food code="RDSO"/>
     <food code="RDSS"/>
     <food code="RDWM"/>
-    <food code="PRHW"/>
   </category>
   <category code="DCHO" description="Hot chocolate" hidden="false">
     <food code="DCSS"/>
     <food code="DCSM"/>
-    <food code="DCWA"/>
     <food code="DCWM"/>
     <food code="DCRM"/>
     <food code="DCSO"/>
@@ -1568,35 +1726,39 @@
     <food code="DCLS"/>
     <food code="HCWH"/>
     <food code="DCLC"/>
+    <food code="DCWA"/>
   </category>
   <category sameAsBeforeOption="true" code="HCHC" description="Hot chocolate &amp; malted drinks" hidden="false">
     <subcategory code="DCHO"/>
     <subcategory code="HORL"/>
   </category>
   <category code="ICEC" description="Ice cream" hidden="false">
-    <food code="CICD"/>
-    <food code="FSSI"/>
-    <food code="MRWH"/>
-    <food code="VSSI"/>
-    <food code="HOIC"/>
-    <food code="FRMS"/>
+    <food code="ICRS"/>
+    <food code="ALAS"/>
+    <food code="KULF"/>
     <food code="BJIC"/>
     <food code="CART"/>
-    <food code="ICRS"/>
-    <food code="FROY"/>
-    <food code="ALAS"/>
+    <food code="CICD"/>
+    <food code="FRMS"/>
+    <food code="FSSI"/>
     <food code="HAAG"/>
+    <food code="HOIC"/>
+    <food code="MRWH"/>
+    <food code="VSSI"/>
+    <food code="FROY"/>
     <food code="FRSU"/>
-    <food code="TCSU"/>
-    <food code="KULF"/>
     <food code="NDIC"/>
+    <food code="TCSU"/>
+    <food code="NZIC"/>
+    <food code="NZHO"/>
+    <food code="NZHK"/>
+    <food code="NZFY"/>
   </category>
   <category code="ICEL" description="Ice cream &amp; ice lollies" hidden="false">
-    <food code="ARCT"/>
-    <food code="ICRM"/>
     <food code="STSA"/>
     <food code="CHSA"/>
     <food code="SORB"/>
+    <food code="ICRM"/>
     <food code="TOPS"/>
     <subcategory code="CHOI"/>
     <subcategory code="ICEC"/>
@@ -1605,72 +1767,70 @@
     <subcategory code="LOLS"/>
   </category>
   <category code="LOLS" description="Ice cream lollies" hidden="false">
-    <food code="BNTY"/>
     <food code="FEST"/>
     <food code="FICD"/>
+    <food code="BNTY"/>
+    <food code="CORN"/>
     <food code="FLLI"/>
     <food code="IMRS"/>
-    <food code="CORN"/>
-    <food code="MGNM"/>
     <food code="ISNK"/>
+    <food code="MGNM"/>
     <food code="SKNY"/>
   </category>
   <category code="IWFR" description="Ice cream wafers" hidden="false">
-    <food code="WFRS"/>
-    <food code="PICW"/>
     <food code="ICRS"/>
+    <food code="PICW"/>
+    <food code="WFRS"/>
   </category>
   <category code="ILOL" description="Ice lollies" hidden="false">
     <food code="FABL"/>
     <food code="FFIL"/>
+    <food code="FPIL"/>
+    <food code="CALI"/>
     <food code="ILVC"/>
+    <food code="MNMK"/>
     <food code="RKTL"/>
     <food code="SLRO"/>
     <food code="TSTR"/>
-    <food code="CALI"/>
-    <food code="FPIL"/>
-    <food code="MNMK"/>
   </category>
   <category code="JAMS" description="Jam / marmalade / curd" hidden="false">
     <food code="JAMN"/>
     <food code="MARM"/>
     <food code="COUL"/>
     <food code="COMP"/>
-    <food code="MRSU"/>
     <food code="CURD"/>
-    <food code="JAMF"/>
     <food code="JAME"/>
+    <food code="JAMF"/>
+    <food code="MRSU"/>
   </category>
   <category code="JLLY" description="Jelly" hidden="false">
+    <food code="BLAN"/>
     <food code="JELS"/>
     <food code="JELW"/>
-    <food code="BLAN"/>
     <food code="JUNK"/>
   </category>
   <category code="JLYS" description="Jelly sweets" hidden="false">
+    <food code="PONT"/>
     <food code="FFLA"/>
     <food code="FGUM"/>
     <food code="FPST"/>
-    <food code="LQRC"/>
-    <food code="LALS"/>
-    <food code="PONT"/>
     <food code="HARI"/>
     <food code="JBAB"/>
+    <food code="LALS"/>
+    <food code="LQRC"/>
     <food code="PNMX"/>
   </category>
   <category reasonableAmount="5780" code="LAGR" description="Lager" hidden="false">
     <food code="CCAN"/>
-    <food code="SSBC"/>
     <food code="LCNC"/>
     <food code="NPCN"/>
     <food code="PRCN"/>
     <food code="SHAN"/>
+    <food code="SSBC"/>
   </category>
   <category code="LDSH" description="Lamb dishes" hidden="false">
     <food code="IRSH"/>
     <food code="MBGV"/>
-    <food code="MBST"/>
-    <food code="LAMB"/>
     <food code="LABA"/>
     <food code="LARJ"/>
     <food code="LAKO"/>
@@ -1681,29 +1841,31 @@
     <food code="LADH"/>
     <food code="LAPA"/>
     <food code="LAKB"/>
-    <food code="LALI"/>
     <food code="MMUS"/>
-    <food code="SHTO"/>
     <food code="LANC"/>
     <food code="LHOP"/>
     <food code="BOBO"/>
     <food code="LABB"/>
     <food code="LACC"/>
+    <food code="LAMB"/>
+    <food code="MBST"/>
+    <food code="LALI"/>
     <food code="SHEP"/>
+    <food code="SHTO"/>
   </category>
   <category code="LATE" description="Latte" hidden="false">
-    <food code="LASS"/>
-    <food code="LASK"/>
     <food code="LASY"/>
-    <food code="LAWM"/>
-    <food code="DCLW"/>
-    <food code="DLSS"/>
-    <food code="DLAS"/>
     <food code="DLSO"/>
+    <food code="DCLW"/>
+    <food code="DLAS"/>
+    <food code="DLSS"/>
+    <food code="LASK"/>
+    <food code="LASS"/>
+    <food code="LAWM"/>
   </category>
   <category code="LEEK" description="Leeks" hidden="false">
-    <food code="LKSB"/>
     <food code="LKSF"/>
+    <food code="LKSB"/>
   </category>
   <category code="HORL" description="Malted drinks e.g. Horlicks" hidden="false">
     <food code="HOWM"/>
@@ -1721,35 +1883,39 @@
     <food code="MARG"/>
   </category>
   <category code="MHMW" description="Marshmallow &amp; foam sweets" hidden="false">
-    <food code="FOAM"/>
-    <food code="MMAL"/>
     <food code="FLUM"/>
+    <food code="MMAL"/>
     <food code="SNOM"/>
   </category>
   <category code="MASH" description="Mashed potato" hidden="false">
     <food code="CLAP"/>
-    <food code="COLC"/>
-    <food code="IMSH"/>
     <food code="MDSP"/>
     <food code="CHMA"/>
+    <food code="COLC"/>
+    <food code="IMSH"/>
     <food code="OPMM"/>
   </category>
   <category code="MAYN" description="Mayonnaise" hidden="false">
     <food code="EXLM"/>
-    <food code="HMLI"/>
-    <food code="MYOL"/>
+    <food code="GASA"/>
     <food code="HELM"/>
     <food code="HMEL"/>
+    <food code="HMLI"/>
     <food code="MAYO"/>
-    <food code="GASA"/>
+    <food code="MYOL"/>
   </category>
   <category code="MEAT" description="Meat &amp; meat dishes" hidden="false">
-    <food code="GGSR"/>
-    <food code="OXTL"/>
-    <food code="OXLI"/>
-    <food code="OXTO"/>
     <food code="MXKB"/>
     <food code="SHIS"/>
+    <food code="GGSR"/>
+    <food code="OXLI"/>
+    <food code="OXTL"/>
+    <food code="OXTO"/>
+    <food code="MCNZ"/>
+    <food code="FMNZ"/>
+    <food code="VMNZ"/>
+    <food code="MBNZ"/>
+    <food code="RVNZ"/>
     <subcategory code="MTPS"/>
     <subcategory code="BRGS"/>
     <subcategory code="MDSH"/>
@@ -1763,14 +1929,12 @@
     <subcategory code="MTST"/>
   </category>
   <category code="MDSH" description="Meat dishes" hidden="false">
-    <food code="MOCH"/>
     <food code="KBAB"/>
     <food code="MTBL"/>
-    <food code="CDPN"/>
-    <food code="MSPR"/>
     <food code="MMUS"/>
     <food code="MPAE"/>
     <food code="MEDS"/>
+    <food code="MSPR"/>
     <food code="MSAM"/>
     <subcategory code="BDSH"/>
     <subcategory code="CDSH"/>
@@ -1778,28 +1942,25 @@
     <subcategory code="PDSH"/>
   </category>
   <category code="MTPS" description="Meat pies" hidden="false">
-    <food code="SPIE"/>
-    <food code="ISTP"/>
-    <food code="SPKP"/>
     <food code="STKK"/>
-    <food code="MPKP"/>
     <food code="BRID"/>
-    <food code="CHMU"/>
     <food code="VMPA"/>
     <food code="MFSR"/>
-    <food code="STBA"/>
     <food code="CHBA"/>
-    <food code="SABM"/>
-    <food code="MMPP"/>
+    <food code="GAPI"/>
+    <food code="CUPI"/>
+    <food code="BAEP"/>
+    <food code="CNPT"/>
     <food code="BPIE"/>
     <food code="CPFI"/>
     <food code="CPLS"/>
+    <food code="ISTP"/>
     <food code="MBFP"/>
-    <food code="GAPI"/>
-    <food code="CUPI"/>
+    <food code="MPKP"/>
+    <food code="SABM"/>
+    <food code="SPKP"/>
+    <food code="STBA"/>
     <food code="SAAP"/>
-    <food code="BAEP"/>
-    <food code="CNPT"/>
   </category>
   <category code="MTST" description="Meat substitute e.g. quorn" hidden="false">
     <food code="VMPA"/>
@@ -1807,7 +1968,6 @@
     <food code="MFCN"/>
     <food code="VEGB"/>
     <food code="QUOM"/>
-    <food code="TOFU"/>
     <food code="VEHG"/>
     <food code="VMSS"/>
     <food code="VEMB"/>
@@ -1815,17 +1975,18 @@
     <food code="CHLQ"/>
     <food code="QUCP"/>
     <food code="QUOP"/>
+    <food code="TOFU"/>
   </category>
   <category code="MLNS" description="Melons" hidden="false">
+    <food code="CANT"/>
     <food code="GMLN"/>
     <food code="HMLN"/>
     <food code="WATR"/>
-    <food code="CANT"/>
   </category>
   <category code="MILK" description="Milk &amp; cream" hidden="false">
+    <food code="CNDM"/>
     <food code="DDEL"/>
     <food code="EVAP"/>
-    <food code="CNDM"/>
     <food code="GTMK"/>
     <subcategory code="CREM"/>
     <subcategory code="SHKS"/>
@@ -1835,56 +1996,87 @@
     <subcategory code="NMLK"/>
   </category>
   <category sameAsBeforeOption="true" code="MDNK" description="Milk as a drink" hidden="false">
-    <food code="OMLK"/>
-    <food code="CLFM"/>
     <food code="LFSM"/>
     <food code="LSSM"/>
     <food code="LFWM"/>
-    <food code="MBMI"/>
     <food code="OATM"/>
+    <food code="ALML"/>
+    <food code="CCNM"/>
+    <food code="KMLK"/>
+    <food code="OMLK"/>
     <food code="RIML"/>
     <food code="SMLK"/>
-    <food code="KMLK"/>
     <food code="SOYM"/>
     <food code="WMLK"/>
-    <food code="CCNM"/>
-    <food code="ALML"/>
+    <food code="CLFM"/>
     <food code="HAZM"/>
+    <food code="MBMI"/>
+    <food code="NZDC"/>
+    <food code="NZHC"/>
+    <food code="NZCL"/>
+    <food code="NZUH"/>
+    <food code="NZND"/>
+    <food code="NZAU"/>
+    <food code="NZMS"/>
+    <food code="NZFD"/>
+    <food code="NZPN"/>
+    <food code="NZPM"/>
+    <food code="NZMG"/>
+    <food code="NZCF"/>
+    <food code="NZST"/>
+    <food code="NZNO"/>
+    <food code="NZTR"/>
+    <food code="NZUT"/>
+    <food code="NZTN"/>
+    <food code="NZTM"/>
+    <food code="NZTP"/>
+    <food code="NZTF"/>
+    <food code="NZTL"/>
+    <food code="NZTI"/>
+    <food code="NZSM"/>
+    <food code="NZFF"/>
+    <food code="NZPA"/>
+    <food code="NZOF"/>
+    <food code="NZLT"/>
+    <food code="NZNV"/>
+    <food code="NWZL"/>
+    <food code="NWZT"/>
+    <food code="NWZN"/>
+    <food code="NWZC"/>
+    <food code="CMNZ"/>
+    <food code="MMNZ"/>
+    <food code="NHNZ"/>
+    <food code="VDNZ"/>
   </category>
   <category sameAsBeforeOption="true" code="MHDK" description="Milk in a hot drink" hidden="true">
-    <food code="CTSS"/>
-    <food code="CTSM"/>
-    <food code="CTSY"/>
-    <food code="CTRM"/>
-    <food code="CTOF"/>
     <food code="CTAM"/>
     <food code="WMIH"/>
+    <food code="CTOF"/>
+    <food code="CTRM"/>
+    <food code="CTSM"/>
+    <food code="CTSS"/>
+    <food code="CTSY"/>
     <food code="HAZM"/>
     <portion-size method="milk-in-a-hot-drink" description="No description" imageUrl="portion/placeholder.jpg" useForRecipes="false"> </portion-size>
   </category>
   <category code="MCRL" description="Milk on cereal" hidden="true">
-    <food code="OMLK"/>
     <food code="LFSM"/>
     <food code="LSSM"/>
     <food code="LFWM"/>
     <food code="OATM"/>
+    <food code="ALML"/>
+    <food code="CCNM"/>
+    <food code="KMLK"/>
+    <food code="OMLK"/>
     <food code="RIML"/>
     <food code="SMLK"/>
-    <food code="KMLK"/>
     <food code="SOYM"/>
     <food code="WMLK"/>
-    <food code="CCNM"/>
-    <food code="ALML"/>
     <food code="HAZM"/>
     <portion-size method="milk-on-cereal" description="No description" imageUrl="portion/placeholder.jpg" useForRecipes="false"> </portion-size>
   </category>
   <category sameAsBeforeOption="true" code="SHKS" description="Milkshakes" hidden="false">
-    <food code="MSOF"/>
-    <food code="FMSP"/>
-    <food code="MSSM"/>
-    <food code="WMSH"/>
     <food code="SHIC"/>
-    <food code="SHTH"/>
     <food code="MLRP"/>
     <food code="VMSM"/>
     <food code="VMSI"/>
@@ -1895,54 +2087,60 @@
     <food code="VMKS"/>
     <food code="VMSW"/>
     <food code="VMSH"/>
-    <food code="KMSH"/>
-    <food code="CMSW"/>
     <food code="CMSK"/>
     <food code="CMSS"/>
-    <food code="CMSP"/>
+    <food code="WABD"/>
+    <food code="KMSH"/>
+    <food code="MSOF"/>
+    <food code="MSSM"/>
+    <food code="SHTH"/>
+    <food code="WMSH"/>
     <food code="CMSI"/>
     <food code="CMSN"/>
-    <food code="WABD"/>
+    <food code="CMSP"/>
+    <food code="CMSW"/>
+    <food code="FMSP"/>
   </category>
   <category code="MINT" description="Mints" hidden="false">
-    <food code="MIMP"/>
-    <food code="SMNT"/>
-    <food code="POLO"/>
     <food code="ESTM"/>
     <food code="MENT"/>
+    <food code="MIMP"/>
+    <food code="POLO"/>
+    <food code="SMNT"/>
   </category>
   <category code="MXDV" description="Mixed vegetables" hidden="false">
-    <food code="MVCB"/>
     <food code="MVFB"/>
+    <food code="MVCB"/>
   </category>
   <category code="MOCA" description="Mocha" hidden="false">
-    <food code="MOSS"/>
-    <food code="MOSK"/>
-    <food code="MOWM"/>
-    <food code="MOWC"/>
-    <food code="DMSS"/>
+    <food code="DCMC"/>
     <food code="DCMS"/>
     <food code="DCMW"/>
-    <food code="DCMC"/>
+    <food code="DMSS"/>
+    <food code="MOSK"/>
+    <food code="MOSS"/>
+    <food code="MOWC"/>
+    <food code="MOWM"/>
   </category>
   <category code="FRYC" description="Muffins &amp; fairy cakes" hidden="false">
-    <food code="CFCI"/>
     <food code="CFCN"/>
-    <food code="FCIC"/>
     <food code="FCNI"/>
-    <food code="CCMU"/>
-    <food code="BANM"/>
-    <food code="LEMM"/>
-    <food code="BLUM"/>
     <food code="HOMF"/>
+    <food code="CCNI"/>
+    <food code="BANM"/>
+    <food code="BLUM"/>
+    <food code="CCMU"/>
+    <food code="CFCI"/>
+    <food code="CMUF"/>
     <food code="CUPC"/>
-    <food code="GFCM"/>
+    <food code="FCIC"/>
     <food code="GFBM"/>
     <food code="GFCH"/>
+    <food code="GFCM"/>
     <food code="GFLN"/>
-    <food code="CMUF"/>
-    <food code="CCNI"/>
+    <food code="LEMM"/>
     <food code="BUTF"/>
+    <food code="NZBM"/>
   </category>
   <category code="MTRD" description="Mustard" hidden="false">
     <food code="GMST"/>
@@ -1950,93 +2148,110 @@
     <food code="MUPO"/>
   </category>
   <category code="NTYG" description="Natural yoghurt" hidden="false">
-    <food code="BIYO"/>
-    <food code="FFNT"/>
-    <food code="GRKY"/>
     <food code="LFNP"/>
     <food code="SHYO"/>
     <food code="GOYO"/>
-    <food code="NYBI"/>
     <food code="LASI"/>
+    <food code="BIYO"/>
+    <food code="FFNT"/>
+    <food code="GRKY"/>
+    <food code="NYBI"/>
+    <food code="NZYD"/>
+    <food code="NZYF"/>
+    <food code="NZYG"/>
+    <food code="NZYS"/>
+    <food code="NZYN"/>
+    <food code="NZLL"/>
+    <food code="NZLS"/>
+    <food code="NZLE"/>
+    <food code="NZAS"/>
+    <food code="NWZY"/>
+    <food code="NZRF"/>
+    <food code="NZCP"/>
+    <food code="NZFC"/>
+    <food code="NZDE"/>
+    <food code="NZCY"/>
+    <food code="NWZG"/>
+    <food code="FCNZ"/>
   </category>
   <category code="PCHS" description="Nectarines / peaches" hidden="false">
-    <food code="NECT"/>
-    <food code="NCTF"/>
-    <food code="PCHF"/>
-    <food code="PCHA"/>
     <food code="PCHS"/>
+    <food code="NCTF"/>
+    <food code="NECT"/>
+    <food code="PCHA"/>
+    <food code="PCHF"/>
   </category>
   <category code="NDLS" description="Noodles" hidden="false">
-    <food code="BFCM"/>
-    <food code="PTSV"/>
-    <food code="ENDL"/>
-    <food code="UDON"/>
-    <food code="RINO"/>
-    <food code="CKCM"/>
-    <food code="SOBA"/>
     <food code="PCHM"/>
-    <food code="SNDL"/>
-    <food code="FRDN"/>
     <food code="VGCM"/>
+    <food code="BFCM"/>
+    <food code="CKCM"/>
+    <food code="ENDL"/>
+    <food code="FRDN"/>
+    <food code="PTSV"/>
+    <food code="RINO"/>
+    <food code="SNDL"/>
+    <food code="UDON"/>
+    <food code="SOBA"/>
   </category>
   <category code="NMLK" description="Nut milks" hidden="false">
-    <food code="CCNM"/>
     <food code="ALML"/>
-    <food code="HAZM"/>
     <food code="RFCM"/>
+    <food code="CCNM"/>
+    <food code="HAZM"/>
   </category>
   <category code="NUTS" description="Nuts &amp; seeds" hidden="false">
+    <food code="FRNT"/>
+    <food code="KPNS"/>
+    <food code="MACN"/>
+    <food code="PECN"/>
+    <food code="SEDS"/>
+    <food code="PKSE"/>
+    <food code="SESE"/>
+    <food code="LISE"/>
+    <food code="KPPR"/>
+    <food code="CHIA"/>
     <food code="ALMD"/>
     <food code="BRZL"/>
     <food code="CASR"/>
-    <food code="FRNT"/>
-    <food code="HZLN"/>
     <food code="CSNT"/>
-    <food code="KPNS"/>
+    <food code="HZLN"/>
     <food code="KPPT"/>
-    <food code="MACN"/>
     <food code="PNTS"/>
-    <food code="PECN"/>
     <food code="PSTC"/>
-    <food code="SEDS"/>
     <food code="WALN"/>
-    <food code="PKSE"/>
+    <food code="BARN"/>
     <food code="FLAL"/>
     <food code="GRAL"/>
-    <food code="PINN"/>
-    <food code="TAHI"/>
-    <food code="MXNT"/>
-    <food code="SESE"/>
-    <food code="SUSE"/>
-    <food code="LISE"/>
     <food code="HRPE"/>
-    <food code="BARN"/>
-    <food code="KPPR"/>
+    <food code="MXNT"/>
     <food code="NAKD"/>
-    <food code="CHIA"/>
+    <food code="PINN"/>
+    <food code="SUSE"/>
+    <food code="TAHI"/>
   </category>
   <category code="OTBI" description="Oatibix" hidden="false">
     <food code="OTBM"/>
     <food code="OTBX"/>
   </category>
   <category code="OVES" description="Olives" hidden="false">
-    <food code="OLIV"/>
     <food code="BOLV"/>
     <food code="GOLV"/>
+    <food code="OLIV"/>
   </category>
   <category code="OMLT" description="Omelette" hidden="false">
-    <food code="OMCH"/>
     <food code="EWOM"/>
     <food code="OMEF"/>
     <food code="OMEM"/>
+    <food code="OMEV"/>
+    <food code="OMCH"/>
     <food code="PLAN"/>
     <food code="SPOM"/>
-    <food code="OMEV"/>
   </category>
   <category code="ONIO" description="Onions" hidden="false">
     <food code="ONSB"/>
-    <food code="ONSS"/>
     <food code="ONSF"/>
+    <food code="ONSS"/>
     <food code="SPRO"/>
     <food code="ONNS"/>
   </category>
@@ -2065,8 +2280,6 @@
     <food code="FFTS"/>
     <food code="PACS"/>
     <food code="PATS"/>
-    <food code="SPCA"/>
-    <food code="BECA"/>
     <food code="SPIC"/>
     <food code="MRCA"/>
     <food code="PSTB"/>
@@ -2075,111 +2288,112 @@
     <food code="VECA"/>
     <food code="CABP"/>
     <food code="LFCB"/>
+    <food code="BECA"/>
+    <food code="SPCA"/>
   </category>
   <category code="PTNS" description="Pasta (no sauce)" hidden="false">
-    <food code="WHSP"/>
-    <food code="WMSP"/>
+    <food code="GFPS"/>
     <food code="GFSP"/>
-    <food code="WMFF"/>
     <food code="WHFF"/>
+    <food code="WHPA"/>
+    <food code="WHSP"/>
+    <food code="WMFF"/>
+    <food code="WMPA"/>
+    <food code="WMSP"/>
     <food code="FETT"/>
     <food code="LING"/>
     <food code="RIGA"/>
-    <food code="WHPA"/>
-    <food code="GFPS"/>
-    <food code="WMPA"/>
   </category>
   <category code="CARB" description="Pasta / rice / noodles / couscous" hidden="false">
-    <food code="BULG"/>
-    <food code="CSCS"/>
     <food code="POLE"/>
-    <food code="QUIN"/>
     <food code="BUWH"/>
     <food code="TABB"/>
     <food code="EBLY"/>
+    <food code="BULG"/>
+    <food code="CSCS"/>
+    <food code="QUIN"/>
     <subcategory code="NDLS"/>
     <subcategory code="PSTA"/>
     <subcategory code="RICE"/>
   </category>
   <category code="PTDH" description="Pasta dishes" hidden="false">
-    <food code="FRSF"/>
-    <food code="MCRC"/>
     <food code="PSAL"/>
-    <food code="PSRS"/>
     <food code="PSTM"/>
-    <food code="PSTT"/>
     <food code="MACP"/>
     <food code="SEPA"/>
     <food code="CBNA"/>
-    <food code="GFML"/>
-    <food code="MLAS"/>
-    <food code="GFMA"/>
     <food code="MCRT"/>
     <food code="POLA"/>
     <food code="CHLA"/>
-    <food code="SPGS"/>
     <food code="BSLM"/>
+    <food code="FRSF"/>
+    <food code="GFMA"/>
+    <food code="GFML"/>
+    <food code="MCRC"/>
+    <food code="MLAS"/>
+    <food code="PSRS"/>
+    <food code="PSTT"/>
+    <food code="SPGS"/>
     <food code="PESP"/>
   </category>
   <category code="FRTP" description="Pastries &amp; fruit pies" hidden="false">
     <food code="FTPI"/>
     <food code="PAIN"/>
     <food code="FTPS"/>
-    <food code="PARA"/>
-    <food code="BRIO"/>
     <food code="GFFP"/>
-    <food code="GFPC"/>
-    <food code="GFPA"/>
     <food code="FILO"/>
     <food code="BAKL"/>
-    <food code="CRRF"/>
     <food code="GFPN"/>
     <food code="CHOU"/>
     <food code="VANI"/>
     <food code="PARC"/>
     <food code="CHCC"/>
     <food code="CRHO"/>
-    <food code="MDAP"/>
     <food code="MLFE"/>
-    <food code="APPB"/>
-    <food code="CSSP"/>
-    <food code="MMPI"/>
     <food code="ALCR"/>
-    <food code="APTO"/>
-    <food code="BUTT"/>
     <food code="CCCR"/>
     <food code="CINB"/>
     <food code="CINS"/>
     <food code="FRTO"/>
     <food code="GFIP"/>
     <food code="MAPP"/>
-    <food code="DANI"/>
-    <food code="APPS"/>
-    <food code="KLIP"/>
     <food code="FRUS"/>
+    <food code="BRIO"/>
+    <food code="CSSP"/>
+    <food code="DANI"/>
+    <food code="GFPA"/>
+    <food code="GFPC"/>
+    <food code="PARA"/>
+    <food code="APPB"/>
+    <food code="APPS"/>
+    <food code="APTO"/>
     <food code="CRON"/>
+    <food code="CRRF"/>
+    <food code="KLIP"/>
+    <food code="MDAP"/>
   </category>
   <category code="PTES" description="Pates" hidden="false">
     <food code="SMNP"/>
-    <food code="TUNA"/>
     <food code="MUSP"/>
-    <food code="MAKP"/>
-    <food code="CRPA"/>
-    <food code="PRPA"/>
     <food code="BLAC"/>
-    <food code="FOGR"/>
-    <food code="TERR"/>
     <food code="VEPA"/>
     <food code="LFHP"/>
     <food code="LFLP"/>
     <food code="DNOP"/>
+    <food code="CRPA"/>
     <food code="LIVR"/>
+    <food code="MAKP"/>
+    <food code="TUNA"/>
+    <food code="FOGR"/>
+    <food code="PRPA"/>
+    <food code="TERR"/>
+    <food code="NZFP"/>
   </category>
   <category code="PNUT" description="Peanut butter" hidden="false">
-    <food code="PNBS"/>
-    <food code="PNBC"/>
-    <food code="PBNS"/>
     <food code="PBRF"/>
+    <food code="PNBC"/>
+    <food code="PNBS"/>
+    <food code="PBNS"/>
     <food code="PBSS"/>
   </category>
   <category code="PEAR" description="Pears" hidden="false">
@@ -2187,16 +2401,15 @@
     <food code="EPRF"/>
   </category>
   <category code="PEAS" description="Peas / mangetout / sugar snap" hidden="false">
+    <food code="MPCN"/>
+    <food code="OKRF"/>
+    <food code="PEAS"/>
+    <food code="MGTR"/>
+    <food code="MTFB"/>
+    <food code="PSFB"/>
     <food code="PSPC"/>
     <food code="SNPB"/>
-    <food code="MTFB"/>
-    <food code="MPCN"/>
-    <food code="PSFB"/>
     <food code="SNPR"/>
-    <food code="OKRF"/>
-    <food code="MGTF"/>
-    <food code="MGTR"/>
-    <food code="PEAS"/>
   </category>
   <category code="PEPR" description="Pepper" hidden="false">
     <food code="BPPR"/>
@@ -2206,35 +2419,34 @@
   <category code="PPRS" description="Peppers" hidden="false">
     <food code="JALA"/>
     <food code="CHIP"/>
+    <food code="GPBO"/>
     <food code="PPGF"/>
+    <food code="PGRW"/>
     <food code="PPGR"/>
+    <food code="MPBO"/>
+    <food code="MPFR"/>
+    <food code="MPRW"/>
+    <food code="MPRO"/>
+    <food code="ORPB"/>
+    <food code="ORPF"/>
+    <food code="ORPP"/>
+    <food code="OPPR"/>
+    <food code="RPBO"/>
     <food code="PPRF"/>
     <food code="PRFR"/>
     <food code="PPRR"/>
-    <food code="PPYR"/>
-    <food code="PPYF"/>
-    <food code="PGRW"/>
-    <food code="GPBO"/>
     <food code="YPBO"/>
+    <food code="PPYF"/>
     <food code="PYFR"/>
-    <food code="RPBO"/>
-    <food code="MPBO"/>
-    <food code="MPRW"/>
-    <food code="MPRO"/>
-    <food code="MPFR"/>
-    <food code="ORPF"/>
-    <food code="ORPP"/>
-    <food code="ORPB"/>
-    <food code="OPPR"/>
+    <food code="PPYR"/>
   </category>
   <category code="SWTP" description="Pickle &amp; piccalilli" hidden="false">
-    <food code="SPKL"/>
-    <food code="PCLI"/>
     <food code="BRPI"/>
+    <food code="SPKL"/>
   </category>
   <category code="PION" description="Pickled onions" hidden="false">
-    <food code="SSPO"/>
     <food code="PONS"/>
+    <food code="SSPO"/>
   </category>
   <category code="PCKL" description="Pickles / olives / dips / dressings" hidden="false">
     <food code="CLWH"/>
@@ -2248,116 +2460,119 @@
     <subcategory code="GHRK"/>
   </category>
   <category code="PIES" description="Pies" hidden="false">
+    <food code="MISS"/>
     <food code="BANF"/>
     <food code="LEMP"/>
-    <food code="MISS"/>
     <food code="KLIP"/>
     <food code="PUPP"/>
     <food code="WHOO"/>
   </category>
   <category code="PZZA" description="Pizza" hidden="false">
-    <food code="VPSC"/>
-    <food code="CTSC"/>
-    <food code="PEPS"/>
+    <food code="LFPI"/>
     <food code="CPTK"/>
+    <food code="CTSC"/>
     <food code="CTTB"/>
+    <food code="FRBR"/>
     <food code="GFCN"/>
     <food code="GFCT"/>
+    <food code="GFMP"/>
     <food code="GFPP"/>
     <food code="GFVP"/>
     <food code="HAWP"/>
-    <food code="PEPP"/>
-    <food code="VGPI"/>
-    <food code="VEGK"/>
-    <food code="FRBR"/>
-    <food code="LFPI"/>
-    <food code="GFMP"/>
-    <food code="MTTK"/>
     <food code="MPSC"/>
+    <food code="MTTK"/>
+    <food code="PEPP"/>
+    <food code="PEPS"/>
+    <food code="VEGK"/>
+    <food code="VGPI"/>
+    <food code="VPSC"/>
   </category>
   <category code="PLUM" description="Plums" hidden="false">
     <food code="PLMA"/>
     <food code="PLMF"/>
     <food code="PLMS"/>
-    <food code="DAMM"/>
-    <food code="DAMC"/>
     <food code="GRGA"/>
-    <food code="DAMS"/>
   </category>
   <category code="POPC" description="Popcorn" hidden="false">
     <food code="CPOP"/>
     <food code="LPOP"/>
-    <food code="TPOP"/>
-    <food code="SAPN"/>
-    <food code="POPB"/>
     <food code="PPOP"/>
+    <food code="SAPN"/>
     <food code="SPOP"/>
+    <food code="TPOP"/>
+    <food code="POPB"/>
     <food code="SASP"/>
   </category>
   <category code="PMPC" description="Poppadoms/prawn crackers" hidden="false">
     <food code="PPDM"/>
-    <food code="PWNC"/>
     <food code="JPRC"/>
+    <food code="PWNC"/>
   </category>
   <category code="PDSH" description="Pork dishes" hidden="false">
-    <food code="SBPK"/>
-    <food code="SWSP"/>
     <food code="POKB"/>
-    <food code="PILI"/>
     <food code="PORC"/>
     <food code="POTO"/>
-    <food code="SRFP"/>
-    <food code="PRIB"/>
-    <food code="PORB"/>
-    <food code="PORK"/>
     <food code="SRRF"/>
     <food code="PCHM"/>
     <food code="POLA"/>
     <food code="POSA"/>
+    <food code="PORK"/>
+    <food code="PRIB"/>
+    <food code="SBPK"/>
+    <food code="SRFP"/>
+    <food code="SWSP"/>
     <food code="BSTI"/>
+    <food code="PILI"/>
+    <food code="PORB"/>
     <food code="PRKS"/>
   </category>
   <category code="WFFL" description="Potato waffles / fritters / hash browns / croquettes" hidden="false">
-    <food code="HSBF"/>
-    <food code="HSBG"/>
     <food code="PCRQ"/>
     <food code="FRTF"/>
     <food code="FRTG"/>
+    <food code="HSBF"/>
+    <food code="HSBG"/>
     <food code="WFLF"/>
     <food code="WFLG"/>
   </category>
   <category code="POTS" description="Potatoes" hidden="false">
     <food code="PTSS"/>
-    <food code="FOPO"/>
     <food code="POGR"/>
     <food code="SAPO"/>
-    <food code="PABR"/>
     <food code="DAUP"/>
-    <food code="POTW"/>
     <food code="SPWE"/>
     <food code="QUCP"/>
     <food code="OPTR"/>
+    <food code="POTW"/>
+    <food code="FOPO"/>
+    <food code="PABR"/>
+    <food code="ADYA"/>
+    <food code="KUMB"/>
+    <food code="KUMO"/>
+    <food code="RYAY"/>
+    <food code="RYAM"/>
     <subcategory code="BKDP"/>
     <subcategory code="BOLP"/>
     <subcategory code="MASH"/>
   </category>
   <category code="PUDS" description="Puddings" hidden="false">
-    <food code="IDKM"/>
-    <food code="MRNG"/>
-    <food code="PFRL"/>
     <food code="FRFO"/>
-    <food code="TIRA"/>
-    <food code="CREP"/>
-    <food code="WWFD"/>
-    <food code="INWH"/>
     <food code="PAVL"/>
     <food code="ETON"/>
-    <food code="TCWW"/>
     <food code="TRIF"/>
     <food code="TRLF"/>
-    <food code="APPC"/>
     <food code="EVEP"/>
     <food code="RUMB"/>
+    <food code="CREP"/>
+    <food code="IDKM"/>
+    <food code="INWH"/>
+    <food code="PFRL"/>
+    <food code="TIRA"/>
+    <food code="WWFD"/>
+    <food code="APPC"/>
+    <food code="TCWW"/>
+    <food code="NZVA"/>
+    <food code="MRNG"/>
     <subcategory code="CHSK"/>
     <subcategory code="CSTD"/>
     <subcategory code="FRTC"/>
@@ -2368,125 +2583,247 @@
     <subcategory code="TRIF"/>
   </category>
   <category code="QCHE" description="Quiche" hidden="false">
-    <food code="QLMT"/>
     <food code="VGQU"/>
-    <food code="QUCO"/>
-    <food code="QUSR"/>
     <food code="VEQU"/>
     <food code="CAOQ"/>
     <food code="TQUI"/>
     <food code="MQRF"/>
     <food code="SAAQ"/>
+    <food code="QLMT"/>
+    <food code="QUCO"/>
+    <food code="QUSR"/>
   </category>
   <category code="RECP" description="Recipes" hidden="true">
-    <food code="ENDL"/>
-    <food code="UDON"/>
-    <food code="BERW"/>
-    <food code="LBRW"/>
-    <food code="ASPR"/>
-    <food code="AUBG"/>
-    <food code="AUFR"/>
-    <food code="BAMS"/>
-    <food code="BEAS"/>
-    <food code="BSFB"/>
     <food code="FFTY"/>
-    <food code="WSLC"/>
-    <food code="BSLC"/>
-    <food code="BULG"/>
-    <food code="CELC"/>
-    <food code="CLRY"/>
-    <food code="CHRW"/>
-    <food code="CHIC"/>
-    <food code="CSCS"/>
-    <food code="CCMB"/>
-    <food code="RWEG"/>
-    <food code="FRCH"/>
-    <food code="LTTC"/>
-    <food code="MSRF"/>
     <food code="OKRA"/>
-    <food code="PLTN"/>
     <food code="POLE"/>
-    <food code="PORW"/>
-    <food code="QUIN"/>
     <food code="QUOM"/>
-    <food code="RADS"/>
-    <food code="RCBR"/>
-    <food code="RINO"/>
-    <food code="ROCT"/>
-    <food code="TOFU"/>
     <food code="VEHG"/>
     <food code="VMSS"/>
     <food code="VEMB"/>
-    <food code="WTCH"/>
-    <food code="SLCD"/>
-    <food code="BNSQ"/>
     <food code="EGYR"/>
-    <food code="GSLC"/>
-    <food code="WACR"/>
-    <food code="SRFW"/>
     <food code="GFFL"/>
-    <food code="BRFL"/>
-    <food code="PLFL"/>
-    <food code="WMFL"/>
-    <food code="BREF"/>
-    <food code="CASU"/>
-    <food code="ICSU"/>
     <food code="BREC"/>
-    <food code="ARTI"/>
-    <food code="BAKI"/>
-    <food code="BICA"/>
-    <food code="CHFW"/>
-    <food code="CHFB"/>
-    <food code="COPO"/>
     <food code="CNFL"/>
-    <food code="CRTR"/>
-    <food code="EGGW"/>
-    <food code="PUFF"/>
-    <food code="RIFL"/>
-    <food code="SPEL"/>
-    <food code="EGWR"/>
-    <food code="YEAS"/>
     <food code="CALF"/>
-    <food code="RDWN"/>
     <food code="WHEY"/>
-    <food code="HMPP"/>
     <food code="VEAL"/>
-    <food code="OAFL"/>
     <food code="FENL"/>
-    <food code="PBGF"/>
-    <food code="PIZB"/>
-    <food code="ARRR"/>
     <food code="CHOU"/>
     <food code="COES"/>
     <food code="ONIO"/>
-    <food code="RHUR"/>
-    <food code="LEMJ"/>
-    <food code="LIMJ"/>
-    <food code="CASP"/>
-    <food code="WASB"/>
     <food code="WHTG"/>
-    <food code="DBSU"/>
-    <food code="DEMS"/>
-    <food code="BSGR"/>
-    <food code="GLUC"/>
-    <food code="LEPE"/>
-    <food code="FRDN"/>
     <food code="VAES"/>
-    <food code="SRFL"/>
-    <food code="KALB"/>
-    <food code="KALE"/>
-    <food code="CDRW"/>
-    <food code="CDSR"/>
-    <food code="PALS"/>
-    <food code="MCAP"/>
-    <food code="ARRW"/>
     <food code="SOYA"/>
     <food code="SUSW"/>
-    <food code="WCBB"/>
     <food code="PEAS"/>
     <food code="COML"/>
-    <food code="OATS"/>
     <food code="QUOP"/>
+    <food code="ARTI"/>
+    <food code="ASPR"/>
+    <food code="BAMS"/>
+    <food code="BEAS"/>
+    <food code="BERW"/>
+    <food code="BNSQ"/>
+    <food code="BSFB"/>
+    <food code="BSGR"/>
+    <food code="BSLC"/>
+    <food code="BULG"/>
+    <food code="CCMB"/>
+    <food code="CDRW"/>
+    <food code="CDSR"/>
+    <food code="CELC"/>
+    <food code="CHIC"/>
+    <food code="CHRW"/>
+    <food code="CLRY"/>
+    <food code="CSCS"/>
+    <food code="EGWR"/>
+    <food code="ENDL"/>
+    <food code="FRCH"/>
+    <food code="FRDN"/>
+    <food code="GSLC"/>
+    <food code="KALB"/>
+    <food code="KALE"/>
+    <food code="LBRW"/>
+    <food code="LTTC"/>
+    <food code="MSRF"/>
+    <food code="OATS"/>
+    <food code="PLTN"/>
+    <food code="PORW"/>
+    <food code="QUIN"/>
+    <food code="RADS"/>
+    <food code="RCBR"/>
+    <food code="RDWN"/>
+    <food code="RINO"/>
+    <food code="ROCT"/>
+    <food code="RWEG"/>
+    <food code="SLCD"/>
+    <food code="TOFU"/>
+    <food code="UDON"/>
+    <food code="WACR"/>
+    <food code="WASB"/>
+    <food code="WCBB"/>
+    <food code="WSLC"/>
+    <food code="WTCH"/>
+    <food code="ARRR"/>
+    <food code="ARRW"/>
+    <food code="BAKI"/>
+    <food code="BICA"/>
+    <food code="BREF"/>
+    <food code="BRFL"/>
+    <food code="CASP"/>
+    <food code="CASU"/>
+    <food code="CHFB"/>
+    <food code="CHFW"/>
+    <food code="COPO"/>
+    <food code="CRTR"/>
+    <food code="DBSU"/>
+    <food code="DEMS"/>
+    <food code="EGGW"/>
+    <food code="GLUC"/>
+    <food code="HMPP"/>
+    <food code="ICSU"/>
+    <food code="LIMJ"/>
+    <food code="LEMJ"/>
+    <food code="LEPE"/>
+    <food code="MCAP"/>
+    <food code="OAFL"/>
+    <food code="PALS"/>
+    <food code="PBGF"/>
+    <food code="PIZB"/>
+    <food code="PLFL"/>
+    <food code="PUFF"/>
+    <food code="RHUR"/>
+    <food code="RIFL"/>
+    <food code="SPEL"/>
+    <food code="SRFL"/>
+    <food code="SRFW"/>
+    <food code="WMFL"/>
+    <food code="YEAS"/>
+    <food code="NZWT"/>
+    <food code="NZBR"/>
+    <food code="NZWI"/>
+    <food code="NZGP"/>
+    <food code="NZWY"/>
+    <food code="RWSC"/>
+    <food code="ADYA"/>
+    <food code="ATNZ"/>
+    <food code="BCFL"/>
+    <food code="BUCS"/>
+    <food code="BWNZ"/>
+    <food code="CONZ"/>
+    <food code="FENZ"/>
+    <food code="FLNZ"/>
+    <food code="FMNZ"/>
+    <food code="NWDL"/>
+    <food code="GCNZ"/>
+    <food code="GFNZ"/>
+    <food code="HKNZ"/>
+    <food code="KROE"/>
+    <food code="FROR"/>
+    <food code="RWKP"/>
+    <food code="RLOB"/>
+    <food code="RMNZ"/>
+    <food code="OCNZ"/>
+    <food code="ROYS"/>
+    <food code="POYS"/>
+    <food code="RROY"/>
+    <food code="PANZ"/>
+    <food code="PIPI"/>
+    <food code="QSCA"/>
+    <food code="RWSH"/>
+    <food code="RWSQ"/>
+    <food code="TOHE"/>
+    <food code="TUAT"/>
+    <food code="KUMB"/>
+    <food code="KUMO"/>
+    <food code="RWCR"/>
+    <food code="PUWH"/>
+    <food code="PUWU"/>
+    <food code="NZBC"/>
+    <food code="NZDF"/>
+    <food code="NZBL"/>
+    <food code="NZBN"/>
+    <food code="NZBT"/>
+    <food code="NZCN"/>
+    <food code="NZGR"/>
+    <food code="NZKI"/>
+    <food code="NZSV"/>
+    <food code="NZBU"/>
+    <food code="NZRC"/>
+    <food code="FRNZ"/>
+    <food code="RCNZ"/>
+    <food code="NZRE"/>
+    <food code="NZSY"/>
+    <food code="NZJD"/>
+    <food code="NWZE"/>
+    <food code="SFNZ"/>
+    <food code="NZEL"/>
+    <food code="NZEF"/>
+    <food code="NZFS"/>
+    <food code="NZGF"/>
+    <food code="NZGM"/>
+    <food code="NZGE"/>
+    <food code="NZGU"/>
+    <food code="NZRH"/>
+    <food code="NZHI"/>
+    <food code="NZJA"/>
+    <food code="RWNZ"/>
+    <food code="NZKF"/>
+    <food code="NZLJ"/>
+    <food code="NZLG"/>
+    <food code="NZMK"/>
+    <food code="NZGH"/>
+    <food code="NZMO"/>
+    <food code="NZMN"/>
+    <food code="NZYM"/>
+    <food code="NZOR"/>
+    <food code="NZOD"/>
+    <food code="ODNZ"/>
+    <food code="NZBB"/>
+    <food code="NZPP"/>
+    <food code="NZPR"/>
+    <food code="NZRT"/>
+    <food code="NZRR"/>
+    <food code="NZSR"/>
+    <food code="NZRU"/>
+    <food code="NZRB"/>
+    <food code="NZRI"/>
+    <food code="NZRD"/>
+    <food code="NZAT"/>
+    <food code="NZQS"/>
+    <food code="NZKS"/>
+    <food code="NZPC"/>
+    <food code="NZSH"/>
+    <food code="NZGS"/>
+    <food code="SHNZ"/>
+    <food code="NZSD"/>
+    <food code="NZBK"/>
+    <food code="NZSK"/>
+    <food code="NZSS"/>
+    <food code="NZRS"/>
+    <food code="SONZ"/>
+    <food code="NZWR"/>
+    <food code="SWOR"/>
+    <food code="TANZ"/>
+    <food code="NZTD"/>
+    <food code="TYNZ"/>
+    <food code="TRNZ"/>
+    <food code="RTNZ"/>
+    <food code="NZTU"/>
+    <food code="NZFT"/>
+    <food code="NZFR"/>
+    <food code="SWNZ"/>
+    <food code="NZWW"/>
+    <food code="RYAY"/>
+    <food code="RYAM"/>
+    <food code="KUMA"/>
+    <food code="VMNZ"/>
+    <food code="MBNZ"/>
+    <food code="RVNZ"/>
+    <food code="NZPS"/>
+    <food code="AUBG"/>
+    <food code="AUFR"/>
     <subcategory code="OILY"/>
     <subcategory code="CRAB"/>
     <subcategory code="FFLT"/>
@@ -2530,28 +2867,28 @@
     <subcategory code="C002"/>
   </category>
   <category code="RLSH" description="Relish" hidden="false">
-    <food code="SCJR"/>
     <food code="GRLS"/>
     <food code="HBRL"/>
     <food code="SCRL"/>
     <food code="ORLS"/>
+    <food code="SCJR"/>
     <food code="STRL"/>
   </category>
   <category code="RICE" description="Rice" hidden="false">
-    <food code="SVRC"/>
-    <food code="PTSV"/>
-    <food code="BSRC"/>
-    <food code="BRCE"/>
-    <food code="ECRC"/>
     <food code="EGFR"/>
-    <food code="ARBR"/>
-    <food code="WIRI"/>
-    <food code="WRCE"/>
-    <food code="SPFR"/>
     <food code="RDRC"/>
-    <food code="PLAU"/>
     <food code="PLVG"/>
     <food code="RCRI"/>
+    <food code="BRCE"/>
+    <food code="BSRC"/>
+    <food code="ECRC"/>
+    <food code="PLAU"/>
+    <food code="PTSV"/>
+    <food code="SPFR"/>
+    <food code="SVRC"/>
+    <food code="WRCE"/>
+    <food code="ARBR"/>
+    <food code="WIRI"/>
     <subcategory code="RIDH"/>
   </category>
   <category code="RIDH" description="Rice dishes" hidden="false">
@@ -2565,66 +2902,72 @@
     <food code="PCHO"/>
     <food code="VGRT"/>
     <food code="RSTO"/>
-    <food code="MECS"/>
     <food code="CHCS"/>
+    <food code="MECS"/>
     <food code="PRWN"/>
   </category>
   <category code="RCRP" description="Rice krispie type cereals" hidden="false">
+    <food code="COCO"/>
+    <food code="GFCP"/>
+    <food code="GFRC"/>
+    <food code="RCKP"/>
     <food code="RICI"/>
     <food code="RIPF"/>
     <food code="RISN"/>
-    <food code="RCKP"/>
-    <food code="GFRC"/>
-    <food code="GFCP"/>
-    <food code="COCO"/>
   </category>
   <category code="MPUD" description="Rice pudding/semolina/tapioca" hidden="false">
-    <food code="RPSS"/>
-    <food code="HERP"/>
-    <food code="FLRP"/>
     <food code="RPCC"/>
+    <food code="FLRP"/>
+    <food code="HERP"/>
     <food code="MPDO"/>
+    <food code="RPSS"/>
   </category>
   <category code="RSTM" description="Roast meat" hidden="false">
-    <food code="CHFT"/>
-    <food code="RBMF"/>
-    <food code="DUCK"/>
+    <food code="LMLG"/>
     <food code="CHBR"/>
+    <food code="CHFT"/>
+    <food code="CWMD"/>
+    <food code="DUCK"/>
+    <food code="LMFT"/>
+    <food code="RBMF"/>
+    <food code="RCDK"/>
+    <food code="RCFT"/>
+    <food code="RCLG"/>
+    <food code="RCLM"/>
     <food code="RLMF"/>
+    <food code="RPMF"/>
     <food code="TROL"/>
     <food code="VENI"/>
-    <food code="RPMF"/>
+    <food code="BRIS"/>
+    <food code="CHTH"/>
     <food code="DCKC"/>
+    <food code="GROU"/>
+    <food code="HHOC"/>
+    <food code="PARR"/>
+    <food code="PHEA"/>
+    <food code="PIGE"/>
     <food code="PLAM"/>
     <food code="PPOR"/>
-    <food code="HHOC"/>
-    <food code="CHTH"/>
-    <food code="PIGE"/>
-    <food code="GROU"/>
     <food code="RABB"/>
-    <food code="PARR"/>
-    <food code="BRIS"/>
-    <food code="LMFT"/>
-    <food code="RCLG"/>
-    <food code="RCFT"/>
-    <food code="RCDK"/>
-    <food code="RCLM"/>
-    <food code="LMLG"/>
-    <food code="PHEA"/>
-    <food code="CWMD"/>
+    <food code="SVNZ"/>
+    <food code="CVNZ"/>
+    <food code="VSNZ"/>
+    <food code="DVNZ"/>
+    <food code="GENZ"/>
+    <food code="HRNZ"/>
   </category>
   <category code="SDCM" description="Salad cream" hidden="false">
-    <food code="SLDC"/>
     <food code="SDCL"/>
+    <food code="SLDC"/>
   </category>
   <category code="SDRS" description="Salad dressings" hidden="false">
-    <food code="FDLF"/>
-    <food code="DRSS"/>
-    <food code="VIDR"/>
-    <food code="FRFF"/>
     <food code="LFRC"/>
-    <food code="THOU"/>
+    <food code="DRSS"/>
+    <food code="FRFF"/>
     <food code="THIS"/>
+    <food code="THOU"/>
+    <food code="FDLF"/>
+    <food code="VIDR"/>
   </category>
   <category code="SLW1" description="Salad wizard 1 (ingredients)" hidden="true">
     <subcategory code="VTGB"/>
@@ -2641,48 +2984,48 @@
   </category>
   <category code="C000" description="Salads" hidden="false">
     <food code="RSAL"/>
-    <food code="POTD"/>
-    <food code="BTSA"/>
-    <food code="MXSL"/>
-    <food code="BEAN"/>
-    <food code="GREK"/>
     <food code="WALD"/>
+    <food code="BEAN"/>
+    <food code="BTSA"/>
+    <food code="GREK"/>
+    <food code="MXSL"/>
+    <food code="POTD"/>
   </category>
   <category code="SDWB" description="Sandwich biscuits e.g. custard cream, bourbon, jammie dodgers" hidden="false">
-    <food code="CTCM"/>
     <food code="SDBJ"/>
-    <food code="WFRB"/>
     <food code="GFWA"/>
-    <food code="SDBB"/>
     <food code="CBCF"/>
+    <food code="CTCM"/>
+    <food code="SDBB"/>
+    <food code="WFRB"/>
+    <food code="NZBW"/>
   </category>
   <category code="SNDF" description="Sandwich fillers" hidden="false">
     <food code="CTSF"/>
     <food code="CCSF"/>
-    <food code="EMSF"/>
     <food code="PCSF"/>
     <food code="CSSF"/>
     <food code="PRMA"/>
+    <food code="EMSF"/>
   </category>
   <category code="SWMT" description="Sandwich meat / sliced meat / canned meat" hidden="false">
     <food code="CRNC"/>
-    <food code="POLY"/>
-    <food code="STCN"/>
-    <food code="CSLC"/>
-    <food code="HPCC"/>
-    <food code="CNBC"/>
     <food code="HPCG"/>
     <food code="MBCN"/>
+    <food code="CNBN"/>
+    <food code="CNBC"/>
+    <food code="CSLC"/>
+    <food code="HPCC"/>
+    <food code="LMNC"/>
+    <food code="LMPC"/>
+    <food code="MATT"/>
     <food code="PSTR"/>
     <food code="SLMI"/>
-    <food code="MATT"/>
+    <food code="STCN"/>
     <food code="TSLC"/>
     <food code="CHAR"/>
-    <food code="LMPC"/>
-    <food code="SPAM"/>
-    <food code="LMNC"/>
-    <food code="CNBN"/>
     <food code="CHIN"/>
+    <food code="SPAM"/>
   </category>
   <category code="SW01" description="Sandwich wizard 1 (bread)" hidden="true">
     <subcategory code="BBRD"/>
@@ -2758,33 +3101,33 @@
   </category>
   <category code="COND" description="Sauces / condiments / gravy / stock" hidden="false">
     <food code="APSE"/>
-    <food code="CRNB"/>
     <food code="HOLS"/>
     <food code="HORS"/>
-    <food code="HOTS"/>
-    <food code="MNTS"/>
-    <food code="TARS"/>
-    <food code="TGCP"/>
-    <food code="TRCP"/>
     <food code="TKRS"/>
-    <food code="TKET"/>
-    <food code="WRCT"/>
-    <food code="SEAS"/>
-    <food code="HOIS"/>
-    <food code="TABA"/>
     <food code="WASA"/>
-    <food code="CRYS"/>
-    <food code="YOGD"/>
     <food code="PLUM"/>
-    <food code="CLWH"/>
     <food code="MUSA"/>
     <food code="BERS"/>
-    <food code="OYSS"/>
-    <food code="FISS"/>
-    <food code="SOYS"/>
-    <food code="SOYL"/>
+    <food code="CLWH"/>
+    <food code="CRNB"/>
+    <food code="CRYS"/>
+    <food code="HOTS"/>
+    <food code="MNTS"/>
+    <food code="SEAS"/>
     <food code="SORS"/>
+    <food code="SOYS"/>
+    <food code="TARS"/>
+    <food code="TGCP"/>
+    <food code="TKET"/>
+    <food code="TRCP"/>
+    <food code="WRCT"/>
+    <food code="FISS"/>
+    <food code="HOIS"/>
+    <food code="OYSS"/>
+    <food code="SOYL"/>
     <food code="SSLR"/>
+    <food code="TABA"/>
+    <food code="YOGD"/>
     <subcategory code="VNGR"/>
     <subcategory code="CHIS"/>
     <subcategory code="SDCM"/>
@@ -2796,213 +3139,253 @@
   </category>
   <category code="SSGS" description="Sausages" hidden="false">
     <food code="HPCG"/>
-    <food code="MATT"/>
     <food code="BPDB"/>
     <food code="BPBO"/>
     <food code="BPFR"/>
     <food code="CHOR"/>
     <food code="HAGB"/>
-    <food code="HABO"/>
-    <food code="LORN"/>
-    <food code="WTPD"/>
-    <food code="PRMI"/>
-    <food code="REPD"/>
     <food code="SSGE"/>
     <food code="SBFO"/>
-    <food code="SKIR"/>
-    <food code="SQSA"/>
-    <food code="TSSG"/>
-    <food code="TSSF"/>
-    <food code="FRFT"/>
-    <food code="BRFR"/>
-    <food code="BRGR"/>
-    <food code="LISA"/>
     <food code="VENS"/>
     <food code="PIGS"/>
-    <food code="SAVO"/>
+    <food code="SSTF"/>
+    <food code="SSTG"/>
+    <food code="FRFT"/>
+    <food code="HABO"/>
+    <food code="LORN"/>
+    <food code="MATT"/>
+    <food code="PRMI"/>
+    <food code="REPD"/>
+    <food code="SQSA"/>
     <food code="SSBF"/>
     <food code="SSBG"/>
     <food code="SSPF"/>
     <food code="SSPG"/>
-    <food code="SSTF"/>
-    <food code="SSTG"/>
+    <food code="TSSF"/>
+    <food code="TSSG"/>
+    <food code="WTPD"/>
+    <food code="BRFR"/>
+    <food code="BRGR"/>
+    <food code="LISA"/>
     <food code="SAUF"/>
+    <food code="SAVO"/>
   </category>
   <category code="SYBT" description="Savoury biscuits" hidden="false">
-    <food code="RYVM"/>
+    <food code="SKMB"/>
     <food code="FLRC"/>
+    <food code="MELB"/>
+    <food code="OTCA"/>
     <food code="RCCK"/>
     <food code="RTMI"/>
-    <food code="OTCA"/>
-    <food code="MELB"/>
     <food code="RYTH"/>
-    <food code="SKMB"/>
+    <food code="RYVM"/>
     <food code="SAJK"/>
     <food code="CRBR"/>
     <subcategory code="CRKS"/>
   </category>
   <category code="PATE" description="Savoury spreads &amp; pates" hidden="false">
+    <food code="PSEP"/>
+    <food code="POTH"/>
     <food code="BFPS"/>
+    <food code="BVRL"/>
     <food code="CKNP"/>
     <food code="MRMT"/>
     <food code="VGMT"/>
-    <food code="PSEP"/>
-    <food code="POTH"/>
-    <food code="BVRL"/>
     <subcategory code="SNDF"/>
     <subcategory code="PTES"/>
   </category>
   <category code="SCNS" description="Scones" hidden="false">
     <food code="FTCT"/>
-    <food code="SCON"/>
     <food code="CHSC"/>
-    <food code="BNSC"/>
     <food code="PTSC"/>
-    <food code="PLSC"/>
     <food code="GFSN"/>
     <food code="FSRF"/>
     <food code="GFFS"/>
+    <food code="BNSC"/>
+    <food code="PLSC"/>
   </category>
   <category code="C002" description="Seafood" hidden="false">
-    <food code="COKL"/>
-    <food code="MUSS"/>
-    <food code="PBFO"/>
-    <food code="SHRI"/>
-    <food code="CRAY"/>
-    <food code="LOBS"/>
-    <food code="LANG"/>
-    <food code="OCTO"/>
     <food code="OYST"/>
-    <food code="CALA"/>
-    <food code="TEMP"/>
-    <food code="KPRN"/>
-    <food code="CRCA"/>
-    <food code="SCAL"/>
     <food code="SQUI"/>
-    <food code="SQUF"/>
     <food code="PFIL"/>
     <food code="CAVI"/>
-    <food code="FROG"/>
-    <food code="FROR"/>
-    <food code="PRDS"/>
     <food code="PRMA"/>
     <food code="TAGP"/>
+    <food code="COKL"/>
+    <food code="KPRN"/>
+    <food code="MUSS"/>
+    <food code="PBFO"/>
+    <food code="CALA"/>
+    <food code="CRAY"/>
+    <food code="CRCA"/>
+    <food code="FROG"/>
+    <food code="LANG"/>
+    <food code="LOBS"/>
+    <food code="OCTO"/>
+    <food code="PRDS"/>
+    <food code="SCAL"/>
+    <food code="TEMP"/>
+    <food code="FCMN"/>
+    <food code="TFCM"/>
+    <food code="TMNZ"/>
+    <food code="CMTN"/>
+    <food code="LGNZ"/>
+    <food code="GMTN"/>
+    <food code="MUNZ"/>
+    <food code="MKNZ"/>
+    <food code="SLNZ"/>
+    <food code="BQNZ"/>
+    <food code="SMAQ"/>
+    <food code="SGAQ"/>
+    <food code="NTAQ"/>
+    <food code="GSMN"/>
+    <food code="SMMN"/>
+    <food code="MCIO"/>
+    <food code="BOMU"/>
+    <food code="RWSC"/>
+    <food code="CASH"/>
+    <food code="FOYS"/>
+    <food code="FSCA"/>
+    <food code="SQUF"/>
+    <food code="FPAU"/>
+    <food code="SHRI"/>
+    <food code="COYS"/>
+    <food code="CONZ"/>
+    <food code="KROE"/>
+    <food code="FROR"/>
+    <food code="RWKP"/>
+    <food code="RLOB"/>
+    <food code="RMNZ"/>
+    <food code="OCNZ"/>
+    <food code="ROYS"/>
+    <food code="POYS"/>
+    <food code="RROY"/>
+    <food code="PANZ"/>
+    <food code="PIPI"/>
+    <food code="QSCA"/>
+    <food code="RWSH"/>
+    <food code="RWSQ"/>
+    <food code="TOHE"/>
+    <food code="TUAT"/>
   </category>
   <category code="SHSH" description="Shortbread/ shortcake" hidden="false">
-    <food code="BTRB"/>
     <food code="CRMS"/>
-    <food code="SHBR"/>
-    <food code="SHRT"/>
-    <food code="ABBS"/>
-    <food code="THOR"/>
     <food code="MSHB"/>
     <food code="GFMS"/>
-    <food code="GFSB"/>
     <food code="MISB"/>
+    <food code="BTRB"/>
+    <food code="GFSB"/>
+    <food code="SHBR"/>
+    <food code="SHRT"/>
   </category>
   <category code="SHRW" description="Shredded wheat" hidden="false">
+    <food code="FFWH"/>
     <food code="MINM"/>
     <food code="SHWB"/>
-    <food code="FFWH"/>
     <food code="SHWH"/>
   </category>
   <category code="SHRE" description="Shreddies" hidden="false">
     <food code="FSHR"/>
-    <food code="COSH"/>
     <food code="HOSH"/>
-    <food code="SHRD"/>
+    <food code="COSH"/>
     <food code="MAWH"/>
+    <food code="SHRD"/>
   </category>
   <category sameAsBeforeOption="true" code="SMTH" description="Smoothies" hidden="false">
     <food code="INNO"/>
     <food code="YOGB"/>
-    <food code="SMOY"/>
-    <food code="SMOR"/>
     <food code="SMOG"/>
+    <food code="SMOR"/>
+    <food code="SMOY"/>
     <food code="STAB"/>
+    <food code="NZSO"/>
   </category>
   <category code="SFTC" description="Soft cheese" hidden="false">
-    <food code="CAME"/>
     <food code="GOCH"/>
-    <food code="RICC"/>
     <food code="QUAR"/>
     <food code="DFMO"/>
     <food code="LFSC"/>
-    <food code="FETA"/>
-    <food code="MOZZ"/>
     <food code="DANS"/>
     <food code="BRIE"/>
     <food code="MOZL"/>
     <food code="DBLF"/>
+    <food code="CAME"/>
+    <food code="FETA"/>
+    <food code="MOZZ"/>
+    <food code="RICC"/>
   </category>
   <category code="SOUP" description="Soup" hidden="false">
-    <food code="CCSH"/>
     <food code="CMSH"/>
-    <food code="MSOS"/>
-    <food code="CMSC"/>
-    <food code="BRTH"/>
     <food code="CUSK"/>
-    <food code="CSPC"/>
-    <food code="CPAS"/>
-    <food code="MGST"/>
     <food code="FSBS"/>
-    <food code="FSCS"/>
-    <food code="FSLD"/>
     <food code="FSPM"/>
-    <food code="LENT"/>
     <food code="ORNS"/>
     <food code="PHAM"/>
     <food code="PTLK"/>
-    <food code="TSPC"/>
-    <food code="VSPC"/>
-    <food code="GAZP"/>
     <food code="HASS"/>
     <food code="SWPS"/>
-    <food code="OXSC"/>
-    <food code="OXSP"/>
     <food code="CORS"/>
     <food code="CONS"/>
     <food code="LCSP"/>
-    <food code="BAVS"/>
     <food code="LCSA"/>
     <food code="SCCH"/>
     <food code="CAOS"/>
-    <food code="CROR"/>
     <food code="CALS"/>
     <food code="FRON"/>
-    <food code="MSTN"/>
     <food code="WCRS"/>
-    <food code="FICH"/>
-    <food code="FSFC"/>
     <food code="WTSP"/>
     <food code="GOUL"/>
     <food code="GOUM"/>
-    <food code="PUMS"/>
     <food code="CRSP"/>
-    <food code="BUTN"/>
     <food code="PSOU"/>
+    <food code="BRTH"/>
+    <food code="CCSH"/>
+    <food code="CMSC"/>
+    <food code="CPAS"/>
+    <food code="CROR"/>
+    <food code="CSPC"/>
+    <food code="FSCS"/>
+    <food code="FSLD"/>
+    <food code="MGST"/>
+    <food code="MSOS"/>
+    <food code="MSTN"/>
+    <food code="TSPC"/>
+    <food code="VSPC"/>
+    <food code="BAVS"/>
+    <food code="BUTN"/>
+    <food code="FICH"/>
+    <food code="FSFC"/>
+    <food code="GAZP"/>
+    <food code="LENT"/>
+    <food code="OXSC"/>
+    <food code="OXSP"/>
+    <food code="PUMS"/>
   </category>
   <category code="SPNC" description="Spinach" hidden="false">
-    <food code="SPNB"/>
-    <food code="MXSL"/>
-    <food code="SPNR"/>
     <food code="CHAD"/>
-    <food code="FRSP"/>
+    <food code="MXSL"/>
+    <food code="SPNB"/>
+    <food code="SPNR"/>
     <food code="CNSP"/>
+    <food code="FRSP"/>
     <food code="SIDE"/>
+    <food code="BPUW"/>
+    <food code="SEAB"/>
+    <food code="PUWH"/>
+    <food code="PUWU"/>
   </category>
   <category reasonableAmount="500" code="SPLI" description="Spirits &amp; liqueurs" hidden="false">
-    <food code="APER"/>
     <food code="CMLI"/>
+    <food code="APER"/>
+    <food code="LIMC"/>
     <food code="MELI"/>
     <food code="PIMS"/>
     <food code="PORT"/>
     <food code="SHRY"/>
     <food code="SPRT"/>
     <food code="STLI"/>
-    <food code="LIMC"/>
-    <food code="SOUT"/>
     <food code="WHMC"/>
+    <food code="SOUT"/>
   </category>
   <category code="SPNG" description="Sponge cake" hidden="false">
     <food code="GSCA"/>
@@ -3014,134 +3397,126 @@
     <subcategory code="GING"/>
   </category>
   <category code="SPON" description="Sponge cake" hidden="false">
-    <food code="SBCJ"/>
-    <food code="SCNF"/>
-    <food code="SWIS"/>
-    <food code="SCBC"/>
-    <food code="SJCF"/>
     <food code="CHCK"/>
     <food code="CFDG"/>
+    <food code="BNRL"/>
+    <food code="RSCA"/>
+    <food code="WSPO"/>
+    <food code="YULE"/>
+    <food code="SCBC"/>
     <food code="CSCB"/>
     <food code="CSCN"/>
     <food code="GFCC"/>
     <food code="GFSC"/>
-    <food code="SNOW"/>
-    <food code="BNRL"/>
-    <food code="RSCA"/>
-    <food code="CCCC"/>
     <food code="LOWF"/>
-    <food code="FALS"/>
-    <food code="WSPO"/>
+    <food code="SBCJ"/>
+    <food code="SCNF"/>
+    <food code="SJCF"/>
+    <food code="SWIS"/>
     <food code="ANGE"/>
+    <food code="CCCC"/>
     <food code="CHFF"/>
-    <food code="YULE"/>
+    <food code="FALS"/>
+    <food code="SNOW"/>
   </category>
   <category code="SSPD" description="Sponge pudding" hidden="false">
-    <food code="BBPD"/>
-    <food code="SPTD"/>
     <food code="SSPJ"/>
-    <food code="STSP"/>
-    <food code="CLOO"/>
-    <food code="CHRI"/>
-    <food code="APPC"/>
     <food code="EVEP"/>
     <food code="WBRP"/>
     <food code="SUMM"/>
-    <food code="F000"/>
     <food code="SYRP"/>
+    <food code="BBPD"/>
+    <food code="CHRI"/>
+    <food code="STSP"/>
+    <food code="APPC"/>
+    <food code="SSPD"/>
   </category>
   <category sameAsBeforeOption="true" code="SQDK" description="Squash / cordial / fruit flavour drinks" hidden="false">
     <food code="BWSQ"/>
-    <food code="FFJT"/>
-    <food code="HJCB"/>
-    <food code="CPJB"/>
-    <food code="CPSQ"/>
-    <food code="BNAS"/>
-    <food code="ORDR"/>
-    <food code="VIST"/>
-    <food code="FTSH"/>
-    <food code="FBNS"/>
-    <food code="FBRD"/>
-    <food code="OASI"/>
-    <food code="CPSN"/>
-    <food code="KWEN"/>
-    <food code="FNBN"/>
-    <food code="JTWO"/>
+    <food code="RIBA"/>
+    <food code="MFJD"/>
+    <food code="APBL"/>
+    <food code="CRSQ"/>
+    <food code="ELDR"/>
     <food code="BCJC"/>
     <food code="BJNS"/>
-    <food code="RIBA"/>
-    <food code="RIBN"/>
-    <food code="MFJC"/>
-    <food code="MFJD"/>
-    <food code="CRAS"/>
-    <food code="CARP"/>
-    <food code="REDB"/>
-    <food code="AABL"/>
-    <food code="APBL"/>
-    <food code="RBSN"/>
-    <food code="RACS"/>
-    <food code="CRSQ"/>
-    <food code="FSMY"/>
-    <food code="ASNS"/>
-    <food code="ASAS"/>
-    <food code="OSQB"/>
-    <food code="LEMS"/>
-    <food code="SLEM"/>
-    <food code="VIMT"/>
+    <food code="BNAS"/>
+    <food code="CPJB"/>
+    <food code="CPSQ"/>
+    <food code="FBNS"/>
+    <food code="FBRD"/>
+    <food code="FFJT"/>
+    <food code="FNBN"/>
+    <food code="HJCB"/>
     <food code="LISB"/>
-    <food code="ELDR"/>
+    <food code="MFJC"/>
+    <food code="ORDR"/>
+    <food code="OSQB"/>
+    <food code="AABL"/>
+    <food code="ASAS"/>
+    <food code="ASNS"/>
+    <food code="CARP"/>
+    <food code="CRAS"/>
+    <food code="JTWO"/>
+    <food code="LEMS"/>
+    <food code="RACS"/>
+    <food code="RBSN"/>
+    <food code="REDB"/>
+    <food code="RIBN"/>
+    <food code="SLEM"/>
   </category>
   <category code="STEK" description="Steaks and chops" hidden="false">
-    <food code="LMMB"/>
-    <food code="PGLF"/>
     <food code="VEAF"/>
     <food code="VEAG"/>
-    <food code="BTBO"/>
-    <food code="TBOG"/>
-    <food code="BSSF"/>
     <food code="BSSG"/>
+    <food code="BEFG"/>
+    <food code="BRSG"/>
+    <food code="BEFF"/>
+    <food code="BRSF"/>
+    <food code="BSSF"/>
+    <food code="LMMB"/>
+    <food code="PGLF"/>
+    <food code="BTBO"/>
+    <food code="MING"/>
+    <food code="MINU"/>
     <food code="RIBE"/>
     <food code="RIBG"/>
-    <food code="BEFF"/>
-    <food code="BEFG"/>
-    <food code="BRSF"/>
-    <food code="BRSG"/>
-    <food code="MINU"/>
-    <food code="MING"/>
+    <food code="TBOG"/>
+    <food code="GCNZ"/>
   </category>
   <category code="SAUC" description="Stir in sauces / pasta sauces / jar sauces" hidden="false">
-    <food code="CHPS"/>
-    <food code="TGCP"/>
-    <food code="TRCP"/>
     <food code="TMPS"/>
-    <food code="BLKB"/>
-    <food code="BSPS"/>
     <food code="CBNA"/>
-    <food code="CBPS"/>
     <food code="HOCS"/>
-    <food code="DOLM"/>
-    <food code="RAGU"/>
-    <food code="RPTO"/>
     <food code="STFS"/>
-    <food code="SSCS"/>
-    <food code="ARAB"/>
-    <food code="PASA"/>
-    <food code="CUPA"/>
-    <food code="CRYS"/>
     <food code="DIAN"/>
     <food code="CSRF"/>
+    <food code="ARAB"/>
+    <food code="BLKB"/>
+    <food code="BSPS"/>
+    <food code="CBPS"/>
+    <food code="CHPS"/>
+    <food code="CRYS"/>
+    <food code="DOLM"/>
     <food code="GPTO"/>
+    <food code="PASA"/>
+    <food code="RAGU"/>
+    <food code="RPTO"/>
+    <food code="SSCS"/>
+    <food code="TGCP"/>
+    <food code="TRCP"/>
+    <food code="CUPA"/>
     <food code="TBSR"/>
   </category>
   <category code="SUGA" description="Sugar" hidden="false">
-    <food code="DBSU"/>
-    <food code="DEMS"/>
-    <food code="WSGR"/>
-    <food code="BSGR"/>
-    <food code="GLUC"/>
-    <food code="PALS"/>
     <food code="SWEE"/>
     <food code="SWEP"/>
+    <food code="BSGR"/>
+    <food code="WSGR"/>
+    <food code="DBSU"/>
+    <food code="DEMS"/>
+    <food code="GLUC"/>
+    <food code="PALS"/>
   </category>
   <category code="SUGR" description="Sugar / jams / marmalades / spreads / pates" hidden="false">
     <subcategory code="CHOS"/>
@@ -3153,16 +3528,14 @@
     <subcategory code="PNUT"/>
   </category>
   <category code="SGPC" description="Sugar puffed cereal" hidden="false">
-    <food code="CRNP"/>
-    <food code="SGPF"/>
-    <food code="LCYC"/>
-    <food code="HYPF"/>
-    <food code="GNPF"/>
-    <food code="KRAE"/>
     <food code="CCIS"/>
-    <food code="GOLG"/>
-    <food code="MGBC"/>
+    <food code="CRNP"/>
+    <food code="GNPF"/>
+    <food code="HYPF"/>
+    <food code="LCYC"/>
     <food code="NESQ"/>
+    <food code="SGPF"/>
+    <food code="MGBC"/>
   </category>
   <category code="SUSH" description="Sushi" hidden="false">
     <food code="SUSS"/>
@@ -3171,35 +3544,35 @@
     <food code="VESU"/>
   </category>
   <category code="TRNP" description="Swede / turnip" hidden="false">
-    <food code="NEEP"/>
     <food code="SWDB"/>
+    <food code="SWDM"/>
     <food code="TNPB"/>
     <food code="TNPM"/>
-    <food code="SWDM"/>
     <food code="CASM"/>
   </category>
   <category code="SWBC" description="Sweet biscuits" hidden="false">
-    <food code="ICEG"/>
     <food code="JFFA"/>
     <food code="HOCR"/>
     <food code="CCPR"/>
-    <food code="HCRS"/>
     <food code="HCRY"/>
     <food code="KBIS"/>
-    <food code="AMAR"/>
     <food code="BSCI"/>
     <food code="BRSN"/>
-    <food code="CLBB"/>
     <food code="CHRC"/>
-    <food code="SWRC"/>
     <food code="CALO"/>
     <food code="FLOR"/>
-    <food code="OREO"/>
-    <food code="RICT"/>
     <food code="HORT"/>
     <food code="PROB"/>
     <food code="QUES"/>
+    <food code="AMAR"/>
+    <food code="HCRS"/>
+    <food code="ICEG"/>
+    <food code="OREO"/>
     <food code="POPT"/>
+    <food code="SWRC"/>
+    <food code="RICT"/>
+    <food code="NZIB"/>
+    <food code="NZAF"/>
     <subcategory code="CHSB"/>
     <subcategory code="CKES"/>
     <subcategory code="DGST"/>
@@ -3211,96 +3584,87 @@
   <category code="SWTC" description="Sweetcorn" hidden="false">
     <food code="COBB"/>
     <food code="MSCB"/>
-    <food code="SCCD"/>
     <food code="MSCR"/>
+    <food code="SCCD"/>
     <food code="SCFB"/>
   </category>
   <category code="SYRP" description="Syrup / treacle" hidden="false">
+    <food code="CFSY"/>
     <food code="GSYP"/>
     <food code="MSYP"/>
     <food code="TRCL"/>
     <food code="GLUC"/>
-    <food code="CFSY"/>
   </category>
-  <category code="TCHI" description="Takeaway chips" hidden="false">
-    <food code="TAFF"/>
+  <category code="TCHI" description="Takeaway fries" hidden="false">
     <food code="TACC"/>
+    <food code="TAFF"/>
   </category>
   <category code="TART" description="Tarts" hidden="false">
-    <food code="JTRT"/>
     <food code="CSTS"/>
     <food code="EGCT"/>
-    <food code="TRCT"/>
     <food code="FRGI"/>
-    <food code="CSTL"/>
-    <food code="FRTA"/>
-    <food code="CHBK"/>
     <food code="CLAF"/>
+    <food code="COTA"/>
+    <food code="GFBT"/>
+    <food code="PECA"/>
+    <food code="BTRT"/>
+    <food code="CSTL"/>
+    <food code="JTRT"/>
+    <food code="TRCT"/>
     <food code="APRI"/>
     <food code="BUTS"/>
-    <food code="COTA"/>
+    <food code="CHBK"/>
+    <food code="FRTA"/>
     <food code="LEMT"/>
-    <food code="GFBT"/>
-    <food code="BTRT"/>
-    <food code="PECA"/>
     <food code="PUPP"/>
   </category>
   <category sameAsBeforeOption="true" code="TEAS" description="Tea" hidden="false">
-    <food code="ICET"/>
-    <food code="BTEA"/>
-    <food code="HTEA"/>
     <food code="CHAI"/>
+    <food code="BTEA"/>
     <food code="DCTE"/>
+    <food code="HTEA"/>
+    <food code="ICET"/>
     <food code="OOLT"/>
   </category>
   <category code="TFFS" description="Toffee / fudge / nougat" hidden="false">
     <food code="CFUG"/>
     <food code="TABL"/>
-    <food code="MTOF"/>
     <food code="NUGT"/>
     <food code="PRAL"/>
+    <food code="MTOF"/>
   </category>
   <category code="TMTO" description="Tomatoes" hidden="false">
-    <food code="TOSD"/>
-    <food code="FTOM"/>
     <food code="GTOM"/>
-    <food code="TTOM"/>
-    <food code="PASA"/>
     <food code="CTOM"/>
+    <food code="FTOM"/>
+    <food code="PASA"/>
     <food code="RTOM"/>
+    <food code="TOSD"/>
+    <food code="TTOM"/>
   </category>
   <category code="TRIF" description="Trifle" hidden="false">
-    <food code="CRAN"/>
     <food code="TRIF"/>
     <food code="TRLF"/>
     <food code="TRFL"/>
     <food code="QNOP"/>
   </category>
   <category code="TWIN" description="Twin pot yoghurts" hidden="false">
-    <food code="TWFT"/>
     <food code="TWCR"/>
+    <food code="TWFT"/>
   </category>
   <category code="VGDI" description="Vegetable &amp; vegetarian dishes" hidden="false">
-    <food code="LNRT"/>
-    <food code="NRST"/>
     <food code="SAUS"/>
-    <food code="CCSS"/>
     <food code="BEBU"/>
     <food code="VBGF"/>
-    <food code="BOMP"/>
-    <food code="SAMS"/>
     <food code="VSPR"/>
     <food code="GMUS"/>
-    <food code="VEGT"/>
     <food code="FLFL"/>
     <food code="VEMB"/>
-    <food code="ARTI"/>
     <food code="CYVT"/>
     <food code="VCCP"/>
     <food code="GFVL"/>
     <food code="VLAS"/>
     <food code="VMLS"/>
-    <food code="VEGP"/>
     <food code="VGEN"/>
     <food code="VBUR"/>
     <food code="BMUS"/>
@@ -3312,92 +3676,101 @@
     <food code="LEDA"/>
     <food code="ONIO"/>
     <food code="VAUV"/>
-    <food code="VECH"/>
     <food code="VECP"/>
     <food code="LFVL"/>
     <food code="OKCU"/>
     <food code="LECU"/>
     <food code="QUCP"/>
-    <food code="AUBP"/>
     <food code="CASS"/>
     <food code="VMUS"/>
     <food code="VEKI"/>
-    <food code="RATA"/>
     <food code="VESU"/>
     <food code="VCCC"/>
     <food code="VGBJ"/>
     <food code="VEGF"/>
     <food code="SHPV"/>
-    <food code="ONBJ"/>
     <food code="MUBH"/>
     <food code="STAU"/>
     <food code="SPIB"/>
-    <food code="STFR"/>
     <food code="VEQU"/>
     <food code="VEDS"/>
     <food code="NUTB"/>
+    <food code="ARTI"/>
+    <food code="BOMP"/>
+    <food code="CCSS"/>
+    <food code="LNRT"/>
+    <food code="NRST"/>
+    <food code="RATA"/>
+    <food code="SAMS"/>
+    <food code="STFR"/>
+    <food code="VEGP"/>
+    <food code="VEGT"/>
+    <food code="AUBP"/>
+    <food code="VECH"/>
   </category>
   <category sameAsBeforeOption="true" code="VGTJ" description="Vegetable juice" hidden="false">
     <food code="CARJ"/>
     <food code="VGJU"/>
     <food code="WTGR"/>
-    <food code="TOMB"/>
     <food code="VEGJ"/>
     <food code="ALOE"/>
+    <food code="TOMB"/>
   </category>
   <category code="VTGB" description="Vegetables" hidden="false">
-    <food code="RCLF"/>
     <food code="STVL"/>
-    <food code="ASPR"/>
-    <food code="AUBG"/>
-    <food code="AUFR"/>
-    <food code="BAMS"/>
-    <food code="BEAS"/>
-    <food code="BSFB"/>
-    <food code="CELC"/>
-    <food code="CLRY"/>
-    <food code="CHIC"/>
-    <food code="CCMB"/>
-    <food code="LTTC"/>
-    <food code="MSRF"/>
     <food code="OKRA"/>
-    <food code="PLTN"/>
-    <food code="RADS"/>
-    <food code="ROCT"/>
-    <food code="WTCH"/>
-    <food code="BNSQ"/>
-    <food code="WACR"/>
-    <food code="ARTI"/>
-    <food code="BSNC"/>
     <food code="ALFA"/>
-    <food code="PUMP"/>
-    <food code="CNMR"/>
-    <food code="CTNT"/>
-    <food code="POMR"/>
-    <food code="PORM"/>
     <food code="TRUF"/>
     <food code="VINE"/>
-    <food code="WIMU"/>
-    <food code="SEAW"/>
-    <food code="STUP"/>
     <food code="TEMV"/>
     <food code="STFJ"/>
-    <food code="GARL"/>
-    <food code="SAMP"/>
-    <food code="MARR"/>
-    <food code="MARB"/>
     <food code="MARP"/>
     <food code="FENL"/>
-    <food code="GARP"/>
     <food code="ONIO"/>
     <food code="OKRF"/>
     <food code="BNQM"/>
-    <food code="WASB"/>
-    <food code="ROOG"/>
     <food code="SPIR"/>
-    <food code="AUBB"/>
-    <food code="CARS"/>
     <food code="PEAS"/>
+    <food code="ARTI"/>
+    <food code="ASPR"/>
+    <food code="BAMS"/>
+    <food code="BEAS"/>
+    <food code="BNSQ"/>
+    <food code="BSFB"/>
+    <food code="CCMB"/>
+    <food code="CELC"/>
+    <food code="CHIC"/>
+    <food code="CLRY"/>
+    <food code="LTTC"/>
+    <food code="MSRF"/>
+    <food code="PLTN"/>
+    <food code="RADS"/>
+    <food code="RCLF"/>
+    <food code="ROCT"/>
+    <food code="WACR"/>
+    <food code="WASB"/>
+    <food code="WTCH"/>
+    <food code="BSNC"/>
+    <food code="CARS"/>
+    <food code="CNMR"/>
+    <food code="CTNT"/>
+    <food code="GARL"/>
+    <food code="GARP"/>
+    <food code="MARB"/>
+    <food code="MARR"/>
+    <food code="POMR"/>
+    <food code="PORM"/>
+    <food code="PUMP"/>
+    <food code="ROOG"/>
+    <food code="SAMP"/>
+    <food code="SEAW"/>
+    <food code="WIMU"/>
+    <food code="TARO"/>
+    <food code="BUCS"/>
+    <food code="STUP"/>
+    <food code="AUBB"/>
+    <food code="AUBG"/>
+    <food code="AUFR"/>
     <subcategory code="BEET"/>
     <subcategory code="CBBG"/>
     <subcategory code="COLE"/>
@@ -3429,75 +3802,71 @@
     <food code="RICV"/>
   </category>
   <category sameAsBeforeOption="true" code="WTRS" description="Water" hidden="false">
-    <food code="SMWB"/>
-    <food code="VOLV"/>
-    <food code="EVIA"/>
     <food code="BUXT"/>
+    <food code="EVIA"/>
     <food code="FLWA"/>
+    <food code="SMWB"/>
     <food code="TWTR"/>
+    <food code="VOLV"/>
     <food code="VITA"/>
     <food code="WATE"/>
-    <food code="FSHY"/>
   </category>
   <category code="WTBI" description="Weetabix" hidden="false">
-    <food code="WTBX"/>
     <food code="WTBM"/>
     <food code="WEMC"/>
     <food code="CHWE"/>
     <food code="WHBX"/>
+    <food code="WTBX"/>
   </category>
   <category code="WBRD" description="White bread" hidden="false">
-    <food code="PALO"/>
-    <food code="GFWB"/>
     <food code="FRCH"/>
+    <food code="GFWB"/>
     <food code="SLCD"/>
     <food code="SLBR"/>
-    <food code="GFST"/>
-    <food code="WSWT"/>
     <subcategory code="TSTF"/>
   </category>
   <category code="TSTF" description="White bread toasted or fried" hidden="false">
-    <food code="WTST"/>
     <food code="GFWT"/>
     <food code="WBFD"/>
+    <food code="WTST"/>
+    <food code="NZMF"/>
   </category>
   <category code="WHTE" description="White sauce / cheese sauce" hidden="false">
-    <food code="CHPS"/>
-    <food code="SWSS"/>
     <food code="BESA"/>
     <food code="BRSC"/>
+    <food code="CHPS"/>
+    <food code="SWSS"/>
   </category>
   <category reasonableAmount="2286" code="WINE" description="Wine" hidden="false">
-    <food code="BUFW"/>
     <food code="CHPR"/>
+    <food code="MULW"/>
     <food code="DWWN"/>
     <food code="HMWN"/>
     <food code="MWWN"/>
-    <food code="MULW"/>
-    <food code="ROWN"/>
-    <food code="SWWN"/>
-    <food code="SWEW"/>
-    <food code="WWLA"/>
     <food code="RDWN"/>
+    <food code="ROWN"/>
+    <food code="SWEW"/>
+    <food code="SWWN"/>
+    <food code="WWLA"/>
     <food code="WISP"/>
   </category>
   <category code="FJTA" description="Wraps, pitta, naan" hidden="false">
-    <food code="BPTB"/>
-    <food code="CHPF"/>
-    <food code="WPTB"/>
-    <food code="GNNB"/>
-    <food code="PNNB"/>
-    <food code="GFPT"/>
     <food code="NAAN"/>
-    <food code="KHEE"/>
-    <food code="FLAT"/>
     <food code="PART"/>
     <food code="WOPA"/>
-    <food code="CHAP"/>
-    <food code="WLML"/>
+    <food code="BPTB"/>
+    <food code="CHPF"/>
     <food code="FJWH"/>
-    <food code="GFWW"/>
     <food code="GFBW"/>
+    <food code="GFPT"/>
+    <food code="GFWW"/>
+    <food code="GNNB"/>
+    <food code="PNNB"/>
+    <food code="WLML"/>
+    <food code="WPTB"/>
+    <food code="CHAP"/>
+    <food code="FLAT"/>
+    <food code="KHEE"/>
   </category>
   <category code="YOGU" description="Yoghurt" hidden="false">
     <food code="DFDY"/>
@@ -3506,10 +3875,10 @@
     <subcategory code="TWIN"/>
   </category>
   <category code="YGRT" description="Yoghurt / fromage frais / dairy desserts" hidden="false">
-    <food code="PBYD"/>
-    <food code="PBLD"/>
     <food code="KEFI"/>
     <food code="LFYO"/>
+    <food code="PBLD"/>
+    <food code="PBYD"/>
     <food code="SOYP"/>
     <subcategory code="FFRS"/>
     <subcategory code="MOUS"/>
@@ -3519,6 +3888,5 @@
     <food code="DUMP"/>
     <food code="YPDF"/>
     <food code="YPSS"/>
-    <food code="WEIN"/>
   </category>
 </categories>

@@ -886,24 +886,24 @@
     <weight id="4" description="Flapjack" value="59.0"/>
     <weight id="5" description="Flapjack" value="115.0"/>
    </guide-image>
-	 <guide-image id="Gmuffscone" description="Muffins and scones">
-		 <weight id="1" description="1" value="122.0"/>
-			<weight id="2" description="2" value="68.0"/>
-			<weight id="3" description="3" value="32.0"/>
-			<weight id="4" description="4" value="154.0"/>
-			<weight id="5" description="5" value="68.0"/>
-		 <weight id="6" description="6" value="120.0"/>
-		 <weight id="7" description="7" value="60.0"/>
-		 <weight id="8" description="8" value="134.0"/>
-		 <weight id="9" description="9" value="94.0"/>
-	 </guide-image>
-	 <guide-image id="Gmusselpipi" description="Mussels and pipis">
-		 <weight id="1" description="1" value="8.0"/>
-		 <weight id="2" description="2" value="4.0"/>
-		 <weight id="3" description="3" value="2.0"/>
-		 <weight id="4" description="4" value="26.0"/>
-		 <weight id="5" description="5" value="24.0"/>
-		 <weight id="6" description="6" value="18.0"/>
-		 <weight id="7" description="7" value="12.0"/>
-	 </guide-image>
+	<guide-image id="Gmuffscone" description="Muffins and scones">
+		<weight id="1" description="1" value="122.0"/>
+    <weight id="2" description="2" value="68.0"/>
+    <weight id="3" description="3" value="32.0"/>
+    <weight id="4" description="4" value="154.0"/>
+    <weight id="5" description="5" value="68.0"/>
+		<weight id="6" description="6" value="120.0"/>
+		<weight id="7" description="7" value="60.0"/>
+		<weight id="8" description="8" value="134.0"/>
+		<weight id="9" description="9" value="94.0"/>
+	</guide-image>
+	<guide-image id="Gmusselpipi" description="Mussels and pipis">
+		<weight id="1" description="1" value="8.0"/>
+		<weight id="2" description="2" value="4.0"/>
+		<weight id="3" description="3" value="2.0"/>
+		<weight id="4" description="4" value="26.0"/>
+		<weight id="5" description="5" value="24.0"/>
+		<weight id="6" description="6" value="18.0"/>
+		<weight id="7" description="7" value="12.0"/>
+	</guide-image>
 </guide-images>

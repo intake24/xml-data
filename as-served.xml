@@ -2,7 +2,7 @@
 <as-served-sets
 	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
 	xsi:noNamespaceSchemaLocation="./Schemas/as-served.xsd">
-	
+
 	<as-served-set description="Stewed apple" id="apple_stewed">
 		<as-served-image weight="51.3" url="PStApl1.jpg" />
 		<as-served-image weight="66.96" url="PStApl2.jpg" />
@@ -2482,5 +2482,66 @@
 		<as-served-image weight="15.0" url="cole22.jpg" />
 		<as-served-image weight="21.0" url="cole23.jpg" />
 		<as-served-image weight="31.0" url="cole24.jpg" />
+	</as-served-set>
+	<as-served-set description="Avocado" id="avocado">
+		<as-served-image weight="20.0" url="Avocado/Avocado_20.jpg" />
+		<as-served-image weight="40.0" url="Avocado/Avocado_40.jpg" />
+		<as-served-image weight="60.0" url="Avocado/Avocado_60.jpg" />
+		<as-served-image weight="80.0" url="Avocado/Avocado_80.jpg" />
+		<as-served-image weight="100.0" url="Avocado/Avocado_100.jpg" />
+		<as-served-image weight="120.0" url="Avocado/Avocado_120.jpg" />
+		<as-served-image weight="140.0" url="Avocado/Avocado_140.jpg" />
+		<as-served-image weight="160.0" url="Avocado/Avocado_160.jpg" />
+	</as-served-set>
+	<as-served-set description="Beetroot" id="beetroot">
+		<as-served-image weight="10.0" url="Beetroot/Beetroot_10.jpg" />
+		<as-served-image weight="20.0" url="Beetroot/Beetroot_20.jpg" />
+		<as-served-image weight="30.0" url="Beetroot/Beetroot_30.jpg" />
+		<as-served-image weight="40.0" url="Beetroot/Beetroot_40.jpg" />
+		<as-served-image weight="50.0" url="Beetroot/Beetroot_50.jpg" />
+		<as-served-image weight="60.0" url="Beetroot/Beetroot_60.jpg" />
+		<as-served-image weight="70.0" url="Beetroot/Beetroot_70.jpg" />
+		<as-served-image weight="80.0" url="Beetroot/Beetroot_80.jpg" />
+		<as-served-image weight="90.0" url="Beetroot/Beetroot_90.jpg" />
+	</as-served-set>
+	<as-served-set description="Kumara" id="kumara">
+		<as-served-image weight="58.0" url="Kumara/Kumara_58.jpg" />
+		<as-served-image weight="99.0" url="Kumara/Kumara_99.jpg" />
+		<as-served-image weight="140.0" url="Kumara/Kumara_140.jpg" />
+		<as-served-image weight="181.0" url="Kumara/Kumara_181.jpg" />
+		<as-served-image weight="221.0" url="Kumara/Kumara_221.jpg" />
+		<as-served-image weight="262.0" url="Kumara/Kumara_262.jpg" />
+		<as-served-image weight="303.0" url="Kumara/Kumara_303.jpg" />
+		<as-served-image weight="344.0" url="Kumara/Kumara_344.jpg" />
+	</as-served-set>
+	<as-served-set description="Pumpkin" id="pumpkin">
+		<as-served-image weight="40.0" url="Pumpkin/Pumpkin_40.jpg" />
+		<as-served-image weight="80.0" url="Pumpkin/Pumpkin_80.jpg" />
+		<as-served-image weight="110.0" url="Pumpkin/Pumpkin_110.jpg" />
+		<as-served-image weight="140.0" url="Pumpkin/Pumpkin_140.jpg" />
+		<as-served-image weight="180.0" url="Pumpkin/Pumpkin_180.jpg" />
+		<as-served-image weight="210.0" url="Pumpkin/Pumpkin_210.jpg" />
+		<as-served-image weight="240.0" url="Pumpkin/Pumpkin_240.jpg" />
+		<as-served-image weight="280.0" url="Pumpkin/Pumpkin_280.jpg" />
+	</as-served-set>
+	<as-served-set description="Rhubarb" id="rhubarb">
+		<as-served-image weight="22.0" url="Rhubarb/Rhubarb_22.jpg" />
+		<as-served-image weight="38.0" url="Rhubarb/Rhubarb_38.jpg" />
+		<as-served-image weight="66.0" url="Rhubarb/Rhubarb_66.jpg" />
+		<as-served-image weight="92.0" url="Rhubarb/Rhubarb_92.jpg" />
+		<as-served-image weight="134.0" url="Rhubarb/Rhubarb_134.jpg" />
+		<as-served-image weight="164.0" url="Rhubarb/Rhubarb_164.jpg" />
+		<as-served-image weight="190.0" url="Rhubarb/Rhubarb_190.jpg" />
+		<as-served-image weight="236.0" url="Rhubarb/Rhubarb_236.jpg" />
+	</as-served-set>
+	<as-served-set description="Silverbeet spinach" id="silverbeet_spinach">
+		<as-served-image weight="30.0" url="Silverbeet_Spinach/Silverbeet_Spinach_30.jpg" />
+		<as-served-image weight="50.0" url="Silverbeet_Spinach/Silverbeet_Spinach_50.jpg" />
+		<as-served-image weight="75.0" url="Silverbeet_Spinach/Silverbeet_Spinach_75.jpg" />
+		<as-served-image weight="100.0" url="Silverbeet_Spinach/Silverbeet_Spinach_100.jpg" />
+		<as-served-image weight="120.0" url="Silverbeet_Spinach/Silverbeet_Spinach_120.jpg" />
+		<as-served-image weight="140.0" url="Silverbeet_Spinach/Silverbeet_Spinach_140.jpg" />
+		<as-served-image weight="160.0" url="Silverbeet_Spinach/Silverbeet_Spinach_160.jpg" />
+		<as-served-image weight="185.0" url="Silverbeet_Spinach/Silverbeet_Spinach_185.jpg" />
 	</as-served-set>
 </as-served-sets>
