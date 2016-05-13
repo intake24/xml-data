@@ -448,7 +448,7 @@
       <param name="unit0-weight" value="15.0"/>
       <param name="unit0-omit-food-description" value="false"/>
     </portion-size>
-    <portion-size method="cereal" description="Choose an image" imageUrl="Images/cereal/flakeA5.jpg" useForRecipes="false">
+    <portion-size method="cereal" description="Choose an image" imageUrl="cereal/flakeA6.jpg" useForRecipes="false">
       <param name="type" value="flake"/>
     </portion-size>
   </food>
@@ -567,7 +567,7 @@
       <param name="unit0-weight" value="15.0"/>
       <param name="unit0-omit-food-description" value="false"/>
     </portion-size>
-    <portion-size method="cereal" description="Choose an image" imageUrl="Images/cereal/flakeA5.jpg" useForRecipes="false">
+    <portion-size method="cereal" description="Choose an image" imageUrl="cereal/flakeA6.jpg" useForRecipes="false">
       <param name="type" value="flake"/>
     </portion-size>
   </food>
@@ -1127,9 +1127,9 @@
       <param name="serving-image-set" value="kumara"/>
     </portion-size>
   </food>
-  <food code="BCBM" description="Breakfast cereal, whole grain wheat, extruded, ready to eat, Mini-Wheats Blackcurrant Flavour, Kellogg's" groupCode="7">
+  <food code="BCBM" description="Breakfast cereal, whole grain wheat, extruded, ready to eat, Mini Wheats Blackcurrant Flavour, Kellogg's" groupCode="7">
     <nutrient-table id="NZ" code="D40"/>
-    <portion-size method="standard-portion" description="Choose a standard portion" imageUrl="portion/standard-portion.jpg" useForRecipes="false">
+    <portion-size method="standard-portion" description="bowlfuls" imageUrl="portion/standard-portion.jpg" useForRecipes="false">
       <param name="units-count" value="3"/>
       <param name="unit0-name" value="small bowls"/>
       <param name="unit0-weight" value="35.0"/>
@@ -1141,7 +1141,7 @@
       <param name="unit2-weight" value="70.0"/>
       <param name="unit2-omit-food-description" value="false"/>
     </portion-size>
-    <portion-size method="standard-portion" description="choose a standard portion" imageUrl="portion/standard-portion.jpg" useForRecipes="false">
+    <portion-size method="standard-portion" description="tablespoons" imageUrl="portion/standard-portion.jpg" useForRecipes="false">
       <param name="units-count" value="1"/>
       <param name="unit0-name" value="tablespoons"/>
       <param name="unit0-weight" value="12.0"/>
@@ -1207,7 +1207,7 @@
       <param name="unit0-weight" value="15.0"/>
       <param name="unit0-omit-food-description" value="false"/>
     </portion-size>
-    <portion-size method="cereal" description="Choose an image" imageUrl="Images/cereal/flakeA5.jpg" useForRecipes="false">
+    <portion-size method="cereal" description="Choose an image" imageUrl="cereal/flakeA6.jpg" useForRecipes="false">
       <param name="type" value="flake"/>
     </portion-size>
   </food>
@@ -4097,9 +4097,9 @@
     </portion-size>
     <portion-size method="standard-portion" description="choose a standard portion" imageUrl="portion/standard-portion.jpg" useForRecipes="false">
       <param name="units-count" value="1"/>
-      <param name="unit0-name" value="crackers"/>
-      <param name="unit0-weight" value="7.0"/>
-      <param name="unit0-omit-food-description" value="false"/>
+      <param name="unit0-name" value="large crackers"/>
+      <param name="unit0-weight" value="12.0"/>
+      <param name="unit0-omit-food-description" value="true"/>
     </portion-size>
   </food>
   <food readyMealOption="true" code="CCCB" description="Chicken / Turkey curry, cream / coconut based (includes homemade)" groupCode="45">
@@ -5836,7 +5836,7 @@
       <param name="units-count" value="1"/>
       <param name="unit0-name" value="crackers"/>
       <param name="unit0-weight" value="7.0"/>
-      <param name="unit0-omit-food-description" value="false"/>
+      <param name="unit0-omit-food-description" value="true"/>
     </portion-size>
   </food>
   <food code="CMIX" description="Coffee mix, instant,  dry powder, Cafe Menu Cappuccino, Nescafe" groupCode="100">
@@ -5846,10 +5846,10 @@
     </portion-size>
     <portion-size method="standard-portion" description="Choose a standard portion" imageUrl="standard-portion.jpg" useForRecipes="true">
       <param name="units-count" value="4"/>
-      <param name="unit0-name" value="teaspoons"/>
+      <param name="unit0-name" value="level teaspoons"/>
       <param name="unit0-weight" value="4.0"/>
       <param name="unit0-omit-food-description" value="false"/>
-      <param name="unit1-name" value="heaped tablespoons"/>
+      <param name="unit1-name" value="heaped teaspoons"/>
       <param name="unit1-weight" value="6.0"/>
       <param name="unit1-omit-food-description" value="false"/>
       <param name="unit2-name" value="level tablespoons"/>
@@ -6441,10 +6441,10 @@
     </portion-size>
     <portion-size method="standard-portion" description="Choose a standard portion" imageUrl="standard-portion.jpg" useForRecipes="true">
       <param name="units-count" value="4"/>
-      <param name="unit0-name" value="teaspoons"/>
+      <param name="unit0-name" value="level teaspoons"/>
       <param name="unit0-weight" value="4.0"/>
       <param name="unit0-omit-food-description" value="false"/>
-      <param name="unit1-name" value="heaped tablespoons"/>
+      <param name="unit1-name" value="heaped teaspoons"/>
       <param name="unit1-weight" value="6.0"/>
       <param name="unit1-omit-food-description" value="false"/>
       <param name="unit2-name" value="level tablespoons"/>
@@ -7631,7 +7631,7 @@
       <param name="units-count" value="1"/>
       <param name="unit0-name" value="crackers"/>
       <param name="unit0-weight" value="7.0"/>
-      <param name="unit0-omit-food-description" value="false"/>
+      <param name="unit0-omit-food-description" value="true"/>
     </portion-size>
   </food>
   <food readyMealOption="true" code="CYVT" description="Vegetable curry (includes homemade)" groupCode="71">
@@ -8325,7 +8325,7 @@
     </portion-size>
     <portion-size method="standard-portion" description="Choose a standard portion" imageUrl="standard-portion.jpg" useForRecipes="true">
       <param name="units-count" value="4"/>
-      <param name="unit0-name" value="teaspoons"/>
+      <param name="unit0-name" value="level teaspoons"/>
       <param name="unit0-weight" value="4.0"/>
       <param name="unit0-omit-food-description" value="false"/>
       <param name="unit1-name" value="heaped tablespoons"/>
@@ -8938,10 +8938,10 @@
     </portion-size>
     <portion-size method="standard-portion" description="Choose a standard portion" imageUrl="standard-portion.jpg" useForRecipes="true">
       <param name="units-count" value="4"/>
-      <param name="unit0-name" value="teaspoons"/>
+      <param name="unit0-name" value="level teaspoons"/>
       <param name="unit0-weight" value="4.0"/>
       <param name="unit0-omit-food-description" value="false"/>
-      <param name="unit1-name" value="heaped tablespoons"/>
+      <param name="unit1-name" value="heaped teaspoons"/>
       <param name="unit1-weight" value="6.0"/>
       <param name="unit1-omit-food-description" value="false"/>
       <param name="unit2-name" value="level tablespoons"/>
@@ -10712,7 +10712,7 @@
       <param name="unit0-weight" value="15.0"/>
       <param name="unit0-omit-food-description" value="false"/>
     </portion-size>
-    <portion-size method="cereal" description="Choose an image" imageUrl="Images/cereal/flakeA5.jpg" useForRecipes="false">
+    <portion-size method="cereal" description="Choose an image" imageUrl="cereal/flakeA6.jpg" useForRecipes="false">
       <param name="type" value="flake"/>
     </portion-size>
   </food>
@@ -12952,7 +12952,7 @@
       <param name="unit0-name" value="teaspoons"/>
       <param name="unit0-weight" value="4.0"/>
       <param name="unit0-omit-food-description" value="false"/>
-      <param name="unit1-name" value="heaped tablespoons"/>
+      <param name="unit1-name" value="heaped teaspoons"/>
       <param name="unit1-weight" value="6.0"/>
       <param name="unit1-omit-food-description" value="false"/>
       <param name="unit2-name" value="level tablespoons"/>
@@ -13919,10 +13919,10 @@
     </portion-size>
     <portion-size method="standard-portion" description="Choose a standard portion" imageUrl="standard-portion.jpg" useForRecipes="true">
       <param name="units-count" value="4"/>
-      <param name="unit0-name" value="teaspoons"/>
+      <param name="unit0-name" value="level teaspoons"/>
       <param name="unit0-weight" value="4.0"/>
       <param name="unit0-omit-food-description" value="false"/>
-      <param name="unit1-name" value="heaped tablespoons"/>
+      <param name="unit1-name" value="heaped teaspoons"/>
       <param name="unit1-weight" value="6.0"/>
       <param name="unit1-omit-food-description" value="false"/>
       <param name="unit2-name" value="level tablespoons"/>
@@ -15672,7 +15672,7 @@
       <param name="unit0-weight" value="15.0"/>
       <param name="unit0-omit-food-description" value="false"/>
     </portion-size>
-    <portion-size method="cereal" description="Choose an image" imageUrl="Images/cereal/flakeA5.jpg" useForRecipes="false">
+    <portion-size method="cereal" description="Choose an image" imageUrl="cereal/flakeA6.jpg" useForRecipes="false">
       <param name="type" value="flake"/>
     </portion-size>
   </food>
@@ -16602,7 +16602,7 @@
       <param name="units-count" value="1"/>
       <param name="unit0-name" value="crackers"/>
       <param name="unit0-weight" value="7.0"/>
-      <param name="unit0-omit-food-description" value="false"/>
+      <param name="unit0-omit-food-description" value="true"/>
     </portion-size>
   </food>
   <food code="MGCL" description="Breakfast cereal, mixed grain clusters &amp; nuts, assorted flavours, ready to eat, Cluster Crisp, Sanitarium" groupCode="7">
@@ -18725,7 +18725,7 @@
       <param name="units-count" value="1"/>
       <param name="unit0-name" value="crackers"/>
       <param name="unit0-weight" value="7.0"/>
-      <param name="unit0-omit-food-description" value="false"/>
+      <param name="unit0-omit-food-description" value="true"/>
     </portion-size>
   </food>
   <food readyMealOption="false" code="NZCN" description="Cardinal fish, flesh, raw" groupCode="55">
@@ -18776,7 +18776,7 @@
       <param name="units-count" value="1"/>
       <param name="unit0-name" value="crackers"/>
       <param name="unit0-weight" value="7.0"/>
-      <param name="unit0-omit-food-description" value="false"/>
+      <param name="unit0-omit-food-description" value="true"/>
     </portion-size>
   </food>
   <food code="NZCS" description="Cracker, wheat, cheese flavoured, ready to eat, composite" groupCode="15">
@@ -18788,7 +18788,7 @@
       <param name="units-count" value="1"/>
       <param name="unit0-name" value="crackers"/>
       <param name="unit0-weight" value="7.0"/>
-      <param name="unit0-omit-food-description" value="false"/>
+      <param name="unit0-omit-food-description" value="true"/>
     </portion-size>
   </food>
   <food code="NZCT" description="Biscuit, chocolate chip, ready to eat, Chocolate Chip, Cookie Time" groupCode="14">
@@ -19379,7 +19379,7 @@
       <param name="units-count" value="1"/>
       <param name="unit0-name" value="crackers"/>
       <param name="unit0-weight" value="6.0"/>
-      <param name="unit0-omit-food-description" value="false"/>
+      <param name="unit0-omit-food-description" value="true"/>
     </portion-size>
   </food>
   <food code="NZHS" description="Bread, mixed grain, heavy, sliced, prepacked, Mixed Grain, Burgen &amp; Vogel's, South Island" groupCode="2">
@@ -19806,7 +19806,7 @@
       <param name="unit0-weight" value="15.0"/>
       <param name="unit0-omit-food-description" value="false"/>
     </portion-size>
-    <portion-size method="cereal" description="Choose an image" imageUrl="Images/cereal/flakeA5.jpg" useForRecipes="false">
+    <portion-size method="cereal" description="Choose an image" imageUrl="cereal/flakeA6.jpg" useForRecipes="false">
       <param name="type" value="flake"/>
     </portion-size>
   </food>
@@ -20088,7 +20088,7 @@
       <param name="units-count" value="1"/>
       <param name="unit0-name" value="crackers"/>
       <param name="unit0-weight" value="3.0"/>
-      <param name="unit0-omit-food-description" value="false"/>
+      <param name="unit0-omit-food-description" value="true"/>
     </portion-size>
   </food>
   <food readyMealOption="false" code="NZRB" description="Rays bream, flesh, raw" groupCode="55">
@@ -20241,7 +20241,7 @@
       <param name="units-count" value="1"/>
       <param name="unit0-name" value="crackers"/>
       <param name="unit0-weight" value="10.0"/>
-      <param name="unit0-omit-food-description" value="false"/>
+      <param name="unit0-omit-food-description" value="true"/>
     </portion-size>
   </food>
   <food code="NZRY" description="Bread, wheat &amp; rye, sliced, prepacked, Salba Traditional European Rye, Yarrows" groupCode="2">
@@ -20265,7 +20265,7 @@
       <param name="units-count" value="1"/>
       <param name="unit0-name" value="crackers"/>
       <param name="unit0-weight" value="7.0"/>
-      <param name="unit0-omit-food-description" value="false"/>
+      <param name="unit0-omit-food-description" value="true"/>
     </portion-size>
   </food>
   <food code="NZSB" description="Spiced buns" groupCode="16">
@@ -20310,7 +20310,7 @@
       <param name="units-count" value="1"/>
       <param name="unit0-name" value="crackers"/>
       <param name="unit0-weight" value="7.0"/>
-      <param name="unit0-omit-food-description" value="false"/>
+      <param name="unit0-omit-food-description" value="true"/>
     </portion-size>
   </food>
   <food sameAsBeforeOption="false" code="NZSF" description="Butter, semisoft" groupCode="30">
@@ -20420,7 +20420,7 @@
       <param name="units-count" value="1"/>
       <param name="unit0-name" value="crackers"/>
       <param name="unit0-weight" value="14.0"/>
-      <param name="unit0-omit-food-description" value="false"/>
+      <param name="unit0-omit-food-description" value="true"/>
     </portion-size>
   </food>
   <food code="NZSO" description="Yoghurt smoothie, assorted fruits, sweetened, The Collective" groupCode="86">
@@ -20963,8 +20963,8 @@
     <portion-size method="standard-portion" description="choose a standard portion" imageUrl="portion/standard-portion.jpg" useForRecipes="false">
       <param name="units-count" value="1"/>
       <param name="unit0-name" value="crackers"/>
-      <param name="unit0-weight" value="25.0"/>
-      <param name="unit0-omit-food-description" value="false"/>
+      <param name="unit0-weight" value="7.0"/>
+      <param name="unit0-omit-food-description" value="true"/>
     </portion-size>
   </food>
   <food 
@@ -21168,7 +21168,7 @@
       <param name="unit0-weight" value="15.0"/>
       <param name="unit0-omit-food-description" value="false"/>
     </portion-size>
-    <portion-size method="cereal" description="Choose an image" imageUrl="Images/cereal/flakeA5.jpg" useForRecipes="false">
+    <portion-size method="cereal" description="Choose an image" imageUrl="cereal/flakeA6.jpg" useForRecipes="false">
       <param name="type" value="flake"/>
     </portion-size>
   </food>
@@ -22845,6 +22845,10 @@
       <param name="unit2-weight" value="250.0"/>
       <param name="unit2-omit-food-description" value="true"/>
     </portion-size>
+    <portion-size method="as-served" description="Use an image" imageUrl="Ckchic4.jpg" useForRecipes="false">
+      <param name="serving-image-set" value="chicken_breast_slices"/>
+      <param name="leftovers-image-set" value="chicken_breast_slices_leftovers"/>
+    </portion-size>
   </food>
   <food code="PGRW" description="Green capsicums, raw" groupCode="70">
     <nutrient-table id="NDNS" code="1823"/>
@@ -23307,6 +23311,10 @@
       <param name="unit2-name" value="large chops"/>
       <param name="unit2-weight" value="250.0"/>
       <param name="unit2-omit-food-description" value="true"/>
+    </portion-size>
+    <portion-size method="as-served" description="Use an image" imageUrl="Ckchic4.jpg" useForRecipes="false">
+      <param name="serving-image-set" value="chicken_breast_slices"/>
+      <param name="leftovers-image-set" value="chicken_breast_slices_leftovers"/>
     </portion-size>
   </food>
   <food code="PMSW" description="Prawn mayo sandwich" groupCode="4">
@@ -23846,9 +23854,9 @@
     </portion-size>
     <portion-size method="standard-portion" description="choose a standard portion" imageUrl="portion/standard-portion.jpg" useForRecipes="false">
       <param name="units-count" value="1"/>
-      <param name="unit0-name" value="crackers"/>
+      <param name="unit0-name" value="large crackers"/>
       <param name="unit0-weight" value="12.0"/>
-      <param name="unit0-omit-food-description" value="false"/>
+      <param name="unit0-omit-food-description" value="true"/>
     </portion-size>
   </food>
   <food sameAsBeforeOption="true" code="PRCI" description="Pear cider" groupCode="94">
@@ -25952,7 +25960,7 @@
       <param name="units-count" value="1"/>
       <param name="unit0-name" value="crackers"/>
       <param name="unit0-weight" value="12.0"/>
-      <param name="unit0-omit-food-description" value="false"/>
+      <param name="unit0-omit-food-description" value="true"/>
     </portion-size>
   </food>
   <food code="RSCW" description="Cracker, rice &amp; seaweed flavoured, Rice Cracker Seaweed, Pams" groupCode="15">
@@ -25964,7 +25972,7 @@
       <param name="units-count" value="1"/>
       <param name="unit0-name" value="crackers"/>
       <param name="unit0-weight" value="12.0"/>
-      <param name="unit0-omit-food-description" value="false"/>
+      <param name="unit0-omit-food-description" value="true"/>
     </portion-size>
   </food>
   <food code="RSPS" description="Margarine, polyunsaturated, 70% fat, reduced salt, composite, fortified vitamins A &amp; D" groupCode="31">
@@ -26013,7 +26021,7 @@
       <param name="units-count" value="1"/>
       <param name="unit0-name" value="crackers"/>
       <param name="unit0-weight" value="12.0"/>
-      <param name="unit0-omit-food-description" value="false"/>
+      <param name="unit0-omit-food-description" value="true"/>
     </portion-size>
   </food>
   <food code="RTMI" description="Ryvita minis" groupCode="15">
@@ -27510,7 +27518,7 @@
     <portion-size method="drink-scale" description="in a takeaway cup" imageUrl="portion/hotdrinks.jpg" useForRecipes="false">
       <param name="drinkware-id" value="takeaway_cups_hot"/>
       <param name="initial-fill-level" value="0.85"/>
-      <param name="skip-fill-level" value="false"/>
+      <param name="skip-fill-level" value="true"/>
     </portion-size>
   </food>
   <food readyMealOption="true" code="SMKD" description="Mackerel, smoked" groupCode="54">
@@ -28562,7 +28570,7 @@
     <portion-size method="drink-scale" description="in a takeaway cup" imageUrl="portion/hotdrinks.jpg" useForRecipes="false">
       <param name="drinkware-id" value="takeaway_cups_hot"/>
       <param name="initial-fill-level" value="0.85"/>
-      <param name="skip-fill-level" value="false"/>
+      <param name="skip-fill-level" value="true"/>
     </portion-size>
   </food>
   <food code="SSOU" description="Sweet souffle" groupCode="38">
@@ -31208,7 +31216,7 @@
       <param name="units-count" value="1"/>
       <param name="unit0-name" value="crackers"/>
       <param name="unit0-weight" value="7.0"/>
-      <param name="unit0-omit-food-description" value="false"/>
+      <param name="unit0-omit-food-description" value="true"/>
     </portion-size>
   </food>
   <food code="WCRA" description="Whipped cream canned in an aerosol" groupCode="25">
@@ -31624,7 +31632,7 @@
     <portion-size method="drink-scale" description="in a takeaway cup" imageUrl="portion/hotdrinks.jpg" useForRecipes="false">
       <param name="drinkware-id" value="takeaway_cups_hot"/>
       <param name="initial-fill-level" value="0.85"/>
-      <param name="skip-fill-level" value="false"/>
+      <param name="skip-fill-level" value="true"/>
     </portion-size>
   </food>
   <food code="WMKY" description="White chocolate e.g Milky Bars or Dream bars" groupCode="81">
@@ -32098,7 +32106,7 @@
       <param name="unit0-omit-food-description" value="false"/>
     </portion-size>
   </food>
-  <food code="ZEKW" description="Kiwifruit, gold, flesh &amp; seed, fresh, raw, Zespri Gold (Hort16A) Kiwifruit, Zespri" groupCode="73">
+  <food code="ZEKW" description="Kiwifruit, gold, flesh &amp; seed, fresh, raw, Zespri Gold, Kiwi fruit, Zespri" groupCode="73">
     <nutrient-table id="NZ" code="L1036"/>
     <portion-size 
     method="as-served" description="Use an image" imageUrl="Images to add/VITK additional photos Strawberry raspberry kiwi blackberry coleslaw/Kiwi_asserved/Kiwi21.jpg" useForRecipes="true">

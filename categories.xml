@@ -800,9 +800,9 @@
     <food code="ICED"/>
     <food code="DECO"/>
     <food code="CFFB"/>
-    <food code="INCP"/>
-    <food code="CMIX"/>
     <food code="DICP"/>
+    <food code="CMIX"/>
+    <food code="INCP"/>
     <subcategory code="MOCA"/>
     <subcategory code="LATE"/>
     <subcategory code="CAPU"/>
@@ -881,7 +881,6 @@
     <food code="WCRC"/>
     <food code="EXLC"/>
     <food code="CHDS"/>
-    <food code="CRCR"/>
     <food code="GFCK"/>
     <food code="JACB"/>
     <food code="JPRC"/>
@@ -895,26 +894,27 @@
     <food code="MATZ"/>
     <food code="RCRB"/>
     <food code="WHCR"/>
-    <food code="NZWC"/>
-    <food code="NZCR"/>
-    <food code="NZCS"/>
-    <food code="NZSE"/>
-    <food code="NZCM"/>
-    <food code="NZSA"/>
-    <food code="NZHP"/>
-    <food code="NZSN"/>
-    <food code="NZRA"/>
-    <food code="NZRV"/>
     <food code="BZCB"/>
-    <food code="CCCA"/>
-    <food code="CWSL"/>
-    <food code="MGCA"/>
     <food code="CMGC"/>
-    <food code="WCFR"/>
-    <food code="PRCC"/>
-    <food code="RSWC"/>
+    <food code="CCCA"/>
+    <food code="MGCA"/>
     <food code="RSCR"/>
     <food code="RSCW"/>
+    <food code="RSWC"/>
+    <food code="PRCC"/>
+    <food code="NZRV"/>
+    <food code="NZCR"/>
+    <food code="NZCS"/>
+    <food code="NZCM"/>
+    <food code="WCFR"/>
+    <food code="NZSA"/>
+    <food code="CWSL"/>
+    <food code="NZWC"/>
+    <food code="NZSN"/>
+    <food code="NZHP"/>
+    <food code="NZRA"/>
+    <food code="NZSE"/>
+    <food code="CRCR"/>
   </category>
   <category code="CREM" description="Cream" hidden="false">
     <food code="LFCR"/>
@@ -1010,22 +1010,22 @@
     <food code="GFGR"/>
     <food code="STCR"/>
     <food code="HGRA"/>
-    <food code="MNAS"/>
     <food code="HMMU"/>
     <food code="MSLI"/>
     <food code="GFMU"/>
     <food code="HMGR"/>
-    <food code="NZMU"/>
-    <food code="BCRP"/>
     <food code="MGCL"/>
-    <food code="APMU"/>
-    <food code="LNTS"/>
     <food code="BCPR"/>
-    <food code="APRS"/>
     <food code="CLST"/>
     <food code="VACC"/>
-    <food code="NZZM"/>
+    <food code="NZMU"/>
+    <food code="APMU"/>
     <food code="FRTM"/>
+    <food code="NZZM"/>
+    <food code="BCRP"/>
+    <food code="MNAS"/>
+    <food code="LNTS"/>
+    <food code="APRS"/>
   </category>
   <category code="CSTD" description="Custard" hidden="false">
     <food code="CURF"/>
@@ -1766,15 +1766,15 @@
     <food code="HCWH"/>
     <food code="DCLC"/>
     <food code="DCWA"/>
-    <food code="WMIL"/>
-    <food code="SSMI"/>
     <food code="SMIL"/>
+    <food code="SSMI"/>
+    <food code="WMIL"/>
   </category>
   <category sameAsBeforeOption="true" code="HCHC" description="Hot chocolate &amp; malted drinks" hidden="false">
     <food code="MILO"/>
-    <food code="COPO"/>
-    <food code="HCPO"/>
     <food code="EFDR"/>
+    <food code="HCPO"/>
+    <food code="COPO"/>
     <subcategory code="DCHO"/>
     <subcategory code="HORL"/>
   </category>
@@ -2923,14 +2923,9 @@
     <food code="CASU"/>
     <food code="MSRF"/>
     <food code="MILO"/>
-    <food code="COPO"/>
-    <food code="INCP"/>
-    <food code="CMIX"/>
-    <food code="DICP"/>
     <food code="PRST"/>
     <food code="PRKL"/>
     <food code="PRKM"/>
-    <food code="PMLC"/>
     <food code="BFMS"/>
     <food code="BFMN"/>
     <food code="MNLB"/>
@@ -2940,6 +2935,11 @@
     <food code="PKMI"/>
     <food code="CMSA"/>
     <food code="SMAC"/>
+    <food code="COPO"/>
+    <food code="DICP"/>
+    <food code="CMIX"/>
+    <food code="INCP"/>
+    <food code="PMLC"/>
     <subcategory code="OILY"/>
     <subcategory code="CRAB"/>
     <subcategory code="FFLT"/>
@@ -3638,7 +3638,6 @@
     <food code="BRSF"/>
     <food code="BSSF"/>
     <food code="LMMB"/>
-    <food code="PGLF"/>
     <food code="BTBO"/>
     <food code="MING"/>
     <food code="MINU"/>
@@ -3648,6 +3647,7 @@
     <food code="GCNZ"/>
     <food code="PRKL"/>
     <food code="PRKM"/>
+    <food code="PGLF"/>
     <food code="PMLC"/>
   </category>
   <category code="SAUC" description="Stir in sauces / pasta sauces / jar sauces" hidden="false">
