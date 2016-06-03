@@ -237,6 +237,24 @@
       <param name="skip-fill-level" value="false"/>
     </portion-size>
   </food>
+  <food code="ALMN" description="Almonds, dry roasted, salt added" groupCode="75">
+    <nutrient-table id="NZ" code="Q1008"/>
+    <portion-size method="standard-portion" description="Choose a standard portion" imageUrl="portion/standard-portion.jpg" useForRecipes="true">
+      <param name="units-count" value="4"/>
+      <param name="unit0-name" value="nuts"/>
+      <param name="unit0-weight" value="2.2"/>
+      <param name="unit0-omit-food-description" value="true"/>
+      <param name="unit1-name" value="small handfuls"/>
+      <param name="unit1-weight" value="40.0"/>
+      <param name="unit1-omit-food-description" value="false"/>
+      <param name="unit2-name" value="medium handfuls"/>
+      <param name="unit2-weight" value="80.0"/>
+      <param name="unit2-omit-food-description" value="false"/>
+      <param name="unit3-name" value="large handfuls"/>
+      <param name="unit3-weight" value="120.0"/>
+      <param name="unit3-omit-food-description" value="false"/>
+    </portion-size>
+  </food>
   <food code="ALOE" description="Aloe vera juice" groupCode="86">
     <nutrient-table id="NDNS" code="6065"/>
     <portion-size method="standard-portion" description="choose a standard portion" imageUrl="portion/standard-portion.jpg" useForRecipes="true">
@@ -244,6 +262,24 @@
       <param name="unit0-name" value="tablespoons"/>
       <param name="unit0-weight" value="15.0"/>
       <param name="unit0-omit-food-description" value="false"/>
+    </portion-size>
+  </food>
+  <food code="ALRO" description="Almonds, roasted with oil, unblanched, no salt added" groupCode="75">
+    <nutrient-table id="NZ" code="Q1003"/>
+    <portion-size method="standard-portion" description="Choose a standard portion" imageUrl="portion/standard-portion.jpg" useForRecipes="true">
+      <param name="units-count" value="4"/>
+      <param name="unit0-name" value="nuts"/>
+      <param name="unit0-weight" value="2.2"/>
+      <param name="unit0-omit-food-description" value="true"/>
+      <param name="unit1-name" value="small handfuls"/>
+      <param name="unit1-weight" value="40.0"/>
+      <param name="unit1-omit-food-description" value="false"/>
+      <param name="unit2-name" value="medium handfuls"/>
+      <param name="unit2-weight" value="80.0"/>
+      <param name="unit2-omit-food-description" value="false"/>
+      <param name="unit3-name" value="large handfuls"/>
+      <param name="unit3-weight" value="120.0"/>
+      <param name="unit3-omit-food-description" value="false"/>
     </portion-size>
   </food>
   <food sameAsBeforeOption="true" code="ALSD" description="Alcoholic soft drink e.g. Crabbies ginger beer" groupCode="94">
@@ -2498,7 +2534,7 @@
     <portion-size method="standard-portion" description="Choose a standard portion description" imageUrl="standard-portion.jpg" useForRecipes="false">
       <param name="units-count" value="1"/>
       <param name="unit0-name" value="cups"/>
-      <param name="unit0-weight" value="140.0"/>
+      <param name="unit0-weight" value="120.0"/>
       <param name="unit0-omit-food-description" value="false"/>
     </portion-size>
   </food>
@@ -2520,7 +2556,7 @@
     <portion-size method="standard-portion" description="Choose a standard portion description" imageUrl="standard-portion.jpg" useForRecipes="false">
       <param name="units-count" value="1"/>
       <param name="unit0-name" value="cups"/>
-      <param name="unit0-weight" value="140.0"/>
+      <param name="unit0-weight" value="120.0"/>
       <param name="unit0-omit-food-description" value="false"/>
     </portion-size>
   </food>
@@ -2754,7 +2790,7 @@
       <param name="guide-image-id" value="Gsli"/>
     </portion-size>
   </food>
-  <food code="BRZL" description="Brazil nuts" groupCode="75">
+  <food code="BRZL" description="Brazil nuts, raw" groupCode="75">
     <nutrient-table id="NZ" code="Q4"/>
     <portion-size method="standard-portion" description="Choose a standard portion" imageUrl="portion/standard-portion.jpg" useForRecipes="true">
       <param name="units-count" value="4"/>
@@ -3837,7 +3873,7 @@
       <param name="unit0-omit-food-description" value="true"/>
     </portion-size>
   </food>
-  <food code="CASR" description="Cashew nuts" groupCode="75">
+  <food code="CASR" description="Cashew nuts, raw" groupCode="75">
     <nutrient-table id="NZ" code="Q1016"/>
     <portion-size method="standard-portion" description="Choose a standard portion" imageUrl="portion/standard-portion.jpg" useForRecipes="true">
       <param name="units-count" value="4"/>
@@ -4992,7 +5028,7 @@
     <portion-size method="standard-portion" description="Choose a standard portion description" imageUrl="standard-portion.jpg" useForRecipes="false">
       <param name="units-count" value="1"/>
       <param name="unit0-name" value="cups"/>
-      <param name="unit0-weight" value="140.0"/>
+      <param name="unit0-weight" value="120.0"/>
       <param name="unit0-omit-food-description" value="false"/>
     </portion-size>
   </food>
@@ -5007,7 +5043,7 @@
       <param name="unit0-name" value="slices"/>
       <param name="unit0-weight" value="95.0"/>
       <param name="unit0-omit-food-description" value="false"/>
-      <param name="unit1-name" value="cakes"/>
+      <param name="unit1-name" value="whole large cakes"/>
       <param name="unit1-weight" value="1140.0"/>
       <param name="unit1-omit-food-description" value="true"/>
     </portion-size>
@@ -5047,7 +5083,7 @@
     <portion-size method="standard-portion" description="Choose a standard portion description" imageUrl="standard-portion.jpg" useForRecipes="false">
       <param name="units-count" value="1"/>
       <param name="unit0-name" value="cups"/>
-      <param name="unit0-weight" value="140.0"/>
+      <param name="unit0-weight" value="120.0"/>
       <param name="unit0-omit-food-description" value="false"/>
     </portion-size>
   </food>
@@ -5503,6 +5539,15 @@
   </food>
   <food readyMealOption="true" code="CHTH" description="Chicken thighs, with skin" groupCode="45">
     <nutrient-table id="NZ" code="M337"/>
+    <portion-size method="standard-portion" description="Choose a standard portion" imageUrl="portion/standard-portion.jpg" useForRecipes="true">
+      <param name="units-count" value="1"/>
+      <param name="unit0-name" value="pieces"/>
+      <param name="unit0-weight" value="45.0"/>
+      <param name="unit0-omit-food-description" value="true"/>
+    </portion-size>
+  </food>
+  <food readyMealOption="false" code="CHTL" description="Chicken thighs, lean 72%, separable fat 9% &amp; skin 19%, roasted in oven bag" groupCode="45">
+    <nutrient-table id="NZ" code="M350"/>
     <portion-size method="standard-portion" description="Choose a standard portion" imageUrl="portion/standard-portion.jpg" useForRecipes="true">
       <param name="units-count" value="1"/>
       <param name="unit0-name" value="pieces"/>
@@ -6100,10 +6145,13 @@
   <food code="CNFL" description="Cornflour" groupCode="100">
     <nutrient-table id="NDNS" code="8"/>
     <portion-size method="standard-portion" description="Choose a standard portion description" imageUrl="standard-portion.jpg" useForRecipes="true">
-      <param name="units-count" value="1"/>
+      <param name="units-count" value="2"/>
       <param name="unit0-name" value="teaspoons"/>
       <param name="unit0-weight" value="30.0"/>
       <param name="unit0-omit-food-description" value="false"/>
+      <param name="unit1-name" value="cups"/>
+      <param name="unit1-weight" value="120.0"/>
+      <param name="unit1-omit-food-description" value="false"/>
     </portion-size>
   </food>
   <food code="CNJC" description="Cranberry juice" groupCode="86">
@@ -6698,7 +6746,7 @@
     <nutrient-table id="NZ" code="H190"/>
     <portion-size method="pizza" description="Use an image" imageUrl="portion/pizza.jpg" useForRecipes="false"> </portion-size>
   </food>
-  <food code="CRAF" description="Cranberries, fresh" groupCode="73">
+  <food code="CRAF" description="Cranberries, raw" groupCode="73">
     <nutrient-table id="NZ" code="L48"/>
     <portion-size method="standard-portion" description="Choose a standard portion" imageUrl="portion/standard-portion.jpg" useForRecipes="true">
       <param name="units-count" value="5"/>
@@ -6846,6 +6894,15 @@
     <portion-size method="as-served" description="curly fries" imageUrl="portion/curf2.jpg" useForRecipes="false">
       <param name="serving-image-set" value="curf"/>
       <param name="leftovers-image-set" value="curf_leftovers"/>
+    </portion-size>
+  </food>
+  <food readyMealOption="false" code="CRFI" description="Chicken thighs, separable lean 89% &amp; fat 11%, roasted in oven bag" groupCode="45">
+    <nutrient-table id="NZ" code="M340"/>
+    <portion-size method="standard-portion" description="Choose a standard portion" imageUrl="portion/standard-portion.jpg" useForRecipes="true">
+      <param name="units-count" value="1"/>
+      <param name="unit0-name" value="pieces"/>
+      <param name="unit0-weight" value="45.0"/>
+      <param name="unit0-omit-food-description" value="true"/>
     </portion-size>
   </food>
   <food code="CRFR" description="Creme fraiche" groupCode="25">
@@ -7220,6 +7277,15 @@
       <param name="unit0-omit-food-description" value="true"/>
     </portion-size>
   </food>
+  <food readyMealOption="false" code="CSLM" description="Chicken thighs, separable lean 81% &amp; fat 19%, raw" groupCode="45">
+    <nutrient-table id="NZ" code="M342"/>
+    <portion-size method="standard-portion" description="Choose a standard portion" imageUrl="portion/standard-portion.jpg" useForRecipes="true">
+      <param name="units-count" value="1"/>
+      <param name="unit0-name" value="pieces"/>
+      <param name="unit0-weight" value="45.0"/>
+      <param name="unit0-omit-food-description" value="true"/>
+    </portion-size>
+  </food>
   <food code="CSNT" description="KP cashew nuts" groupCode="75">
     <nutrient-table id="NZ" code="Q1016"/>
     <portion-size method="standard-portion" description="Choose a standard portion" imageUrl="portion/standard-portion.jpg" useForRecipes="true">
@@ -7389,7 +7455,16 @@
       <param name="guide-image-id" value="Gswb"/>
     </portion-size>
   </food>
-  <food code="CTNT" description="Chestnuts" groupCode="70">
+  <food readyMealOption="true" code="CTFR" description="Chicken thighs, flesh, raw" groupCode="45">
+    <nutrient-table id="NZ" code="M335"/>
+    <portion-size method="standard-portion" description="Choose a standard portion" imageUrl="portion/standard-portion.jpg" useForRecipes="true">
+      <param name="units-count" value="1"/>
+      <param name="unit0-name" value="pieces"/>
+      <param name="unit0-weight" value="45.0"/>
+      <param name="unit0-omit-food-description" value="true"/>
+    </portion-size>
+  </food>
+  <food code="CTNT" description="Chestnuts, roasted" groupCode="75">
     <nutrient-table id="NZ" code="Q18"/>
     <portion-size method="guide-image" description="Use an image" imageUrl="portion/Gallcans.jpg" useForRecipes="false">
       <param name="guide-image-id" value="Gallcans"/>
@@ -7413,6 +7488,15 @@
       <param name="units-count" value="1"/>
       <param name="unit0-name" value="tomatoes"/>
       <param name="unit0-weight" value="15.0"/>
+      <param name="unit0-omit-food-description" value="true"/>
+    </portion-size>
+  </food>
+  <food readyMealOption="false" code="CTRA" description="Chicken thighs, flesh, roasted" groupCode="45">
+    <nutrient-table id="NZ" code="M337"/>
+    <portion-size method="standard-portion" description="Choose a standard portion" imageUrl="portion/standard-portion.jpg" useForRecipes="true">
+      <param name="units-count" value="1"/>
+      <param name="unit0-name" value="pieces"/>
+      <param name="unit0-weight" value="45.0"/>
       <param name="unit0-omit-food-description" value="true"/>
     </portion-size>
   </food>
@@ -7462,6 +7546,15 @@
   <food readyMealOption="true" code="CTTB" description="Cheese and tomato pizza (includes homemade)" groupCode="112">
     <nutrient-table id="NZ" code="H35"/>
     <portion-size method="pizza" description="Use an image" imageUrl="portion/pizza.jpg" useForRecipes="false"> </portion-size>
+  </food>
+  <food readyMealOption="false" code="CTWS" description="Chicken thighs, lean 63%, separable fat 15% &amp; skin 22%, raw" groupCode="45">
+    <nutrient-table id="NZ" code="M354"/>
+    <portion-size method="standard-portion" description="Choose a standard portion" imageUrl="portion/standard-portion.jpg" useForRecipes="true">
+      <param name="units-count" value="1"/>
+      <param name="unit0-name" value="pieces"/>
+      <param name="unit0-weight" value="45.0"/>
+      <param name="unit0-omit-food-description" value="true"/>
+    </portion-size>
   </food>
   <food code="CUMI" description="Cumin" groupCode="117">
     <nutrient-table id="NZ" code="P33"/>
@@ -7690,6 +7783,24 @@
       <param name="drinkware-id" value="glasses_soft"/>
       <param name="initial-fill-level" value="0.9"/>
       <param name="skip-fill-level" value="false"/>
+    </portion-size>
+  </food>
+  <food code="DALM" description="Almonds, raw, dried, unblanched" groupCode="75">
+    <nutrient-table id="NZ" code="Q1002"/>
+    <portion-size method="standard-portion" description="Choose a standard portion" imageUrl="portion/standard-portion.jpg" useForRecipes="true">
+      <param name="units-count" value="4"/>
+      <param name="unit0-name" value="nuts"/>
+      <param name="unit0-weight" value="2.2"/>
+      <param name="unit0-omit-food-description" value="true"/>
+      <param name="unit1-name" value="small handfuls"/>
+      <param name="unit1-weight" value="40.0"/>
+      <param name="unit1-omit-food-description" value="false"/>
+      <param name="unit2-name" value="medium handfuls"/>
+      <param name="unit2-weight" value="80.0"/>
+      <param name="unit2-omit-food-description" value="false"/>
+      <param name="unit3-name" value="large handfuls"/>
+      <param name="unit3-weight" value="120.0"/>
+      <param name="unit3-omit-food-description" value="false"/>
     </portion-size>
   </food>
   <food sameAsBeforeOption="true" code="DAND" description="Dandelion and Burdock" groupCode="85">
@@ -8575,6 +8686,24 @@
       <param name="guide-image-id" value="Gcbar"/>
     </portion-size>
   </food>
+  <food code="DRHN" description="Hazelnuts, dry roasted, no salt added" groupCode="75">
+    <nutrient-table id="NZ" code="Q39"/>
+    <portion-size method="standard-portion" description="Choose a standard portion" imageUrl="portion/standard-portion.jpg" useForRecipes="true">
+      <param name="units-count" value="4"/>
+      <param name="unit0-name" value="nuts"/>
+      <param name="unit0-weight" value="1.0"/>
+      <param name="unit0-omit-food-description" value="true"/>
+      <param name="unit1-name" value="small handfuls"/>
+      <param name="unit1-weight" value="10.0"/>
+      <param name="unit1-omit-food-description" value="false"/>
+      <param name="unit2-name" value="medium handfuls"/>
+      <param name="unit2-weight" value="20.0"/>
+      <param name="unit2-omit-food-description" value="false"/>
+      <param name="unit3-name" value="large handfuls"/>
+      <param name="unit3-weight" value="30.0"/>
+      <param name="unit3-omit-food-description" value="false"/>
+    </portion-size>
+  </food>
   <food code="DRIC" description="Dried cherries" groupCode="74">
     <nutrient-table id="NDNS" code="8134"/>
     <portion-size method="as-served" description="Use an image" imageUrl="portion/raisins.jpg" useForRecipes="false">
@@ -8640,6 +8769,24 @@
       <param name="unit2-omit-food-description" value="false"/>
       <param name="unit3-name" value="large handfuls"/>
       <param name="unit3-weight" value="30.0"/>
+      <param name="unit3-omit-food-description" value="false"/>
+    </portion-size>
+  </food>
+  <food code="DRPN" description="Peanuts, all types, dry roasted, no salt added" groupCode="75">
+    <nutrient-table id="NZ" code="Q1005"/>
+    <portion-size method="standard-portion" description="Choose a standard portion" imageUrl="portion/standard-portion.jpg" useForRecipes="true">
+      <param name="units-count" value="4"/>
+      <param name="unit0-name" value="nuts"/>
+      <param name="unit0-weight" value="1.3"/>
+      <param name="unit0-omit-food-description" value="true"/>
+      <param name="unit1-name" value="small handfuls"/>
+      <param name="unit1-weight" value="40.0"/>
+      <param name="unit1-omit-food-description" value="false"/>
+      <param name="unit2-name" value="medium handfuls"/>
+      <param name="unit2-weight" value="80.0"/>
+      <param name="unit2-omit-food-description" value="false"/>
+      <param name="unit3-name" value="large handfuls"/>
+      <param name="unit3-weight" value="120.0"/>
       <param name="unit3-omit-food-description" value="false"/>
     </portion-size>
   </food>
@@ -11416,7 +11563,7 @@
     <portion-size method="standard-portion" description="Choose a standard portion description" imageUrl="standard-portion.jpg" useForRecipes="false">
       <param name="units-count" value="1"/>
       <param name="unit0-name" value="cups"/>
-      <param name="unit0-weight" value="140.0"/>
+      <param name="unit0-weight" value="120.0"/>
       <param name="unit0-omit-food-description" value="false"/>
     </portion-size>
   </food>
@@ -13638,6 +13785,27 @@
       <param name="unit0-omit-food-description" value="true"/>
     </portion-size>
   </food>
+  <food code="HRCH" description="Hummus, roasted capsicum, 7.5% fat, composite" groupCode="114">
+    <nutrient-table id="NZ" code="S75"/>
+    <portion-size method="guide-image" description="Spoonfuls" imageUrl="portion/Gspn.jpg" useForRecipes="false">
+      <param name="guide-image-id" value="Gspn"/>
+    </portion-size>
+    <portion-size method="standard-portion" description="Choose a standard portion" imageUrl="standard-portion.jpg" useForRecipes="false">
+      <param name="units-count" value="4"/>
+      <param name="unit0-name" value="tablespoons"/>
+      <param name="unit0-weight" value="30.0"/>
+      <param name="unit0-omit-food-description" value="false"/>
+      <param name="unit1-name" value="mini pots"/>
+      <param name="unit1-weight" value="60.0"/>
+      <param name="unit1-omit-food-description" value="false"/>
+      <param name="unit2-name" value="medium tubs"/>
+      <param name="unit2-weight" value="200.0"/>
+      <param name="unit2-omit-food-description" value="false"/>
+      <param name="unit3-name" value="large tubs"/>
+      <param name="unit3-weight" value="300.0"/>
+      <param name="unit3-omit-food-description" value="false"/>
+    </portion-size>
+  </food>
   <food readyMealOption="true" code="HRFR" description="Herring, fried" groupCode="54">
     <nutrient-table id="NDNS" code="1491"/>
     <portion-size method="standard-portion" description="Choose a standard portion" imageUrl="portion/standard-portion.jpg" useForRecipes="true">
@@ -13714,7 +13882,7 @@
       <param name="unit0-omit-food-description" value="true"/>
     </portion-size>
   </food>
-  <food code="HUMS" description="Hummus" groupCode="114">
+  <food code="HUMS" description="Hummus, original, 6.5% fat, composite" groupCode="114">
     <nutrient-table id="NZ" code="S73"/>
     <portion-size method="guide-image" description="Spoonfuls" imageUrl="portion/Gspn.jpg" useForRecipes="false">
       <param name="guide-image-id" value="Gspn"/>
@@ -13772,7 +13940,7 @@
       <param name="unit3-omit-food-description" value="false"/>
     </portion-size>
   </food>
-  <food code="HZLN" description="Hazelnuts" groupCode="75">
+  <food code="HZLN" description="Hazelnuts, raw" groupCode="75">
     <nutrient-table id="NZ" code="Q7"/>
     <portion-size method="standard-portion" description="Choose a standard portion" imageUrl="portion/standard-portion.jpg" useForRecipes="true">
       <param name="units-count" value="4"/>
@@ -15942,7 +16110,7 @@
       <param name="guide-image-id" value="Gbur"/>
     </portion-size>
   </food>
-  <food code="MACN" description="Macadamia nuts" groupCode="75">
+  <food code="MACN" description="Barcelona nuts" groupCode="75">
     <nutrient-table id="NDNS" code="2171"/>
     <nutrient-table id="NZ" code="Q2"/>
     <portion-size method="standard-portion" description="Choose a standard portion" imageUrl="portion/standard-portion.jpg" useForRecipes="true">
@@ -17843,7 +18011,7 @@
       <param name="unit0-omit-food-description" value="true"/>
     </portion-size>
   </food>
-  <food code="MXNT" description="Mixed nuts" groupCode="75">
+  <food code="MXNT" description="Mixed nuts, salted" groupCode="75">
     <nutrient-table id="NZ" code="Q11"/>
     <portion-size method="standard-portion" description="Choose a standard portion" imageUrl="portion/standard-portion.jpg" useForRecipes="true">
       <param name="units-count" value="4"/>
@@ -18009,6 +18177,24 @@
       <param name="guide-image-id" value="Gcri"/>
     </portion-size>
   </food>
+  <food code="NMRW" description="Macadamia nuts, raw" groupCode="75">
+    <nutrient-table id="NZ" code="Q38"/>
+    <portion-size method="standard-portion" description="Choose a standard portion" imageUrl="portion/standard-portion.jpg" useForRecipes="true">
+      <param name="units-count" value="4"/>
+      <param name="unit0-name" value="nuts"/>
+      <param name="unit0-weight" value="2.0"/>
+      <param name="unit0-omit-food-description" value="true"/>
+      <param name="unit1-name" value="small handfuls"/>
+      <param name="unit1-weight" value="10.0"/>
+      <param name="unit1-omit-food-description" value="false"/>
+      <param name="unit2-name" value="medium handfuls"/>
+      <param name="unit2-weight" value="20.0"/>
+      <param name="unit2-omit-food-description" value="false"/>
+      <param name="unit3-name" value="large handfuls"/>
+      <param name="unit3-weight" value="30.0"/>
+      <param name="unit3-omit-food-description" value="false"/>
+    </portion-size>
+  </food>
   <food readyMealOption="true" code="NPBS" description="New potatoes without skins, boiled / steamed / microwaved," groupCode="65">
     <nutrient-table id="NZ" code="X94"/>
     <portion-size method="as-served" description="Use an image" imageUrl="portion/potatoes_boiled_new.jpg" useForRecipes="false">
@@ -18072,6 +18258,24 @@
       <param name="unit1-name" value="thick slices"/>
       <param name="unit1-weight" value="120.0"/>
       <param name="unit1-omit-food-description" value="false"/>
+    </portion-size>
+  </food>
+  <food code="NSRC" description="Cashew nuts, roasted, no salt added" groupCode="75">
+    <nutrient-table id="NZ" code="Q1017"/>
+    <portion-size method="standard-portion" description="Choose a standard portion" imageUrl="portion/standard-portion.jpg" useForRecipes="true">
+      <param name="units-count" value="4"/>
+      <param name="unit0-name" value="nuts"/>
+      <param name="unit0-weight" value="1.0"/>
+      <param name="unit0-omit-food-description" value="true"/>
+      <param name="unit1-name" value="small handfuls"/>
+      <param name="unit1-weight" value="40.0"/>
+      <param name="unit1-omit-food-description" value="false"/>
+      <param name="unit2-name" value="medium handfuls"/>
+      <param name="unit2-weight" value="80.0"/>
+      <param name="unit2-omit-food-description" value="false"/>
+      <param name="unit3-name" value="large handfuls"/>
+      <param name="unit3-weight" value="120.0"/>
+      <param name="unit3-omit-food-description" value="false"/>
     </portion-size>
   </food>
   <food code="NTAQ" description="Mussels, green, smoked, natural, Aqua Fresh" groupCode="53">
@@ -21189,7 +21393,7 @@
     <portion-size method="standard-portion" description="Choose a standard portion description" imageUrl="standard-portion.jpg" useForRecipes="false">
       <param name="units-count" value="1"/>
       <param name="unit0-name" value="cups"/>
-      <param name="unit0-weight" value="140.0"/>
+      <param name="unit0-weight" value="120.0"/>
       <param name="unit0-omit-food-description" value="false"/>
     </portion-size>
   </food>
@@ -21249,7 +21453,7 @@
       <param name="skip-fill-level" value="false"/>
     </portion-size>
   </food>
-  <food code="OATS" description="Rolled oats, not cooked (wholegrain)" groupCode="7">
+  <food code="OATS" description="Rolled oats, not cooked" groupCode="7">
     <nutrient-table id="NZ" code="E25"/>
     <portion-size method="standard-portion" description="Choose a standard portion" imageUrl="portion/standard-portion.jpg" useForRecipes="false">
       <param name="units-count" value="1"/>
@@ -22674,9 +22878,8 @@
       <param name="unit1-omit-food-description" value="true"/>
     </portion-size>
   </food>
-  <food code="PECN" description="Pecan nuts" groupCode="75">
-    <nutrient-table id="NDNS" code="2174"/>
-    <nutrient-table id="NZ" code="Q94"/>
+  <food code="PECN" description="Pecan nuts, roasted with oil, salt added" groupCode="75">
+    <nutrient-table id="NZ" code="Q20"/>
     <portion-size method="standard-portion" description="Choose a standard portion" imageUrl="portion/standard-portion.jpg" useForRecipes="true">
       <param name="units-count" value="4"/>
       <param name="unit0-name" value="nuts"/>
@@ -22921,6 +23124,24 @@
       <param name="guide-image-id" value="Gcake"/>
     </portion-size>
   </food>
+  <food code="PIDR" description="Pistachio nuts, dry roasted, salt added" groupCode="75">
+    <nutrient-table id="NZ" code="Q1009"/>
+    <portion-size method="standard-portion" description="Choose a standard portion" imageUrl="portion/standard-portion.jpg" useForRecipes="true">
+      <param name="units-count" value="4"/>
+      <param name="unit0-name" value="nuts"/>
+      <param name="unit0-weight" value="1.0"/>
+      <param name="unit0-omit-food-description" value="true"/>
+      <param name="unit1-name" value="small handfuls"/>
+      <param name="unit1-weight" value="40.0"/>
+      <param name="unit1-omit-food-description" value="false"/>
+      <param name="unit2-name" value="medium handfuls"/>
+      <param name="unit2-weight" value="80.0"/>
+      <param name="unit2-omit-food-description" value="false"/>
+      <param name="unit3-name" value="large handfuls"/>
+      <param name="unit3-weight" value="120.0"/>
+      <param name="unit3-omit-food-description" value="false"/>
+    </portion-size>
+  </food>
   <food code="PIEG" description="Pickled eggs" groupCode="37">
     <nutrient-table id="NZ" code="G1001"/>
     <portion-size method="standard-portion" description="Choose a standard portion" imageUrl="portion/standard-portion.jpg" useForRecipes="false">
@@ -23044,7 +23265,7 @@
       <param name="guide-image-id" value="Gapl"/>
     </portion-size>
   </food>
-  <food code="PINN" description="Pine nuts" groupCode="75">
+  <food code="PINN" description="Pine nut, raw" groupCode="75">
     <nutrient-table id="NZ" code="Q21"/>
     <portion-size method="standard-portion" description="Choose a standard portion" imageUrl="portion/standard-portion.jpg" useForRecipes="true">
       <param name="units-count" value="1"/>
@@ -23085,6 +23306,24 @@
     <nutrient-table id="NZ" code="T19"/>
     <portion-size method="guide-image" description="Use an image" imageUrl="portion/mussels_pipis.jpg" useForRecipes="false">
       <param name="guide-image-id" value="Gmusselpipi"/>
+    </portion-size>
+  </food>
+  <food code="PISN" description="Pistachio nuts, dry roasted, no salt added" groupCode="75">
+    <nutrient-table id="NZ" code="Q1010"/>
+    <portion-size method="standard-portion" description="Choose a standard portion" imageUrl="portion/standard-portion.jpg" useForRecipes="true">
+      <param name="units-count" value="4"/>
+      <param name="unit0-name" value="nuts"/>
+      <param name="unit0-weight" value="1.0"/>
+      <param name="unit0-omit-food-description" value="true"/>
+      <param name="unit1-name" value="small handfuls"/>
+      <param name="unit1-weight" value="40.0"/>
+      <param name="unit1-omit-food-description" value="false"/>
+      <param name="unit2-name" value="medium handfuls"/>
+      <param name="unit2-weight" value="80.0"/>
+      <param name="unit2-omit-food-description" value="false"/>
+      <param name="unit3-name" value="large handfuls"/>
+      <param name="unit3-weight" value="120.0"/>
+      <param name="unit3-omit-food-description" value="false"/>
     </portion-size>
   </food>
   <food readyMealOption="false" code="PIZB" description="Pizza base, plain" groupCode="1">
@@ -23210,7 +23449,7 @@
     <portion-size method="standard-portion" description="Choose a standard portion description" imageUrl="standard-portion.jpg" useForRecipes="false">
       <param name="units-count" value="1"/>
       <param name="unit0-name" value="cups"/>
-      <param name="unit0-weight" value="140.0"/>
+      <param name="unit0-weight" value="120.0"/>
       <param name="unit0-omit-food-description" value="false"/>
     </portion-size>
   </food>
@@ -23349,6 +23588,24 @@
       <param name="unit0-omit-food-description" value="false"/>
     </portion-size>
   </food>
+  <food code="PNAT" description="Peanuts, all types, roasted with oil, no salt added" groupCode="75">
+    <nutrient-table id="NZ" code="Q1006"/>
+    <portion-size method="standard-portion" description="Choose a standard portion" imageUrl="portion/standard-portion.jpg" useForRecipes="true">
+      <param name="units-count" value="4"/>
+      <param name="unit0-name" value="nuts"/>
+      <param name="unit0-weight" value="1.3"/>
+      <param name="unit0-omit-food-description" value="true"/>
+      <param name="unit1-name" value="small handfuls"/>
+      <param name="unit1-weight" value="40.0"/>
+      <param name="unit1-omit-food-description" value="false"/>
+      <param name="unit2-name" value="medium handfuls"/>
+      <param name="unit2-weight" value="80.0"/>
+      <param name="unit2-omit-food-description" value="false"/>
+      <param name="unit3-name" value="large handfuls"/>
+      <param name="unit3-weight" value="120.0"/>
+      <param name="unit3-omit-food-description" value="false"/>
+    </portion-size>
+  </food>
   <food code="PNBC" description="Peanut butter, crunchy (with bits)" groupCode="75">
     <nutrient-table id="NZ" code="Q48"/>
     <portion-size method="as-served" description="Use an image" imageUrl="portion/peanut_butter_spread.jpg" useForRecipes="false">
@@ -23435,7 +23692,7 @@
       <param name="unit2-omit-food-description" value="true"/>
     </portion-size>
   </food>
-  <food code="PNTS" description="Peanuts" groupCode="75">
+  <food code="PNTS" description="Peanuts, raw" groupCode="75">
     <nutrient-table id="NZ" code="Q14"/>
     <portion-size method="standard-portion" description="Choose a standard portion" imageUrl="portion/standard-portion.jpg" useForRecipes="true">
       <param name="units-count" value="4"/>
@@ -24090,6 +24347,24 @@
       <param name="unit0-omit-food-description" value="false"/>
     </portion-size>
   </food>
+  <food code="PROA" description="Peanuts, roasted with oil, salt added" groupCode="75">
+    <nutrient-table id="NZ" code="Q15"/>
+    <portion-size method="standard-portion" description="Choose a standard portion" imageUrl="portion/standard-portion.jpg" useForRecipes="true">
+      <param name="units-count" value="4"/>
+      <param name="unit0-name" value="nuts"/>
+      <param name="unit0-weight" value="1.3"/>
+      <param name="unit0-omit-food-description" value="true"/>
+      <param name="unit1-name" value="small handfuls"/>
+      <param name="unit1-weight" value="40.0"/>
+      <param name="unit1-omit-food-description" value="false"/>
+      <param name="unit2-name" value="medium handfuls"/>
+      <param name="unit2-weight" value="80.0"/>
+      <param name="unit2-omit-food-description" value="false"/>
+      <param name="unit3-name" value="large handfuls"/>
+      <param name="unit3-weight" value="120.0"/>
+      <param name="unit3-omit-food-description" value="false"/>
+    </portion-size>
+  </food>
   <food code="PROB" description="Promax protein bar, any flavour " groupCode="100">
     <nutrient-table id="NDNS" code="10354"/>
     <portion-size method="standard-portion" description="choose a standard portion" imageUrl="portion/standard-portion.jpg" useForRecipes="false">
@@ -24374,7 +24649,7 @@
       <param name="leftovers-image-set" value="pensaub_leftovers"/>
     </portion-size>
   </food>
-  <food code="PSTC" description="Pistachio nuts" groupCode="75">
+  <food code="PSTC" description="Pistachio nuts, raw" groupCode="75">
     <nutrient-table id="NZ" code="Q22"/>
     <portion-size method="standard-portion" description="Choose a standard portion" imageUrl="portion/standard-portion.jpg" useForRecipes="true">
       <param name="units-count" value="4"/>
@@ -25176,6 +25451,27 @@
       <param name="unit0-omit-food-description" value="true"/>
     </portion-size>
   </food>
+  <food code="RCHU" description="Hummus, sundried tomato, 7.5% fat, composite" groupCode="114">
+    <nutrient-table id="NZ" code="S74"/>
+    <portion-size method="guide-image" description="Spoonfuls" imageUrl="portion/Gspn.jpg" useForRecipes="false">
+      <param name="guide-image-id" value="Gspn"/>
+    </portion-size>
+    <portion-size method="standard-portion" description="Choose a standard portion" imageUrl="standard-portion.jpg" useForRecipes="false">
+      <param name="units-count" value="4"/>
+      <param name="unit0-name" value="tablespoons"/>
+      <param name="unit0-weight" value="30.0"/>
+      <param name="unit0-omit-food-description" value="false"/>
+      <param name="unit1-name" value="mini pots"/>
+      <param name="unit1-weight" value="60.0"/>
+      <param name="unit1-omit-food-description" value="false"/>
+      <param name="unit2-name" value="medium tubs"/>
+      <param name="unit2-weight" value="200.0"/>
+      <param name="unit2-omit-food-description" value="false"/>
+      <param name="unit3-name" value="large tubs"/>
+      <param name="unit3-weight" value="300.0"/>
+      <param name="unit3-omit-food-description" value="false"/>
+    </portion-size>
+  </food>
   <food code="RCKP" description="Rice Krispies" groupCode="7">
     <nutrient-table id="NZ" code="D1029"/>
     <portion-size method="cereal" description="Use an image" imageUrl="portion/cereal.jpg" useForRecipes="true">
@@ -25635,7 +25931,7 @@
     <portion-size method="standard-portion" description="Choose a standard portion description" imageUrl="standard-portion.jpg" useForRecipes="false">
       <param name="units-count" value="2"/>
       <param name="unit0-name" value="cups"/>
-      <param name="unit0-weight" value="140.0"/>
+      <param name="unit0-weight" value="120.0"/>
       <param name="unit0-omit-food-description" value="false"/>
       <param name="unit1-name" value="tablespoons"/>
       <param name="unit1-weight" value="25.0"/>
@@ -25768,6 +26064,24 @@
       <param name="guide-image-id" value="Gdes"/>
     </portion-size>
   </food>
+  <food code="RNSA" description="Peanuts, roasted, no salt added" groupCode="75">
+    <nutrient-table id="NZ" code="Q15"/>
+    <portion-size method="standard-portion" description="Choose a standard portion" imageUrl="portion/standard-portion.jpg" useForRecipes="true">
+      <param name="units-count" value="4"/>
+      <param name="unit0-name" value="nuts"/>
+      <param name="unit0-weight" value="1.3"/>
+      <param name="unit0-omit-food-description" value="true"/>
+      <param name="unit1-name" value="small handfuls"/>
+      <param name="unit1-weight" value="40.0"/>
+      <param name="unit1-omit-food-description" value="false"/>
+      <param name="unit2-name" value="medium handfuls"/>
+      <param name="unit2-weight" value="80.0"/>
+      <param name="unit2-omit-food-description" value="false"/>
+      <param name="unit3-name" value="large handfuls"/>
+      <param name="unit3-weight" value="120.0"/>
+      <param name="unit3-omit-food-description" value="false"/>
+    </portion-size>
+  </food>
   <food code="ROCK" description="Rock cakes" groupCode="16">
     <nutrient-table id="NDNS" code="370"/>
     <portion-size method="standard-portion" description="Choose a standard portion" imageUrl="portion/standard-portion.jpg" useForRecipes="false">
@@ -25800,6 +26114,24 @@
     <nutrient-table id="NZ" code="W54"/>
     <portion-size method="guide-image" description="Use an image" imageUrl="portion/Gswts.jpg" useForRecipes="false">
       <param name="guide-image-id" value="Gswts"/>
+    </portion-size>
+  </food>
+  <food code="ROMN" description="Macadamia nuts, roasted with oil, salt added" groupCode="75">
+    <nutrient-table id="NZ" code="Q19"/>
+    <portion-size method="standard-portion" description="Choose a standard portion" imageUrl="portion/standard-portion.jpg" useForRecipes="true">
+      <param name="units-count" value="4"/>
+      <param name="unit0-name" value="nuts"/>
+      <param name="unit0-weight" value="2.0"/>
+      <param name="unit0-omit-food-description" value="true"/>
+      <param name="unit1-name" value="small handfuls"/>
+      <param name="unit1-weight" value="10.0"/>
+      <param name="unit1-omit-food-description" value="false"/>
+      <param name="unit2-name" value="medium handfuls"/>
+      <param name="unit2-weight" value="20.0"/>
+      <param name="unit2-omit-food-description" value="false"/>
+      <param name="unit3-name" value="large handfuls"/>
+      <param name="unit3-weight" value="30.0"/>
+      <param name="unit3-omit-food-description" value="false"/>
     </portion-size>
   </food>
   <food code="ROOG" description="Root ginger, fresh" groupCode="100">
@@ -26111,6 +26443,18 @@
       <param name="leftovers-image-set" value="canned_fish_leftovers"/>
     </portion-size>
   </food>
+  <food code="RWCT" description="Chestnuts, raw" groupCode="75">
+    <nutrient-table id="NZ" code="Q6"/>
+    <portion-size method="guide-image" description="Use an image" imageUrl="portion/Gallcans.jpg" useForRecipes="false">
+      <param name="guide-image-id" value="Gallcans"/>
+    </portion-size>
+    <portion-size method="standard-portion" description="Choose a standard portion" imageUrl="portion/standard-portion.jpg" useForRecipes="true">
+      <param name="units-count" value="1"/>
+      <param name="unit0-name" value="chestnuts"/>
+      <param name="unit0-weight" value="10.0"/>
+      <param name="unit0-omit-food-description" value="true"/>
+    </portion-size>
+  </food>
   <food code="RWEG" description="Egg, whole, raw" groupCode="37">
     <nutrient-table id="NZ" code="G1008"/>
     <portion-size method="standard-portion" description="Choose a standard portion" imageUrl="portion/standard-portion.jpg" useForRecipes="true">
@@ -26151,6 +26495,24 @@
       <param name="unit0-name" value="fillets"/>
       <param name="unit0-weight" value="110.0"/>
       <param name="unit0-omit-food-description" value="false"/>
+    </portion-size>
+  </food>
+  <food code="RWPC" description="Pecan nuts, raw, dried" groupCode="75">
+    <nutrient-table id="NZ" code="Q94"/>
+    <portion-size method="standard-portion" description="Choose a standard portion" imageUrl="portion/standard-portion.jpg" useForRecipes="true">
+      <param name="units-count" value="4"/>
+      <param name="unit0-name" value="nuts"/>
+      <param name="unit0-weight" value="6.0"/>
+      <param name="unit0-omit-food-description" value="true"/>
+      <param name="unit1-name" value="small handfuls"/>
+      <param name="unit1-weight" value="20.0"/>
+      <param name="unit1-omit-food-description" value="false"/>
+      <param name="unit2-name" value="medium handfuls"/>
+      <param name="unit2-weight" value="30.0"/>
+      <param name="unit2-omit-food-description" value="false"/>
+      <param name="unit3-name" value="large handfuls"/>
+      <param name="unit3-weight" value="40.0"/>
+      <param name="unit3-omit-food-description" value="false"/>
     </portion-size>
   </food>
   <food readyMealOption="false" code="RWSC" description="Scallops, raw" groupCode="55">
@@ -26448,6 +26810,24 @@
       <param name="unit0-name" value="tablespoons"/>
       <param name="unit0-weight" value="45.0"/>
       <param name="unit0-omit-food-description" value="false"/>
+    </portion-size>
+  </food>
+  <food code="SARC" description="Cashew nuts, roasted, salt added" groupCode="75">
+    <nutrient-table id="NZ" code="Q1018"/>
+    <portion-size method="standard-portion" description="Choose a standard portion" imageUrl="portion/standard-portion.jpg" useForRecipes="true">
+      <param name="units-count" value="4"/>
+      <param name="unit0-name" value="nuts"/>
+      <param name="unit0-weight" value="1.0"/>
+      <param name="unit0-omit-food-description" value="true"/>
+      <param name="unit1-name" value="small handfuls"/>
+      <param name="unit1-weight" value="40.0"/>
+      <param name="unit1-omit-food-description" value="false"/>
+      <param name="unit2-name" value="medium handfuls"/>
+      <param name="unit2-weight" value="80.0"/>
+      <param name="unit2-omit-food-description" value="false"/>
+      <param name="unit3-name" value="large handfuls"/>
+      <param name="unit3-weight" value="120.0"/>
+      <param name="unit3-omit-food-description" value="false"/>
     </portion-size>
   </food>
   <food code="SASP" description="Sweet and salty popcorn" groupCode="77">
@@ -26789,6 +27169,22 @@
       <param name="unit0-omit-food-description" value="false"/>
       <param name="unit1-name" value="tablespoons"/>
       <param name="unit1-weight" value="34.5"/>
+      <param name="unit1-omit-food-description" value="false"/>
+    </portion-size>
+  </food>
+  <food code="SDRC" description="Cranberries, dried, sweetened" groupCode="74">
+    <nutrient-table id="NZ" code="L1023"/>
+    <portion-size method="as-served" description="Use an image" imageUrl="portion/raisins.jpg" useForRecipes="false">
+      <param name="serving-image-set" value="raisins"/>
+      <param name="leftovers-image-set" value="raisins_leftovers"/>
+    </portion-size>
+    <portion-size method="standard-portion" description="Choose a standard portion" imageUrl="portion/standard-portion.jpg" useForRecipes="true">
+      <param name="units-count" value="2"/>
+      <param name="unit0-name" value="heaped tablespoons"/>
+      <param name="unit0-weight" value="25.0"/>
+      <param name="unit0-omit-food-description" value="false"/>
+      <param name="unit1-name" value="heaped tablespoons"/>
+      <param name="unit1-weight" value="35.0"/>
       <param name="unit1-omit-food-description" value="false"/>
     </portion-size>
   </food>
@@ -27799,6 +28195,24 @@
       <param name="unit0-omit-food-description" value="false"/>
     </portion-size>
   </food>
+  <food code="SNOL" description="Almonds, dry roasted, unblanched, no salt added" groupCode="75">
+    <nutrient-table id="NZ" code="Q1004"/>
+    <portion-size method="standard-portion" description="Choose a standard portion" imageUrl="portion/standard-portion.jpg" useForRecipes="true">
+      <param name="units-count" value="4"/>
+      <param name="unit0-name" value="nuts"/>
+      <param name="unit0-weight" value="2.2"/>
+      <param name="unit0-omit-food-description" value="true"/>
+      <param name="unit1-name" value="small handfuls"/>
+      <param name="unit1-weight" value="40.0"/>
+      <param name="unit1-omit-food-description" value="false"/>
+      <param name="unit2-name" value="medium handfuls"/>
+      <param name="unit2-weight" value="80.0"/>
+      <param name="unit2-omit-food-description" value="false"/>
+      <param name="unit3-name" value="large handfuls"/>
+      <param name="unit3-weight" value="120.0"/>
+      <param name="unit3-omit-food-description" value="false"/>
+    </portion-size>
+  </food>
   <food code="SNOM" description="Snowballs, marshmallow filling" groupCode="16">
     <nutrient-table id="NZ" code="A71"/>
     <portion-size method="standard-portion" description="choose a standard portion" imageUrl="portion/standard-portion.jpg" useForRecipes="false">
@@ -28119,10 +28533,13 @@
   <food code="SPEL" description="Spelt flour" groupCode="100">
     <nutrient-table id="NZ" code="E108"/>
     <portion-size method="standard-portion" description="Choose a standard portion description" imageUrl="standard-portion.jpg" useForRecipes="false">
-      <param name="units-count" value="1"/>
+      <param name="units-count" value="2"/>
       <param name="unit0-name" value="tablespoons"/>
       <param name="unit0-weight" value="25.0"/>
       <param name="unit0-omit-food-description" value="false"/>
+      <param name="unit1-name" value="cups"/>
+      <param name="unit1-weight" value="120.0"/>
+      <param name="unit1-omit-food-description" value="false"/>
     </portion-size>
   </food>
   <food code="SPFL" description="Special flakes" groupCode="7">
@@ -28400,7 +28817,7 @@
     <portion-size method="standard-portion" description="Choose a standard portion description" imageUrl="standard-portion.jpg" useForRecipes="false">
       <param name="units-count" value="1"/>
       <param name="unit0-name" value="cups"/>
-      <param name="unit0-weight" value="140.0"/>
+      <param name="unit0-weight" value="120.0"/>
       <param name="unit0-omit-food-description" value="false"/>
     </portion-size>
   </food>
@@ -28415,7 +28832,7 @@
     <portion-size method="standard-portion" description="Choose a standard portion description" imageUrl="standard-portion.jpg" useForRecipes="false">
       <param name="units-count" value="1"/>
       <param name="unit0-name" value="cups"/>
-      <param name="unit0-weight" value="140.0"/>
+      <param name="unit0-weight" value="120.0"/>
       <param name="unit0-omit-food-description" value="false"/>
     </portion-size>
   </food>
@@ -30343,6 +30760,24 @@
       <param name="leftovers-image-set" value="noodles_leftovers"/>
     </portion-size>
   </food>
+  <food code="UNAL" description="Almonds, roasted with oil, salt added" groupCode="75">
+    <nutrient-table id="NZ" code="Q1007"/>
+    <portion-size method="standard-portion" description="Choose a standard portion" imageUrl="portion/standard-portion.jpg" useForRecipes="true">
+      <param name="units-count" value="4"/>
+      <param name="unit0-name" value="nuts"/>
+      <param name="unit0-weight" value="2.2"/>
+      <param name="unit0-omit-food-description" value="true"/>
+      <param name="unit1-name" value="small handfuls"/>
+      <param name="unit1-weight" value="40.0"/>
+      <param name="unit1-omit-food-description" value="false"/>
+      <param name="unit2-name" value="medium handfuls"/>
+      <param name="unit2-weight" value="80.0"/>
+      <param name="unit2-omit-food-description" value="false"/>
+      <param name="unit3-name" value="large handfuls"/>
+      <param name="unit3-weight" value="120.0"/>
+      <param name="unit3-omit-food-description" value="false"/>
+    </portion-size>
+  </food>
   <food code="VACC" description="Breakfast cereal, mixed grain clusters &amp; nuts, ready to eat, Cluster Crisp, Manuka Honey with Roasted Cashew, Sanitarium" groupCode="7">
     <nutrient-table id="NZ" code="D1053"/>
     <portion-size method="as-served" description="Use an image" imageUrl="portion/shreddies.jpg" useForRecipes="false">
@@ -31075,7 +31510,7 @@
       <param name="guide-image-id" value="Gwalk"/>
     </portion-size>
   </food>
-  <food code="WALN" description="Walnuts" groupCode="75">
+  <food code="WALN" description="Walnuts, raw" groupCode="75">
     <nutrient-table id="NZ" code="Q17"/>
     <portion-size method="standard-portion" description="Choose a standard portion" imageUrl="portion/standard-portion.jpg" useForRecipes="true">
       <param name="units-count" value="4"/>
@@ -31365,10 +31800,34 @@
       <param name="unit0-omit-food-description" value="false"/>
     </portion-size>
   </food>
+  <food code="WGOA" description="Oats, wholegrain, toasted, Traditional Wholegrain Oats, Harraways" groupCode="7">
+    <nutrient-table id="NZ" code="E1022"/>
+    <portion-size method="standard-portion" description="Choose a standard portion" imageUrl="portion/standard-portion.jpg" useForRecipes="false">
+      <param name="units-count" value="2"/>
+      <param name="unit0-name" value="tablespoons"/>
+      <param name="unit0-weight" value="15.0"/>
+      <param name="unit0-omit-food-description" value="false"/>
+      <param name="unit1-name" value="cups"/>
+      <param name="unit1-weight" value="90.0"/>
+      <param name="unit1-omit-food-description" value="false"/>
+    </portion-size>
+  </food>
   <food code="WGOL" description="Wheat germ oil" groupCode="36">
     <nutrient-table id="NZ" code="J21"/>
     <portion-size method="guide-image" description="Use an image" imageUrl="portion/Gspn.jpg" useForRecipes="true">
       <param name="guide-image-id" value="Gspn"/>
+    </portion-size>
+  </food>
+  <food code="WGOT" description="Oats, not cooked (wholegrain)" groupCode="7">
+    <nutrient-table id="NZ" code="E24"/>
+    <portion-size method="standard-portion" description="Choose a standard portion" imageUrl="portion/standard-portion.jpg" useForRecipes="false">
+      <param name="units-count" value="2"/>
+      <param name="unit0-name" value="tablespoons"/>
+      <param name="unit0-weight" value="15.0"/>
+      <param name="unit0-omit-food-description" value="false"/>
+      <param name="unit1-name" value="cups"/>
+      <param name="unit1-weight" value="90.0"/>
+      <param name="unit1-omit-food-description" value="false"/>
     </portion-size>
   </food>
   <food code="WGPS" description="White Grapes" groupCode="73">
@@ -31615,7 +32074,7 @@
     <portion-size method="standard-portion" description="Choose a standard portion description" imageUrl="standard-portion.jpg" useForRecipes="false">
       <param name="units-count" value="1"/>
       <param name="unit0-name" value="cups"/>
-      <param name="unit0-weight" value="140.0"/>
+      <param name="unit0-weight" value="120.0"/>
       <param name="unit0-omit-food-description" value="false"/>
     </portion-size>
   </food>
@@ -32106,7 +32565,7 @@
       <param name="unit0-omit-food-description" value="false"/>
     </portion-size>
   </food>
-  <food code="ZEKW" description="Kiwifruit, gold, flesh &amp; seed, fresh, raw, Zespri Gold, Kiwi fruit, Zespri" groupCode="73">
+  <food code="ZEKW" description="Kiwifruit, green" groupCode="73">
     <nutrient-table id="NZ" code="L1036"/>
     <portion-size 
     method="as-served" description="Use an image" imageUrl="Images to add/VITK additional photos Strawberry raspberry kiwi blackberry coleslaw/Kiwi_asserved/Kiwi21.jpg" useForRecipes="true">
