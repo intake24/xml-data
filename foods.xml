@@ -21455,7 +21455,7 @@
   </food>
   <food code="OATS" description="Rolled oats, not cooked" groupCode="7">
     <nutrient-table id="NZ" code="E25"/>
-    <portion-size method="standard-portion" description="Choose a standard portion" imageUrl="portion/standard-portion.jpg" useForRecipes="false">
+    <portion-size method="standard-portion" description="Choose a standard portion" imageUrl="portion/standard-portion.jpg" useForRecipes="true">
       <param name="units-count" value="1"/>
       <param name="unit0-name" value="tablespoons"/>
       <param name="unit0-weight" value="15.0"/>
@@ -28188,7 +28188,7 @@
   </food>
   <food code="SNOA" description="Snowball, cocktail" groupCode="94">
     <nutrient-table id="NDNS" code="2407"/>
-    <portion-size method="standard-portion" description="choose a standard portion" imageUrl="portion/standard-portion.jpg" useForRecipes="false">
+    <portion-size method="standard-portion" description="choose a standard portion" imageUrl="portion/standard-portion.jpg" useForRecipes="true">
       <param name="units-count" value="1"/>
       <param name="unit0-name" value="small bottles"/>
       <param name="unit0-weight" value="113.0"/>
@@ -31802,7 +31802,7 @@
   </food>
   <food code="WGOA" description="Oats, wholegrain, toasted, Traditional Wholegrain Oats, Harraways" groupCode="7">
     <nutrient-table id="NZ" code="E1022"/>
-    <portion-size method="standard-portion" description="Choose a standard portion" imageUrl="portion/standard-portion.jpg" useForRecipes="false">
+    <portion-size method="standard-portion" description="Choose a standard portion" imageUrl="portion/standard-portion.jpg" useForRecipes="true">
       <param name="units-count" value="2"/>
       <param name="unit0-name" value="tablespoons"/>
       <param name="unit0-weight" value="15.0"/>
@@ -31820,7 +31820,7 @@
   </food>
   <food code="WGOT" description="Oats, not cooked (wholegrain)" groupCode="7">
     <nutrient-table id="NZ" code="E24"/>
-    <portion-size method="standard-portion" description="Choose a standard portion" imageUrl="portion/standard-portion.jpg" useForRecipes="false">
+    <portion-size method="standard-portion" description="Choose a standard portion" imageUrl="portion/standard-portion.jpg" useForRecipes="true">
       <param name="units-count" value="2"/>
       <param name="unit0-name" value="tablespoons"/>
       <param name="unit0-weight" value="15.0"/>

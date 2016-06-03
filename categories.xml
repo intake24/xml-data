@@ -1766,10 +1766,10 @@
     <food code="WMIL"/>
   </category>
   <category sameAsBeforeOption="true" code="HCHC" description="Hot chocolate &amp; malted drinks" hidden="false">
-    <food code="MILO"/>
     <food code="EFDR"/>
     <food code="HCPO"/>
     <food code="COPO"/>
+    <food code="MILO"/>
     <subcategory code="DCHO"/>
     <subcategory code="HORL"/>
   </category>
@@ -2930,7 +2930,6 @@
     <food code="CLRY"/>
     <food code="CASU"/>
     <food code="MSRF"/>
-    <food code="MILO"/>
     <food code="PRST"/>
     <food code="PRKL"/>
     <food code="PRKM"/>
@@ -2948,15 +2947,12 @@
     <food code="CMIX"/>
     <food code="INCP"/>
     <food code="PMLC"/>
-    <food code="OATS"/>
     <food code="CTFR"/>
     <food code="CTRA"/>
     <food code="CSLM"/>
     <food code="CHTL"/>
     <food code="CTWS"/>
     <food code="GARL"/>
-    <food code="WGOA"/>
-    <food code="WGOT"/>
     <food code="CHFB"/>
     <food code="CHFW"/>
     <food code="BRFL"/>
@@ -3035,6 +3031,10 @@
     <food code="KEFI"/>
     <food code="LFYO"/>
     <food code="SOYP"/>
+    <food code="OATS"/>
+    <food code="WGOA"/>
+    <food code="WGOT"/>
+    <food code="MILO"/>
     <subcategory code="OILY"/>
     <subcategory code="CRAB"/>
     <subcategory code="FFLT"/>
