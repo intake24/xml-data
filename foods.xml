@@ -72,7 +72,7 @@
   </food>
   <food code="AERM" description="Aero mousse, any flavour" groupCode="111">
     <nutrient-table id="NDNS" code="582"/>
-    <portion-size method="standard-portion" description="choose a standard portion" imageUrl="Images/portion/standard-portion.jpg" useForRecipes="false">
+    <portion-size method="standard-portion" description="choose a standard portion" imageUrl="portion/standard-portion.jpg" useForRecipes="false">
       <param name="units-count" value="1"/>
       <param name="unit0-name" value="pots"/>
       <param name="unit0-weight" value="57.0"/>
@@ -262,7 +262,7 @@
   </food>
   <food code="ALSL" description="Almond slices e.g. Mr Kipling" groupCode="16">
     <nutrient-table id="NDNS" code="8680"/>
-    <portion-size method="standard-portion" description="choose standard portion" imageUrl="Images/portion/standard-portion.jpg" useForRecipes="false">
+    <portion-size method="standard-portion" description="choose standard portion" imageUrl="portion/standard-portion.jpg" useForRecipes="false">
       <param name="units-count" value="1"/>
       <param name="unit0-name" value="almond slices"/>
       <param name="unit0-weight" value="35.0"/>
@@ -320,7 +320,7 @@
       <param name="serving-image-set" value="gateau"/>
       <param name="leftovers-image-set" value="gateau_leftovers"/>
     </portion-size>
-    <portion-size method="standard-portion" description="choose a standard portion" imageUrl="Images/portion/standard-portion.jpg" useForRecipes="false">
+    <portion-size method="standard-portion" description="choose a standard portion" imageUrl="portion/standard-portion.jpg" useForRecipes="false">
       <param name="units-count" value="2"/>
       <param name="unit0-name" value="slices"/>
       <param name="unit0-weight" value="95.0"/>
@@ -335,7 +335,7 @@
     <portion-size method="guide-image" description="Use an image" imageUrl="portion/Gcake.jpg" useForRecipes="false">
       <param name="guide-image-id" value="Gcake"/>
     </portion-size>
-    <portion-size method="standard-portion" description="choose standard portion" imageUrl="Images/portion/standard-portion.jpg" useForRecipes="false">
+    <portion-size method="standard-portion" description="choose standard portion" imageUrl="portion/standard-portion.jpg" useForRecipes="false">
       <param name="units-count" value="1"/>
       <param name="unit0-name" value="angel slices"/>
       <param name="unit0-weight" value="29.0"/>
@@ -675,7 +675,7 @@
       <param name="serving-image-set" value="cucs"/>
       <param name="leftovers-image-set" value="cucs_leftovers"/>
     </portion-size>
-    <portion-size method="standard-portion" description="choose a standard portion" imageUrl="Images/portion/standard-portion.jpg" useForRecipes="false">
+    <portion-size method="standard-portion" description="choose a standard portion" imageUrl="portion/standard-portion.jpg" useForRecipes="false">
       <param name="units-count" value="3"/>
       <param name="unit0-name" value="small aubergines"/>
       <param name="unit0-weight" value="130.0"/>
@@ -748,7 +748,7 @@
   </food>
   <food code="BADR" description="Basil, dried" groupCode="117">
     <nutrient-table id="NDNS" code="9228"/>
-    <portion-size method="standard-portion" description="choose a standard portion" imageUrl="Images/portion/standard-portion.jpg" useForRecipes="true">
+    <portion-size method="standard-portion" description="choose a standard portion" imageUrl="portion/standard-portion.jpg" useForRecipes="true">
       <param name="units-count" value="1"/>
       <param name="unit0-name" value="teaspoons"/>
       <param name="unit0-weight" value="1.0"/>
@@ -881,7 +881,7 @@
   </food>
   <food code="BASI" description="Basil, fresh" groupCode="117">
     <nutrient-table id="NDNS" code="9223"/>
-    <portion-size method="standard-portion" description="choose a standard portion" imageUrl="Images/portion/standard-portion.jpg" useForRecipes="true">
+    <portion-size method="standard-portion" description="choose a standard portion" imageUrl="portion/standard-portion.jpg" useForRecipes="true">
       <param name="units-count" value="1"/>
       <param name="unit0-name" value="teaspoons"/>
       <param name="unit0-weight" value="1.0"/>
@@ -1017,7 +1017,7 @@
     <portion-size method="guide-image" description="Use an image" imageUrl="portion/Gpiesaus.jpg" useForRecipes="false">
       <param name="guide-image-id" value="Gpiesaus"/>
     </portion-size>
-    <portion-size method="standard-portion" description="choose a standard portion" imageUrl="Images/portion/standard-portion.jpg" useForRecipes="false">
+    <portion-size method="standard-portion" description="choose a standard portion" imageUrl="portion/standard-portion.jpg" useForRecipes="false">
       <param name="units-count" value="1"/>
       <param name="unit0-name" value="bacon and cheese grills"/>
       <param name="unit0-weight" value="72.5"/>
@@ -1299,7 +1299,7 @@
     <portion-size method="guide-image" description="Use an image" imageUrl="portion/Gdou.jpg" useForRecipes="false">
       <param name="guide-image-id" value="Gdou"/>
     </portion-size>
-    <portion-size method="standard-portion" description="choose a standard portion" imageUrl="Images/portion/standard-portion.jpg" useForRecipes="false">
+    <portion-size method="standard-portion" description="choose a standard portion" imageUrl="portion/standard-portion.jpg" useForRecipes="false">
       <param name="units-count" value="1"/>
       <param name="unit0-name" value="berliners"/>
       <param name="unit0-weight" value="40.0"/>
@@ -1352,7 +1352,7 @@
   </food>
   <food code="BESW" description="Beef sandwich" groupCode="4">
     <nutrient-table id="NDNS" code="100011"/>
-    <portion-size method="standard-portion" description="choose a standard portion" imageUrl="Images/portion/standard-portion.jpg" useForRecipes="false">
+    <portion-size method="standard-portion" description="choose a standard portion" imageUrl="portion/standard-portion.jpg" useForRecipes="false">
       <param name="units-count" value="1"/>
       <param name="unit0-name" value="sandwiches (made with two slices of bread)"/>
       <param name="unit0-weight" value="160.0"/>
@@ -1481,7 +1481,7 @@
   </food>
   <food code="BFSW" description="Breakfast sandwich (with egg, bacon, sausage and ketchup)" groupCode="4">
     <nutrient-table id="NDNS" code="100010"/>
-    <portion-size method="standard-portion" description="choose a standard portion" imageUrl="Images/portion/standard-portion.jpg" useForRecipes="false">
+    <portion-size method="standard-portion" description="choose a standard portion" imageUrl="portion/standard-portion.jpg" useForRecipes="false">
       <param name="units-count" value="1"/>
       <param name="unit0-name" value="sandwiches (made with two slices of bread)"/>
       <param name="unit0-weight" value="200.0"/>
@@ -1611,7 +1611,7 @@
       <param name="serving-image-set" value="ice_cream"/>
       <param name="leftovers-image-set" value="ice_cream_leftovers"/>
     </portion-size>
-    <portion-size method="standard-portion" description="choose a standard portion" imageUrl="Images/portion/standard-portion.jpg" useForRecipes="false">
+    <portion-size method="standard-portion" description="choose a standard portion" imageUrl="portion/standard-portion.jpg" useForRecipes="false">
       <param name="units-count" value="2"/>
       <param name="unit0-name" value="small individual tubs"/>
       <param name="unit0-weight" value="110.0"/>
@@ -1761,7 +1761,7 @@
   </food>
   <food code="BLTS" description="Bacon lettuce and tomato sandwich" groupCode="4">
     <nutrient-table id="NDNS" code="100005"/>
-    <portion-size method="standard-portion" description="choose a standard portion" imageUrl="Images/portion/standard-portion.jpg" useForRecipes="false">
+    <portion-size method="standard-portion" description="choose a standard portion" imageUrl="portion/standard-portion.jpg" useForRecipes="false">
       <param name="units-count" value="1"/>
       <param name="unit0-name" value="sandwiches (made with two slices of bread)"/>
       <param name="unit0-weight" value="165.0"/>
@@ -1917,7 +1917,7 @@
   </food>
   <food code="BNSW" description="Bacon sandwich" groupCode="4">
     <nutrient-table id="NDNS" code="100004"/>
-    <portion-size method="standard-portion" description="choose a standard portion" imageUrl="Images/portion/standard-portion.jpg" useForRecipes="false">
+    <portion-size method="standard-portion" description="choose a standard portion" imageUrl="portion/standard-portion.jpg" useForRecipes="false">
       <param name="units-count" value="1"/>
       <param name="unit0-name" value="sandwiches (made with two slices of bread)"/>
       <param name="unit0-weight" value="152.0"/>
@@ -2561,7 +2561,7 @@
     <portion-size method="guide-image" description="Use an image" imageUrl="portion/Gallcans.jpg" useForRecipes="true">
       <param name="guide-image-id" value="Gallcans"/>
     </portion-size>
-    <portion-size method="standard-portion" description="Choose a standard portion" imageUrl="Images/portion/standard-portion.jpg" useForRecipes="false">
+    <portion-size method="standard-portion" description="Choose a standard portion" imageUrl="portion/standard-portion.jpg" useForRecipes="false">
       <param name="units-count" value="1"/>
       <param name="unit0-name" value="tablespoons"/>
       <param name="unit0-weight" value="20.0"/>
@@ -2830,7 +2830,7 @@
       <param name="serving-image-set" value="soup"/>
       <param name="leftovers-image-set" value="soup_leftovers"/>
     </portion-size>
-    <portion-size method="standard-portion" description="choose a standard portion" imageUrl="Images/portion/standard-portion.jpg" useForRecipes="false">
+    <portion-size method="standard-portion" description="choose a standard portion" imageUrl="portion/standard-portion.jpg" useForRecipes="false">
       <param name="units-count" value="1"/>
       <param name="unit0-name" value="cartons"/>
       <param name="unit0-weight" value="600.0"/>
@@ -3172,7 +3172,7 @@
       <param name="serving-image-set" value="rice"/>
       <param name="leftovers-image-set" value="rice_leftovers"/>
     </portion-size>
-    <portion-size method="standard-portion" description="choose a standard portion" imageUrl="Images/portion/standard-portion.jpg" useForRecipes="false">
+    <portion-size method="standard-portion" description="choose a standard portion" imageUrl="portion/standard-portion.jpg" useForRecipes="false">
       <param name="units-count" value="1"/>
       <param name="unit0-name" value="individual packs"/>
       <param name="unit0-weight" value="380.0"/>
@@ -3439,7 +3439,7 @@
   </food>
   <food code="CATC" description="Caterpillar Cake, shop bought" groupCode="16">
     <nutrient-table id="NDNS" code="8161"/>
-    <portion-size method="standard-portion" description="choose standard portion" imageUrl="Images/portion/standard-portion.jpg" useForRecipes="false">
+    <portion-size method="standard-portion" description="choose standard portion" imageUrl="portion/standard-portion.jpg" useForRecipes="false">
       <param name="units-count" value="2"/>
       <param name="unit0-name" value="slices (1/12th of cake)"/>
       <param name="unit0-weight" value="51.0"/>
@@ -3572,7 +3572,7 @@
   </food>
   <food code="CBSW" description="Chicken and bacon sandwich" groupCode="4">
     <nutrient-table id="NDNS" code="100012"/>
-    <portion-size method="standard-portion" description="choose a standard portion" imageUrl="Images/portion/standard-portion.jpg" useForRecipes="false">
+    <portion-size method="standard-portion" description="choose a standard portion" imageUrl="portion/standard-portion.jpg" useForRecipes="false">
       <param name="units-count" value="1"/>
       <param name="unit0-name" value="sandwiches (made with two slices of bread)"/>
       <param name="unit0-weight" value="175.0"/>
@@ -3660,7 +3660,7 @@
   </food>
   <food code="CCDD" description="Cadbury's chocolate dairy desserts e.g. Buttons twinpot" groupCode="111">
     <nutrient-table id="NDNS" code="10396"/>
-    <portion-size method="standard-portion" description="choose a standard portion" imageUrl="Images/portion/standard-portion.jpg" useForRecipes="false">
+    <portion-size method="standard-portion" description="choose a standard portion" imageUrl="portion/standard-portion.jpg" useForRecipes="false">
       <param name="units-count" value="1"/>
       <param name="unit0-name" value="pots"/>
       <param name="unit0-weight" value="90.0"/>
@@ -3688,8 +3688,8 @@
       <param name="unit2-weight" value="90.5"/>
       <param name="unit2-omit-food-description" value="true"/>
     </portion-size>
-    <portion-size 
-    method="guide-image" description="Use an image" imageUrl="Images to add/VITK additional photos Strawberry raspberry kiwi blackberry coleslaw/Flapjack_guide/GFlapJ.jpg" useForRecipes="false">
+    <portion-size
+    method="guide-image" description="Use an image" imageUrl="portion/Gflap.jpg" useForRecipes="false">
       <param name="guide-image-id" value="Gflap"/>
 </portion-size>
   </food>
@@ -4428,7 +4428,7 @@
   </food>
   <food code="CHCO" description="Chocolate cornflake bites" groupCode="14">
     <nutrient-table id="NDNS" code="8427"/>
-    <portion-size method="standard-portion" description="choose a standard portion" imageUrl="Images/portion/standard-portion.jpg" useForRecipes="false">
+    <portion-size method="standard-portion" description="choose a standard portion" imageUrl="portion/standard-portion.jpg" useForRecipes="false">
       <param name="units-count" value="2"/>
       <param name="unit0-name" value="cluster bites"/>
       <param name="unit0-weight" value="10.0"/>
@@ -4549,7 +4549,7 @@
       <param name="serving-image-set" value="gateau"/>
       <param name="leftovers-image-set" value="gateau_leftovers"/>
     </portion-size>
-    <portion-size method="standard-portion" description="choose a standard portion" imageUrl="Images/portion/standard-portion.jpg" useForRecipes="false">
+    <portion-size method="standard-portion" description="choose a standard portion" imageUrl="portion/standard-portion.jpg" useForRecipes="false">
       <param name="units-count" value="2"/>
       <param name="unit0-name" value="slices"/>
       <param name="unit0-weight" value="95.0"/>
@@ -4670,7 +4670,7 @@
   </food>
   <food code="CHIV" description="Chives" groupCode="117">
     <nutrient-table id="NDNS" code="9227"/>
-    <portion-size method="standard-portion" description="choose a standard portion" imageUrl="Images/portion/standard-portion.jpg" useForRecipes="true">
+    <portion-size method="standard-portion" description="choose a standard portion" imageUrl="portion/standard-portion.jpg" useForRecipes="true">
       <param name="units-count" value="1"/>
       <param name="unit0-name" value="teaspoons"/>
       <param name="unit0-weight" value="1.0"/>
@@ -4807,7 +4807,7 @@
     <portion-size method="as-served" description="Use an image" imageUrl="portion/cream_cheese_spread.jpg" useForRecipes="false">
       <param name="serving-image-set" value="cream_cheese_spread"/>
     </portion-size>
-    <portion-size method="standard-portion" description="Choose a standard portion" imageUrl="Images/portion/standard-portion.jpg" useForRecipes="false">
+    <portion-size method="standard-portion" description="Choose a standard portion" imageUrl="portion/standard-portion.jpg" useForRecipes="false">
       <param name="units-count" value="4"/>
       <param name="unit0-name" value="level teaspoons"/>
       <param name="unit0-weight" value="5.0"/>
@@ -4834,7 +4834,7 @@
     <portion-size method="guide-image" description="Spoonfuls" imageUrl="portion/Gspn.jpg" useForRecipes="true">
       <param name="guide-image-id" value="Gspn"/>
     </portion-size>
-    <portion-size method="standard-portion" description="Choose a standard portion" imageUrl="Images/portion/standard-portion.jpg" useForRecipes="false">
+    <portion-size method="standard-portion" description="Choose a standard portion" imageUrl="portion/standard-portion.jpg" useForRecipes="false">
       <param name="units-count" value="4"/>
       <param name="unit0-name" value="level teaspoons"/>
       <param name="unit0-weight" value="5.0"/>
@@ -4873,7 +4873,7 @@
   </food>
   <food readyMealOption="true" code="CHOT" description="Cheese on toast" groupCode="29">
     <nutrient-table id="NDNS" code="7773"/>
-    <portion-size method="standard-portion" description="choose a standard portion" imageUrl="Images/portion/standard-portion.jpg" useForRecipes="false">
+    <portion-size method="standard-portion" description="choose a standard portion" imageUrl="portion/standard-portion.jpg" useForRecipes="false">
       <param name="units-count" value="1"/>
       <param name="unit0-name" value="slices"/>
       <param name="unit0-weight" value="92.0"/>
@@ -5091,7 +5091,7 @@
   </food>
   <food code="CHUR" description="Churros" groupCode="16">
     <nutrient-table id="NDNS" code="7679"/>
-    <portion-size method="standard-portion" description="choose a standard portion" imageUrl="Images/portion/standard-portion.jpg" useForRecipes="false">
+    <portion-size method="standard-portion" description="choose a standard portion" imageUrl="portion/standard-portion.jpg" useForRecipes="false">
       <param name="units-count" value="2"/>
       <param name="unit0-name" value="mini churros"/>
       <param name="unit0-weight" value="18.0"/>
@@ -5143,7 +5143,7 @@
   </food>
   <food code="CILA" description="Cilantro, fresh" groupCode="117">
     <nutrient-table id="NDNS" code="1799"/>
-    <portion-size method="standard-portion" description="choose a standard portion" imageUrl="Images/portion/standard-portion.jpg" useForRecipes="true">
+    <portion-size method="standard-portion" description="choose a standard portion" imageUrl="portion/standard-portion.jpg" useForRecipes="true">
       <param name="units-count" value="1"/>
       <param name="unit0-name" value="teaspoons"/>
       <param name="unit0-weight" value="1.0"/>
@@ -5248,7 +5248,7 @@
   </food>
   <food code="CKSW" description="Chicken salad sandwich" groupCode="4">
     <nutrient-table id="NDNS" code="100006"/>
-    <portion-size method="standard-portion" description="choose a standard portion" imageUrl="Images/portion/standard-portion.jpg" useForRecipes="false">
+    <portion-size method="standard-portion" description="choose a standard portion" imageUrl="portion/standard-portion.jpg" useForRecipes="false">
       <param name="units-count" value="1"/>
       <param name="unit0-name" value="sandwiches (made with two slices of bread)"/>
       <param name="unit0-weight" value="200.0"/>
@@ -6744,7 +6744,7 @@
   </food>
   <food code="CSSW" description="Cheese sandwich" groupCode="4">
     <nutrient-table id="NDNS" code="100001"/>
-    <portion-size method="standard-portion" description="choose a standard portion" imageUrl="Images/portion/standard-portion.jpg" useForRecipes="false">
+    <portion-size method="standard-portion" description="choose a standard portion" imageUrl="portion/standard-portion.jpg" useForRecipes="false">
       <param name="units-count" value="1"/>
       <param name="unit0-name" value="sandwiches (made with two slices of bread)"/>
       <param name="unit0-weight" value="157.0"/>
@@ -7239,7 +7239,7 @@
     <portion-size method="guide-image" description="Spoonfuls" imageUrl="portion/Gspn.jpg" useForRecipes="true">
       <param name="guide-image-id" value="Gspn"/>
     </portion-size>
-    <portion-size method="standard-portion" description="choose a standard portion" imageUrl="Images/portion/standard-portion.jpg" useForRecipes="true">
+    <portion-size method="standard-portion" description="choose a standard portion" imageUrl="portion/standard-portion.jpg" useForRecipes="true">
       <param name="units-count" value="2"/>
       <param name="unit0-name" value="teaspoons"/>
       <param name="unit0-weight" value="6.0"/>
@@ -7656,7 +7656,7 @@
   </food>
   <food code="DHRB" description="Dried herbs" groupCode="117">
     <nutrient-table id="NDNS" code="9764"/>
-    <portion-size method="standard-portion" description="choose a standard portion" imageUrl="Images/portion/standard-portion.jpg" useForRecipes="true">
+    <portion-size method="standard-portion" description="choose a standard portion" imageUrl="portion/standard-portion.jpg" useForRecipes="true">
       <param name="units-count" value="1"/>
       <param name="unit0-name" value="teaspoons"/>
       <param name="unit0-weight" value="1.0"/>
@@ -7876,8 +7876,8 @@
       <param name="unit0-weight" value="8.0"/>
       <param name="unit0-omit-food-description" value="false"/>
     </portion-size>
-    <portion-size 
-    method="as-served" description="Use an image" imageUrl="Images to add/VITK additional photos Strawberry raspberry kiwi blackberry coleslaw/Raspberry_asserved/Rasp24.jpg" useForRecipes="false">
+    <portion-size
+    method="as-served" description="Use an image" imageUrl="portion/rasp24.jpg" useForRecipes="false">
       <param name="serving-image-set" value="Raspberry_asserved"/>
       <param name="leftovers-image-set" value="Raspberry_left"/>
 </portion-size>
@@ -8272,7 +8272,7 @@
     <portion-size method="guide-image" description="Choose an image" imageUrl="Gsli.jpg" useForRecipes="false">
       <param name="guide-image-id" value="Gsli"/>
     </portion-size>
-    <portion-size method="standard-portion" description="Choose a standard portion" imageUrl="Images/portion/standard-portion.jpg" useForRecipes="false">
+    <portion-size method="standard-portion" description="Choose a standard portion" imageUrl="portion/standard-portion.jpg" useForRecipes="false">
       <param name="units-count" value="1"/>
       <param name="unit0-name" value="triangle slices (half a piece of bread)"/>
       <param name="unit0-weight" value="40.0"/>
@@ -8466,7 +8466,7 @@
   </food>
   <food code="EMSW" description="Egg mayo sandwich" groupCode="4">
     <nutrient-table id="NDNS" code="100007"/>
-    <portion-size method="standard-portion" description="choose a standard portion" imageUrl="Images/portion/standard-portion.jpg" useForRecipes="false">
+    <portion-size method="standard-portion" description="choose a standard portion" imageUrl="portion/standard-portion.jpg" useForRecipes="false">
       <param name="units-count" value="1"/>
       <param name="unit0-name" value="sandwiches (made with two slices of bread)"/>
       <param name="unit0-weight" value="150.0"/>
@@ -8647,7 +8647,7 @@
       <param name="serving-image-set" value="gateau"/>
       <param name="leftovers-image-set" value="gateau_leftovers"/>
     </portion-size>
-    <portion-size method="standard-portion" description="Choose a standard portion" imageUrl="Images/portion/standard-portion.jpg" useForRecipes="true">
+    <portion-size method="standard-portion" description="Choose a standard portion" imageUrl="portion/standard-portion.jpg" useForRecipes="true">
       <param name="units-count" value="1"/>
       <param name="unit0-name" value="sponge fingers"/>
       <param name="unit0-weight" value="7.0"/>
@@ -9041,7 +9041,7 @@
   </food>
   <food code="FHRB" description="Fresh herbs" groupCode="117">
     <nutrient-table id="NDNS" code="9231"/>
-    <portion-size method="standard-portion" description="choose a standard portion" imageUrl="Images/portion/standard-portion.jpg" useForRecipes="true">
+    <portion-size method="standard-portion" description="choose a standard portion" imageUrl="portion/standard-portion.jpg" useForRecipes="true">
       <param name="units-count" value="1"/>
       <param name="unit0-name" value="teaspoons"/>
       <param name="unit0-weight" value="1.0"/>
@@ -9572,7 +9572,7 @@
     <portion-size method="guide-image" description="Use an image" imageUrl="portion/Gpik.jpg" useForRecipes="false">
       <param name="guide-image-id" value="Gpik"/>
     </portion-size>
-    <portion-size method="standard-portion" description="choose a standard portion" imageUrl="Images/portion/standard-portion.jpg" useForRecipes="true">
+    <portion-size method="standard-portion" description="choose a standard portion" imageUrl="portion/standard-portion.jpg" useForRecipes="true">
       <param name="units-count" value="1"/>
       <param name="unit0-name" value="fritters"/>
       <param name="unit0-weight" value="100.0"/>
@@ -9685,7 +9685,7 @@
       <param name="unit2-weight" value="100.0"/>
       <param name="unit2-omit-food-description" value="false"/>
     </portion-size>
-    <portion-size method="as-served" description="Use an image" imageUrl="Strawb_asserved/Straw26.jpg" useForRecipes="false">
+    <portion-size method="as-served" description="Use an image" imageUrl="portion/straw25.jpg" useForRecipes="false">
       <param name="serving-image-set" value="Strawb_asserved"/>
       <param name="leftovers-image-set" value="Strawb_left"/>
     </portion-size>
@@ -9711,7 +9711,7 @@
   </food>
   <food code="FRPA" description="Parsley, fresh" groupCode="117">
     <nutrient-table id="NDNS" code="1799"/>
-    <portion-size method="standard-portion" description="choose a standard portion" imageUrl="Images/portion/standard-portion.jpg" useForRecipes="true">
+    <portion-size method="standard-portion" description="choose a standard portion" imageUrl="portion/standard-portion.jpg" useForRecipes="true">
       <param name="units-count" value="1"/>
       <param name="unit0-name" value="teaspoons"/>
       <param name="unit0-weight" value="1.0"/>
@@ -9750,7 +9750,7 @@
       <param name="serving-image-set" value="ice_cream"/>
       <param name="leftovers-image-set" value="ice_cream_leftovers"/>
     </portion-size>
-    <portion-size method="standard-portion" description="choose a standard portion" imageUrl="Images/portion/standard-portion.jpg" useForRecipes="false">
+    <portion-size method="standard-portion" description="choose a standard portion" imageUrl="portion/standard-portion.jpg" useForRecipes="false">
       <param name="units-count" value="2"/>
       <param name="unit0-name" value="small sundaes"/>
       <param name="unit0-weight" value="140.0"/>
@@ -9891,7 +9891,7 @@
     <portion-size method="guide-image" description="In a bottle" imageUrl="portion/Gwatbottle.jpg" useForRecipes="false">
       <param name="guide-image-id" value="Gwatbottle"/>
     </portion-size>
-    <portion-size method="standard-portion" description="choose a standard portion" imageUrl="Images/portion/standard-portion.jpg" useForRecipes="false">
+    <portion-size method="standard-portion" description="choose a standard portion" imageUrl="portion/standard-portion.jpg" useForRecipes="false">
       <param name="units-count" value="1"/>
       <param name="unit0-name" value="multipack bottles"/>
       <param name="unit0-weight" value="350.0"/>
@@ -9918,7 +9918,7 @@
     <portion-size method="guide-image" description="In a bottle" imageUrl="portion/Gpopbottle.jpg" useForRecipes="false">
       <param name="guide-image-id" value="Gpopbottle"/>
     </portion-size>
-    <portion-size method="standard-portion" description="choose a standard portion" imageUrl="Images/portion/standard-portion.jpg" useForRecipes="false">
+    <portion-size method="standard-portion" description="choose a standard portion" imageUrl="portion/standard-portion.jpg" useForRecipes="false">
       <param name="units-count" value="1"/>
       <param name="unit0-name" value="multipack bottles"/>
       <param name="unit0-weight" value="200.0"/>
@@ -10388,7 +10388,7 @@
   </food>
   <food readyMealOption="false" code="GFCS" description="Gluten free cheese on toast" groupCode="29">
     <nutrient-table id="NDNS" code="7773"/>
-    <portion-size method="standard-portion" description="choose a standard portion" imageUrl="Images/portion/standard-portion.jpg" useForRecipes="false">
+    <portion-size method="standard-portion" description="choose a standard portion" imageUrl="portion/standard-portion.jpg" useForRecipes="false">
       <param name="units-count" value="1"/>
       <param name="unit0-name" value="slices"/>
       <param name="unit0-weight" value="92.0"/>
@@ -11129,7 +11129,7 @@
       <param name="unit0-weight" value="5.0"/>
       <param name="unit0-omit-food-description" value="true"/>
     </portion-size>
-    <portion-size method="as-served" description="choose an image" imageUrl="Images/Grap24.jpg" useForRecipes="false">
+    <portion-size method="as-served" description="choose an image" imageUrl="portion/grapes.jpg" useForRecipes="false">
       <param name="serving-image-set" value="grapes"/>
     </portion-size>
   </food>
@@ -11291,7 +11291,7 @@
       <param name="unit0-weight" value="230.0"/>
       <param name="unit0-omit-food-description" value="false"/>
     </portion-size>
-    <portion-size method="as-served" description="Choose an image" imageUrl="Images/Lett26.jpg" useForRecipes="false">
+    <portion-size method="as-served" description="Choose an image" imageUrl="portion/lettuce.jpg" useForRecipes="false">
       <param name="serving-image-set" value="lettuce"/>
       <param name="leftovers-image-set" value="lettuce_leftovers"/>
     </portion-size>
@@ -11579,7 +11579,7 @@
       <param name="serving-image-set" value="ice_cream"/>
       <param name="leftovers-image-set" value="ice_cream_leftovers"/>
     </portion-size>
-    <portion-size method="standard-portion" description="choose a standard portion" imageUrl="Images/portion/standard-portion.jpg" useForRecipes="false">
+    <portion-size method="standard-portion" description="choose a standard portion" imageUrl="portion/standard-portion.jpg" useForRecipes="false">
       <param name="units-count" value="2"/>
       <param name="unit0-name" value="small individual tubs"/>
       <param name="unit0-weight" value="100.0"/>
@@ -11866,7 +11866,7 @@
   </food>
   <food code="HCSW" description="Ham and cheese sandwich" groupCode="4">
     <nutrient-table id="NDNS" code="100002"/>
-    <portion-size method="standard-portion" description="choose a standard portion" imageUrl="Images/portion/standard-portion.jpg" useForRecipes="false">
+    <portion-size method="standard-portion" description="choose a standard portion" imageUrl="portion/standard-portion.jpg" useForRecipes="false">
       <param name="units-count" value="1"/>
       <param name="unit0-name" value="sandwiches (made with two slices of bread)"/>
       <param name="unit0-weight" value="172.0"/>
@@ -12083,7 +12083,7 @@
   </food>
   <food code="HMSW" description="Ham sandwich" groupCode="4">
     <nutrient-table id="NDNS" code="100003"/>
-    <portion-size method="standard-portion" description="choose a standard portion" imageUrl="Images/portion/standard-portion.jpg" useForRecipes="false">
+    <portion-size method="standard-portion" description="choose a standard portion" imageUrl="portion/standard-portion.jpg" useForRecipes="false">
       <param name="units-count" value="1"/>
       <param name="unit0-name" value="sandwiches (made with two slices of bread)"/>
       <param name="unit0-weight" value="141.0"/>
@@ -12444,7 +12444,7 @@
       <param name="serving-image-set" value="chicken_sauce"/>
       <param name="leftovers-image-set" value="chicken_sauce_leftovers"/>
     </portion-size>
-    <portion-size method="standard-portion" description="choose a standard portion" imageUrl="Images/portion/standard-portion.jpg" useForRecipes="false">
+    <portion-size method="standard-portion" description="choose a standard portion" imageUrl="portion/standard-portion.jpg" useForRecipes="false">
       <param name="units-count" value="1"/>
       <param name="unit0-name" value="hot pots"/>
       <param name="unit0-weight" value="320.0"/>
@@ -13105,7 +13105,7 @@
   </food>
   <food code="KIND" description="Kinder Bueno snack bars" groupCode="81">
     <nutrient-table id="NDNS" code="8021"/>
-    <portion-size method="standard-portion" description="choose a standard portion" imageUrl="Images/portion/standard-portion.jpg" useForRecipes="true">
+    <portion-size method="standard-portion" description="choose a standard portion" imageUrl="portion/standard-portion.jpg" useForRecipes="true">
       <param name="units-count" value="1"/>
       <param name="unit0-name" value="snack bars"/>
       <param name="unit0-weight" value="21.0"/>
@@ -13114,7 +13114,7 @@
   </food>
   <food code="KKCH" description="Kit Kat chunky" groupCode="81">
     <nutrient-table id="NDNS" code="2277"/>
-    <portion-size method="standard-portion" description="choose standard portion" imageUrl="Images/portion/standard-portion.jpg" useForRecipes="false">
+    <portion-size method="standard-portion" description="choose standard portion" imageUrl="portion/standard-portion.jpg" useForRecipes="false">
       <param name="units-count" value="1"/>
       <param name="unit0-name" value="bars"/>
       <param name="unit0-weight" value="40.0"/>
@@ -13123,7 +13123,7 @@
   </food>
   <food code="KKPB" description="Kit Kat peanut butter chunky" groupCode="81">
     <nutrient-table id="NDNS" code="8036"/>
-    <portion-size method="standard-portion" description="choose standard portion" imageUrl="Images/portion/standard-portion.jpg" useForRecipes="false">
+    <portion-size method="standard-portion" description="choose standard portion" imageUrl="portion/standard-portion.jpg" useForRecipes="false">
       <param name="units-count" value="1"/>
       <param name="unit0-name" value="bars"/>
       <param name="unit0-weight" value="48.0"/>
@@ -13314,12 +13314,12 @@
   </food>
   <food code="KWIN" description="Kiwi fruit" groupCode="73">
     <nutrient-table id="NDNS" code="2061"/>
-    <portion-size 
-    method="as-served" description="Use an image" imageUrl="Images to add/VITK additional photos Strawberry raspberry kiwi blackberry coleslaw/Kiwi_asserved/Kiwi21.jpg" useForRecipes="true">
+    <portion-size
+    method="as-served" description="Use an image" imageUrl="portion/kiwi.jpg" useForRecipes="true">
       <param name="serving-image-set" value="Kiwi_asserved"/>
       <param name="leftovers-image-set" value="Kiwi_left"/>
 </portion-size>
-    <portion-size method="standard-portion" description="Choose a standard portion" imageUrl="Images/portion/standard-portion.jpg" useForRecipes="false">
+    <portion-size method="standard-portion" description="Choose a standard portion" imageUrl="portion/standard-portion.jpg" useForRecipes="false">
       <param name="units-count" value="3"/>
       <param name="unit0-name" value="Small kiwis"/>
       <param name="unit0-weight" value="50.0"/>
@@ -13721,7 +13721,7 @@
   </food>
   <food code="LETH" description="Lemon thyme" groupCode="117">
     <nutrient-table id="NDNS" code="9231"/>
-    <portion-size method="standard-portion" description="choose a standard portion" imageUrl="Images/portion/standard-portion.jpg" useForRecipes="true">
+    <portion-size method="standard-portion" description="choose a standard portion" imageUrl="portion/standard-portion.jpg" useForRecipes="true">
       <param name="units-count" value="1"/>
       <param name="unit0-name" value="teaspoons"/>
       <param name="unit0-weight" value="1.0"/>
@@ -14342,7 +14342,7 @@
       <param name="unit3-weight" value="150.0"/>
       <param name="unit3-omit-food-description" value="false"/>
     </portion-size>
-    <portion-size method="as-served" description="choose an image" imageUrl="Blackberry_asserved/BlkB24.jpg" useForRecipes="false">
+    <portion-size method="as-served" description="choose an image" imageUrl="portion/blkb24.jpg" useForRecipes="false">
       <param name="serving-image-set" value="Blackberry_asserved"/>
       <param name="leftovers-image-set" value="Blackberry_left"/>
     </portion-size>
@@ -14590,7 +14590,7 @@
   </food>
   <food code="MALB" description="Malteser bunny" groupCode="81">
     <nutrient-table id="NDNS" code="2275"/>
-    <portion-size method="standard-portion" description="choose a standard portion" imageUrl="Images/portion/standard-portion.jpg" useForRecipes="false">
+    <portion-size method="standard-portion" description="choose a standard portion" imageUrl="portion/standard-portion.jpg" useForRecipes="false">
       <param name="units-count" value="1"/>
       <param name="unit0-name" value="bunnies"/>
       <param name="unit0-weight" value="29.0"/>
@@ -14800,7 +14800,7 @@
   </food>
   <food code="MATZ" description="Matzos" groupCode="15">
     <nutrient-table id="NDNS" code="266"/>
-    <portion-size method="standard-portion" description="choose a standard portion" imageUrl="Images/portion/standard-portion.jpg" useForRecipes="false">
+    <portion-size method="standard-portion" description="choose a standard portion" imageUrl="portion/standard-portion.jpg" useForRecipes="false">
       <param name="units-count" value="1"/>
       <param name="unit0-name" value="matzos"/>
       <param name="unit0-weight" value="8.0"/>
@@ -14989,7 +14989,7 @@
   </food>
   <food readyMealOption="true" code="MDAP" description="Fruit pie, fried e.g. McDonalds apple pie" groupCode="111">
     <nutrient-table id="NDNS" code="586"/>
-    <portion-size method="standard-portion" description="choose a standard portion " imageUrl="Images/portion/standard-portion.jpg" useForRecipes="false">
+    <portion-size method="standard-portion" description="choose a standard portion " imageUrl="portion/standard-portion.jpg" useForRecipes="false">
       <param name="units-count" value="1"/>
       <param name="unit0-name" value="fruit pies"/>
       <param name="unit0-weight" value="77.0"/>
@@ -15255,7 +15255,7 @@
   </food>
   <food code="MINT" description="Mint" groupCode="117">
     <nutrient-table id="NDNS" code="9230"/>
-    <portion-size method="standard-portion" description="choose a standard portion" imageUrl="Images/portion/standard-portion.jpg" useForRecipes="true">
+    <portion-size method="standard-portion" description="choose a standard portion" imageUrl="portion/standard-portion.jpg" useForRecipes="true">
       <param name="units-count" value="1"/>
       <param name="unit0-name" value="teaspoons"/>
       <param name="unit0-weight" value="1.0"/>
@@ -15331,7 +15331,7 @@
   </food>
   <food readyMealOption="true" code="MKIE" description="Mini chicken kiev e.g. Bernard Matthew's" groupCode="44">
     <nutrient-table id="NDNS" code="8259"/>
-    <portion-size method="standard-portion" description="choose a standard portion" imageUrl="Images/portion/standard-portion.jpg" useForRecipes="false">
+    <portion-size method="standard-portion" description="choose a standard portion" imageUrl="portion/standard-portion.jpg" useForRecipes="false">
       <param name="units-count" value="1"/>
       <param name="unit0-name" value="mini fillets"/>
       <param name="unit0-weight" value="23.0"/>
@@ -15625,7 +15625,7 @@
   </food>
   <food code="MOON" description="Mooncake" groupCode="16">
     <nutrient-table id="NDNS" code="304"/>
-    <portion-size method="standard-portion" description="choose a standard portion" imageUrl="Images/portion/standard-portion.jpg" useForRecipes="false">
+    <portion-size method="standard-portion" description="choose a standard portion" imageUrl="portion/standard-portion.jpg" useForRecipes="false">
       <param name="units-count" value="1"/>
       <param name="unit0-name" value="mooncakes"/>
       <param name="unit0-weight" value="180.0"/>
@@ -15686,7 +15686,7 @@
   </food>
   <food code="MOZL" description="Mozzarella cheese, reduced fat" groupCode="28">
     <nutrient-table id="NDNS" code="10590"/>
-    <portion-size method="standard-portion" description="choose a standard portion" imageUrl="Images/portion/standard-portion.jpg" useForRecipes="true">
+    <portion-size method="standard-portion" description="choose a standard portion" imageUrl="portion/standard-portion.jpg" useForRecipes="true">
       <param name="units-count" value="1"/>
       <param name="unit0-name" value="mozarella balls"/>
       <param name="unit0-weight" value="125.0"/>
@@ -15703,7 +15703,7 @@
   </food>
   <food code="MOZZ" description="Mozzarella cheese" groupCode="28">
     <nutrient-table id="NDNS" code="675"/>
-    <portion-size method="standard-portion" description="choose a standard portion" imageUrl="Images/portion/standard-portion.jpg" useForRecipes="true">
+    <portion-size method="standard-portion" description="choose a standard portion" imageUrl="portion/standard-portion.jpg" useForRecipes="true">
       <param name="units-count" value="1"/>
       <param name="unit0-name" value="mozarella balls"/>
       <param name="unit0-weight" value="130.0"/>
@@ -16071,7 +16071,7 @@
       <param name="unit0-weight" value="5.0"/>
       <param name="unit0-omit-food-description" value="true"/>
     </portion-size>
-    <portion-size method="as-served" description="choose an image" imageUrl="Blackberry_asserved/BlkB24.jpg" useForRecipes="false">
+    <portion-size method="as-served" description="choose an image" imageUrl="portion/blkb24.jpg" useForRecipes="false">
       <param name="serving-image-set" value="Blackberry_asserved"/>
       <param name="leftovers-image-set" value="Blackberry_left"/>
     </portion-size>
@@ -17672,7 +17672,7 @@
     <portion-size method="guide-image" description="Spoonfuls" imageUrl="portion/Gspn.jpg" useForRecipes="true">
       <param name="guide-image-id" value="Gspn"/>
     </portion-size>
-    <portion-size method="standard-portion" description="choose a standard portion" imageUrl="Images/portion/standard-portion.jpg" useForRecipes="false">
+    <portion-size method="standard-portion" description="choose a standard portion" imageUrl="portion/standard-portion.jpg" useForRecipes="false">
       <param name="units-count" value="4"/>
       <param name="unit0-name" value="level teaspoons"/>
       <param name="unit0-weight" value="5.0"/>
@@ -17723,7 +17723,7 @@
     <portion-size method="as-served" description="Use an image" imageUrl="portion/peanut_butter_spread.jpg" useForRecipes="false">
       <param name="serving-image-set" value="peanut_butter_spread"/>
     </portion-size>
-    <portion-size method="standard-portion" description="choose a standard portion" imageUrl="Images/portion/standard-portion.jpg" useForRecipes="false">
+    <portion-size method="standard-portion" description="choose a standard portion" imageUrl="portion/standard-portion.jpg" useForRecipes="false">
       <param name="units-count" value="4"/>
       <param name="unit0-name" value="level teaspoons"/>
       <param name="unit0-weight" value="5.0"/>
@@ -17744,7 +17744,7 @@
     <portion-size method="as-served" description="Use an image" imageUrl="portion/peanut_butter_spread.jpg" useForRecipes="false">
       <param name="serving-image-set" value="peanut_butter_spread"/>
     </portion-size>
-    <portion-size method="standard-portion" description="Choose a standard portion" imageUrl="Images/portion/standard-portion.jpg" useForRecipes="false">
+    <portion-size method="standard-portion" description="Choose a standard portion" imageUrl="portion/standard-portion.jpg" useForRecipes="false">
       <param name="units-count" value="4"/>
       <param name="unit0-name" value="level teaspoons"/>
       <param name="unit0-weight" value="5.0"/>
@@ -17765,7 +17765,7 @@
     <portion-size method="as-served" description="Use an image" imageUrl="portion/peanut_butter_spread.jpg" useForRecipes="false">
       <param name="serving-image-set" value="peanut_butter_spread"/>
     </portion-size>
-    <portion-size method="standard-portion" description="choose a standard portion" imageUrl="Images/portion/standard-portion.jpg" useForRecipes="false">
+    <portion-size method="standard-portion" description="choose a standard portion" imageUrl="portion/standard-portion.jpg" useForRecipes="false">
       <param name="units-count" value="4"/>
       <param name="unit0-name" value="level teaspoons"/>
       <param name="unit0-weight" value="5.0"/>
@@ -17991,7 +17991,7 @@
   </food>
   <food readyMealOption="false" code="PECA" description="Pecan pie" groupCode="16">
     <nutrient-table id="NDNS" code="355"/>
-    <portion-size method="standard-portion" description="choose a standard portion" imageUrl="Images/portion/standard-portion.jpg" useForRecipes="false">
+    <portion-size method="standard-portion" description="choose a standard portion" imageUrl="portion/standard-portion.jpg" useForRecipes="false">
       <param name="units-count" value="2"/>
       <param name="unit0-name" value="slices"/>
       <param name="unit0-weight" value="112.0"/>
@@ -18215,7 +18215,7 @@
       <param name="unit1-weight" value="100.0"/>
       <param name="unit1-omit-food-description" value="false"/>
     </portion-size>
-    <portion-size method="as-served" description="choose an image" imageUrl="Images/Grap24.jpg" useForRecipes="false">
+    <portion-size method="as-served" description="choose an image" imageUrl="portion/grapes.jpg" useForRecipes="false">
       <param name="serving-image-set" value="grapes"/>
     </portion-size>
   </food>
@@ -18573,7 +18573,7 @@
   </food>
   <food code="PMBR" description="Pom Bears, all flavours" groupCode="61">
     <nutrient-table id="NDNS" code="10000"/>
-    <portion-size method="standard-portion" description="choose a standard portion" imageUrl="Images/portion/standard-portion.jpg" useForRecipes="false">
+    <portion-size method="standard-portion" description="choose a standard portion" imageUrl="portion/standard-portion.jpg" useForRecipes="false">
       <param name="units-count" value="2"/>
       <param name="unit0-name" value="multipack size bag"/>
       <param name="unit0-weight" value="15.0"/>
@@ -18585,7 +18585,7 @@
   </food>
   <food code="PMSW" description="Prawn mayo sandwich" groupCode="4">
     <nutrient-table id="NDNS" code="100009"/>
-    <portion-size method="standard-portion" description="choose a standard portion" imageUrl="Images/portion/standard-portion.jpg" useForRecipes="false">
+    <portion-size method="standard-portion" description="choose a standard portion" imageUrl="portion/standard-portion.jpg" useForRecipes="false">
       <param name="units-count" value="1"/>
       <param name="unit0-name" value="sandwiches (made with two slices of bread)"/>
       <param name="unit0-weight" value="150.0"/>
@@ -18613,7 +18613,7 @@
     <portion-size method="as-served" description="Use an image" imageUrl="portion/peanut_butter_spread.jpg" useForRecipes="false">
       <param name="serving-image-set" value="peanut_butter_spread"/>
     </portion-size>
-    <portion-size method="standard-portion" description="choose a standard portion" imageUrl="Images/portion/standard-portion.jpg" useForRecipes="false">
+    <portion-size method="standard-portion" description="choose a standard portion" imageUrl="portion/standard-portion.jpg" useForRecipes="false">
       <param name="units-count" value="4"/>
       <param name="unit0-name" value="level teaspoons"/>
       <param name="unit0-weight" value="5.0"/>
@@ -18634,7 +18634,7 @@
     <portion-size method="as-served" description="Use an image" imageUrl="portion/peanut_butter_spread.jpg" useForRecipes="false">
       <param name="serving-image-set" value="peanut_butter_spread"/>
     </portion-size>
-    <portion-size method="standard-portion" description="Choose a standard portion" imageUrl="Images/portion/standard-portion.jpg" useForRecipes="false">
+    <portion-size method="standard-portion" description="Choose a standard portion" imageUrl="portion/standard-portion.jpg" useForRecipes="false">
       <param name="units-count" value="4"/>
       <param name="unit0-name" value="level teaspoons"/>
       <param name="unit0-weight" value="5.0"/>
@@ -19300,7 +19300,7 @@
   </food>
   <food code="PROB" description="Promax protein bar, any flavour " groupCode="100">
     <nutrient-table id="NDNS" code="10354"/>
-    <portion-size method="standard-portion" description="choose a standard portion" imageUrl="Images/portion/standard-portion.jpg" useForRecipes="false">
+    <portion-size method="standard-portion" description="choose a standard portion" imageUrl="portion/standard-portion.jpg" useForRecipes="false">
       <param name="units-count" value="1"/>
       <param name="unit0-name" value="bars"/>
       <param name="unit0-weight" value="75.0"/>
@@ -19673,7 +19673,7 @@
     <portion-size method="guide-image" description="Use an image" imageUrl="portion/Gsli.jpg" useForRecipes="true">
       <param name="guide-image-id" value="Gsli"/>
     </portion-size>
-    <portion-size method="standard-portion" description="choose a standard portion" imageUrl="Images/portion/standard-portion.jpg" useForRecipes="false">
+    <portion-size method="standard-portion" description="choose a standard portion" imageUrl="portion/standard-portion.jpg" useForRecipes="false">
       <param name="units-count" value="1"/>
       <param name="unit0-name" value="slices"/>
       <param name="unit0-weight" value="60.0"/>
@@ -19720,7 +19720,7 @@
       <param name="serving-image-set" value="soup"/>
       <param name="leftovers-image-set" value="soup_leftovers"/>
     </portion-size>
-    <portion-size method="standard-portion" description="choose a standard portion" imageUrl="Images/portion/standard-portion.jpg" useForRecipes="false">
+    <portion-size method="standard-portion" description="choose a standard portion" imageUrl="portion/standard-portion.jpg" useForRecipes="false">
       <param name="units-count" value="1"/>
       <param name="unit0-name" value="cartons"/>
       <param name="unit0-weight" value="600.0"/>
@@ -19732,7 +19732,7 @@
     <portion-size method="guide-image" description="Use an image" imageUrl="portion/Gcake.jpg" useForRecipes="false">
       <param name="guide-image-id" value="Gcake"/>
     </portion-size>
-    <portion-size method="standard-portion" description="choose a standard portion" imageUrl="Images/portion/standard-portion.jpg" useForRecipes="false">
+    <portion-size method="standard-portion" description="choose a standard portion" imageUrl="portion/standard-portion.jpg" useForRecipes="false">
       <param name="units-count" value="2"/>
       <param name="unit0-name" value="slices (eighth of pie)"/>
       <param name="unit0-weight" value="160.0"/>
@@ -19863,7 +19863,7 @@
       <param name="serving-image-set" value="shepherds_pie"/>
       <param name="leftovers-image-set" value="shepherds_pie_leftovers"/>
     </portion-size>
-    <portion-size method="standard-portion" description="choose standard portion" imageUrl="Images/portion/standard-portion.jpg" useForRecipes="false">
+    <portion-size method="standard-portion" description="choose standard portion" imageUrl="portion/standard-portion.jpg" useForRecipes="false">
       <param name="units-count" value="1"/>
       <param name="unit0-name" value="packets"/>
       <param name="unit0-weight" value="450.0"/>
@@ -19872,7 +19872,7 @@
   </food>
   <food code="QUES" description="Quest protein bar, any flavour " groupCode="100">
     <nutrient-table id="NDNS" code="10354"/>
-    <portion-size method="standard-portion" description="choose a standard portion" imageUrl="Images/portion/standard-portion.jpg" useForRecipes="false">
+    <portion-size method="standard-portion" description="choose a standard portion" imageUrl="portion/standard-portion.jpg" useForRecipes="false">
       <param name="units-count" value="1"/>
       <param name="unit0-name" value="bars"/>
       <param name="unit0-weight" value="60.0"/>
@@ -20070,8 +20070,8 @@
       <param name="unit3-weight" value="40.0"/>
       <param name="unit3-omit-food-description" value="false"/>
     </portion-size>
-    <portion-size 
-    method="as-served" description="Use an image" imageUrl="Images to add/VITK additional photos Strawberry raspberry kiwi blackberry coleslaw/Raspberry_asserved/Rasp24.jpg" useForRecipes="false">
+    <portion-size
+    method="as-served" description="Use an image" imageUrl="portion/rasp24.jpg" useForRecipes="false">
       <param name="serving-image-set" value="Raspberry_asserved"/>
       <param name="leftovers-image-set" value="Raspberry_left"/>
 </portion-size>
@@ -20281,7 +20281,7 @@
       <param name="serving-image-set" value="rice"/>
       <param name="leftovers-image-set" value="rice_leftovers"/>
     </portion-size>
-    <portion-size method="standard-portion" description="choose a standard portion" imageUrl="Images/portion/standard-portion.jpg" useForRecipes="false">
+    <portion-size method="standard-portion" description="choose a standard portion" imageUrl="portion/standard-portion.jpg" useForRecipes="false">
       <param name="units-count" value="1"/>
       <param name="unit0-name" value="packets"/>
       <param name="unit0-weight" value="250.0"/>
@@ -21089,7 +21089,7 @@
   </food>
   <food code="SADR" description="Sage, dried" groupCode="117">
     <nutrient-table id="NDNS" code="9229"/>
-    <portion-size method="standard-portion" description="choose a standard portion" imageUrl="Images/portion/standard-portion.jpg" useForRecipes="true">
+    <portion-size method="standard-portion" description="choose a standard portion" imageUrl="portion/standard-portion.jpg" useForRecipes="true">
       <param name="units-count" value="1"/>
       <param name="unit0-name" value="teaspoons"/>
       <param name="unit0-weight" value="1.0"/>
@@ -21107,7 +21107,7 @@
   </food>
   <food code="SAGE" description="Sage, fresh" groupCode="117">
     <nutrient-table id="NDNS" code="9231"/>
-    <portion-size method="standard-portion" description="choose a standard portion" imageUrl="Images/portion/standard-portion.jpg" useForRecipes="true">
+    <portion-size method="standard-portion" description="choose a standard portion" imageUrl="portion/standard-portion.jpg" useForRecipes="true">
       <param name="units-count" value="1"/>
       <param name="unit0-name" value="teaspoons"/>
       <param name="unit0-weight" value="1.0"/>
@@ -21285,7 +21285,7 @@
     <portion-size method="guide-image" description="Use an image" imageUrl="portion/Gtur.jpg" useForRecipes="false">
       <param name="guide-image-id" value="Gtur"/>
     </portion-size>
-    <portion-size method="standard-portion" description="choose a standard portion" imageUrl="Images/portion/standard-portion.jpg" useForRecipes="false">
+    <portion-size method="standard-portion" description="choose a standard portion" imageUrl="portion/standard-portion.jpg" useForRecipes="false">
       <param name="units-count" value="1"/>
       <param name="unit0-name" value="pieces"/>
       <param name="unit0-weight" value="15.0"/>
@@ -21416,7 +21416,7 @@
     <portion-size method="guide-image" description="Use an image" imageUrl="portion/Gtur.jpg" useForRecipes="false">
       <param name="guide-image-id" value="Gtur"/>
     </portion-size>
-    <portion-size method="standard-portion" description="choose a standard portion" imageUrl="Images/portion/standard-portion.jpg" useForRecipes="false">
+    <portion-size method="standard-portion" description="choose a standard portion" imageUrl="portion/standard-portion.jpg" useForRecipes="false">
       <param name="units-count" value="1"/>
       <param name="unit0-name" value="peices"/>
       <param name="unit0-weight" value="10.0"/>
@@ -21983,7 +21983,7 @@
     <portion-size method="guide-image" description="Use an image" imageUrl="portion/Gice2.jpg" useForRecipes="false">
       <param name="guide-image-id" value="Gice2"/>
     </portion-size>
-    <portion-size method="standard-portion" description="choose a standard portion" imageUrl="Images/portion/standard-portion.jpg" useForRecipes="false">
+    <portion-size method="standard-portion" description="choose a standard portion" imageUrl="portion/standard-portion.jpg" useForRecipes="false">
       <param name="units-count" value="1"/>
       <param name="unit0-name" value="skinny cow sticks"/>
       <param name="unit0-weight" value="100.0"/>
@@ -22638,7 +22638,7 @@
   </food>
   <food code="SPAM" description="Spam fritters" groupCode="41">
     <nutrient-table id="NDNS" code="5623"/>
-    <portion-size method="standard-portion" description="choose a standard portion" imageUrl="Images/portion/standard-portion.jpg" useForRecipes="false">
+    <portion-size method="standard-portion" description="choose a standard portion" imageUrl="portion/standard-portion.jpg" useForRecipes="false">
       <param name="units-count" value="1"/>
       <param name="unit0-name" value="fritters"/>
       <param name="unit0-weight" value="75.0"/>
@@ -23640,7 +23640,7 @@
   </food>
   <food code="SWEE" description="Sweetener, in tablets" groupCode="100">
     <nutrient-table id="NDNS" code="2209"/>
-    <portion-size method="standard-portion" description="choose a standard portion" imageUrl="Images/portion/standard-portion.jpg" useForRecipes="false">
+    <portion-size method="standard-portion" description="choose a standard portion" imageUrl="portion/standard-portion.jpg" useForRecipes="false">
       <param name="units-count" value="1"/>
       <param name="unit0-name" value="tablets"/>
       <param name="unit0-weight" value="0.05"/>
@@ -23649,7 +23649,7 @@
   </food>
   <food code="SWEP" description="Sweetener, granulated" groupCode="100">
     <nutrient-table id="NDNS" code="2208"/>
-    <portion-size method="standard-portion" description="choose a standard portion" imageUrl="Images/portion/standard-portion.jpg" useForRecipes="false">
+    <portion-size method="standard-portion" description="choose a standard portion" imageUrl="portion/standard-portion.jpg" useForRecipes="false">
       <param name="units-count" value="1"/>
       <param name="unit0-name" value="teaspoons"/>
       <param name="unit0-weight" value="4.0"/>
@@ -23987,7 +23987,7 @@
       <param name="serving-image-set" value="ice_cream"/>
       <param name="leftovers-image-set" value="ice_cream_leftovers"/>
     </portion-size>
-    <portion-size method="standard-portion" description="choose a standard portion" imageUrl="Images/portion/standard-portion.jpg" useForRecipes="false">
+    <portion-size method="standard-portion" description="choose a standard portion" imageUrl="portion/standard-portion.jpg" useForRecipes="false">
       <param name="units-count" value="2"/>
       <param name="unit0-name" value="small sundaes"/>
       <param name="unit0-weight" value="140.0"/>
@@ -24185,7 +24185,7 @@
   </food>
   <food code="TMSW" description="Tuna mayo sandwich" groupCode="4">
     <nutrient-table id="NDNS" code="100008"/>
-    <portion-size method="standard-portion" description="choose a standard portion" imageUrl="Images/portion/standard-portion.jpg" useForRecipes="false">
+    <portion-size method="standard-portion" description="choose a standard portion" imageUrl="portion/standard-portion.jpg" useForRecipes="false">
       <param name="units-count" value="1"/>
       <param name="unit0-name" value="sandwiches (made with two slices of bread)"/>
       <param name="unit0-weight" value="150.0"/>
@@ -24996,7 +24996,7 @@
       <param name="initial-fill-level" value="0.9"/>
       <param name="skip-fill-level" value="false"/>
     </portion-size>
-    <portion-size method="guide-image" description="In a can" imageUrl="Images/portion/Gpopcans.jpg" useForRecipes="false">
+    <portion-size method="guide-image" description="In a can" imageUrl="portion/Gpopcans.jpg" useForRecipes="false">
       <param name="guide-image-id" value="Gpopcans"/>
     </portion-size>
   </food>
@@ -25510,7 +25510,7 @@
       <param name="unit0-weight" value="230.0"/>
       <param name="unit0-omit-food-description" value="false"/>
     </portion-size>
-    <portion-size method="as-served" description="Choose an image" imageUrl="Images/Lett21.jpg" useForRecipes="false">
+    <portion-size method="as-served" description="Choose an image" imageUrl="portion/lettuce.jpg" useForRecipes="false">
       <param name="serving-image-set" value="lettuce"/>
       <param name="leftovers-image-set" value="lettuce_leftovers"/>
     </portion-size>
@@ -25726,7 +25726,7 @@
   </food>
   <food readyMealOption="true" code="WEIN" description="West Indian dumplings, fried" groupCode="13">
     <nutrient-table id="NDNS" code="3430"/>
-    <portion-size method="standard-portion" description="choose a standard portion" imageUrl="Images/portion/standard-portion.jpg" useForRecipes="false">
+    <portion-size method="standard-portion" description="choose a standard portion" imageUrl="portion/standard-portion.jpg" useForRecipes="false">
       <param name="units-count" value="1"/>
       <param name="unit0-name" value="dumplings"/>
       <param name="unit0-weight" value="30.0"/>
