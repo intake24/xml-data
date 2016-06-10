@@ -812,7 +812,7 @@
       <param name="serving-image-set" value="bans"/>
       <param name="leftovers-image-set" value="bans_leftovers"/>
     </portion-size>
-    <portion-size method="guide-image" description="in_whole_fruit_/_vegetables" imageUrl="portion/Gban.jpg" useForRecipes="false">
+    <portion-size method="guide-image" description="in_whole_fruit_vegetables" imageUrl="portion/Gban.jpg" useForRecipes="false">
       <param name="guide-image-id" value="Gban"/>
     </portion-size>
     <portion-size method="standard-portion" description="use_a_standard_portion" imageUrl="portion/standard-portion.jpg" useForRecipes="true">
@@ -2120,7 +2120,7 @@
       <param name="serving-image-set" value="apps"/>
       <param name="leftovers-image-set" value="apps_leftovers"/>
     </portion-size>
-    <portion-size method="guide-image" description="in_whole_fruit_/_vegetables" imageUrl="portion/Gapl.jpg" useForRecipes="false">
+    <portion-size method="guide-image" description="in_whole_fruit_vegetables" imageUrl="portion/Gapl.jpg" useForRecipes="false">
       <param name="guide-image-id" value="Gapl"/>
     </portion-size>
   </food>
@@ -2139,7 +2139,7 @@
       <param name="serving-image-set" value="apps"/>
       <param name="leftovers-image-set" value="apps_leftovers"/>
     </portion-size>
-    <portion-size method="guide-image" description="in_whole_fruit_/_vegetables" imageUrl="portion/Gapl.jpg" useForRecipes="false">
+    <portion-size method="guide-image" description="in_whole_fruit_vegetables" imageUrl="portion/Gapl.jpg" useForRecipes="false">
       <param name="guide-image-id" value="Gapl"/>
     </portion-size>
   </food>
@@ -8114,7 +8114,7 @@
       <param name="serving-image-set" value="apps"/>
       <param name="leftovers-image-set" value="apps_leftovers"/>
     </portion-size>
-    <portion-size method="guide-image" description="in_whole_fruit_/_vegetables" imageUrl="portion/Gapl.jpg" useForRecipes="false">
+    <portion-size method="guide-image" description="in_whole_fruit_vegetables" imageUrl="portion/Gapl.jpg" useForRecipes="false">
       <param name="guide-image-id" value="Gapl"/>
     </portion-size>
   </food>
@@ -8124,7 +8124,7 @@
       <param name="serving-image-set" value="apps"/>
       <param name="leftovers-image-set" value="apps_leftovers"/>
     </portion-size>
-    <portion-size method="guide-image" description="in_whole_fruit_/_vegetables" imageUrl="portion/Gapl.jpg" useForRecipes="false">
+    <portion-size method="guide-image" description="in_whole_fruit_vegetables" imageUrl="portion/Gapl.jpg" useForRecipes="false">
       <param name="guide-image-id" value="Gapl"/>
     </portion-size>
   </food>
@@ -10131,7 +10131,7 @@
       <param name="serving-image-set" value="apps"/>
       <param name="leftovers-image-set" value="apps_leftovers"/>
     </portion-size>
-    <portion-size method="guide-image" description="in_whole_fruit_/_vegetables" imageUrl="portion/Gapl.jpg" useForRecipes="false">
+    <portion-size method="guide-image" description="in_whole_fruit_vegetables" imageUrl="portion/Gapl.jpg" useForRecipes="false">
       <param name="guide-image-id" value="Gapl"/>
     </portion-size>
   </food>
@@ -10153,7 +10153,7 @@
       <param name="serving-image-set" value="apps"/>
       <param name="leftovers-image-set" value="apps_leftovers"/>
     </portion-size>
-    <portion-size method="guide-image" description="in_whole_fruit_/_vegetables" imageUrl="portion/Gapl.jpg" useForRecipes="false">
+    <portion-size method="guide-image" description="in_whole_fruit_vegetables" imageUrl="portion/Gapl.jpg" useForRecipes="false">
       <param name="guide-image-id" value="Gapl"/>
     </portion-size>
   </food>
@@ -11064,7 +11064,7 @@
       <param name="serving-image-set" value="apps"/>
       <param name="leftovers-image-set" value="apps_leftovers"/>
     </portion-size>
-    <portion-size method="guide-image" description="in_whole_fruit_/_vegetables" imageUrl="portion/Gapl.jpg" useForRecipes="false">
+    <portion-size method="guide-image" description="in_whole_fruit_vegetables" imageUrl="portion/Gapl.jpg" useForRecipes="false">
       <param name="guide-image-id" value="Gapl"/>
     </portion-size>
   </food>
@@ -11100,7 +11100,7 @@
       <param name="serving-image-set" value="apps"/>
       <param name="leftovers-image-set" value="apps_leftovers"/>
     </portion-size>
-    <portion-size method="guide-image" description="in_whole_fruit_/_vegetables" imageUrl="portion/Gapl.jpg" useForRecipes="false">
+    <portion-size method="guide-image" description="in_whole_fruit_vegetables" imageUrl="portion/Gapl.jpg" useForRecipes="false">
       <param name="guide-image-id" value="Gapl"/>
     </portion-size>
   </food>
@@ -11469,7 +11469,7 @@
       <param name="serving-image-set" value="apps"/>
       <param name="leftovers-image-set" value="apps_leftovers"/>
     </portion-size>
-    <portion-size method="guide-image" description="in_whole_fruit_/_vegetables" imageUrl="portion/Gapl.jpg" useForRecipes="false">
+    <portion-size method="guide-image" description="in_whole_fruit_vegetables" imageUrl="portion/Gapl.jpg" useForRecipes="false">
       <param name="guide-image-id" value="Gapl"/>
     </portion-size>
   </food>
@@ -11479,7 +11479,7 @@
       <param name="serving-image-set" value="apps"/>
       <param name="leftovers-image-set" value="apps_leftovers"/>
     </portion-size>
-    <portion-size method="guide-image" description="in_whole_fruit_/_vegetables" imageUrl="portion/Gapl.jpg" useForRecipes="false">
+    <portion-size method="guide-image" description="in_whole_fruit_vegetables" imageUrl="portion/Gapl.jpg" useForRecipes="false">
       <param name="guide-image-id" value="Gapl"/>
     </portion-size>
   </food>
@@ -18335,7 +18335,7 @@
       <param name="serving-image-set" value="apps"/>
       <param name="leftovers-image-set" value="apps_leftovers"/>
     </portion-size>
-    <portion-size method="guide-image" description="in_whole_fruit_/_vegetables" imageUrl="portion/Gapl.jpg" useForRecipes="false">
+    <portion-size method="guide-image" description="in_whole_fruit_vegetables" imageUrl="portion/Gapl.jpg" useForRecipes="false">
       <param name="guide-image-id" value="Gapl"/>
     </portion-size>
   </food>
@@ -18354,7 +18354,7 @@
       <param name="serving-image-set" value="apps"/>
       <param name="leftovers-image-set" value="apps_leftovers"/>
     </portion-size>
-    <portion-size method="guide-image" description="in_whole_fruit_/_vegetables" imageUrl="portion/Gapl.jpg" useForRecipes="false">
+    <portion-size method="guide-image" description="in_whole_fruit_vegetables" imageUrl="portion/Gapl.jpg" useForRecipes="false">
       <param name="guide-image-id" value="Gapl"/>
     </portion-size>
   </food>
@@ -19483,7 +19483,7 @@
       <param name="serving-image-set" value="cars"/>
       <param name="leftovers-image-set" value="cars_leftovers"/>
     </portion-size>
-    <portion-size method="as-served" description="in_whole_fruit_/_vegetables" imageUrl="portion/carb5.jpg" useForRecipes="false">
+    <portion-size method="as-served" description="in_whole_fruit_vegetables" imageUrl="portion/carb5.jpg" useForRecipes="false">
       <param name="serving-image-set" value="carb"/>
       <param name="leftovers-image-set" value="carb_leftovers"/>
     </portion-size>
@@ -20398,7 +20398,7 @@
       <param name="serving-image-set" value="apps"/>
       <param name="leftovers-image-set" value="apps_leftovers"/>
     </portion-size>
-    <portion-size method="guide-image" description="in_whole_fruit_/_vegetables" imageUrl="portion/Gapl.jpg" useForRecipes="false">
+    <portion-size method="guide-image" description="in_whole_fruit_vegetables" imageUrl="portion/Gapl.jpg" useForRecipes="false">
       <param name="guide-image-id" value="Gapl"/>
     </portion-size>
   </food>
@@ -20436,7 +20436,7 @@
       <param name="serving-image-set" value="apps"/>
       <param name="leftovers-image-set" value="apps_leftovers"/>
     </portion-size>
-    <portion-size method="guide-image" description="in_whole_fruit_/_vegetables" imageUrl="portion/Gapl.jpg" useForRecipes="false">
+    <portion-size method="guide-image" description="in_whole_fruit_vegetables" imageUrl="portion/Gapl.jpg" useForRecipes="false">
       <param name="guide-image-id" value="Gapl"/>
     </portion-size>
   </food>
