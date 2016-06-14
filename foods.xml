@@ -14499,6 +14499,14 @@
       <param name="guide-image-id" value="Gtur"/>
     </portion-size>
   </food>
+  <food code="KIWI" description="Kiwi fruit, gold" groupCode="73">
+    <nutrient-table id="NZ" code="L1036"/>
+    <portion-size 
+    method="as-served" description="use_an_image" imageUrl="Images to add/VITK additional photos Strawberry raspberry kiwi blackberry coleslaw/Kiwi_asserved/Kiwi21.jpg" useForRecipes="true">
+      <param name="serving-image-set" value="Kiwi_asserved"/>
+      <param name="leftovers-image-set" value="Kiwi_left"/>
+</portion-size>
+  </food>
   <food code="KKCH" description="Kit Kat chunky" groupCode="81">
     <nutrient-table id="NDNS" code="2277"/>
     <portion-size method="standard-portion" description="use_a_standard_portion" imageUrl="portion/standard-portion.jpg" useForRecipes="false">
@@ -14708,14 +14716,6 @@
       <param name="serving-image-set" value="ice_cream"/>
       <param name="leftovers-image-set" value="ice_cream_leftovers"/>
     </portion-size>
-  </food>
-  <food code="KWIN" description="Kiwi fruit" groupCode="73">
-    <nutrient-table id="NZ" code="L1026"/>
-    <portion-size
-    method="as-served" description="use_an_image" imageUrl="Images to add/VITK additional photos Strawberry raspberry kiwi blackberry coleslaw/Kiwi_asserved/Kiwi21.jpg" useForRecipes="true">
-      <param name="serving-image-set" value="Kiwi_asserved"/>
-      <param name="leftovers-image-set" value="Kiwi_left"/>
-</portion-size>
   </food>
   <food readyMealOption="true" code="LABA" description="Lamb balti, curry (includes homemade)" groupCode="42">
     <nutrient-table id="NDNS" code="5592"/>
@@ -19412,7 +19412,7 @@
       <param name="unit0-omit-food-description" value="true"/>
     </portion-size>
   </food>
-  <food
+  <food 
   code="NZFW" description="Bread, wheat, white, high fibre, sliced, prepacked, Mighty White, Tip Top &amp; Fibre White, Natures Fresh, Quality Barkers, lower North Island" groupCode="2">
     <nutrient-table id="NZ" code="A168"/>
     <portion-size method="guide-image" description="use_an_image" imageUrl="portion/Gsli.jpg" useForRecipes="true">
@@ -21171,7 +21171,7 @@
       <param name="unit0-omit-food-description" value="true"/>
     </portion-size>
   </food>
-  <food
+  <food 
   code="NZWF" description="Bread, wheat, white, high fibre, sliced, prepacked, Mighty White, Tip Top &amp; Fibre White, Natures Fresh, Quality Barkers, South Island" groupCode="2">
     <nutrient-table id="NZ" code="A169"/>
     <portion-size method="guide-image" description="use_an_image" imageUrl="portion/Gsli.jpg" useForRecipes="true">
@@ -32565,12 +32565,11 @@
       <param name="unit0-omit-food-description" value="false"/>
     </portion-size>
   </food>
-  <food code="ZEKW" description="Kiwifruit, green" groupCode="73">
-    <nutrient-table id="NZ" code="L1036"/>
-    <portion-size
-    method="as-served" description="use_an_image" imageUrl="portion/kiwi.jpg" useForRecipes="true">
+  <food code="ZEKW" description="Kiwi fruit, green" groupCode="73">
+    <nutrient-table id="NZ" code="L1026"/>
+    <portion-size method="as-served" description="use_an_image" imageUrl="portion/kiwi.jpg" useForRecipes="true">
       <param name="serving-image-set" value="Kiwi_asserved"/>
       <param name="leftovers-image-set" value="Kiwi_left"/>
-</portion-size>
+    </portion-size>
   </food>
 </foods>

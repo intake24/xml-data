@@ -1476,7 +1476,6 @@
     <food code="COCN"/>
     <food code="FIGS"/>
     <food code="GPFT"/>
-    <food code="KWIN"/>
     <food code="LEMO"/>
     <food code="LIME"/>
     <food code="LYCE"/>
@@ -1502,6 +1501,7 @@
     <food code="RHUB"/>
     <food code="NZFE"/>
     <food code="QUIC"/>
+    <food code="KIWI"/>
     <food code="ZEKW"/>
     <subcategory code="APLS"/>
     <subcategory code="BERR"/>
