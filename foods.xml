@@ -1011,6 +1011,29 @@
       <param name="unit2-omit-food-description" value="false"/>
     </portion-size>
   </food>
+  <food code="BAVF" description="Potato, fries, crinkle cut, frozen, precooked in beef fat &amp; vegetable oil, baked" groupCode="57">
+    <nutrient-table id="NZ" code="X329"/>
+    <portion-size method="as-served" description="in_straight_cut_chips" imageUrl="portion/chipst2.jpg" useForRecipes="false">
+      <param name="serving-image-set" value="chipst"/>
+      <param name="leftovers-image-set" value="chipst_leftovers"/>
+    </portion-size>
+    <portion-size method="as-served" description="in_crinkle_cut_chips" imageUrl="portion/chipcr2.jpg" useForRecipes="false">
+      <param name="serving-image-set" value="chipcr"/>
+      <param name="leftovers-image-set" value="chipcr_leftovers"/>
+    </portion-size>
+    <portion-size method="as-served" description="in_thick_cut_chips" imageUrl="portion/chipth2.jpg" useForRecipes="false">
+      <param name="serving-image-set" value="chipth"/>
+      <param name="leftovers-image-set" value="chipth_leftovers"/>
+    </portion-size>
+    <portion-size method="as-served" description="in_french_fries" imageUrl="portion/fren2.jpg" useForRecipes="false">
+      <param name="serving-image-set" value="fren"/>
+      <param name="leftovers-image-set" value="fren_leftovers"/>
+    </portion-size>
+    <portion-size method="as-served" description="in_curly_fries" imageUrl="portion/curf2.jpg" useForRecipes="false">
+      <param name="serving-image-set" value="curf"/>
+      <param name="leftovers-image-set" value="curf_leftovers"/>
+    </portion-size>
+  </food>
   <food readyMealOption="false" code="BAVS" description="Bean and vegetable soup (includes homemade)" groupCode="99">
     <nutrient-table id="NZ" code="V1004"/>
     <portion-size method="as-served" description="in_a_bowl" imageUrl="portion/Soup4.jpg" useForRecipes="false">
@@ -1086,6 +1109,18 @@
     <portion-size method="as-served" description="use_an_image" imageUrl="portion/sponge_pudding.jpg" useForRecipes="false">
       <param name="serving-image-set" value="sponge_pudding"/>
       <param name="leftovers-image-set" value="sponge_pudding_leftovers"/>
+    </portion-size>
+  </food>
+  <food readyMealOption="false" code="BBQC" description="Sausage, chicken, barbecued, with no added fat, composite" groupCode="48">
+    <nutrient-table id="NZ" code="N1031"/>
+    <portion-size method="guide-image" description="use_an_image" imageUrl="portion/Gsaus.jpg" useForRecipes="false">
+      <param name="guide-image-id" value="Gsaus"/>
+    </portion-size>
+    <portion-size method="standard-portion" description="use_a_standard_portion" imageUrl="portion/standard-portion.jpg" useForRecipes="true">
+      <param name="units-count" value="1"/>
+      <param name="unit0-name" value="sausages"/>
+      <param name="unit0-weight" value="40.0"/>
+      <param name="unit0-omit-food-description" value="true"/>
     </portion-size>
   </food>
   <food code="BBQS" description="BBQ sauce" groupCode="97">
@@ -1197,6 +1232,29 @@
       <param name="unit0-omit-food-description" value="false"/>
     </portion-size>
   </food>
+  <food code="BCFR" description="Potato, fries, straight cut, frozen, precooked in canola oil, baked" groupCode="57">
+    <nutrient-table id="NZ" code="X326"/>
+    <portion-size method="as-served" description="in_straight_cut_chips" imageUrl="portion/chipst2.jpg" useForRecipes="false">
+      <param name="serving-image-set" value="chipst"/>
+      <param name="leftovers-image-set" value="chipst_leftovers"/>
+    </portion-size>
+    <portion-size method="as-served" description="in_crinkle_cut_chips" imageUrl="portion/chipcr2.jpg" useForRecipes="false">
+      <param name="serving-image-set" value="chipcr"/>
+      <param name="leftovers-image-set" value="chipcr_leftovers"/>
+    </portion-size>
+    <portion-size method="as-served" description="in_thick_cut_chips" imageUrl="portion/chipth2.jpg" useForRecipes="false">
+      <param name="serving-image-set" value="chipth"/>
+      <param name="leftovers-image-set" value="chipth_leftovers"/>
+    </portion-size>
+    <portion-size method="as-served" description="in_french_fries" imageUrl="portion/fren2.jpg" useForRecipes="false">
+      <param name="serving-image-set" value="fren"/>
+      <param name="leftovers-image-set" value="fren_leftovers"/>
+    </portion-size>
+    <portion-size method="as-served" description="in_curly_fries" imageUrl="portion/curf2.jpg" useForRecipes="false">
+      <param name="serving-image-set" value="curf"/>
+      <param name="leftovers-image-set" value="curf_leftovers"/>
+    </portion-size>
+  </food>
   <food readyMealOption="true" code="BCGR" description="Bacon and cheese grills" groupCode="49">
     <nutrient-table id="NDNS" code="10263"/>
     <portion-size method="guide-image" description="use_an_image" imageUrl="portion/Gpiesaus.jpg" useForRecipes="false">
@@ -1264,6 +1322,18 @@
     <nutrient-table id="NZ" code="U36"/>
     <portion-size method="guide-image" description="use_an_image" imageUrl="portion/Gwalk.jpg" useForRecipes="false">
       <param name="guide-image-id" value="Gwalk"/>
+    </portion-size>
+  </food>
+  <food readyMealOption="false" code="BDCS" description="Sausage, chicken, boiled, drained, composite" groupCode="48">
+    <nutrient-table id="NZ" code="N1032"/>
+    <portion-size method="guide-image" description="use_an_image" imageUrl="portion/Gsaus.jpg" useForRecipes="false">
+      <param name="guide-image-id" value="Gsaus"/>
+    </portion-size>
+    <portion-size method="standard-portion" description="use_a_standard_portion" imageUrl="portion/standard-portion.jpg" useForRecipes="true">
+      <param name="units-count" value="1"/>
+      <param name="unit0-name" value="sausages"/>
+      <param name="unit0-weight" value="40.0"/>
+      <param name="unit0-omit-food-description" value="true"/>
     </portion-size>
   </food>
   <food code="BDEG" description="Duck eggs, boiled / poached / scrambled " groupCode="37">
@@ -3974,10 +4044,29 @@
       <param name="serving-image-set" value="fish_batter"/>
     </portion-size>
   </food>
+  <food sameAsBeforeOption="true" code="CBEV" description="Coffee beverage, instant, dry powder with water &amp; milk trim 0.5% fat, prepared" groupCode="92">
+    <nutrient-table id="NZ" code="C1052"/>
+    <portion-size method="drink-scale" description="in_a_mug" imageUrl="portion/mugs.jpg" useForRecipes="false">
+      <param name="drinkware-id" value="mugs"/>
+      <param name="initial-fill-level" value="0.85"/>
+      <param name="skip-fill-level" value="false"/>
+    </portion-size>
+    <portion-size method="drink-scale" description="in_a_takeaway_cup" imageUrl="portion/hotdrinks.jpg" useForRecipes="false">
+      <param name="drinkware-id" value="takeaway_cups_hot"/>
+      <param name="initial-fill-level" value="0.85"/>
+      <param name="skip-fill-level" value="true"/>
+    </portion-size>
+  </food>
   <food readyMealOption="true" code="CBFB" description="Cod in batter, oven baked" groupCode="51">
     <nutrient-table id="NDNS" code="1637"/>
     <portion-size method="as-served" description="use_an_image" imageUrl="portion/fish_batter.jpg" useForRecipes="false">
       <param name="serving-image-set" value="fish_batter"/>
+    </portion-size>
+  </food>
+  <food readyMealOption="false" code="CBFC" description="Fish, fillet, crumbed, frozen, baked, composite" groupCode="52">
+    <nutrient-table id="NZ" code="H194"/>
+    <portion-size method="guide-image" description="use_an_image" imageUrl="portion/Gtur.jpg" useForRecipes="false">
+      <param name="guide-image-id" value="Gtur"/>
     </portion-size>
   </food>
   <food readyMealOption="true" code="CBFO" description="Cod in batter, fried" groupCode="51">
@@ -4079,6 +4168,19 @@
       <param name="unit0-omit-food-description" value="true"/>
     </portion-size>
   </food>
+  <food sameAsBeforeOption="true" code="CBVD" description="Coffee beverage, instant, decaffeinated, dry powder with water &amp; milk trim 0.5% fat, prepared" groupCode="92">
+    <nutrient-table id="NZ" code="C1053"/>
+    <portion-size method="drink-scale" description="in_a_mug" imageUrl="portion/mugs.jpg" useForRecipes="false">
+      <param name="drinkware-id" value="mugs"/>
+      <param name="initial-fill-level" value="0.85"/>
+      <param name="skip-fill-level" value="false"/>
+    </portion-size>
+    <portion-size method="drink-scale" description="in_a_takeaway_cup" imageUrl="portion/hotdrinks.jpg" useForRecipes="false">
+      <param name="drinkware-id" value="takeaway_cups_hot"/>
+      <param name="initial-fill-level" value="0.85"/>
+      <param name="skip-fill-level" value="true"/>
+    </portion-size>
+  </food>
   <food sameAsBeforeOption="true" code="CCAN" description="Continental lager, e.g. Grolsch" groupCode="94">
     <nutrient-table id="NZ" code="B2"/>
     <portion-size method="guide-image" description="in_a_bottle" imageUrl="portion/Gbeerbot.jpg" useForRecipes="false">
@@ -4124,6 +4226,19 @@
     <nutrient-table id="NZ" code="A66"/>
     <portion-size method="guide-image" description="use_an_image" imageUrl="portion/Gbisc.jpg" useForRecipes="true">
       <param name="guide-image-id" value="Gbisc"/>
+    </portion-size>
+  </food>
+  <food sameAsBeforeOption="true" code="CCBV" description="Coffee beverage, instant, dry powder with water &amp; milk standard 3.3% fat, prepared" groupCode="92">
+    <nutrient-table id="NZ" code="C1049"/>
+    <portion-size method="drink-scale" description="in_a_mug" imageUrl="portion/mugs.jpg" useForRecipes="false">
+      <param name="drinkware-id" value="mugs"/>
+      <param name="initial-fill-level" value="0.85"/>
+      <param name="skip-fill-level" value="false"/>
+    </portion-size>
+    <portion-size method="drink-scale" description="in_a_takeaway_cup" imageUrl="portion/hotdrinks.jpg" useForRecipes="false">
+      <param name="drinkware-id" value="takeaway_cups_hot"/>
+      <param name="initial-fill-level" value="0.85"/>
+      <param name="skip-fill-level" value="true"/>
     </portion-size>
   </food>
   <food code="CCCA" description="Cracker, corn, ready to eat, Cruskits, Corn, Arnott's" groupCode="15">
@@ -4175,6 +4290,29 @@
     <portion-size method="as-served" description="use_an_image" imageUrl="portion/chicken_sauce.jpg" useForRecipes="false">
       <param name="serving-image-set" value="chicken_sauce"/>
       <param name="leftovers-image-set" value="chicken_sauce_leftovers"/>
+    </portion-size>
+  </food>
+  <food code="CCFF" description="Potato, wedges, frozen, precooked in polyunsaturated oil, baked" groupCode="57">
+    <nutrient-table id="NZ" code="X314"/>
+    <portion-size method="as-served" description="in_straight_cut_chips" imageUrl="portion/chipst2.jpg" useForRecipes="false">
+      <param name="serving-image-set" value="chipst"/>
+      <param name="leftovers-image-set" value="chipst_leftovers"/>
+    </portion-size>
+    <portion-size method="as-served" description="in_crinkle_cut_chips" imageUrl="portion/chipcr2.jpg" useForRecipes="false">
+      <param name="serving-image-set" value="chipcr"/>
+      <param name="leftovers-image-set" value="chipcr_leftovers"/>
+    </portion-size>
+    <portion-size method="as-served" description="in_thick_cut_chips" imageUrl="portion/chipth2.jpg" useForRecipes="false">
+      <param name="serving-image-set" value="chipth"/>
+      <param name="leftovers-image-set" value="chipth_leftovers"/>
+    </portion-size>
+    <portion-size method="as-served" description="in_french_fries" imageUrl="portion/fren2.jpg" useForRecipes="false">
+      <param name="serving-image-set" value="fren"/>
+      <param name="leftovers-image-set" value="fren_leftovers"/>
+    </portion-size>
+    <portion-size method="as-served" description="in_curly_fries" imageUrl="portion/curf2.jpg" useForRecipes="false">
+      <param name="serving-image-set" value="curf"/>
+      <param name="leftovers-image-set" value="curf_leftovers"/>
     </portion-size>
   </food>
   <food code="CCFJ" description="Chocolate coated flapjack" groupCode="16">
@@ -4404,6 +4542,52 @@
     <portion-size method="as-served" description="use_an_image" imageUrl="portion/chicken_sauce.jpg" useForRecipes="false">
       <param name="serving-image-set" value="chicken_sauce"/>
       <param name="leftovers-image-set" value="chicken_sauce_leftovers"/>
+    </portion-size>
+  </food>
+  <food code="CCPC" description="Potato, fries, crinkle cut, frozen, precooked in beef fat, baked" groupCode="57">
+    <nutrient-table id="NZ" code="X320"/>
+    <portion-size method="as-served" description="in_straight_cut_chips" imageUrl="portion/chipst2.jpg" useForRecipes="false">
+      <param name="serving-image-set" value="chipst"/>
+      <param name="leftovers-image-set" value="chipst_leftovers"/>
+    </portion-size>
+    <portion-size method="as-served" description="in_crinkle_cut_chips" imageUrl="portion/chipcr2.jpg" useForRecipes="false">
+      <param name="serving-image-set" value="chipcr"/>
+      <param name="leftovers-image-set" value="chipcr_leftovers"/>
+    </portion-size>
+    <portion-size method="as-served" description="in_thick_cut_chips" imageUrl="portion/chipth2.jpg" useForRecipes="false">
+      <param name="serving-image-set" value="chipth"/>
+      <param name="leftovers-image-set" value="chipth_leftovers"/>
+    </portion-size>
+    <portion-size method="as-served" description="in_french_fries" imageUrl="portion/fren2.jpg" useForRecipes="false">
+      <param name="serving-image-set" value="fren"/>
+      <param name="leftovers-image-set" value="fren_leftovers"/>
+    </portion-size>
+    <portion-size method="as-served" description="in_curly_fries" imageUrl="portion/curf2.jpg" useForRecipes="false">
+      <param name="serving-image-set" value="curf"/>
+      <param name="leftovers-image-set" value="curf_leftovers"/>
+    </portion-size>
+  </food>
+  <food code="CCPF" description="Potato, fries, crinkle cut, crunch, frozen, precooked in polyunsaturated oil, baked" groupCode="57">
+    <nutrient-table id="NZ" code="X313"/>
+    <portion-size method="as-served" description="in_straight_cut_chips" imageUrl="portion/chipst2.jpg" useForRecipes="false">
+      <param name="serving-image-set" value="chipst"/>
+      <param name="leftovers-image-set" value="chipst_leftovers"/>
+    </portion-size>
+    <portion-size method="as-served" description="in_crinkle_cut_chips" imageUrl="portion/chipcr2.jpg" useForRecipes="false">
+      <param name="serving-image-set" value="chipcr"/>
+      <param name="leftovers-image-set" value="chipcr_leftovers"/>
+    </portion-size>
+    <portion-size method="as-served" description="in_thick_cut_chips" imageUrl="portion/chipth2.jpg" useForRecipes="false">
+      <param name="serving-image-set" value="chipth"/>
+      <param name="leftovers-image-set" value="chipth_leftovers"/>
+    </portion-size>
+    <portion-size method="as-served" description="in_french_fries" imageUrl="portion/fren2.jpg" useForRecipes="false">
+      <param name="serving-image-set" value="fren"/>
+      <param name="leftovers-image-set" value="fren_leftovers"/>
+    </portion-size>
+    <portion-size method="as-served" description="in_curly_fries" imageUrl="portion/curf2.jpg" useForRecipes="false">
+      <param name="serving-image-set" value="curf"/>
+      <param name="leftovers-image-set" value="curf_leftovers"/>
     </portion-size>
   </food>
   <food code="CCPR" description="Chocolate covered praline e.g. praline covered fingers " groupCode="81">
@@ -4944,6 +5128,29 @@
       <param name="leftovers-image-set" value="chicken_sauce_leftovers"/>
     </portion-size>
   </food>
+  <food code="CHCV" description="Potato, fries, chunky cut, frozen, precooked in canola oil, baked" groupCode="57">
+    <nutrient-table id="NZ" code="X327"/>
+    <portion-size method="as-served" description="in_straight_cut_chips" imageUrl="portion/chipst2.jpg" useForRecipes="false">
+      <param name="serving-image-set" value="chipst"/>
+      <param name="leftovers-image-set" value="chipst_leftovers"/>
+    </portion-size>
+    <portion-size method="as-served" description="in_crinkle_cut_chips" imageUrl="portion/chipcr2.jpg" useForRecipes="false">
+      <param name="serving-image-set" value="chipcr"/>
+      <param name="leftovers-image-set" value="chipcr_leftovers"/>
+    </portion-size>
+    <portion-size method="as-served" description="in_thick_cut_chips" imageUrl="portion/chipth2.jpg" useForRecipes="false">
+      <param name="serving-image-set" value="chipth"/>
+      <param name="leftovers-image-set" value="chipth_leftovers"/>
+    </portion-size>
+    <portion-size method="as-served" description="in_french_fries" imageUrl="portion/fren2.jpg" useForRecipes="false">
+      <param name="serving-image-set" value="fren"/>
+      <param name="leftovers-image-set" value="fren_leftovers"/>
+    </portion-size>
+    <portion-size method="as-served" description="in_curly_fries" imageUrl="portion/curf2.jpg" useForRecipes="false">
+      <param name="serving-image-set" value="curf"/>
+      <param name="leftovers-image-set" value="curf_leftovers"/>
+    </portion-size>
+  </food>
   <food code="CHDI" description="Cheeze dippers" groupCode="100">
     <nutrient-table id="NZ" code="F19"/>
     <portion-size method="standard-portion" description="use_a_standard_portion" imageUrl="portion/standard-portion.jpg" useForRecipes="false">
@@ -5052,6 +5259,18 @@
     <nutrient-table id="NZ" code="N58"/>
     <portion-size method="guide-image" description="use_an_image" imageUrl="portion/Gtur.jpg" useForRecipes="false">
       <param name="guide-image-id" value="Gtur"/>
+    </portion-size>
+  </food>
+  <food readyMealOption="false" code="CHFP" description="Sausage, chicken, grilled, with no added fat, composite" groupCode="48">
+    <nutrient-table id="NZ" code="N1030"/>
+    <portion-size method="guide-image" description="use_an_image" imageUrl="portion/Gsaus.jpg" useForRecipes="false">
+      <param name="guide-image-id" value="Gsaus"/>
+    </portion-size>
+    <portion-size method="standard-portion" description="use_a_standard_portion" imageUrl="portion/standard-portion.jpg" useForRecipes="true">
+      <param name="units-count" value="1"/>
+      <param name="unit0-name" value="sausages"/>
+      <param name="unit0-weight" value="40.0"/>
+      <param name="unit0-omit-food-description" value="true"/>
     </portion-size>
   </food>
   <food code="CHFS" description="Chinese five spice" groupCode="117">
@@ -6096,6 +6315,17 @@
       <param name="guide-image-id" value="Gmuffscone"/>
     </portion-size>
   </food>
+  <food sameAsBeforeOption="true" code="CMWW" description="Wine, white, medium, composite" groupCode="94">
+    <nutrient-table id="NZ" code="B27"/>
+    <portion-size method="guide-image" description="in_a_bottle" imageUrl="portion/Gwinebottle.jpg" useForRecipes="false">
+      <param name="guide-image-id" value="Gwinebottle"/>
+    </portion-size>
+    <portion-size method="drink-scale" description="in_a_glass" imageUrl="portion/gwine.jpg" useForRecipes="false">
+      <param name="drinkware-id" value="glasses_wine"/>
+      <param name="initial-fill-level" value="0.9"/>
+      <param name="skip-fill-level" value="false"/>
+    </portion-size>
+  </food>
   <food code="CNAS" description="Custard, no added sugar" groupCode="17">
     <nutrient-table id="NDNS" code="8649"/>
     <portion-size method="as-served" description="use_an_image" imageUrl="portion/white_sauce.jpg" useForRecipes="false">
@@ -6849,6 +7079,29 @@
       <param name="guide-image-id" value="Gcra"/>
     </portion-size>
   </food>
+  <food code="CRCU" description="Potato, fries, crinkle cut, crunch, frozen, precooked in beef fat, baked" groupCode="57">
+    <nutrient-table id="NZ" code="X317"/>
+    <portion-size method="as-served" description="in_straight_cut_chips" imageUrl="portion/chipst2.jpg" useForRecipes="false">
+      <param name="serving-image-set" value="chipst"/>
+      <param name="leftovers-image-set" value="chipst_leftovers"/>
+    </portion-size>
+    <portion-size method="as-served" description="in_crinkle_cut_chips" imageUrl="portion/chipcr2.jpg" useForRecipes="false">
+      <param name="serving-image-set" value="chipcr"/>
+      <param name="leftovers-image-set" value="chipcr_leftovers"/>
+    </portion-size>
+    <portion-size method="as-served" description="in_thick_cut_chips" imageUrl="portion/chipth2.jpg" useForRecipes="false">
+      <param name="serving-image-set" value="chipth"/>
+      <param name="leftovers-image-set" value="chipth_leftovers"/>
+    </portion-size>
+    <portion-size method="as-served" description="in_french_fries" imageUrl="portion/fren2.jpg" useForRecipes="false">
+      <param name="serving-image-set" value="fren"/>
+      <param name="leftovers-image-set" value="fren_leftovers"/>
+    </portion-size>
+    <portion-size method="as-served" description="in_curly_fries" imageUrl="portion/curf2.jpg" useForRecipes="false">
+      <param name="serving-image-set" value="curf"/>
+      <param name="leftovers-image-set" value="curf_leftovers"/>
+    </portion-size>
+  </food>
   <food code="CRDS" description="Cream desserts choc / caramel / fruit flavoured e.g creme caramel" groupCode="111">
     <nutrient-table id="NZ" code="F115"/>
     <portion-size method="guide-image" description="use_an_image" imageUrl="portion/Gdes.jpg" useForRecipes="false">
@@ -7184,6 +7437,18 @@
       <param name="unit1-name" value="jars"/>
       <param name="unit1-weight" value="300.0"/>
       <param name="unit1-omit-food-description" value="false"/>
+    </portion-size>
+  </food>
+  <food readyMealOption="false" code="CSAF" description="Sausage, chicken, fresh, raw, composite" groupCode="48">
+    <nutrient-table id="NZ" code="N1017"/>
+    <portion-size method="guide-image" description="use_an_image" imageUrl="portion/Gsaus.jpg" useForRecipes="false">
+      <param name="guide-image-id" value="Gsaus"/>
+    </portion-size>
+    <portion-size method="standard-portion" description="use_a_standard_portion" imageUrl="portion/standard-portion.jpg" useForRecipes="true">
+      <param name="units-count" value="1"/>
+      <param name="unit0-name" value="sausages"/>
+      <param name="unit0-weight" value="40.0"/>
+      <param name="unit0-omit-food-description" value="true"/>
     </portion-size>
   </food>
   <food code="CSBC" description="Chocolate coated biscuit with cream filling e.g. Penguin" groupCode="81">
@@ -8018,6 +8283,19 @@
       <param name="skip-fill-level" value="true"/>
     </portion-size>
   </food>
+  <food sameAsBeforeOption="true" code="DCIP" description="Coffee beverage, instant, decaffeinated, dry  powder with water, prepared" groupCode="92">
+    <nutrient-table id="NZ" code="C1051"/>
+    <portion-size method="drink-scale" description="in_a_mug" imageUrl="portion/mugs.jpg" useForRecipes="false">
+      <param name="drinkware-id" value="mugs"/>
+      <param name="initial-fill-level" value="0.85"/>
+      <param name="skip-fill-level" value="false"/>
+    </portion-size>
+    <portion-size method="drink-scale" description="in_a_takeaway_cup" imageUrl="portion/hotdrinks.jpg" useForRecipes="false">
+      <param name="drinkware-id" value="takeaway_cups_hot"/>
+      <param name="initial-fill-level" value="0.85"/>
+      <param name="skip-fill-level" value="true"/>
+    </portion-size>
+  </food>
   <food readyMealOption="true" code="DCKC" description="Duck confit" groupCode="50">
     <nutrient-table id="NZ" code="M74"/>
     <portion-size method="as-served" description="use_an_image" imageUrl="portion/meat_roast.jpg" useForRecipes="false">
@@ -8720,6 +8998,19 @@
       <param name="unit1-omit-food-description" value="false"/>
     </portion-size>
   </food>
+  <food sameAsBeforeOption="true" code="DRIP" description="Coffee beverage, instant, dry powder with water, prepared" groupCode="92">
+    <nutrient-table id="NZ" code="C1048"/>
+    <portion-size method="drink-scale" description="in_a_mug" imageUrl="portion/mugs.jpg" useForRecipes="false">
+      <param name="drinkware-id" value="mugs"/>
+      <param name="initial-fill-level" value="0.85"/>
+      <param name="skip-fill-level" value="false"/>
+    </portion-size>
+    <portion-size method="drink-scale" description="in_a_takeaway_cup" imageUrl="portion/hotdrinks.jpg" useForRecipes="false">
+      <param name="drinkware-id" value="takeaway_cups_hot"/>
+      <param name="initial-fill-level" value="0.85"/>
+      <param name="skip-fill-level" value="true"/>
+    </portion-size>
+  </food>
   <food code="DRMA" description="Dried mango" groupCode="74">
     <nutrient-table id="NDNS" code="8158"/>
     <portion-size method="standard-portion" description="use_a_standard_portion" imageUrl="portion/standard-portion.jpg" useForRecipes="true">
@@ -8802,6 +9093,17 @@
     </portion-size>
     <portion-size method="guide-image" description="in_a_bottle" imageUrl="portion/Gpopbottle.jpg" useForRecipes="false">
       <param name="guide-image-id" value="Gpopbottle"/>
+    </portion-size>
+  </food>
+  <food sameAsBeforeOption="true" code="DRRW" description="Red wine, dry" groupCode="94">
+    <nutrient-table id="NZ" code="B24"/>
+    <portion-size method="guide-image" description="in_a_bottle" imageUrl="portion/Gwinebottle.jpg" useForRecipes="false">
+      <param name="guide-image-id" value="Gwinebottle"/>
+    </portion-size>
+    <portion-size method="drink-scale" description="in_a_glass" imageUrl="portion/gwine.jpg" useForRecipes="false">
+      <param name="drinkware-id" value="glasses_wine"/>
+      <param name="initial-fill-level" value="0.9"/>
+      <param name="skip-fill-level" value="false"/>
     </portion-size>
   </food>
   <food code="DRSS" description="Salad dressing" groupCode="97">
@@ -9815,6 +10117,12 @@
       <param name="unit4-name" value="large tubs"/>
       <param name="unit4-weight" value="300.0"/>
       <param name="unit4-omit-food-description" value="false"/>
+    </portion-size>
+  </food>
+  <food readyMealOption="false" code="FFCF" description="Fish, fillet, crumbed, frozen, fried, composite" groupCode="52">
+    <nutrient-table id="NZ" code="H195"/>
+    <portion-size method="guide-image" description="use_an_image" imageUrl="portion/Gtur.jpg" useForRecipes="false">
+      <param name="guide-image-id" value="Gtur"/>
     </portion-size>
   </food>
   <food readyMealOption="true" code="FFCS" description="Farfalle pasta (bows) in a cheese-based sauce" groupCode="106">
@@ -10920,6 +11228,29 @@
       <param name="unit0-omit-food-description" value="true"/>
     </portion-size>
   </food>
+  <food code="FRXN" description="Potato, fries, chunky cut, frozen, precooked in polyunsaturated oil, baked" groupCode="57">
+    <nutrient-table id="NZ" code="X324"/>
+    <portion-size method="as-served" description="in_straight_cut_chips" imageUrl="portion/chipst2.jpg" useForRecipes="false">
+      <param name="serving-image-set" value="chipst"/>
+      <param name="leftovers-image-set" value="chipst_leftovers"/>
+    </portion-size>
+    <portion-size method="as-served" description="in_crinkle_cut_chips" imageUrl="portion/chipcr2.jpg" useForRecipes="false">
+      <param name="serving-image-set" value="chipcr"/>
+      <param name="leftovers-image-set" value="chipcr_leftovers"/>
+    </portion-size>
+    <portion-size method="as-served" description="in_thick_cut_chips" imageUrl="portion/chipth2.jpg" useForRecipes="false">
+      <param name="serving-image-set" value="chipth"/>
+      <param name="leftovers-image-set" value="chipth_leftovers"/>
+    </portion-size>
+    <portion-size method="as-served" description="in_french_fries" imageUrl="portion/fren2.jpg" useForRecipes="false">
+      <param name="serving-image-set" value="fren"/>
+      <param name="leftovers-image-set" value="fren_leftovers"/>
+    </portion-size>
+    <portion-size method="as-served" description="in_curly_fries" imageUrl="portion/curf2.jpg" useForRecipes="false">
+      <param name="serving-image-set" value="curf"/>
+      <param name="leftovers-image-set" value="curf_leftovers"/>
+    </portion-size>
+  </food>
   <food readyMealOption="true" code="FSBD" description="Fish shapes, white fish in breadcrumbs fried" groupCode="52">
     <nutrient-table id="NZ" code="K5"/>
     <portion-size method="guide-image" description="use_an_image" imageUrl="portion/Gtur.jpg" useForRecipes="false">
@@ -10997,6 +11328,12 @@
       <param name="unit0-omit-food-description" value="false"/>
     </portion-size>
   </food>
+  <food readyMealOption="false" code="FSPI" description="Pie, mince, family size, composite" groupCode="49">
+    <nutrient-table id="NZ" code="H29"/>
+    <portion-size method="guide-image" description="use_an_image" imageUrl="portion/gpie.jpg" useForRecipes="false">
+      <param name="guide-image-id" value="gpie"/>
+    </portion-size>
+  </food>
   <food readyMealOption="true" code="FSPM" description="Pea and mint soup (includes homemade)" groupCode="99">
     <nutrient-table id="NDNS" code="2476"/>
     <portion-size method="as-served" description="in_a_bowl" imageUrl="portion/Soup4.jpg" useForRecipes="false">
@@ -11011,6 +11348,29 @@
     <nutrient-table id="NDNS" code="3780"/>
     <portion-size method="guide-image" description="use_an_image" imageUrl="newzealand/Muffins and scones.JPG" useForRecipes="false">
       <param name="guide-image-id" value="Gmuffscone"/>
+    </portion-size>
+  </food>
+  <food code="FSSB" description="Potato, fries, straight cut, crunch, frozen, precooked in beef fat, baked" groupCode="57">
+    <nutrient-table id="NZ" code="X316"/>
+    <portion-size method="as-served" description="in_straight_cut_chips" imageUrl="portion/chipst2.jpg" useForRecipes="false">
+      <param name="serving-image-set" value="chipst"/>
+      <param name="leftovers-image-set" value="chipst_leftovers"/>
+    </portion-size>
+    <portion-size method="as-served" description="in_crinkle_cut_chips" imageUrl="portion/chipcr2.jpg" useForRecipes="false">
+      <param name="serving-image-set" value="chipcr"/>
+      <param name="leftovers-image-set" value="chipcr_leftovers"/>
+    </portion-size>
+    <portion-size method="as-served" description="in_thick_cut_chips" imageUrl="portion/chipth2.jpg" useForRecipes="false">
+      <param name="serving-image-set" value="chipth"/>
+      <param name="leftovers-image-set" value="chipth_leftovers"/>
+    </portion-size>
+    <portion-size method="as-served" description="in_french_fries" imageUrl="portion/fren2.jpg" useForRecipes="false">
+      <param name="serving-image-set" value="fren"/>
+      <param name="leftovers-image-set" value="fren_leftovers"/>
+    </portion-size>
+    <portion-size method="as-served" description="in_curly_fries" imageUrl="portion/curf2.jpg" useForRecipes="false">
+      <param name="serving-image-set" value="curf"/>
+      <param name="leftovers-image-set" value="curf_leftovers"/>
     </portion-size>
   </food>
   <food code="FSSF" description="Fruit cocktail, tinned in juice" groupCode="20">
@@ -13958,6 +14318,13 @@
       <param name="unit3-omit-food-description" value="false"/>
     </portion-size>
   </food>
+  <food code="IBNO" description="Noodles , instant, boiled, drained" groupCode="105">
+    <nutrient-table id="NZ" code="E81"/>
+    <portion-size method="as-served" description="use_an_image" imageUrl="portion/noodles.jpg" useForRecipes="true">
+      <param name="serving-image-set" value="noodles"/>
+      <param name="leftovers-image-set" value="noodles_leftovers"/>
+    </portion-size>
+  </food>
   <food code="IBUN" description="Iced buns" groupCode="16">
     <nutrient-table id="NZ" code="A130"/>
     <portion-size method="guide-image" description="use_an_image" imageUrl="portion/Groll.jpg" useForRecipes="false">
@@ -13998,6 +14365,13 @@
       <param name="drinkware-id" value="glasses_soft"/>
       <param name="initial-fill-level" value="0.9"/>
       <param name="skip-fill-level" value="false"/>
+    </portion-size>
+  </food>
+  <food code="ICFN" description="Noodle, wheat, instant chicken flavour, prepared with water" groupCode="105">
+    <nutrient-table id="NZ" code="E50"/>
+    <portion-size method="as-served" description="use_an_image" imageUrl="portion/noodles.jpg" useForRecipes="true">
+      <param name="serving-image-set" value="noodles"/>
+      <param name="leftovers-image-set" value="noodles_leftovers"/>
     </portion-size>
   </food>
   <food code="ICRM" description="Ice cream topping sauce" groupCode="82">
@@ -14078,6 +14452,17 @@
       <param name="unit0-name" value="tablespoons"/>
       <param name="unit0-weight" value="45.0"/>
       <param name="unit0-omit-food-description" value="false"/>
+    </portion-size>
+  </food>
+  <food code="IMWT" description="Water, bottled, imported" groupCode="90">
+    <nutrient-table id="NZ" code="C42"/>
+    <portion-size method="drink-scale" description="in_a_glass" imageUrl="portion/gsoftdrnk.jpg" useForRecipes="false">
+      <param name="drinkware-id" value="glasses_soft"/>
+      <param name="initial-fill-level" value="0.9"/>
+      <param name="skip-fill-level" value="false"/>
+    </portion-size>
+    <portion-size method="guide-image" description="in_a_bottle" imageUrl="portion/Gwatbottle.jpg" useForRecipes="false">
+      <param name="guide-image-id" value="Gwatbottle"/>
     </portion-size>
   </food>
   <food code="INCP" description="Coffee, instant, dry powder, composite" groupCode="100">
@@ -14176,6 +14561,19 @@
     <nutrient-table id="NZ" code="H182"/>
     <portion-size method="guide-image" description="use_an_image" imageUrl="portion/gpie.jpg" useForRecipes="false">
       <param name="guide-image-id" value="gpie"/>
+    </portion-size>
+  </food>
+  <food readyMealOption="false" code="ISZP" description="Pie, mince, individual size, ready to eat, commercial" groupCode="49">
+    <nutrient-table id="NZ" code="H31"/>
+    <portion-size method="guide-image" description="use_an_image" imageUrl="portion/gpie.jpg" useForRecipes="false">
+      <param name="guide-image-id" value="gpie"/>
+    </portion-size>
+  </food>
+  <food code="IWBN" description="Noodles , wheat, instant, beef flavour, prepared with water" groupCode="105">
+    <nutrient-table id="NZ" code="E48"/>
+    <portion-size method="as-served" description="use_an_image" imageUrl="portion/noodles.jpg" useForRecipes="true">
+      <param name="serving-image-set" value="noodles"/>
+      <param name="leftovers-image-set" value="noodles_leftovers"/>
     </portion-size>
   </food>
   <food code="JACB" description="Jacobs crackers" groupCode="15">
@@ -15367,6 +15765,15 @@
   <food readyMealOption="true" code="LFPI" description="Lower fat pizza, with vegetables" groupCode="112">
     <nutrient-table id="NDNS" code="2743"/>
     <portion-size method="pizza" description="use_an_image" imageUrl="portion/pizza.jpg" useForRecipes="false"> </portion-size>
+  </food>
+  <food code="LFPY" description="Yoghurt, plain, low fat, unsweetened, composite" groupCode="19">
+    <nutrient-table id="NZ" code="F84"/>
+    <portion-size method="guide-image" description="in_a_pot" imageUrl="portion/Gyog.jpg" useForRecipes="true">
+      <param name="guide-image-id" value="Gyog"/>
+    </portion-size>
+    <portion-size method="guide-image" description="use_a_standard_portion" imageUrl="portion/Gspn.jpg" useForRecipes="true">
+      <param name="guide-image-id" value="Gspn"/>
+    </portion-size>
   </food>
   <food readyMealOption="true" code="LFRC" description="French dressing, fat free" groupCode="118">
     <nutrient-table id="NDNS" code="2704"/>
@@ -16650,6 +17057,17 @@
       <param name="leftovers-image-set" value="rice_leftovers"/>
     </portion-size>
   </food>
+  <food sameAsBeforeOption="true" code="MEDR" description="Rose wine, medium" groupCode="94">
+    <nutrient-table id="NZ" code="B25"/>
+    <portion-size method="guide-image" description="in_a_bottle" imageUrl="portion/Gwinebottle.jpg" useForRecipes="false">
+      <param name="guide-image-id" value="Gwinebottle"/>
+    </portion-size>
+    <portion-size method="drink-scale" description="in_a_glass" imageUrl="portion/gwine.jpg" useForRecipes="false">
+      <param name="drinkware-id" value="glasses_wine"/>
+      <param name="initial-fill-level" value="0.9"/>
+      <param name="skip-fill-level" value="false"/>
+    </portion-size>
+  </food>
   <food readyMealOption="true" code="MEDS" description="Meat Dim Sum (Chinese dumplings)" groupCode="41">
     <nutrient-table id="NDNS" code="6156"/>
     <portion-size method="standard-portion" description="use_a_standard_portion" imageUrl="portion/standard-portion.jpg" useForRecipes="false">
@@ -17792,6 +18210,12 @@
       <param name="unit0-name" value="crispbreads"/>
       <param name="unit0-weight" value="10.0"/>
       <param name="unit0-omit-food-description" value="true"/>
+    </portion-size>
+  </food>
+  <food code="MUFC" description="Muffin, chocolate" groupCode="16">
+    <nutrient-table id="NZ" code="A128"/>
+    <portion-size method="guide-image" description="use_an_image" imageUrl="newzealand/Muffins and scones.JPG" useForRecipes="false">
+      <param name="guide-image-id" value="Gmuffscone"/>
     </portion-size>
   </food>
   <food code="MUFN" description="English style bread muffins, white, toasted" groupCode="1">
@@ -21171,6 +21595,17 @@
       <param name="unit0-omit-food-description" value="true"/>
     </portion-size>
   </food>
+  <food code="NZWE" description="Water, bottled, New Zealand" groupCode="90">
+    <nutrient-table id="NZ" code="C41"/>
+    <portion-size method="drink-scale" description="in_a_glass" imageUrl="portion/gsoftdrnk.jpg" useForRecipes="false">
+      <param name="drinkware-id" value="glasses_soft"/>
+      <param name="initial-fill-level" value="0.9"/>
+      <param name="skip-fill-level" value="false"/>
+    </portion-size>
+    <portion-size method="guide-image" description="in_a_bottle" imageUrl="portion/Gwatbottle.jpg" useForRecipes="false">
+      <param name="guide-image-id" value="Gwatbottle"/>
+    </portion-size>
+  </food>
   <food 
   code="NZWF" description="Bread, wheat, white, high fibre, sliced, prepacked, Mighty White, Tip Top &amp; Fibre White, Natures Fresh, Quality Barkers, South Island" groupCode="2">
     <nutrient-table id="NZ" code="A169"/>
@@ -21600,6 +22035,13 @@
     </portion-size>
     <portion-size method="guide-image" description="in_a_bottle" imageUrl="portion/Gpopbottle.jpg" useForRecipes="false">
       <param name="guide-image-id" value="Gpopbottle"/>
+    </portion-size>
+  </food>
+  <food code="OFNO" description="Noodles , wheat, instant, oriental flavour, prepared with water" groupCode="105">
+    <nutrient-table id="NZ" code="E49"/>
+    <portion-size method="as-served" description="use_an_image" imageUrl="portion/noodles.jpg" useForRecipes="true">
+      <param name="serving-image-set" value="noodles"/>
+      <param name="leftovers-image-set" value="noodles_leftovers"/>
     </portion-size>
   </food>
   <food code="OJCB" description="Fresh orange juice, not freshly squeezed " groupCode="86">
@@ -22692,6 +23134,29 @@
       <param name="guide-image-id" value="Gshk2"/>
     </portion-size>
   </food>
+  <food code="PCBF" description="Potato, fries, straight cut, frozen, precooked in beef fat, baked" groupCode="57">
+    <nutrient-table id="NZ" code="X319"/>
+    <portion-size method="as-served" description="in_straight_cut_chips" imageUrl="portion/chipst2.jpg" useForRecipes="false">
+      <param name="serving-image-set" value="chipst"/>
+      <param name="leftovers-image-set" value="chipst_leftovers"/>
+    </portion-size>
+    <portion-size method="as-served" description="in_crinkle_cut_chips" imageUrl="portion/chipcr2.jpg" useForRecipes="false">
+      <param name="serving-image-set" value="chipcr"/>
+      <param name="leftovers-image-set" value="chipcr_leftovers"/>
+    </portion-size>
+    <portion-size method="as-served" description="in_thick_cut_chips" imageUrl="portion/chipth2.jpg" useForRecipes="false">
+      <param name="serving-image-set" value="chipth"/>
+      <param name="leftovers-image-set" value="chipth_leftovers"/>
+    </portion-size>
+    <portion-size method="as-served" description="in_french_fries" imageUrl="portion/fren2.jpg" useForRecipes="false">
+      <param name="serving-image-set" value="fren"/>
+      <param name="leftovers-image-set" value="fren_leftovers"/>
+    </portion-size>
+    <portion-size method="as-served" description="in_curly_fries" imageUrl="portion/curf2.jpg" useForRecipes="false">
+      <param name="serving-image-set" value="curf"/>
+      <param name="leftovers-image-set" value="curf_leftovers"/>
+    </portion-size>
+  </food>
   <food readyMealOption="true" code="PCCC" description="Prawn curry, cream / coconut based (includes homemade)" groupCode="56">
     <nutrient-table id="NDNS" code="1646"/>
     <portion-size method="as-served" description="use_an_image" imageUrl="portion/chicken_sauce.jpg" useForRecipes="false">
@@ -22995,6 +23460,52 @@
       <param name="guide-image-id" value="Gyog"/>
     </portion-size>
   </food>
+  <food code="PFFB" description="Potato, fries, fried in butter, salt added" groupCode="59">
+    <nutrient-table id="NZ" code="X155"/>
+    <portion-size method="as-served" description="in_straight_cut_chips" imageUrl="portion/chipst2.jpg" useForRecipes="false">
+      <param name="serving-image-set" value="chipst"/>
+      <param name="leftovers-image-set" value="chipst_leftovers"/>
+    </portion-size>
+    <portion-size method="as-served" description="in_crinkle_cut_chips" imageUrl="portion/chipcr2.jpg" useForRecipes="false">
+      <param name="serving-image-set" value="chipcr"/>
+      <param name="leftovers-image-set" value="chipcr_leftovers"/>
+    </portion-size>
+    <portion-size method="as-served" description="in_thick_cut_chips" imageUrl="portion/chipth2.jpg" useForRecipes="false">
+      <param name="serving-image-set" value="chipth"/>
+      <param name="leftovers-image-set" value="chipth_leftovers"/>
+    </portion-size>
+    <portion-size method="as-served" description="in_french_fries" imageUrl="portion/fren2.jpg" useForRecipes="false">
+      <param name="serving-image-set" value="fren"/>
+      <param name="leftovers-image-set" value="fren_leftovers"/>
+    </portion-size>
+    <portion-size method="as-served" description="in_curly_fries" imageUrl="portion/curf2.jpg" useForRecipes="false">
+      <param name="serving-image-set" value="curf"/>
+      <param name="leftovers-image-set" value="curf_leftovers"/>
+    </portion-size>
+  </food>
+  <food code="PFFR" description="Potato, fries, frozen, raw" groupCode="59">
+    <nutrient-table id="NZ" code="X95"/>
+    <portion-size method="as-served" description="in_straight_cut_chips" imageUrl="portion/chipst2.jpg" useForRecipes="false">
+      <param name="serving-image-set" value="chipst"/>
+      <param name="leftovers-image-set" value="chipst_leftovers"/>
+    </portion-size>
+    <portion-size method="as-served" description="in_crinkle_cut_chips" imageUrl="portion/chipcr2.jpg" useForRecipes="false">
+      <param name="serving-image-set" value="chipcr"/>
+      <param name="leftovers-image-set" value="chipcr_leftovers"/>
+    </portion-size>
+    <portion-size method="as-served" description="in_thick_cut_chips" imageUrl="portion/chipth2.jpg" useForRecipes="false">
+      <param name="serving-image-set" value="chipth"/>
+      <param name="leftovers-image-set" value="chipth_leftovers"/>
+    </portion-size>
+    <portion-size method="as-served" description="in_french_fries" imageUrl="portion/fren2.jpg" useForRecipes="false">
+      <param name="serving-image-set" value="fren"/>
+      <param name="leftovers-image-set" value="fren_leftovers"/>
+    </portion-size>
+    <portion-size method="as-served" description="in_curly_fries" imageUrl="portion/curf2.jpg" useForRecipes="false">
+      <param name="serving-image-set" value="curf"/>
+      <param name="leftovers-image-set" value="curf_leftovers"/>
+    </portion-size>
+  </food>
   <food code="PFIL" description="Prawns in filo pastry" groupCode="53">
     <nutrient-table id="NDNS" code="8072"/>
     <portion-size method="standard-portion" description="use_a_standard_portion" imageUrl="portion/standard-portion.jpg" useForRecipes="true">
@@ -23002,6 +23513,29 @@
       <param name="unit0-name" value="prawns"/>
       <param name="unit0-weight" value="11.0"/>
       <param name="unit0-omit-food-description" value="true"/>
+    </portion-size>
+  </food>
+  <food code="PFRC" description="Potato, fries, crinkle cut, frozen, precooked in polyunsaturated oil, baked" groupCode="57">
+    <nutrient-table id="NZ" code="X323"/>
+    <portion-size method="as-served" description="in_straight_cut_chips" imageUrl="portion/chipst2.jpg" useForRecipes="false">
+      <param name="serving-image-set" value="chipst"/>
+      <param name="leftovers-image-set" value="chipst_leftovers"/>
+    </portion-size>
+    <portion-size method="as-served" description="in_crinkle_cut_chips" imageUrl="portion/chipcr2.jpg" useForRecipes="false">
+      <param name="serving-image-set" value="chipcr"/>
+      <param name="leftovers-image-set" value="chipcr_leftovers"/>
+    </portion-size>
+    <portion-size method="as-served" description="in_thick_cut_chips" imageUrl="portion/chipth2.jpg" useForRecipes="false">
+      <param name="serving-image-set" value="chipth"/>
+      <param name="leftovers-image-set" value="chipth_leftovers"/>
+    </portion-size>
+    <portion-size method="as-served" description="in_french_fries" imageUrl="portion/fren2.jpg" useForRecipes="false">
+      <param name="serving-image-set" value="fren"/>
+      <param name="leftovers-image-set" value="fren_leftovers"/>
+    </portion-size>
+    <portion-size method="as-served" description="in_curly_fries" imageUrl="portion/curf2.jpg" useForRecipes="false">
+      <param name="serving-image-set" value="curf"/>
+      <param name="leftovers-image-set" value="curf_leftovers"/>
     </portion-size>
   </food>
   <food code="PFRL" description="Profiteroles with sauce" groupCode="111">
@@ -23167,6 +23701,54 @@
       <param name="unit0-omit-food-description" value="true"/>
     </portion-size>
   </food>
+  <food code="PIHS" description="Pineapple, in heavy syrup, canned, undrained" groupCode="20">
+    <nutrient-table id="NZ" code="L202"/>
+    <portion-size method="guide-image" description="in_a_can" imageUrl="portion/Gallcans.jpg" useForRecipes="true">
+      <param name="guide-image-id" value="Gallcans"/>
+    </portion-size>
+    <portion-size method="as-served" description="in_a_bowl" imageUrl="portion/CanFt4.jpg" useForRecipes="false">
+      <param name="serving-image-set" value="canned_fruit"/>
+      <param name="leftovers-image-set" value="canned_fruit_leftovers"/>
+    </portion-size>
+    <portion-size method="standard-portion" description="use_a_standard_portion" imageUrl="portion/standard-portion.jpg" useForRecipes="true">
+      <param name="units-count" value="1"/>
+      <param name="unit0-name" value="tablespoons"/>
+      <param name="unit0-weight" value="40.0"/>
+      <param name="unit0-omit-food-description" value="false"/>
+    </portion-size>
+  </food>
+  <food code="PIJD" description="Pineapple, in juice, canned, drained" groupCode="20">
+    <nutrient-table id="NZ" code="L198"/>
+    <portion-size method="guide-image" description="in_a_can" imageUrl="portion/Gallcans.jpg" useForRecipes="true">
+      <param name="guide-image-id" value="Gallcans"/>
+    </portion-size>
+    <portion-size method="as-served" description="in_a_bowl" imageUrl="portion/CanFt4.jpg" useForRecipes="false">
+      <param name="serving-image-set" value="canned_fruit"/>
+      <param name="leftovers-image-set" value="canned_fruit_leftovers"/>
+    </portion-size>
+    <portion-size method="standard-portion" description="use_a_standard_portion" imageUrl="portion/standard-portion.jpg" useForRecipes="true">
+      <param name="units-count" value="1"/>
+      <param name="unit0-name" value="tablespoons"/>
+      <param name="unit0-weight" value="40.0"/>
+      <param name="unit0-omit-food-description" value="false"/>
+    </portion-size>
+  </food>
+  <food code="PIJU" description="Pineapple, in juice, canned, undrained" groupCode="20">
+    <nutrient-table id="NZ" code="L201"/>
+    <portion-size method="guide-image" description="in_a_can" imageUrl="portion/Gallcans.jpg" useForRecipes="true">
+      <param name="guide-image-id" value="Gallcans"/>
+    </portion-size>
+    <portion-size method="as-served" description="in_a_bowl" imageUrl="portion/CanFt4.jpg" useForRecipes="false">
+      <param name="serving-image-set" value="canned_fruit"/>
+      <param name="leftovers-image-set" value="canned_fruit_leftovers"/>
+    </portion-size>
+    <portion-size method="standard-portion" description="use_a_standard_portion" imageUrl="portion/standard-portion.jpg" useForRecipes="true">
+      <param name="units-count" value="1"/>
+      <param name="unit0-name" value="tablespoons"/>
+      <param name="unit0-weight" value="40.0"/>
+      <param name="unit0-omit-food-description" value="false"/>
+    </portion-size>
+  </food>
   <food code="PILB" description="Pilchards, tinned in brine" groupCode="54">
     <nutrient-table id="NDNS" code="7828"/>
     <portion-size method="guide-image" description="use_an_image" imageUrl="portion/Gcanfish.jpg" useForRecipes="true">
@@ -23265,6 +23847,22 @@
       <param name="guide-image-id" value="Gapl"/>
     </portion-size>
   </food>
+  <food code="PINL" description="Pineapple, in light syrup, canned, undrained" groupCode="20">
+    <nutrient-table id="NZ" code="L205"/>
+    <portion-size method="guide-image" description="in_a_can" imageUrl="portion/Gallcans.jpg" useForRecipes="true">
+      <param name="guide-image-id" value="Gallcans"/>
+    </portion-size>
+    <portion-size method="as-served" description="in_a_bowl" imageUrl="portion/CanFt4.jpg" useForRecipes="false">
+      <param name="serving-image-set" value="canned_fruit"/>
+      <param name="leftovers-image-set" value="canned_fruit_leftovers"/>
+    </portion-size>
+    <portion-size method="standard-portion" description="use_a_standard_portion" imageUrl="portion/standard-portion.jpg" useForRecipes="true">
+      <param name="units-count" value="1"/>
+      <param name="unit0-name" value="tablespoons"/>
+      <param name="unit0-weight" value="40.0"/>
+      <param name="unit0-omit-food-description" value="false"/>
+    </portion-size>
+  </food>
   <food code="PINN" description="Pine nut, raw" groupCode="75">
     <nutrient-table id="NZ" code="Q21"/>
     <portion-size method="standard-portion" description="use_a_standard_portion" imageUrl="portion/standard-portion.jpg" useForRecipes="true">
@@ -23306,6 +23904,22 @@
     <nutrient-table id="NZ" code="T19"/>
     <portion-size method="guide-image" description="use_an_image" imageUrl="portion/mussels_pipis.jpg" useForRecipes="false">
       <param name="guide-image-id" value="Gmusselpipi"/>
+    </portion-size>
+  </food>
+  <food code="PISC" description="Pineapple, in syrup, canned, undrained" groupCode="20">
+    <nutrient-table id="NZ" code="L143"/>
+    <portion-size method="guide-image" description="in_a_can" imageUrl="portion/Gallcans.jpg" useForRecipes="true">
+      <param name="guide-image-id" value="Gallcans"/>
+    </portion-size>
+    <portion-size method="as-served" description="in_a_bowl" imageUrl="portion/CanFt4.jpg" useForRecipes="false">
+      <param name="serving-image-set" value="canned_fruit"/>
+      <param name="leftovers-image-set" value="canned_fruit_leftovers"/>
+    </portion-size>
+    <portion-size method="standard-portion" description="use_a_standard_portion" imageUrl="portion/standard-portion.jpg" useForRecipes="true">
+      <param name="units-count" value="1"/>
+      <param name="unit0-name" value="tablespoons"/>
+      <param name="unit0-weight" value="40.0"/>
+      <param name="unit0-omit-food-description" value="false"/>
     </portion-size>
   </food>
   <food code="PISN" description="Pistachio nuts, dry roasted, no salt added" groupCode="75">
@@ -23515,6 +24129,15 @@
   <food code="PLUM" description="Plum sauce" groupCode="97">
     <nutrient-table id="NDNS" code="8403"/>
     <portion-size method="guide-image" description="use_a_standard_portion" imageUrl="portion/Gspn.jpg" useForRecipes="false">
+      <param name="guide-image-id" value="Gspn"/>
+    </portion-size>
+  </food>
+  <food code="PLUY" description="Yoghurt, plain, unsweetened, composite" groupCode="19">
+    <nutrient-table id="NZ" code="F57"/>
+    <portion-size method="guide-image" description="in_a_pot" imageUrl="portion/Gyog.jpg" useForRecipes="true">
+      <param name="guide-image-id" value="Gyog"/>
+    </portion-size>
+    <portion-size method="guide-image" description="use_a_standard_portion" imageUrl="portion/Gspn.jpg" useForRecipes="true">
       <param name="guide-image-id" value="Gspn"/>
     </portion-size>
   </food>
@@ -24884,6 +25507,29 @@
       <param name="unit0-omit-food-description" value="false"/>
     </portion-size>
   </food>
+  <food code="PWDF" description="Potato, wedges, coated, frozen, precooked in beef fat, baked" groupCode="57">
+    <nutrient-table id="NZ" code="X315"/>
+    <portion-size method="as-served" description="in_straight_cut_chips" imageUrl="portion/chipst2.jpg" useForRecipes="false">
+      <param name="serving-image-set" value="chipst"/>
+      <param name="leftovers-image-set" value="chipst_leftovers"/>
+    </portion-size>
+    <portion-size method="as-served" description="in_crinkle_cut_chips" imageUrl="portion/chipcr2.jpg" useForRecipes="false">
+      <param name="serving-image-set" value="chipcr"/>
+      <param name="leftovers-image-set" value="chipcr_leftovers"/>
+    </portion-size>
+    <portion-size method="as-served" description="in_thick_cut_chips" imageUrl="portion/chipth2.jpg" useForRecipes="false">
+      <param name="serving-image-set" value="chipth"/>
+      <param name="leftovers-image-set" value="chipth_leftovers"/>
+    </portion-size>
+    <portion-size method="as-served" description="in_french_fries" imageUrl="portion/fren2.jpg" useForRecipes="false">
+      <param name="serving-image-set" value="fren"/>
+      <param name="leftovers-image-set" value="fren_leftovers"/>
+    </portion-size>
+    <portion-size method="as-served" description="in_curly_fries" imageUrl="portion/curf2.jpg" useForRecipes="false">
+      <param name="serving-image-set" value="curf"/>
+      <param name="leftovers-image-set" value="curf_leftovers"/>
+    </portion-size>
+  </food>
   <food readyMealOption="true" code="PWNC" description="Prawn crackers" groupCode="62">
     <nutrient-table id="NZ" code="A133"/>
     <portion-size method="standard-portion" description="use_a_standard_portion" imageUrl="portion/standard-portion.jpg" useForRecipes="false">
@@ -24900,6 +25546,15 @@
       <param name="unit0-name" value="peppers"/>
       <param name="unit0-weight" value="160.0"/>
       <param name="unit0-omit-food-description" value="true"/>
+    </portion-size>
+  </food>
+  <food code="PYRF" description="Yoghurt, plain, reduced fat, sweetened" groupCode="19">
+    <nutrient-table id="NZ" code="F117"/>
+    <portion-size method="guide-image" description="in_a_pot" imageUrl="portion/Gyog.jpg" useForRecipes="true">
+      <param name="guide-image-id" value="Gyog"/>
+    </portion-size>
+    <portion-size method="guide-image" description="use_a_standard_portion" imageUrl="portion/Gspn.jpg" useForRecipes="true">
+      <param name="guide-image-id" value="Gspn"/>
     </portion-size>
   </food>
   <food readyMealOption="true" code="QLMT" description="Quiche lorraine (meat) (includes homemade)" groupCode="38">
@@ -26473,6 +27128,12 @@
       <param name="unit3-omit-food-description" value="true"/>
     </portion-size>
   </food>
+  <food readyMealOption="false" code="RWFB" description="Fish, crumbed, fillet, frozen, raw" groupCode="52">
+    <nutrient-table id="NZ" code="H193"/>
+    <portion-size method="guide-image" description="use_an_image" imageUrl="portion/Gtur.jpg" useForRecipes="false">
+      <param name="guide-image-id" value="Gtur"/>
+    </portion-size>
+  </food>
   <food code="RWKP" description="King prawns, raw" groupCode="53">
     <nutrient-table id="NZ" code="T1028"/>
     <portion-size method="standard-portion" description="use_a_standard_portion" imageUrl="portion/standard-portion.jpg" useForRecipes="true">
@@ -27582,6 +28243,29 @@
       <param name="drinkware-id" value="glasses_spirits"/>
       <param name="initial-fill-level" value="0.9"/>
       <param name="skip-fill-level" value="false"/>
+    </portion-size>
+  </food>
+  <food code="SHST" description="Potato, fries, shoestring cut, frozen, precooked in beef fat, baked" groupCode="57">
+    <nutrient-table id="NZ" code="X318"/>
+    <portion-size method="as-served" description="in_straight_cut_chips" imageUrl="portion/chipst2.jpg" useForRecipes="false">
+      <param name="serving-image-set" value="chipst"/>
+      <param name="leftovers-image-set" value="chipst_leftovers"/>
+    </portion-size>
+    <portion-size method="as-served" description="in_crinkle_cut_chips" imageUrl="portion/chipcr2.jpg" useForRecipes="false">
+      <param name="serving-image-set" value="chipcr"/>
+      <param name="leftovers-image-set" value="chipcr_leftovers"/>
+    </portion-size>
+    <portion-size method="as-served" description="in_thick_cut_chips" imageUrl="portion/chipth2.jpg" useForRecipes="false">
+      <param name="serving-image-set" value="chipth"/>
+      <param name="leftovers-image-set" value="chipth_leftovers"/>
+    </portion-size>
+    <portion-size method="as-served" description="in_french_fries" imageUrl="portion/fren2.jpg" useForRecipes="false">
+      <param name="serving-image-set" value="fren"/>
+      <param name="leftovers-image-set" value="fren_leftovers"/>
+    </portion-size>
+    <portion-size method="as-served" description="in_curly_fries" imageUrl="portion/curf2.jpg" useForRecipes="false">
+      <param name="serving-image-set" value="curf"/>
+      <param name="leftovers-image-set" value="curf_leftovers"/>
     </portion-size>
   </food>
   <food code="SHTH" description="Milkshake not made with ice cream, fruit flavoured (shop bought)" groupCode="24">
@@ -28740,6 +29424,17 @@
       <param name="unit0-omit-food-description" value="true"/>
     </portion-size>
   </food>
+  <food sameAsBeforeOption="true" code="SPWW" description="Wine, white, sparkling, composite" groupCode="94">
+    <nutrient-table id="NZ" code="B28"/>
+    <portion-size method="guide-image" description="in_a_bottle" imageUrl="portion/Gwinebottle.jpg" useForRecipes="false">
+      <param name="guide-image-id" value="Gwinebottle"/>
+    </portion-size>
+    <portion-size method="drink-scale" description="in_a_glass" imageUrl="portion/gwine.jpg" useForRecipes="false">
+      <param name="drinkware-id" value="glasses_wine"/>
+      <param name="initial-fill-level" value="0.9"/>
+      <param name="skip-fill-level" value="false"/>
+    </portion-size>
+  </food>
   <food readyMealOption="true" code="SQSA" description="Square sausage" groupCode="48">
     <nutrient-table id="NZ" code="N1025"/>
     <portion-size method="standard-portion" description="use_a_standard_portion" imageUrl="portion/standard-portion.jpg" useForRecipes="true">
@@ -28908,6 +29603,29 @@
       <param name="unit0-name" value="sausages"/>
       <param name="unit0-weight" value="40.0"/>
       <param name="unit0-omit-food-description" value="true"/>
+    </portion-size>
+  </food>
+  <food code="SSCF" description="Potato, fries, shoestring cut, frozen, precooked in polyunsaturated oil, baked" groupCode="57">
+    <nutrient-table id="NZ" code="X321"/>
+    <portion-size method="as-served" description="in_straight_cut_chips" imageUrl="portion/chipst2.jpg" useForRecipes="false">
+      <param name="serving-image-set" value="chipst"/>
+      <param name="leftovers-image-set" value="chipst_leftovers"/>
+    </portion-size>
+    <portion-size method="as-served" description="in_crinkle_cut_chips" imageUrl="portion/chipcr2.jpg" useForRecipes="false">
+      <param name="serving-image-set" value="chipcr"/>
+      <param name="leftovers-image-set" value="chipcr_leftovers"/>
+    </portion-size>
+    <portion-size method="as-served" description="in_thick_cut_chips" imageUrl="portion/chipth2.jpg" useForRecipes="false">
+      <param name="serving-image-set" value="chipth"/>
+      <param name="leftovers-image-set" value="chipth_leftovers"/>
+    </portion-size>
+    <portion-size method="as-served" description="in_french_fries" imageUrl="portion/fren2.jpg" useForRecipes="false">
+      <param name="serving-image-set" value="fren"/>
+      <param name="leftovers-image-set" value="fren_leftovers"/>
+    </portion-size>
+    <portion-size method="as-served" description="in_curly_fries" imageUrl="portion/curf2.jpg" useForRecipes="false">
+      <param name="serving-image-set" value="curf"/>
+      <param name="leftovers-image-set" value="curf_leftovers"/>
     </portion-size>
   </food>
   <food code="SSCK" description="Sweet and sour chicken, from takeaway" groupCode="45">
@@ -29169,6 +29887,29 @@
     <portion-size method="as-served" description="use_an_image" imageUrl="portion/shreddies.jpg" useForRecipes="false">
       <param name="serving-image-set" value="shreddies"/>
       <param name="leftovers-image-set" value="shreddies_leftovers"/>
+    </portion-size>
+  </food>
+  <food code="STCT" description="Potato, fries, straight cut, frozen, precooked in polyunsaturated oil, baked" groupCode="57">
+    <nutrient-table id="NZ" code="X322"/>
+    <portion-size method="as-served" description="in_straight_cut_chips" imageUrl="portion/chipst2.jpg" useForRecipes="false">
+      <param name="serving-image-set" value="chipst"/>
+      <param name="leftovers-image-set" value="chipst_leftovers"/>
+    </portion-size>
+    <portion-size method="as-served" description="in_crinkle_cut_chips" imageUrl="portion/chipcr2.jpg" useForRecipes="false">
+      <param name="serving-image-set" value="chipcr"/>
+      <param name="leftovers-image-set" value="chipcr_leftovers"/>
+    </portion-size>
+    <portion-size method="as-served" description="in_thick_cut_chips" imageUrl="portion/chipth2.jpg" useForRecipes="false">
+      <param name="serving-image-set" value="chipth"/>
+      <param name="leftovers-image-set" value="chipth_leftovers"/>
+    </portion-size>
+    <portion-size method="as-served" description="in_french_fries" imageUrl="portion/fren2.jpg" useForRecipes="false">
+      <param name="serving-image-set" value="fren"/>
+      <param name="leftovers-image-set" value="fren_leftovers"/>
+    </portion-size>
+    <portion-size method="as-served" description="in_curly_fries" imageUrl="portion/curf2.jpg" useForRecipes="false">
+      <param name="serving-image-set" value="curf"/>
+      <param name="leftovers-image-set" value="curf_leftovers"/>
     </portion-size>
   </food>
   <food readyMealOption="true" code="STFJ" description="Stuffed jalapenos" groupCode="71">
@@ -29646,6 +30387,17 @@
       <param name="unit0-name" value="tablespoons"/>
       <param name="unit0-weight" value="25.0"/>
       <param name="unit0-omit-food-description" value="false"/>
+    </portion-size>
+  </food>
+  <food sameAsBeforeOption="true" code="SWTW" description="Wine, white, sweet, composite" groupCode="94">
+    <nutrient-table id="NZ" code="B29"/>
+    <portion-size method="guide-image" description="in_a_bottle" imageUrl="portion/Gwinebottle.jpg" useForRecipes="false">
+      <param name="guide-image-id" value="Gwinebottle"/>
+    </portion-size>
+    <portion-size method="drink-scale" description="in_a_glass" imageUrl="portion/gwine.jpg" useForRecipes="false">
+      <param name="drinkware-id" value="glasses_wine"/>
+      <param name="initial-fill-level" value="0.9"/>
+      <param name="skip-fill-level" value="false"/>
     </portion-size>
   </food>
   <food sameAsBeforeOption="true" code="SWWN" description="Sparkling white wine" groupCode="94">
@@ -31712,6 +32464,29 @@
       <param name="guide-image-id" value="Gallcans"/>
     </portion-size>
   </food>
+  <food code="WDFR" description="Potato, wedges, frozen, precooked in canola oil, baked" groupCode="57">
+    <nutrient-table id="NZ" code="X325"/>
+    <portion-size method="as-served" description="in_straight_cut_chips" imageUrl="portion/chipst2.jpg" useForRecipes="false">
+      <param name="serving-image-set" value="chipst"/>
+      <param name="leftovers-image-set" value="chipst_leftovers"/>
+    </portion-size>
+    <portion-size method="as-served" description="in_crinkle_cut_chips" imageUrl="portion/chipcr2.jpg" useForRecipes="false">
+      <param name="serving-image-set" value="chipcr"/>
+      <param name="leftovers-image-set" value="chipcr_leftovers"/>
+    </portion-size>
+    <portion-size method="as-served" description="in_thick_cut_chips" imageUrl="portion/chipth2.jpg" useForRecipes="false">
+      <param name="serving-image-set" value="chipth"/>
+      <param name="leftovers-image-set" value="chipth_leftovers"/>
+    </portion-size>
+    <portion-size method="as-served" description="in_french_fries" imageUrl="portion/fren2.jpg" useForRecipes="false">
+      <param name="serving-image-set" value="fren"/>
+      <param name="leftovers-image-set" value="fren_leftovers"/>
+    </portion-size>
+    <portion-size method="as-served" description="in_curly_fries" imageUrl="portion/curf2.jpg" useForRecipes="false">
+      <param name="serving-image-set" value="curf"/>
+      <param name="leftovers-image-set" value="curf_leftovers"/>
+    </portion-size>
+  </food>
   <food code="WELS" description="Welsh rarebit" groupCode="29">
     <nutrient-table id="NDNS" code="817"/>
     <portion-size method="standard-portion" description="use_a_standard_portion" imageUrl="portion/standard-portion.jpg" useForRecipes="false">
@@ -32295,6 +33070,17 @@
     <nutrient-table id="NZ" code="X257"/>
     <portion-size method="guide-image" description="use_an_image" imageUrl="portion/Gallcans.jpg" useForRecipes="true">
       <param name="guide-image-id" value="Gallcans"/>
+    </portion-size>
+  </food>
+  <food sameAsBeforeOption="true" code="WTDW" description="Wine, white, dry, composite" groupCode="94">
+    <nutrient-table id="NZ" code="B26"/>
+    <portion-size method="guide-image" description="in_a_bottle" imageUrl="portion/Gwinebottle.jpg" useForRecipes="false">
+      <param name="guide-image-id" value="Gwinebottle"/>
+    </portion-size>
+    <portion-size method="drink-scale" description="in_a_glass" imageUrl="portion/gwine.jpg" useForRecipes="false">
+      <param name="drinkware-id" value="glasses_wine"/>
+      <param name="initial-fill-level" value="0.9"/>
+      <param name="skip-fill-level" value="false"/>
     </portion-size>
   </food>
   <food code="WTFR" description="Wheat flakes with raisins" groupCode="7">
