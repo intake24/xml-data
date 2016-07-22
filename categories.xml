@@ -58,7 +58,6 @@
     <food code="MUNG"/>
     <food code="PLBL"/>
     <food code="HBNS"/>
-    <food code="ADUK"/>
     <food code="BRLE"/>
     <food code="CANB"/>
     <food code="SPTP"/>
@@ -72,6 +71,8 @@
     <food code="SOYB"/>
     <food code="CKPS"/>
     <food code="PULE"/>
+    <food code="ADUK"/>
+    <food code="BBFR"/>
   </category>
   <category code="BKDP" description="Baked potatoes" hidden="false">
     <food code="OPFS"/>
@@ -260,6 +261,7 @@
   <category code="BRCL" description="Broccoli" hidden="false">
     <food code="BRCR"/>
     <food code="BRFB"/>
+    <food code="BROF"/>
   </category>
   <category code="TBBR" description="Brown bread toasted" hidden="false">
     <food code="BRWT"/>
@@ -372,6 +374,7 @@
     <food code="GCAB"/>
     <food code="WCBB"/>
     <food code="BKCH"/>
+    <food code="CAFR"/>
   </category>
   <category code="SLBC" description="Cake slices &amp; mini rolls" hidden="false">
     <food code="BTNB"/>
@@ -487,6 +490,7 @@
     <food code="CARF"/>
     <food code="OCRO"/>
     <food code="CASM"/>
+    <food code="FRCR"/>
   </category>
   <category code="CRBR" description="Cereal bars" hidden="false">
     <food code="BELV"/>
@@ -606,6 +610,7 @@
     <food code="CCTM"/>
     <food code="FAJC"/>
     <food code="CCST"/>
+    <food code="RCHS"/>
   </category>
   <category code="BRGO" description="Chicken/turkey/vegetable burger" hidden="false">
     <food code="CBBL"/>
@@ -1133,7 +1138,6 @@
     <food code="FPIE"/>
     <food code="FCRY"/>
     <food code="TUNP"/>
-    <food code="TUPB"/>
     <food code="SEAP"/>
     <food code="MPAE"/>
     <food code="KEDG"/>
@@ -1146,6 +1150,7 @@
     <food code="FCCC"/>
     <food code="PCCC"/>
     <food code="PCVB"/>
+    <food code="TUPB"/>
   </category>
   <category code="FFLT" description="Fish fillets" hidden="false">
     <food code="CDFB"/>
@@ -1214,6 +1219,7 @@
     <food code="GFFF"/>
     <food code="FCBG"/>
     <food code="SFIS"/>
+    <food code="FCFF"/>
   </category>
   <category sameAsBeforeOption="true" code="SOFT" description="Fizzy drinks" hidden="false">
     <food code="AJCS"/>
@@ -1278,6 +1284,7 @@
   <category code="FGRB" description="French / green / runner beans" hidden="false">
     <food code="FRBB"/>
     <food code="RBFB"/>
+    <food code="RBFR"/>
   </category>
   <category code="FREF" description="Fresh fruit" hidden="false">
     <food code="FIGS"/>
@@ -1689,7 +1696,6 @@
     <food code="LABU"/>
     <food code="LADH"/>
     <food code="LAPA"/>
-    <food code="LAKB"/>
     <food code="LALI"/>
     <food code="MMUS"/>
     <food code="SHTO"/>
@@ -1699,6 +1705,7 @@
     <food code="LABB"/>
     <food code="LACC"/>
     <food code="SHEP"/>
+    <food code="LAKB"/>
   </category>
   <category code="LATE" description="Latte" hidden="false">
     <food code="LASS"/>
@@ -2084,10 +2091,10 @@
     <food code="MRCA"/>
     <food code="PSTB"/>
     <food code="TUNP"/>
-    <food code="TUPB"/>
     <food code="VECA"/>
     <food code="CABP"/>
     <food code="LFCB"/>
+    <food code="TUPB"/>
   </category>
   <category code="PTNS" description="Pasta (no sauce)" hidden="false">
     <food code="WHSP"/>
@@ -2461,7 +2468,6 @@
     <food code="CALF"/>
     <food code="RDWN"/>
     <food code="WHEY"/>
-    <food code="HMPP"/>
     <food code="VEAL"/>
     <food code="OAFL"/>
     <food code="FENL"/>
@@ -2500,6 +2506,9 @@
     <food code="OATS"/>
     <food code="QUOP"/>
     <food code="LTTC"/>
+    <food code="FCFF"/>
+    <food code="RCHS"/>
+    <food code="HMPP"/>
     <subcategory code="OILY"/>
     <subcategory code="CRAB"/>
     <subcategory code="FFLT"/>
@@ -3417,6 +3426,8 @@
     <food code="TEMV"/>
     <food code="BSNC"/>
     <food code="AUBB"/>
+    <food code="BSFR"/>
+    <food code="FRCU"/>
     <subcategory code="BEET"/>
     <subcategory code="CBBG"/>
     <subcategory code="COLE"/>
@@ -3456,8 +3467,8 @@
     <food code="VITA"/>
     <food code="WATE"/>
     <food code="FSHY"/>
-    <food code="FWNS"/>
     <food code="FLWA"/>
+    <food code="FWNS"/>
   </category>
   <category code="WTBI" description="Weetabix" hidden="false">
     <food code="WTBX"/>
@@ -3497,7 +3508,6 @@
     <food code="MULW"/>
     <food code="ROWN"/>
     <food code="SWWN"/>
-    <food code="SWEW"/>
     <food code="WWLA"/>
     <food code="RDWN"/>
     <food code="WISP"/>

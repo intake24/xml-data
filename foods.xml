@@ -58,16 +58,13 @@
   <food code="ADUK" description="Aduki beans" groupCode="70">
     <nutrient-table id="NDNS" code="10968"/>
     <portion-size method="standard-portion" description="use_a_standard_portion" imageUrl="portion/standard-portion.jpg" useForRecipes="true">
-      <param name="units-count" value="3"/>
+      <param name="units-count" value="1"/>
       <param name="unit0-name" value="tablespoons"/>
       <param name="unit0-weight" value="35.0"/>
       <param name="unit0-omit-food-description" value="false"/>
-      <param name="unit1-name" value="small tins"/>
-      <param name="unit1-weight" value="130.0"/>
-      <param name="unit1-omit-food-description" value="false"/>
-      <param name="unit2-name" value="average tins"/>
-      <param name="unit2-weight" value="240.0"/>
-      <param name="unit2-omit-food-description" value="false"/>
+    </portion-size>
+    <portion-size method="guide-image" description="in_a_can" imageUrl="Gcans.jpg" useForRecipes="false">
+      <param name="guide-image-id" value="Gcans"/>
     </portion-size>
   </food>
   <food code="AERM" description="Aero mousse, any flavour" groupCode="111">
@@ -926,6 +923,18 @@
     <nutrient-table id="NDNS" code="8266"/>
     <portion-size method="guide-image" description="use_an_image" imageUrl="portion/Gbur.jpg" useForRecipes="false">
       <param name="guide-image-id" value="Gbur"/>
+    </portion-size>
+  </food>
+  <food code="BBFR" description="Frozen broad beans, boiled" groupCode="70">
+    <nutrient-table id="NDNS" code="1668"/>
+    <portion-size method="standard-portion" description="use_a_standard_portion" imageUrl="portion/standard-portion.jpg" useForRecipes="true">
+      <param name="units-count" value="2"/>
+      <param name="unit0-name" value="tablespoons"/>
+      <param name="unit0-weight" value="35.0"/>
+      <param name="unit0-omit-food-description" value="false"/>
+      <param name="unit1-name" value="tins"/>
+      <param name="unit1-weight" value="196.0"/>
+      <param name="unit1-omit-food-description" value="false"/>
     </portion-size>
   </food>
   <food sameAsBeforeOption="true" code="BBNC" description="Best bitter, e.g. Boddingtons" groupCode="94">
@@ -2371,6 +2380,19 @@
       <param name="type" value="flake"/>
     </portion-size>
   </food>
+  <food code="BROF" description="Frozen broccoli spears, boiled" groupCode="70">
+    <nutrient-table id="NDNS" code="1694"/>
+    <portion-size method="as-served" description="use_an_image" imageUrl="portion/broccoli.jpg" useForRecipes="true">
+      <param name="serving-image-set" value="broccoli"/>
+      <param name="leftovers-image-set" value="broccoli_leftovers"/>
+    </portion-size>
+    <portion-size method="standard-portion" description="use_a_standard_portion" imageUrl="portion/standard-portion.jpg" useForRecipes="true">
+      <param name="units-count" value="1"/>
+      <param name="unit0-name" value="spears"/>
+      <param name="unit0-weight" value="45.0"/>
+      <param name="unit0-omit-food-description" value="false"/>
+    </portion-size>
+  </food>
   <food code="BRPI" description="Branston pickle" groupCode="82">
     <nutrient-table id="NDNS" code="2440"/>
     <portion-size method="as-served" description="in_dollops" imageUrl="portion/421.jpg" useForRecipes="false">
@@ -2500,6 +2522,15 @@
   </food>
   <food code="BSFB" description="Brussels sprouts" groupCode="70">
     <nutrient-table id="NDNS" code="1696"/>
+    <portion-size method="standard-portion" description="use_a_standard_portion" imageUrl="portion/standard-portion.jpg" useForRecipes="true">
+      <param name="units-count" value="1"/>
+      <param name="unit0-name" value="sprouts"/>
+      <param name="unit0-weight" value="10.0"/>
+      <param name="unit0-omit-food-description" value="true"/>
+    </portion-size>
+  </food>
+  <food code="BSFR" description="Frozen Brussels sprouts, boiled" groupCode="70">
+    <nutrient-table id="NDNS" code="1698"/>
     <portion-size method="standard-portion" description="use_a_standard_portion" imageUrl="portion/standard-portion.jpg" useForRecipes="true">
       <param name="units-count" value="1"/>
       <param name="unit0-name" value="sprouts"/>
@@ -2977,6 +3008,19 @@
       <param name="unit0-name" value="Caramel eggs"/>
       <param name="unit0-weight" value="39.0"/>
       <param name="unit0-omit-food-description" value="true"/>
+    </portion-size>
+  </food>
+  <food code="CAFR" description="Frozen cabbage, boiled" groupCode="70">
+    <nutrient-table id="NDNS" code="1704"/>
+    <portion-size method="as-served" description="use_an_image" imageUrl="portion/cabbage.jpg" useForRecipes="true">
+      <param name="serving-image-set" value="cabbage"/>
+      <param name="leftovers-image-set" value="cabbage_leftovers"/>
+    </portion-size>
+    <portion-size method="standard-portion" description="use_a_standard_portion" imageUrl="portion/standard-portion.jpg" useForRecipes="true">
+      <param name="units-count" value="1"/>
+      <param name="unit0-name" value="tablespoons"/>
+      <param name="unit0-weight" value="40.0"/>
+      <param name="unit0-omit-food-description" value="false"/>
     </portion-size>
   </food>
   <food code="CAGO" description="Gooseberries, tinned in juice and syrup" groupCode="20">
@@ -8739,6 +8783,12 @@
       <param name="leftovers-image-set" value="chicken_sauce_leftovers"/>
     </portion-size>
   </food>
+  <food readyMealOption="false" code="FCFF" description="Fish, crumbed, fillet, frozen, raw" groupCode="52">
+    <nutrient-table id="NZ" code="H193"/>
+    <portion-size method="guide-image" description="use_an_image" imageUrl="portion/Gtur.jpg" useForRecipes="false">
+      <param name="guide-image-id" value="Gtur"/>
+    </portion-size>
+  </food>
   <food code="FCFO" description="Chips, fried" groupCode="59">
     <nutrient-table id="NDNS" code="1849"/>
     <portion-size method="as-served" description="in_straight_cut_chips" imageUrl="portion/chipst2.jpg" useForRecipes="false">
@@ -9513,6 +9563,40 @@
       <param name="skip-fill-level" value="false"/>
     </portion-size>
   </food>
+  <food code="FRCR" description="Frozen carrots, boiled" groupCode="70">
+    <nutrient-table id="NDNS" code="1714"/>
+    <portion-size method="as-served" description="in_slices" imageUrl="portion/cars3.jpg" useForRecipes="false">
+      <param name="serving-image-set" value="cars"/>
+      <param name="leftovers-image-set" value="cars_leftovers"/>
+    </portion-size>
+    <portion-size method="as-served" description="in_batons" imageUrl="portion/baton3.jpg" useForRecipes="false">
+      <param name="serving-image-set" value="baton"/>
+      <param name="leftovers-image-set" value="baton_leftovers"/>
+    </portion-size>
+    <portion-size method="as-served" description="in_baby_carrots" imageUrl="portion/carb5.jpg" useForRecipes="false">
+      <param name="serving-image-set" value="carb"/>
+      <param name="leftovers-image-set" value="carb_leftovers"/>
+    </portion-size>
+    <portion-size method="standard-portion" description="use_a_standard_portion" imageUrl="portion/standard-portion.jpg" useForRecipes="true">
+      <param name="units-count" value="3"/>
+      <param name="unit0-name" value="small carrots"/>
+      <param name="unit0-weight" value="30.0"/>
+      <param name="unit0-omit-food-description" value="true"/>
+      <param name="unit1-name" value="medium carrots"/>
+      <param name="unit1-weight" value="80.0"/>
+      <param name="unit1-omit-food-description" value="true"/>
+      <param name="unit2-name" value="large carrots"/>
+      <param name="unit2-weight" value="140.0"/>
+      <param name="unit2-omit-food-description" value="true"/>
+    </portion-size>
+  </food>
+  <food code="FRCU" description="Frozen cauliflower, boiled" groupCode="70">
+    <nutrient-table id="NDNS" code="1720"/>
+    <portion-size method="as-served" description="use_an_image" imageUrl="portion/cauliflower.jpg" useForRecipes="true">
+      <param name="serving-image-set" value="cauliflower"/>
+      <param name="leftovers-image-set" value="cauliflower_leftovers"/>
+    </portion-size>
+  </food>
   <food code="FRDN" description="Noodles, fried (not supernoodles)" groupCode="105">
     <nutrient-table id="NDNS" code="2984"/>
     <portion-size method="as-served" description="use_an_image" imageUrl="portion/noodles.jpg" useForRecipes="true">
@@ -10088,7 +10172,7 @@
     </portion-size>
   </food>
   <food code="FWNS" description="Flavoured water, still or fizzy (no added sugar)" groupCode="84">
-    <nutrient-table id="NDNS" code="5353"/>
+    <nutrient-table id="NDNS" code="5253"/>
     <portion-size method="drink-scale" description="in_a_glass" imageUrl="portion/gsoftdrnk.jpg" useForRecipes="false">
       <param name="drinkware-id" value="glasses_soft"/>
       <param name="initial-fill-level" value="0.9"/>
@@ -12071,7 +12155,7 @@
     </portion-size>
   </food>
   <food code="HMPP" description="Hemp protein powder" groupCode="100">
-    <nutrient-table id="NDNS" code="2892"/>
+    <nutrient-table id="NDNS" code="6892"/>
     <portion-size method="standard-portion" description="use_a_standard_portion" imageUrl="portion/standard-portion.jpg" useForRecipes="true">
       <param name="units-count" value="1"/>
       <param name="unit0-name" value="scoops of powder"/>
@@ -13371,7 +13455,7 @@
     </portion-size>
   </food>
   <food readyMealOption="true" code="LAKB" description="Lamb kebabs" groupCode="47">
-    <nutrient-table id="NDNS" code="5390"/>
+    <nutrient-table id="NDNS" code="5930"/>
     <portion-size method="standard-portion" description="use_a_standard_portion" imageUrl="portion/standard-portion.jpg" useForRecipes="false">
       <param name="units-count" value="1"/>
       <param name="unit0-name" value="kebabs"/>
@@ -20136,6 +20220,19 @@
       <param name="unit0-omit-food-description" value="false"/>
     </portion-size>
   </food>
+  <food code="RBFR" description="Frozen Runner beans, boiled" groupCode="70">
+    <nutrient-table id="NDNS" code="1683"/>
+    <portion-size method="as-served" description="use_an_image" imageUrl="portion/runner_beans.jpg" useForRecipes="false">
+      <param name="serving-image-set" value="runner_beans"/>
+      <param name="leftovers-image-set" value="runner_beans_leftovers"/>
+    </portion-size>
+    <portion-size method="standard-portion" description="use_a_standard_portion" imageUrl="portion/standard-portion.jpg" useForRecipes="true">
+      <param name="units-count" value="1"/>
+      <param name="unit0-name" value="tablespoons"/>
+      <param name="unit0-weight" value="10.6"/>
+      <param name="unit0-omit-food-description" value="false"/>
+    </portion-size>
+  </food>
   <food readyMealOption="true" code="RBMF" description="Roast beef" groupCode="40">
     <nutrient-table id="NDNS" code="969"/>
     <portion-size method="as-served" description="use_an_image" imageUrl="portion/meat_roast.jpg" useForRecipes="false">
@@ -20215,6 +20312,12 @@
       <param name="unit0-name" value="fillets"/>
       <param name="unit0-weight" value="130.0"/>
       <param name="unit0-omit-food-description" value="true"/>
+    </portion-size>
+  </food>
+  <food readyMealOption="true" code="RCHS" description="Sausage, chicken, fresh, raw, composite" groupCode="45">
+    <nutrient-table id="NZ" code="N1017"/>
+    <portion-size method="guide-image" description="use_an_image" imageUrl="Gsaus.jpg" useForRecipes="false">
+      <param name="guide-image-id" value="Gsaus"/>
     </portion-size>
   </food>
   <food code="RCKP" description="Rice Krispies" groupCode="7">
@@ -23652,17 +23755,6 @@
       <param name="unit0-omit-food-description" value="true"/>
     </portion-size>
   </food>
-  <food sameAsBeforeOption="true" code="SWEW" description="Sweet white wine" groupCode="94">
-    <nutrient-table id="NDNS" code="8356"/>
-    <portion-size method="guide-image" description="in_a_bottle" imageUrl="portion/Gwinebottle.jpg" useForRecipes="false">
-      <param name="guide-image-id" value="Gwinebottle"/>
-    </portion-size>
-    <portion-size method="drink-scale" description="in_a_glass" imageUrl="portion/gwine.jpg" useForRecipes="false">
-      <param name="drinkware-id" value="glasses_wine"/>
-      <param name="initial-fill-level" value="0.9"/>
-      <param name="skip-fill-level" value="false"/>
-    </portion-size>
-  </food>
   <food code="SWIS" description="Swiss roll" groupCode="16">
     <nutrient-table id="NDNS" code="8564"/>
     <portion-size method="standard-portion" description="use_a_standard_portion" imageUrl="portion/standard-portion.jpg" useForRecipes="false">
@@ -24694,7 +24786,7 @@
     </portion-size>
   </food>
   <food readyMealOption="false" code="TUPB" description="Tuna pasta bake" groupCode="106">
-    <nutrient-table id="NDNS" code="2694"/>
+    <nutrient-table id="NDNS" code="5789"/>
     <portion-size method="as-served" description="on_a_plate" imageUrl="portion/PstSau5.jpg" useForRecipes="false">
       <param name="serving-image-set" value="pasta_sauce"/>
       <param name="leftovers-image-set" value="pasta_sauce_leftovers"/>
