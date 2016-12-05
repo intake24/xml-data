@@ -14,7 +14,7 @@
    height="1000"
    id="svg2"
    version="1.1"
-   inkscape:version="0.48.4 r9939"
+   inkscape:version="0.91 r13725"
    sodipodi:docname="milkbowlF.svg">
   <defs
      id="defs4" />
@@ -26,7 +26,7 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="1.602"
-     inkscape:cx="399.32101"
+     inkscape:cx="308.18493"
      inkscape:cy="599.87516"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
@@ -35,10 +35,10 @@
      fit-margin-left="0"
      fit-margin-right="0"
      fit-margin-bottom="0"
-     inkscape:window-width="1920"
-     inkscape:window-height="1018"
-     inkscape:window-x="-8"
-     inkscape:window-y="-8"
+     inkscape:window-width="2560"
+     inkscape:window-height="1338"
+     inkscape:window-x="0"
+     inkscape:window-y="1"
      inkscape:window-maximized="1" />
   <metadata
      id="metadata7">
@@ -111,17 +111,20 @@
        transform="translate(-375,32.362183)"
        inkscape:label="#path3006"
        sodipodi:nodetypes="ccccccc" />
-    <flowRoot
+    <text
        xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+       x="-343.78906"
+       y="300.69699"
        id="navigation"
-       style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
-       transform="translate(-375,32.362183)"
-       inkscape:label="#flowRoot3008"><flowRegion
-         id="flowRegion3010"><rect
-           id="rect3012"
-           width="235.95506"
-           height="71.161049"
-           x="31.210987"
-           y="228.46442" /></flowRegion><flowPara
-         id="flowPara3014">1 2 3 4 5 6</flowPara></flowRoot>  </g>
+       sodipodi:linespacing="125%"
+       inkscape:label="#text4144"><tspan
+         sodipodi:role="line"
+         x="-343.78906"
+         y="300.69699"
+         id="tspan4146"><tspan
+           x="-343.78906"
+           y="300.69699"
+           id="tspan4148">1 2 3 4 5 6</tspan></tspan></text>
+  </g>
 </svg>

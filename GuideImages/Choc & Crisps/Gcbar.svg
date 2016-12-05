@@ -14,8 +14,8 @@
    height="2000"
    id="svg2"
    version="1.1"
-   inkscape:version="0.48.4 r9939"
-   sodipodi:docname="New document 1">
+   inkscape:version="0.91 r13725"
+   sodipodi:docname="Gcbar.svg">
   <defs
      id="defs4" />
   <sodipodi:namedview
@@ -26,7 +26,7 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.35"
-     inkscape:cx="1438.206"
+     inkscape:cx="603.92024"
      inkscape:cy="1148.6611"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
@@ -35,10 +35,10 @@
      fit-margin-left="0"
      fit-margin-right="0"
      fit-margin-bottom="0"
-     inkscape:window-width="1280"
-     inkscape:window-height="962"
-     inkscape:window-x="-8"
-     inkscape:window-y="-8"
+     inkscape:window-width="2560"
+     inkscape:window-height="1338"
+     inkscape:window-x="0"
+     inkscape:window-y="1"
      inkscape:window-maximized="1" />
   <metadata
      id="metadata7">
@@ -48,7 +48,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -123,17 +123,20 @@
        inkscape:connector-curvature="0"
        transform="translate(-428.57144,-93.352104)"
        inkscape:label="#path3010" />
-    <flowRoot
+    <text
        xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+       x="-305.71402"
+       y="6.5178604"
        id="navigation"
-       style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
-       transform="translate(-428.57144,-93.352104)"
-       inkscape:label="#flowRoot3012"><flowRegion
-         id="flowRegion3014"><rect
-           id="rect3016"
-           width="468.57144"
-           height="108.57143"
-           x="122.85714"
-           y="60" /></flowRegion><flowPara
-         id="flowPara3018">1 2 3 4 5 6 7 8</flowPara></flowRoot>  </g>
+       sodipodi:linespacing="125%"
+       inkscape:label="#text4146"><tspan
+         sodipodi:role="line"
+         x="-305.71402"
+         y="6.5178604"
+         id="tspan4148"><tspan
+           x="-305.71402"
+           y="6.5178604"
+           id="tspan4150">1 2 3 4 5 6 7 8</tspan></tspan></text>
+  </g>
 </svg>

@@ -14,7 +14,7 @@
    height="500"
    id="svg2"
    version="1.1"
-   inkscape:version="0.48.2 r9819"
+   inkscape:version="0.91 r13725"
    sodipodi:docname="Gspns.svg">
   <defs
      id="defs4" />
@@ -26,7 +26,7 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.7"
-     inkscape:cx="605.5247"
+     inkscape:cx="396.95327"
      inkscape:cy="203.36599"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
@@ -35,10 +35,10 @@
      fit-margin-left="0"
      fit-margin-right="0"
      fit-margin-bottom="-0.5"
-     inkscape:window-width="1366"
-     inkscape:window-height="706"
-     inkscape:window-x="-8"
-     inkscape:window-y="-8"
+     inkscape:window-width="2560"
+     inkscape:window-height="1338"
+     inkscape:window-x="0"
+     inkscape:window-y="1"
      inkscape:window-maximized="1" />
   <metadata
      id="metadata7">
@@ -87,7 +87,7 @@
     <path
        style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        d="m 476.03438,175.48849 c 0,0 1.01016,-3.53553 -6.31345,-6.06091 -7.3236,-2.52538 -18.43528,-3.283 -29.04188,-25.75889 -10.6066,-22.47589 6.56599,-60.104077 13.13198,-68.185298 6.56599,-8.08122 19.69798,-22.223356 30.80965,-22.223356 11.11168,0 28.78935,14.647212 30.55712,18.940361 1.76777,4.293148 19.74347,25.26248 13.13198,59.851533 -4.61308,24.13405 -7.01759,24.17827 -14.64721,31.56727 -6.19187,5.99659 -19.1929,8.33376 -19.1929,8.33376 0,0 -3.78807,2.02031 -3.53553,3.03046 0.25254,1.01015 0.75761,63.13453 0.75761,63.13453 l 4.04061,34.85027 c 0,0 4.54569,20.20305 4.79823,30.05203 0.25253,9.84899 0.25253,15.65737 0.25253,15.65737 0,0 0.50508,7.3236 2.77792,11.61675 2.27285,4.29315 10.35407,21.97082 10.60661,26.76904 0.25253,4.79823 0,12.37437 0,12.37437 0,0 -2.52539,6.06092 -10.85914,8.5863 0,0 -11.8693,12.62691 -29.29443,0.50508 0,0 -14.14213,-0.25254 -13.63706,-16.66752 0.50508,-16.41498 10.85914,-35.1028 10.85914,-35.1028 0,0 3.78807,-5.05076 3.03046,-13.63706 -0.75761,-8.5863 -2.4641,-17.16516 0.31382,-35.85298 2.77792,-18.68782 2.4641,-76.02142 2.4641,-76.02142 z"
-       id="areea_4"
+       id="area_4"
        inkscape:connector-curvature="0"
        transform="translate(5.7142859,485.21933)"
        sodipodi:nodetypes="cssssssscsccscsscccscsscc"

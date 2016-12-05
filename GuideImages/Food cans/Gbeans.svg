@@ -14,8 +14,8 @@
    height="815"
    id="svg2"
    version="1.1"
-   inkscape:version="0.48.4 r9939"
-   sodipodi:docname="New document 1">
+   inkscape:version="0.91 r13725"
+   sodipodi:docname="Gbeans.svg">
   <defs
      id="defs4" />
   <sodipodi:namedview
@@ -26,7 +26,7 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="1.4"
-     inkscape:cx="717.33466"
+     inkscape:cx="613.04895"
      inkscape:cy="479.36052"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
@@ -35,10 +35,10 @@
      fit-margin-left="0"
      fit-margin-right="0"
      fit-margin-bottom="0"
-     inkscape:window-width="1280"
-     inkscape:window-height="962"
-     inkscape:window-x="-8"
-     inkscape:window-y="-8"
+     inkscape:window-width="2560"
+     inkscape:window-height="1338"
+     inkscape:window-x="0"
+     inkscape:window-y="1"
      inkscape:window-maximized="1" />
   <metadata
      id="metadata7">
@@ -48,7 +48,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -60,7 +60,7 @@
     <image
        y="353.43362"
        x="5.6428571"
-       id="area_4"
+       id="123"
        xlink:href="file:///T:/SCRAN24/NEW%20PHOTOS%20FOR%20SCRAN/Food%20cans/Gbeans.jpg"
        height="815"
        width="1223"
@@ -68,30 +68,34 @@
     <path
        style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        d="m 176.42857,265.71429 10,242.85714 35,9.28571 69.28572,0.71429 38.57142,-6.42857 L 355,500.71429 l -9.28571,-242.14286 -42.85715,-6.42857 -60,0 L 190,259.28571 z"
-       id="path2996"
+       id="area_1"
        inkscape:connector-curvature="0"
-       transform="translate(5.6428571,353.43362)" />
+       transform="translate(5.6428571,353.43362)"
+       inkscape:label="#path2996" />
     <path
        style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        d="m 420,376.42857 c 0,4.28572 2.85714,130 2.85714,130 l 32.14286,15 77.14286,1.42857 35,-7.85714 19.28571,-10 -1.42856,-132.14285 -35.7143,-8.57144 -60,-2.14285 -50.71428,5 z"
-       id="path2998"
+       id="area_2"
        inkscape:connector-curvature="0"
        transform="translate(5.6428571,353.43362)"
-       sodipodi:nodetypes="ccccccccccc" />
+       sodipodi:nodetypes="ccccccccccc"
+       inkscape:label="#path2998" />
     <path
        style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        d="m 650.71429,388.57143 1.42857,120 31.42857,13.57143 60,1.42857 45,-5.71429 12.14286,-9.99999 0,-119.28572 L 767.85715,380 l -50.71429,-2.85714 -42.85714,2.14285 z"
-       id="path3000"
+       id="area_3"
        inkscape:connector-curvature="0"
        transform="translate(5.6428571,353.43362)"
-       sodipodi:nodetypes="ccccccccccc" />
+       sodipodi:nodetypes="ccccccccccc"
+       inkscape:label="#path3000" />
     <path
        style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        d="m 860.71428,364.28571 c 0,0 60.71429,-2.85714 63.57144,-2.85714 2.85714,0 99.28568,0 99.28568,0 l 42.8572,6.42857 20.7143,21.42857 -7.8572,9.28572 -23.5714,0 -10,107.85714 -15,16.42857 L 901.42857,525 l -15.71428,-21.42857 -7.85715,-106.42857 -15,-1.42857 L 850,372.14286 z"
-       id="path3002"
+       id="area_4"
        inkscape:connector-curvature="0"
        transform="translate(5.6428571,353.43362)"
-       sodipodi:nodetypes="csccccccccccccc" />
+       sodipodi:nodetypes="csccccccccccccc"
+       inkscape:label="#path3002" />
     <text
        xml:space="preserve"
        style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"

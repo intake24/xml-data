@@ -14,8 +14,8 @@
    height="768"
    id="svg3008"
    version="1.1"
-   inkscape:version="0.48.4 r9939"
-   sodipodi:docname="New document 3">
+   inkscape:version="0.91 r13725"
+   sodipodi:docname="Gcanfish.svg">
   <defs
      id="defs3010" />
   <sodipodi:namedview
@@ -26,7 +26,7 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.7"
-     inkscape:cx="580.95277"
+     inkscape:cx="372.38134"
      inkscape:cy="323.66573"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
@@ -35,10 +35,10 @@
      fit-margin-left="0"
      fit-margin-right="0"
      fit-margin-bottom="0"
-     inkscape:window-width="1280"
-     inkscape:window-height="962"
-     inkscape:window-x="-8"
-     inkscape:window-y="-8"
+     inkscape:window-width="2560"
+     inkscape:window-height="1338"
+     inkscape:window-x="0"
+     inkscape:window-y="1"
      inkscape:window-maximized="1" />
   <metadata
      id="metadata3013">
@@ -48,7 +48,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -60,7 +60,7 @@
     <image
        y="148.36218"
        x="-201"
-       id="area_5"
+       id="123"
        xlink:href="file:///T:/SCRAN24/NEW%20PHOTOS%20FOR%20SCRAN/Food%20cans/Gcanfish.jpg"
        height="768"
        width="1152"
@@ -68,38 +68,43 @@
     <path
        style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        d="m 203.57142,320.85714 53.57144,-1.42857 25,5.71429 L 298.57143,348 300,495.85714 287.14286,517.28571 270,526.57143 l -64.28571,0 -18.57143,-12.14286 -10,-17.85714 0,-151.42857 8.57143,-14.28572 z"
-       id="path3027"
+       id="area_1"
        inkscape:connector-curvature="0"
        transform="translate(-201,148.36218)"
-       sodipodi:nodetypes="ccccccccccccc" />
+       sodipodi:nodetypes="ccccccccccccc"
+       inkscape:label="#path3027" />
     <path
        style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        d="m 329.28572,347.28571 7.14285,-17.14286 20.71428,-12.85714 81.42858,0.71429 25,9.28571 11.42857,22.14286 0,141.42857 -10.71429,20 -17.85714,13.57143 L 357.14286,523 337.85714,509.42857 329.28572,490.85715 z"
-       id="path3029"
+       id="area_2"
        inkscape:connector-curvature="0"
        transform="translate(-201,148.36218)"
-       sodipodi:nodetypes="ccccccccccccc" />
+       sodipodi:nodetypes="ccccccccccccc"
+       inkscape:label="#path3029" />
     <path
        style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        d="m 504.28571,350.85714 27.85715,-5.71428 41.42856,2.14286 30.71429,4.99999 -0.71429,7.85715 L 602.14286,518 l -15,7.85714 -38.57143,0.71429 -24.28572,-0.71429 L 505,517.28571 z"
-       id="path3031"
+       id="area_3"
        inkscape:connector-curvature="0"
        transform="translate(-201,148.36218)"
-       sodipodi:nodetypes="ccccccccccc" />
+       sodipodi:nodetypes="ccccccccccc"
+       inkscape:label="#path3031" />
     <path
        style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        d="m 629.28572,433.71428 19.99999,-7.85714 55.71429,-1.42857 55.71429,2.14286 27.85714,8.57143 -0.71429,14.28571 -3.57142,70.71429 -35,10 -65,0 -36.42858,-8.57143 L 630,513.71429 z"
-       id="path3033"
+       id="area_4"
        inkscape:connector-curvature="0"
        transform="translate(-201,148.36218)"
-       sodipodi:nodetypes="cccccccccccc" />
+       sodipodi:nodetypes="cccccccccccc"
+       inkscape:label="#path3033" />
     <path
        style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        d="m 809.28571,448 -2.14285,67.85714 22.14286,10 34.99999,4.28572 45,-2.14286 23.57144,-5 3.57142,-68.57143 -40,-10.71428 L 835.71429,443 z"
-       id="path3035"
+       id="area_5"
        inkscape:connector-curvature="0"
        transform="translate(-201,148.36218)"
-       sodipodi:nodetypes="cccccccccc" />
+       sodipodi:nodetypes="cccccccccc"
+       inkscape:label="#path3035" />
     <text
        xml:space="preserve"
        style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"

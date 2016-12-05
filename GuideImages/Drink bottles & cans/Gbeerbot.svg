@@ -14,7 +14,7 @@
    height="826"
    id="svg2"
    version="1.1"
-   inkscape:version="0.48.4 r9939"
+   inkscape:version="0.91 r13725"
    sodipodi:docname="Gbeerbot.svg">
   <defs
      id="defs4" />
@@ -26,7 +26,7 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.90193705"
-     inkscape:cx="620"
+     inkscape:cx="297.36108"
      inkscape:cy="413"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
@@ -35,10 +35,10 @@
      fit-margin-left="0"
      fit-margin-right="0"
      fit-margin-bottom="0"
-     inkscape:window-width="1280"
-     inkscape:window-height="962"
-     inkscape:window-x="-8"
-     inkscape:window-y="-8"
+     inkscape:window-width="2560"
+     inkscape:window-height="1338"
+     inkscape:window-x="0"
+     inkscape:window-y="1"
      inkscape:window-maximized="1" />
   <metadata
      id="metadata7">
@@ -100,17 +100,20 @@
        inkscape:connector-curvature="0"
        transform="translate(-1162.8572,-46.352104)"
        inkscape:label="#path3006" />
-    <flowRoot
+    <text
        xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+       x="-744.8689"
+       y="51.172157"
        id="navigation"
-       style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
-       transform="translate(-1162.8572,-46.352104)"
-       inkscape:label="#flowRoot3008"><flowRegion
-         id="flowRegion3010"><rect
-           id="rect3012"
-           width="288.26846"
-           height="54.327518"
-           x="417.98926"
-           y="57.65369" /></flowRegion><flowPara
-         id="flowPara3014">1 2 3 4 5</flowPara></flowRoot>  </g>
+       sodipodi:linespacing="125%"
+       inkscape:label="#text4143"><tspan
+         sodipodi:role="line"
+         x="-744.8689"
+         y="51.172157"
+         id="tspan4145"><tspan
+           x="-744.8689"
+           y="51.172157"
+           id="tspan4147">1 2 3 4 5</tspan></tspan></text>
+  </g>
 </svg>

@@ -14,8 +14,8 @@
    height="2000"
    id="svg2"
    version="1.1"
-   inkscape:version="0.48.4 r9939"
-   sodipodi:docname="New document 1">
+   inkscape:version="0.91 r13725"
+   sodipodi:docname="Gaero.svg">
   <defs
      id="defs4" />
   <sodipodi:namedview
@@ -26,8 +26,8 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.35"
-     inkscape:cx="1500"
-     inkscape:cy="1000"
+     inkscape:cx="1153.742"
+     inkscape:cy="1033.8264"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -35,10 +35,10 @@
      fit-margin-left="0"
      fit-margin-right="0"
      fit-margin-bottom="0"
-     inkscape:window-width="1280"
-     inkscape:window-height="962"
-     inkscape:window-x="-8"
-     inkscape:window-y="-8"
+     inkscape:window-width="2560"
+     inkscape:window-height="1338"
+     inkscape:window-x="0"
+     inkscape:window-y="1"
      inkscape:window-maximized="1" />
   <metadata
      id="metadata7">
@@ -48,7 +48,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -69,8 +69,8 @@
        d="m 534.28571,428.57143 62.85715,8.57143 80,8.57143 82.85714,-2.85715 54.28571,-8.57143 40,-17.14285 48.57143,-2.85715 40,5.71429 59.99996,17.14286 54.2858,2.85714 74.2857,-5.71429 65.7143,-14.28571 5.7142,31.42857 -5.7142,111.42857 -5.7143,85.71429 -17.1429,74.28571 0,74.28572 0,60 -2.8571,54.28571 8.5714,54.28572 -11.4286,42.85711 17.1429,211.4286 -60,0 -37.1429,0 L 960,1200 l -100,-20 -60,-2.8571 -22.85714,28.5714 -202.85715,8.5714 -108.57142,2.8572 -40,31.4285 17.14285,-108.5714 22.85715,-122.8571 22.85714,-31.42861 0,-34.28572 L 500,922.85714 497.14286,780 l 25.71428,-62.85714 -5.71428,-114.28572 17.14285,-37.14285 -11.42857,-17.14286 z"
        id="area_1"
        inkscape:connector-curvature="0"
-       transform="translate(-1125,-467.63782)"
-       inkscape:label="#path2996" />
+       inkscape:label="#path2996"
+       transform="translate(-1125,-467.63782)" />
     <path
        style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        d="m 1225.7143,557.14286 80,-20 137.1428,-8.57143 71.4286,14.28571 11.4286,14.28572 28.5714,-8.57143 L 1620,600 1591.4286,722.85714 1622.8571,1100 l 0,11.4286 25.7143,-8.5715 11.4286,34.2858 -37.1429,14.2857 -68.5714,-8.5715 -65.7143,8.5715 -65.7143,-2.8572 -37.1428,17.1429 L 1320,1148.5714 c 0,0 -111.4286,65.7143 -111.4286,45.7143 0,-20 28.5715,-171.4286 28.5715,-171.4286 L 1234.2857,774.28571 1222.8571,682.85714 1217.1429,600 z"
@@ -108,18 +108,21 @@
        inkscape:connector-curvature="0"
        transform="translate(-1125,-467.63782)"
        inkscape:label="#path3006" />
-    <flowRoot
+    <text
        xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+       x="17.857422"
+       y="-318.72931"
        id="navigation"
-       style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
-       transform="translate(-1125,-467.63782)"
-       inkscape:label="#flowRoot3008"><flowRegion
-         id="flowRegion3010"><rect
-           id="rect3012"
-           width="591.42859"
-           height="134.28572"
-           x="1142.8572"
-           y="77.14286" /></flowRegion><flowPara
-         id="flowPara3014"
-         style="font-size:72px">1 2 3 4 5 6 </flowPara></flowRoot>  </g>
+       sodipodi:linespacing="125%"
+       inkscape:label="#text4179"><tspan
+         sodipodi:role="line"
+         x="17.857422"
+         y="-318.72931"
+         id="tspan4181"><tspan
+           x="17.857422"
+           y="-318.72931"
+           style="font-size:72px"
+           id="tspan4183">1 2 3 4 5 6 </tspan></tspan></text>
+  </g>
 </svg>
